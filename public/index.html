@@ -3,605 +3,276 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>巴黎安全监控 | Paris Safety Monitor</title>
+    <meta name="robots" content="noindex, nofollow">
+    <title>巴黎安全监控</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
 
         :root {
-            --surface-1: #05070C;
-            --surface-2: #0A0D12;
-            --surface-3: #0F131C;
-            --surface-4: #161D2B;
-            --surface-5: #1E2636;
+            --bg: #05070C;
+            --card: #0F131C;
+            --line: #1E2636;
             --accent: #3B6DFF;
-            --accent-muted: #5A8CFF;
-            --danger: #FF4444;
+            --danger: #FF5A5A;
             --warning: #E9A568;
-            --safe: #6EE7B7;
-            --text-primary: #E8EAED;
-            --text-secondary: #9BA1AB;
+            --text: #E8EAED;
+            --muted: #9BA1AB;
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            background: var(--surface-1);
-            color: var(--text-primary);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Microsoft YaHei", sans-serif;
+            background: var(--bg);
+            color: var(--text);
             line-height: 1.6;
-            min-height: 100vh;
-            padding-bottom: 2rem;
         }
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: clamp(1rem, 3vw, 2rem);
-        }
+        .container { max-width: 720px; margin: 0 auto; padding: 1rem; }
 
-        header {
-            background: var(--surface-2);
-            border-radius: 999px;
-            padding: clamp(1rem, 2vw, 1.5rem) clamp(1.5rem, 3vw, 2.5rem);
-            margin-bottom: clamp(1.5rem, 3vw, 2.5rem);
-            display: grid;
-            gap: 0.75rem;
-        }
-
-        h1 {
-            font-size: clamp(1.5rem, 4vw, 2.5rem);
-            font-weight: 700;
-            letter-spacing: -0.02em;
-            background: linear-gradient(135deg, var(--accent), var(--accent-muted));
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-
-        .subtitle {
-            color: var(--text-secondary);
-            font-size: clamp(0.875rem, 2vw, 1rem);
-        }
-
-        .search-panel {
-            background: var(--surface-2);
-            border-radius: 24px;
-            padding: clamp(1.5rem, 3vw, 2rem);
-            margin-bottom: clamp(1.5rem, 3vw, 2rem);
-        }
+        h1 { font-size: 1.5rem; margin: 0.5rem 0 0.25rem; }
+        .subtitle { color: var(--muted); font-size: 0.875rem; margin-bottom: 1rem; }
 
         .btn {
-            background: var(--accent);
-            color: white;
+            width: 100%;
+            padding: 0.9rem;
             border: none;
-            border-radius: 999px;
-            padding: 1rem 2rem;
+            border-radius: 12px;
+            background: var(--accent);
+            color: #fff;
             font-size: 1rem;
             font-weight: 600;
             cursor: pointer;
-            width: 100%;
-            transition: all 0.2s;
-            touch-action: manipulation;
         }
+        .btn:disabled { opacity: 0.5; }
 
-        .btn:hover:not(:disabled) {
-            background: var(--accent-muted);
-            transform: translateY(-2px);
+        .filters { display: flex; gap: 0.5rem; margin: 1rem 0; flex-wrap: wrap; }
+        .chip {
+            padding: 0.4rem 0.9rem;
+            border-radius: 999px;
+            border: 1px solid var(--line);
+            background: var(--card);
+            color: var(--muted);
+            font-size: 0.85rem;
+            cursor: pointer;
         }
+        .chip.active { border-color: var(--accent); color: var(--text); }
 
-        .btn:active {
-            transform: translateY(0);
-        }
+        .section-title { font-size: 1rem; margin: 1.25rem 0 0.5rem; color: var(--muted); }
 
-        .btn:disabled {
-            opacity: 0.5;
-            cursor: not-allowed;
-            transform: none;
-        }
-
-        .loading {
-            text-align: center;
-            padding: 3rem;
-            color: var(--text-secondary);
-        }
-
-        .spinner {
-            border: 3px solid var(--surface-4);
-            border-top: 3px solid var(--accent);
-            border-radius: 50%;
-            width: 40px;
-            height: 40px;
-            animation: spin 1s linear infinite;
-            margin: 0 auto 1rem;
-        }
-
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-
-        .results {
-            display: grid;
-            gap: clamp(1rem, 2vw, 1.5rem);
-        }
-
-        .section-title {
-            font-size: clamp(1.25rem, 3vw, 1.75rem);
-            font-weight: 700;
-            margin-bottom: 1rem;
-            letter-spacing: -0.01em;
-        }
-
-        .card {
-            background: var(--surface-2);
-            border-radius: 24px;
-            padding: clamp(1.5rem, 3vw, 2rem);
-            border-left: 4px solid var(--accent);
-            transition: transform 0.2s;
-        }
-
-        .card:active {
-            transform: scale(0.98);
-        }
-
-        .card.danger {
-            border-left-color: var(--danger);
-        }
-
-        .card.warning {
-            border-left-color: var(--warning);
-        }
-
-        .card.safe, .card.info {
-            border-left-color: var(--safe);
-        }
-
-        .card-header {
-            display: flex;
-            align-items: flex-start;
-            gap: 0.75rem;
-            margin-bottom: 1rem;
-        }
-
-        .icon {
-            min-width: 32px;
-            height: 32px;
-            border-radius: 50%;
-            display: grid;
-            place-items: center;
-            font-size: 1.25rem;
-        }
-
-        .icon.danger {
-            background: rgba(255, 68, 68, 0.15);
-        }
-
-        .icon.warning {
-            background: rgba(233, 165, 104, 0.15);
-        }
-
-        .icon.safe, .icon.info {
-            background: rgba(110, 231, 183, 0.15);
-        }
-
-        .card-title {
-            font-size: clamp(1rem, 2.5vw, 1.25rem);
-            font-weight: 700;
-            letter-spacing: -0.01em;
-            flex: 1;
-            line-height: 1.4;
-        }
-
-        .card-content {
-            color: var(--text-secondary);
-            line-height: 1.8;
-            margin-bottom: 1rem;
-        }
-
-        .card-link {
-            color: var(--accent);
+        .item {
+            display: block;
+            background: var(--card);
+            border-left: 4px solid var(--line);
+            border-radius: 10px;
+            padding: 0.8rem 1rem;
+            margin-bottom: 0.6rem;
+            color: var(--text);
             text-decoration: none;
-            font-size: 0.875rem;
-            word-break: break-all;
         }
+        .item.high { border-left-color: var(--danger); }
+        .item.medium { border-left-color: var(--warning); }
+        .item-title { font-size: 0.95rem; }
+        .item-meta { color: var(--muted); font-size: 0.78rem; margin-top: 0.3rem; display: flex; gap: 0.6rem; flex-wrap: wrap; }
+        .tag { font-weight: 600; }
+        .tag.high { color: var(--danger); }
+        .tag.medium { color: var(--warning); }
 
-        .card-link:hover {
-            text-decoration: underline;
-        }
-
-        .meta {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.75rem;
-            margin-top: 1rem;
-            padding-top: 1rem;
-            border-top: 1px solid var(--surface-4);
-            font-size: 0.875rem;
-            color: var(--text-secondary);
-        }
-
-        .source {
-            background: var(--surface-3);
-            padding: 0.5rem 1rem;
-            border-radius: 999px;
-            font-size: 0.75rem;
-        }
-
-        .severity-badge {
-            background: var(--danger);
-            color: white;
-            padding: 0.5rem 1rem;
-            border-radius: 999px;
-            font-size: 0.75rem;
-            font-weight: 600;
-        }
-
-        .severity-badge.medium {
-            background: var(--warning);
-        }
-
-        .error {
-            background: var(--surface-2);
-            border-radius: 24px;
-            padding: 2rem;
-            text-align: center;
-            color: var(--danger);
-        }
-
-        .timestamp {
-            text-align: center;
-            color: var(--text-secondary);
-            font-size: 0.875rem;
-            margin-top: 2rem;
-            padding: 1rem;
-            background: var(--surface-2);
-            border-radius: 999px;
-        }
-
-        .empty-state {
-            text-align: center;
-            padding: 3rem 1rem;
-            color: var(--text-secondary);
-        }
-
-        .empty-state h3 {
-            margin-bottom: 0.5rem;
-            color: var(--text-primary);
-        }
-
-        .login-modal {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(5, 7, 12, 0.95);
-            backdrop-filter: blur(10px);
-            display: none;
-            align-items: center;
-            justify-content: center;
-            z-index: 9999;
-        }
-
-        .login-modal.active {
-            display: flex;
-        }
-
-        .login-box {
-            background: var(--surface-2);
-            border-radius: 24px;
-            padding: 2rem;
-            max-width: 400px;
-            width: 90%;
-        }
-
-        .login-box h2 {
-            margin-bottom: 1.5rem;
-            font-size: 1.5rem;
-        }
-
-        .input-group {
-            margin-bottom: 1.5rem;
-        }
-
-        .input-group label {
+        .links a {
             display: block;
+            background: var(--card);
+            border-radius: 10px;
+            padding: 0.75rem 1rem;
             margin-bottom: 0.5rem;
-            color: var(--text-secondary);
-            font-size: 0.875rem;
+            color: var(--text);
+            text-decoration: none;
+            font-size: 0.9rem;
         }
+        .links small { color: var(--muted); display: block; }
 
-        .input-group input {
+        .notice { color: var(--muted); font-size: 0.8rem; margin-top: 1rem; }
+        .status { color: var(--muted); text-align: center; padding: 1.5rem 0; }
+        .error { color: var(--danger); text-align: center; padding: 1.5rem 0; }
+
+        .login {
+            position: fixed; inset: 0;
+            background: var(--bg);
+            display: flex; align-items: center; justify-content: center;
+        }
+        .login-box { width: 90%; max-width: 360px; }
+        .login-box h2 { margin-bottom: 1rem; }
+        .login-box input {
             width: 100%;
-            padding: 1rem;
-            background: var(--surface-3);
-            border: 2px solid var(--surface-4);
+            padding: 0.9rem;
+            margin-bottom: 0.75rem;
             border-radius: 12px;
-            color: var(--text-primary);
+            border: 1px solid var(--line);
+            background: var(--card);
+            color: var(--text);
             font-size: 1rem;
-            transition: border-color 0.2s;
         }
-
-        .input-group input:focus {
-            outline: none;
-            border-color: var(--accent);
-        }
-
-        .error-msg {
-            color: var(--danger);
-            font-size: 0.875rem;
-            margin-top: 0.5rem;
-            display: none;
-        }
-
-        .error-msg.active {
-            display: block;
-        }
-
-        @media (max-width: 768px) {
-            .container {
-                padding: 1rem;
-            }
-
-            .card {
-                padding: 1.25rem;
-            }
-
-            .card-header {
-                gap: 0.5rem;
-            }
-        }
+        .hidden { display: none !important; }
     </style>
 </head>
 <body>
-    <!-- 登录弹窗 -->
-    <div class="login-modal active" id="loginModal">
-        <div class="login-box">
-            <h2>🔐 输入密码</h2>
-            <form onsubmit="handleLogin(event)">
-                <div class="input-group">
-                    <label for="password">访问密码</label>
-                    <input
-                        type="password"
-                        id="password"
-                        placeholder="请输入密码"
-                        autocomplete="current-password"
-                        required
-                    />
-                    <div class="error-msg" id="errorMsg">密码错误，请重试</div>
-                </div>
-                <button type="submit" class="btn">进入</button>
-            </form>
-        </div>
+    <div class="login" id="login">
+        <form class="login-box" onsubmit="login(event)">
+            <h2>🔐 输入访问密码</h2>
+            <input type="password" id="password" placeholder="密码" autocomplete="current-password" required>
+            <button class="btn" type="submit" id="loginBtn">进入</button>
+            <div class="error hidden" id="loginError"></div>
+        </form>
     </div>
 
-    <div class="container" id="mainContent" style="display: none;">
-        <header>
-            <h1>🇫🇷 巴黎安全监控</h1>
-            <div class="subtitle">Paris Safety Monitor | 实时游行暴乱信息</div>
-        </header>
+    <div class="container hidden" id="main">
+        <h1>🇫🇷 巴黎安全监控</h1>
+        <div class="subtitle">过去 48 小时巴黎游行 / 冲突相关新闻，按时间倒序</div>
 
-        <div class="search-panel">
-            <button class="btn" id="searchBtn" onclick="searchNews()">
-                🔍 查询最新信息
-            </button>
+        <button class="btn" id="searchBtn" onclick="search()">🔍 查询最新信息</button>
+
+        <div class="filters">
+            <span class="chip active" data-filter="all" onclick="setFilter('all')">全部</span>
+            <span class="chip" data-filter="high" onclick="setFilter('high')">🔴 冲突</span>
+            <span class="chip" data-filter="medium" onclick="setFilter('medium')">🟠 游行/罢工</span>
         </div>
 
-        <div id="results">
-            <div class="card info">
-                <div class="card-header">
-                    <div class="icon info">👋</div>
-                    <h2 class="card-title">使用说明</h2>
-                </div>
-                <div class="card-content">
-                    <p>点击上方按钮开始查询最新的游行暴乱信息</p>
-                    <br>
-                    <p><strong>监控范围：</strong>2026年11月3日 - 11月9日</p>
-                    <p><strong>信息来源：</strong>法国官方、主流媒体、社交平台</p>
-                    <p><strong>更新频率：</strong>按需查询，建议每4-6小时检查一次</p>
-                </div>
-            </div>
+        <div id="results"></div>
+
+        <div class="section-title">📌 官方实时渠道（最权威）</div>
+        <div class="links">
+            <a href="https://x.com/prefpolice" target="_blank" rel="noopener">
+                巴黎警察局 Préfecture de Police（X）
+                <small>官方发布游行路线、禁行区域、警情</small>
+            </a>
+            <a href="https://www.ratp.fr/infos-trafic" target="_blank" rel="noopener">
+                RATP 地铁实时交通
+                <small>游行时地铁站常临时关闭，出门前看这里</small>
+            </a>
+            <a href="https://www.prefecturedepolice.interieur.gouv.fr/actualites-et-presse" target="_blank" rel="noopener">
+                巴黎警察局官网新闻
+                <small>禁止示威令（arrêté）会在这里公布</small>
+            </a>
+        </div>
+
+        <div class="notice">
+            新闻来自 Google 新闻聚合的媒体报道，点开可看原文。红/橙色标记是按标题关键词自动判断的，只作提醒，不代表实际危险程度，以官方渠道为准。
         </div>
     </div>
 
     <script>
-        let userPassword = null;
+        const STORAGE_KEY = 'paris_monitor_password';
+        let password = localStorage.getItem(STORAGE_KEY);
+        let items = [];
+        let filter = 'all';
 
-        // 检查本地存储的密码
-        window.addEventListener('load', () => {
-            const savedPassword = localStorage.getItem('paris_monitor_password');
-            if (savedPassword) {
-                userPassword = savedPassword;
-                document.getElementById('loginModal').classList.remove('active');
-                document.getElementById('mainContent').style.display = 'block';
-                checkServerStatus();
+        if (password) {
+            verify(password).then(ok => ok ? showMain() : localStorage.removeItem(STORAGE_KEY));
+        }
+
+        async function verify(pwd) {
+            try {
+                const res = await fetch('/api/login', { method: 'POST', headers: { 'X-Password': pwd } });
+                return res.ok;
+            } catch {
+                return false;
             }
-        });
+        }
 
-        // 处理登录
-        function handleLogin(event) {
+        async function login(event) {
             event.preventDefault();
-            const password = document.getElementById('password').value;
-            const errorMsg = document.getElementById('errorMsg');
-
-            // 保存密码并隐藏登录框
-            userPassword = password;
-            localStorage.setItem('paris_monitor_password', password);
-
-            errorMsg.classList.remove('active');
-            document.getElementById('loginModal').classList.remove('active');
-            document.getElementById('mainContent').style.display = 'block';
-
-            checkServerStatus();
-        }
-
-        async function checkServerStatus() {
-            try {
-                const response = await fetch('/api/health');
-                const data = await response.json();
-                console.log('✅ Server connected:', data);
-            } catch (error) {
-                console.error('⚠️ Server connection failed:', error);
-            }
-        }
-
-        async function searchNews() {
-            const btn = document.getElementById('searchBtn');
-            const resultsDiv = document.getElementById('results');
-
+            const pwd = document.getElementById('password').value;
+            const btn = document.getElementById('loginBtn');
+            const err = document.getElementById('loginError');
             btn.disabled = true;
-            btn.textContent = '搜索中...';
+            err.classList.add('hidden');
 
-            resultsDiv.innerHTML = `
-                <div class="loading">
-                    <div class="spinner"></div>
-                    <p>正在从多个来源搜集信息...</p>
-                    <p style="font-size: 0.875rem; margin-top: 0.5rem;">这可能需要10-20秒</p>
-                </div>
-            `;
+            if (await verify(pwd)) {
+                password = pwd;
+                localStorage.setItem(STORAGE_KEY, pwd);
+                showMain();
+            } else {
+                err.textContent = '密码错误';
+                err.classList.remove('hidden');
+            }
+            btn.disabled = false;
+        }
+
+        function showMain() {
+            document.getElementById('login').classList.add('hidden');
+            document.getElementById('main').classList.remove('hidden');
+            search();
+        }
+
+        async function search() {
+            const btn = document.getElementById('searchBtn');
+            const results = document.getElementById('results');
+            btn.disabled = true;
+            btn.textContent = '查询中...';
+            results.innerHTML = '<div class="status">正在获取最新新闻...</div>';
 
             try {
-                const response = await fetch('/api/search', {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                        'X-Password': userPassword
-                    }
-                });
-
-                const data = await response.json();
-
-                if (!data.success) {
-                    if (response.status === 401) {
-                        // 密码错误，清除本地存储并重新登录
-                        localStorage.removeItem('paris_monitor_password');
-                        userPassword = null;
-                        document.getElementById('loginModal').classList.add('active');
-                        document.getElementById('mainContent').style.display = 'none';
-                        document.getElementById('errorMsg').classList.add('active');
-                        return;
-                    }
-                    throw new Error(data.error || '查询失败');
+                const res = await fetch('/api/search', { method: 'POST', headers: { 'X-Password': password } });
+                if (res.status === 401) {
+                    localStorage.removeItem(STORAGE_KEY);
+                    location.reload();
+                    return;
                 }
-
-                displayResults(data);
-
-            } catch (error) {
-                console.error('Search failed:', error);
-                resultsDiv.innerHTML = `
-                    <div class="error">
-                        <p>⚠️ 查询失败</p>
-                        <p style="font-size: 0.875rem; margin-top: 0.5rem;">${error.message}</p>
-                        <p style="font-size: 0.75rem; margin-top: 1rem;">请检查网络连接或稍后重试</p>
-                    </div>
-                `;
+                const data = await res.json();
+                if (!data.success) throw new Error(data.error || '查询失败');
+                items = data.items;
+                render(data.timestamp);
+            } catch (e) {
+                results.innerHTML = `<div class="error">⚠️ ${escapeHtml(e.message)}，请稍后重试</div>`;
             } finally {
                 btn.disabled = false;
                 btn.textContent = '🔍 查询最新信息';
             }
         }
 
-        function displayResults(data) {
-            const resultsDiv = document.getElementById('results');
-            let html = '';
-
-            // 活跃游行区域
-            if (data.data.activeProtests && data.data.activeProtests.length > 0) {
-                html += '<h2 class="section-title">⚠️ 活跃游行/冲突区域</h2>';
-                data.data.activeProtests.forEach(item => {
-                    html += createCard(item);
-                });
-            }
-
-            // 即将发生的游行
-            if (data.data.upcoming && data.data.upcoming.length > 0) {
-                html += '<h2 class="section-title" style="margin-top: 2rem;">🔔 相关信息</h2>';
-                data.data.upcoming.forEach(item => {
-                    html += createCard(item);
-                });
-            }
-
-            // 建议
-            if (data.data.recommendations && data.data.recommendations.length > 0) {
-                html += '<h2 class="section-title" style="margin-top: 2rem;">💡 建议</h2>';
-                data.data.recommendations.forEach(item => {
-                    html += createCard(item);
-                });
-            }
-
-            // 如果没有任何结果
-            if (!html) {
-                html = `
-                    <div class="empty-state">
-                        <h3>✅ 暂无游行信息</h3>
-                        <p>当前未检测到相关游行或冲突报道</p>
-                        <p style="font-size: 0.875rem; margin-top: 1rem;">建议稍后再次查询</p>
-                    </div>
-                `;
-            }
-
-            // 添加时间戳
-            const timestamp = new Date(data.timestamp).toLocaleString('zh-CN', {
-                timeZone: 'Europe/Paris',
-                year: 'numeric',
-                month: '2-digit',
-                day: '2-digit',
-                hour: '2-digit',
-                minute: '2-digit'
-            });
-            html += `<div class="timestamp">📍 更新时间：${timestamp} (巴黎时间)</div>`;
-
-            resultsDiv.innerHTML = html;
+        function setFilter(f) {
+            filter = f;
+            document.querySelectorAll('.chip').forEach(c => c.classList.toggle('active', c.dataset.filter === f));
+            render();
         }
 
-        function createCard(item) {
-            const iconMap = {
-                'danger': '🚨',
-                'warning': '⚠️',
-                'safe': '✅',
-                'info': 'ℹ️',
-                'tip': '💡'
-            };
+        let lastTimestamp = null;
+        function render(timestamp) {
+            if (timestamp) lastTimestamp = timestamp;
+            const list = filter === 'all' ? items : items.filter(i => i.severity === filter);
+            const results = document.getElementById('results');
 
-            const icon = iconMap[item.type] || 'ℹ️';
-            const severityBadge = item.severity
-                ? `<span class="severity-badge ${item.severity}">${item.severity === 'high' ? '高危' : '中等'}</span>`
-                : '';
+            if (list.length === 0) {
+                results.innerHTML = '<div class="status">✅ 过去 48 小时没有找到相关报道</div>';
+            } else {
+                results.innerHTML = list.map(item => `
+                    <a class="item ${item.severity}" href="${escapeHtml(item.link)}" target="_blank" rel="noopener">
+                        <div class="item-title">${escapeHtml(item.title)}</div>
+                        <div class="item-meta">
+                            ${item.severity === 'high' ? '<span class="tag high">冲突</span>' : ''}
+                            ${item.severity === 'medium' ? '<span class="tag medium">游行/罢工</span>' : ''}
+                            <span>${escapeHtml(item.source)}</span>
+                            <span>${timeAgo(item.publishedAt)}</span>
+                        </div>
+                    </a>
+                `).join('');
+            }
 
-            const link = item.link
-                ? `<a href="${item.link}" class="card-link" target="_blank" rel="noopener">查看原文 →</a>`
-                : '';
-
-            return `
-                <div class="card ${item.type}">
-                    <div class="card-header">
-                        <div class="icon ${item.type}">${icon}</div>
-                        <h3 class="card-title">${item.title}</h3>
-                    </div>
-                    <div class="card-content">
-                        ${item.content}
-                    </div>
-                    ${link}
-                    <div class="meta">
-                        <span class="source">📰 ${item.source}</span>
-                        ${severityBadge}
-                    </div>
-                </div>
-            `;
+            if (lastTimestamp) {
+                const t = new Date(lastTimestamp).toLocaleString('zh-CN', {
+                    timeZone: 'Europe/Paris', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit'
+                });
+                results.innerHTML += `<div class="status">更新于 ${t}（巴黎时间）</div>`;
+            }
         }
 
-        // 页面加载时检查服务器状态
-        window.addEventListener('load', async () => {
-            try {
-                const response = await fetch('/api/health');
-                const data = await response.json();
-                console.log('✅ Server connected:', data);
-            } catch (error) {
-                console.error('⚠️ Server connection failed:', error);
-            }
-        });
+        function timeAgo(iso) {
+            const minutes = Math.round((Date.now() - new Date(iso)) / 60000);
+            if (minutes < 60) return `${Math.max(minutes, 1)} 分钟前`;
+            const hours = Math.round(minutes / 60);
+            return hours < 24 ? `${hours} 小时前` : `${Math.round(hours / 24)} 天前`;
+        }
+
+        function escapeHtml(s) {
+            return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+        }
     </script>
 </body>
 </html>
