@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>巴黎安全监控 | Paris Safety Monitor</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --surface-1: #05070C;
+            --surface-2: #0A0D12;
+            --surface-3: #0F131C;
+            --surface-4: #161D2B;
+            --surface-5: #1E2636;
+            --accent: #3B6DFF;
+            --accent-muted: #5A8CFF;
+            --danger: #FF4444;
+            --warning: #E9A568;
+            --safe: #6EE7B7;
+            --text-primary: #E8EAED;
+            --text-secondary: #9BA1AB;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: var(--surface-1);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            padding-bottom: 2rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: clamp(1rem, 3vw, 2rem);
+        }
+
+        header {
+            background: var(--surface-2);
+            border-radius: 999px;
+            padding: clamp(1rem, 2vw, 1.5rem) clamp(1.5rem, 3vw, 2.5rem);
+            margin-bottom: clamp(1.5rem, 3vw, 2.5rem);
+            display: grid;
+            gap: 0.75rem;
+        }
+
+        h1 {
+            font-size: clamp(1.5rem, 4vw, 2.5rem);
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            background: linear-gradient(135deg, var(--accent), var(--accent-muted));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .subtitle {
+            color: var(--text-secondary);
+            font-size: clamp(0.875rem, 2vw, 1rem);
+        }
+
+        .search-panel {
+            background: var(--surface-2);
+            border-radius: 24px;
+            padding: clamp(1.5rem, 3vw, 2rem);
+            margin-bottom: clamp(1.5rem, 3vw, 2rem);
+        }
+
+        .btn {
+            background: var(--accent);
+            color: white;
+            border: none;
+            border-radius: 999px;
+            padding: 1rem 2rem;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            width: 100%;
+            transition: all 0.2s;
+            touch-action: manipulation;
+        }
+
+        .btn:hover:not(:disabled) {
+            background: var(--accent-muted);
+            transform: translateY(-2px);
+        }
+
+        .btn:active {
+            transform: translateY(0);
+        }
+
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            color: var(--text-secondary);
+        }
+
+        .spinner {
+            border: 3px solid var(--surface-4);
+            border-top: 3px solid var(--accent);
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .results {
+            display: grid;
+            gap: clamp(1rem, 2vw, 1.5rem);
+        }
+
+        .section-title {
+            font-size: clamp(1.25rem, 3vw, 1.75rem);
+            font-weight: 700;
+            margin-bottom: 1rem;
+            letter-spacing: -0.01em;
+        }
+
+        .card {
+            background: var(--surface-2);
+            border-radius: 24px;
+            padding: clamp(1.5rem, 3vw, 2rem);
+            border-left: 4px solid var(--accent);
+            transition: transform 0.2s;
+        }
+
+        .card:active {
+            transform: scale(0.98);
+        }
+
+        .card.danger {
+            border-left-color: var(--danger);
+        }
+
+        .card.warning {
+            border-left-color: var(--warning);
+        }
+
+        .card.safe, .card.info {
+            border-left-color: var(--safe);
+        }
+
+        .card-header {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.75rem;
+            margin-bottom: 1rem;
+        }
+
+        .icon {
+            min-width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            display: grid;
+            place-items: center;
+            font-size: 1.25rem;
+        }
+
+        .icon.danger {
+            background: rgba(255, 68, 68, 0.15);
+        }
+
+        .icon.warning {
+            background: rgba(233, 165, 104, 0.15);
+        }
+
+        .icon.safe, .icon.info {
+            background: rgba(110, 231, 183, 0.15);
+        }
+
+        .card-title {
+            font-size: clamp(1rem, 2.5vw, 1.25rem);
+            font-weight: 700;
+            letter-spacing: -0.01em;
+            flex: 1;
+            line-height: 1.4;
+        }
+
+        .card-content {
+            color: var(--text-secondary);
+            line-height: 1.8;
+            margin-bottom: 1rem;
+        }
+
+        .card-link {
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 0.875rem;
+            word-break: break-all;
+        }
+
+        .card-link:hover {
+            text-decoration: underline;
+        }
+
+        .meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid var(--surface-4);
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+        }
+
+        .source {
+            background: var(--surface-3);
+            padding: 0.5rem 1rem;
+            border-radius: 999px;
+            font-size: 0.75rem;
+        }
+
+        .severity-badge {
+            background: var(--danger);
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        .severity-badge.medium {
+            background: var(--warning);
+        }
+
+        .error {
+            background: var(--surface-2);
+            border-radius: 24px;
+            padding: 2rem;
+            text-align: center;
+            color: var(--danger);
+        }
+
+        .timestamp {
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+            margin-top: 2rem;
+            padding: 1rem;
+            background: var(--surface-2);
+            border-radius: 999px;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 3rem 1rem;
+            color: var(--text-secondary);
+        }
+
+        .empty-state h3 {
+            margin-bottom: 0.5rem;
+            color: var(--text-primary);
+        }
+
+        .login-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(5, 7, 12, 0.95);
+            backdrop-filter: blur(10px);
+            display: none;
+            align-items: center;
+            justify-content: center;
+            z-index: 9999;
+        }
+
+        .login-modal.active {
+            display: flex;
+        }
+
+        .login-box {
+            background: var(--surface-2);
+            border-radius: 24px;
+            padding: 2rem;
+            max-width: 400px;
+            width: 90%;
+        }
+
+        .login-box h2 {
+            margin-bottom: 1.5rem;
+            font-size: 1.5rem;
+        }
+
+        .input-group {
+            margin-bottom: 1.5rem;
+        }
+
+        .input-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+        }
+
+        .input-group input {
+            width: 100%;
+            padding: 1rem;
+            background: var(--surface-3);
+            border: 2px solid var(--surface-4);
+            border-radius: 12px;
+            color: var(--text-primary);
+            font-size: 1rem;
+            transition: border-color 0.2s;
+        }
+
+        .input-group input:focus {
+            outline: none;
+            border-color: var(--accent);
+        }
+
+        .error-msg {
+            color: var(--danger);
+            font-size: 0.875rem;
+            margin-top: 0.5rem;
+            display: none;
+        }
+
+        .error-msg.active {
+            display: block;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+
+            .card {
+                padding: 1.25rem;
+            }
+
+            .card-header {
+                gap: 0.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- 登录弹窗 -->
+    <div class="login-modal active" id="loginModal">
+        <div class="login-box">
+            <h2>🔐 输入密码</h2>
+            <form onsubmit="handleLogin(event)">
+                <div class="input-group">
+                    <label for="password">访问密码</label>
+                    <input
+                        type="password"
+                        id="password"
+                        placeholder="请输入密码"
+                        autocomplete="current-password"
+                        required
+                    />
+                    <div class="error-msg" id="errorMsg">密码错误，请重试</div>
+                </div>
+                <button type="submit" class="btn">进入</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="container" id="mainContent" style="display: none;">
+        <header>
+            <h1>🇫🇷 巴黎安全监控</h1>
+            <div class="subtitle">Paris Safety Monitor | 实时游行暴乱信息</div>
+        </header>
+
+        <div class="search-panel">
+            <button class="btn" id="searchBtn" onclick="searchNews()">
+                🔍 查询最新信息
+            </button>
+        </div>
+
+        <div id="results">
+            <div class="card info">
+                <div class="card-header">
+                    <div class="icon info">👋</div>
+                    <h2 class="card-title">使用说明</h2>
+                </div>
+                <div class="card-content">
+                    <p>点击上方按钮开始查询最新的游行暴乱信息</p>
+                    <br>
+                    <p><strong>监控范围：</strong>2026年11月3日 - 11月9日</p>
+                    <p><strong>信息来源：</strong>法国官方、主流媒体、社交平台</p>
+                    <p><strong>更新频率：</strong>按需查询，建议每4-6小时检查一次</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let userPassword = null;
+
+        // 检查本地存储的密码
+        window.addEventListener('load', () => {
+            const savedPassword = localStorage.getItem('paris_monitor_password');
+            if (savedPassword) {
+                userPassword = savedPassword;
+                document.getElementById('loginModal').classList.remove('active');
+                document.getElementById('mainContent').style.display = 'block';
+                checkServerStatus();
+            }
+        });
+
+        // 处理登录
+        function handleLogin(event) {
+            event.preventDefault();
+            const password = document.getElementById('password').value;
+            const errorMsg = document.getElementById('errorMsg');
+
+            // 保存密码并隐藏登录框
+            userPassword = password;
+            localStorage.setItem('paris_monitor_password', password);
+
+            errorMsg.classList.remove('active');
+            document.getElementById('loginModal').classList.remove('active');
+            document.getElementById('mainContent').style.display = 'block';
+
+            checkServerStatus();
+        }
+
+        async function checkServerStatus() {
+            try {
+                const response = await fetch('/api/health');
+                const data = await response.json();
+                console.log('✅ Server connected:', data);
+            } catch (error) {
+                console.error('⚠️ Server connection failed:', error);
+            }
+        }
+
+        async function searchNews() {
+            const btn = document.getElementById('searchBtn');
+            const resultsDiv = document.getElementById('results');
+
+            btn.disabled = true;
+            btn.textContent = '搜索中...';
+
+            resultsDiv.innerHTML = `
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>正在从多个来源搜集信息...</p>
+                    <p style="font-size: 0.875rem; margin-top: 0.5rem;">这可能需要10-20秒</p>
+                </div>
+            `;
+
+            try {
+                const response = await fetch('/api/search', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'X-Password': userPassword
+                    }
+                });
+
+                const data = await response.json();
+
+                if (!data.success) {
+                    if (response.status === 401) {
+                        // 密码错误，清除本地存储并重新登录
+                        localStorage.removeItem('paris_monitor_password');
+                        userPassword = null;
+                        document.getElementById('loginModal').classList.add('active');
+                        document.getElementById('mainContent').style.display = 'none';
+                        document.getElementById('errorMsg').classList.add('active');
+                        return;
+                    }
+                    throw new Error(data.error || '查询失败');
+                }
+
+                displayResults(data);
+
+            } catch (error) {
+                console.error('Search failed:', error);
+                resultsDiv.innerHTML = `
+                    <div class="error">
+                        <p>⚠️ 查询失败</p>
+                        <p style="font-size: 0.875rem; margin-top: 0.5rem;">${error.message}</p>
+                        <p style="font-size: 0.75rem; margin-top: 1rem;">请检查网络连接或稍后重试</p>
+                    </div>
+                `;
+            } finally {
+                btn.disabled = false;
+                btn.textContent = '🔍 查询最新信息';
+            }
+        }
+
+        function displayResults(data) {
+            const resultsDiv = document.getElementById('results');
+            let html = '';
+
+            // 活跃游行区域
+            if (data.data.activeProtests && data.data.activeProtests.length > 0) {
+                html += '<h2 class="section-title">⚠️ 活跃游行/冲突区域</h2>';
+                data.data.activeProtests.forEach(item => {
+                    html += createCard(item);
+                });
+            }
+
+            // 即将发生的游行
+            if (data.data.upcoming && data.data.upcoming.length > 0) {
+                html += '<h2 class="section-title" style="margin-top: 2rem;">🔔 相关信息</h2>';
+                data.data.upcoming.forEach(item => {
+                    html += createCard(item);
+                });
+            }
+
+            // 建议
+            if (data.data.recommendations && data.data.recommendations.length > 0) {
+                html += '<h2 class="section-title" style="margin-top: 2rem;">💡 建议</h2>';
+                data.data.recommendations.forEach(item => {
+                    html += createCard(item);
+                });
+            }
+
+            // 如果没有任何结果
+            if (!html) {
+                html = `
+                    <div class="empty-state">
+                        <h3>✅ 暂无游行信息</h3>
+                        <p>当前未检测到相关游行或冲突报道</p>
+                        <p style="font-size: 0.875rem; margin-top: 1rem;">建议稍后再次查询</p>
+                    </div>
+                `;
+            }
+
+            // 添加时间戳
+            const timestamp = new Date(data.timestamp).toLocaleString('zh-CN', {
+                timeZone: 'Europe/Paris',
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+            html += `<div class="timestamp">📍 更新时间：${timestamp} (巴黎时间)</div>`;
+
+            resultsDiv.innerHTML = html;
+        }
+
+        function createCard(item) {
+            const iconMap = {
+                'danger': '🚨',
+                'warning': '⚠️',
+                'safe': '✅',
+                'info': 'ℹ️',
+                'tip': '💡'
+            };
+
+            const icon = iconMap[item.type] || 'ℹ️';
+            const severityBadge = item.severity
+                ? `<span class="severity-badge ${item.severity}">${item.severity === 'high' ? '高危' : '中等'}</span>`
+                : '';
+
+            const link = item.link
+                ? `<a href="${item.link}" class="card-link" target="_blank" rel="noopener">查看原文 →</a>`
+                : '';
+
+            return `
+                <div class="card ${item.type}">
+                    <div class="card-header">
+                        <div class="icon ${item.type}">${icon}</div>
+                        <h3 class="card-title">${item.title}</h3>
+                    </div>
+                    <div class="card-content">
+                        ${item.content}
+                    </div>
+                    ${link}
+                    <div class="meta">
+                        <span class="source">📰 ${item.source}</span>
+                        ${severityBadge}
+                    </div>
+                </div>
+            `;
+        }
+
+        // 页面加载时检查服务器状态
+        window.addEventListener('load', async () => {
+            try {
+                const response = await fetch('/api/health');
+                const data = await response.json();
+                console.log('✅ Server connected:', data);
+            } catch (error) {
+                console.error('⚠️ Server connection failed:', error);
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/render-examples/schemas/main/render.yaml.schema.json",
+  "services": [
+    {
+      "type": "web",
+      "name": "paris-monitor",
+      "env": "node",
+      "plan": "free",
+      "buildCommand": "npm install",
+      "startCommand": "npm start",
+      "healthCheckPath": "/api/health"
+    }
+  ]
+}
