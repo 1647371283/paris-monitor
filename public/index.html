@@ -2,112 +2,106 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="robots" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0A0D12">
     <title>巴黎安全监控</title>
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-
         :root {
-            --bg: #05070C;
-            --card: #0F131C;
-            --line: #1E2636;
-            --accent: #3B6DFF;
-            --danger: #FF5A5A;
-            --warning: #E9A568;
-            --text: #E8EAED;
-            --muted: #9BA1AB;
+            --bg: #05070C; --surface-1: #0A0D12; --surface-2: #0F131C;
+            --surface-3: #161D2B; --card: #1E2636;
+            --text: #E8EBF0; --muted: #8B92A6; --line: #2A3344;
+            --primary: #38BDF8; --upcoming: #6EE7B7; --today: #F59E0B;
+            --past: #8B92A6; --clash: #EF4444;
         }
-
+        * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Microsoft YaHei", sans-serif;
-            background: var(--bg);
-            color: var(--text);
-            line-height: 1.6;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: var(--bg); color: var(--text);
+            line-height: 1.6; -webkit-font-smoothing: antialiased;
         }
-
-        .container { max-width: 720px; margin: 0 auto; padding: 1rem; }
-
-        h1 { font-size: 1.5rem; margin: 0.5rem 0 0.25rem; }
-        .subtitle { color: var(--muted); font-size: 0.875rem; margin-bottom: 1rem; }
+        .container { max-width: 680px; margin: 0 auto; padding: 1.5rem 1rem 3rem; }
+        h1 { font-size: clamp(1.5rem, 5vw, 2rem); margin-bottom: 0.25rem; }
+        .subtitle { color: var(--muted); font-size: 0.875rem; margin-bottom: 1.5rem; }
 
         .btn {
-            width: 100%;
-            padding: 0.9rem;
-            border: none;
-            border-radius: 12px;
-            background: var(--accent);
-            color: #fff;
-            font-size: 1rem;
-            font-weight: 600;
-            cursor: pointer;
+            width: 100%; padding: 0.9rem; border: none; border-radius: 999px;
+            background: var(--primary); color: #000; font-weight: 600;
+            font-size: 1rem; cursor: pointer; transition: opacity 0.2s;
+            margin-bottom: 1.5rem;
         }
-        .btn:disabled { opacity: 0.5; }
+        .btn:disabled { opacity: 0.5; cursor: not-allowed; }
 
-        .filters { display: flex; gap: 0.5rem; margin: 1rem 0; flex-wrap: wrap; }
-        .chip {
-            padding: 0.4rem 0.9rem;
-            border-radius: 999px;
+        .event-card {
+            background: var(--surface-2);
             border: 1px solid var(--line);
-            background: var(--card);
-            color: var(--muted);
-            font-size: 0.85rem;
-            cursor: pointer;
+            border-radius: 16px;
+            padding: 1.25rem;
+            margin-bottom: 1rem;
         }
-        .chip.active { border-color: var(--accent); color: var(--text); }
+        .event-card.upcoming { border-left: 4px solid var(--upcoming); }
+        .event-card.today { border-left: 4px solid var(--today); }
+        .event-card.past { border-left: 4px solid var(--past); }
 
-        .section-title { font-size: 1rem; margin: 1.25rem 0 0.5rem; color: var(--muted); }
-
-        .item {
-            display: block;
-            background: var(--card);
-            border-left: 4px solid var(--line);
-            border-radius: 10px;
-            padding: 0.8rem 1rem;
-            margin-bottom: 0.6rem;
-            color: var(--text);
-            text-decoration: none;
+        .event-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 0.75rem; }
+        .event-date { font-size: 1.125rem; font-weight: 600; }
+        .event-badge {
+            padding: 0.25rem 0.75rem; border-radius: 999px;
+            font-size: 0.75rem; font-weight: 600;
         }
-        .item.high { border-left-color: var(--danger); }
-        .item.medium { border-left-color: var(--warning); }
-        .item-title { font-size: 0.95rem; }
-        .item-meta { color: var(--muted); font-size: 0.78rem; margin-top: 0.3rem; display: flex; gap: 0.6rem; flex-wrap: wrap; }
-        .tag { font-weight: 600; }
-        .tag.high { color: var(--danger); }
-        .tag.medium { color: var(--warning); }
+        .event-badge.upcoming { background: rgba(110, 231, 183, 0.15); color: var(--upcoming); }
+        .event-badge.today { background: rgba(245, 158, 11, 0.15); color: var(--today); }
+        .event-badge.past { background: rgba(139, 146, 166, 0.15); color: var(--past); }
 
-        .links a {
-            display: block;
+        .event-meta { display: flex; gap: 1rem; flex-wrap: wrap; color: var(--muted); font-size: 0.875rem; margin-bottom: 0.5rem; }
+        .places { color: var(--text); font-size: 0.875rem; margin-bottom: 0.75rem; }
+        .places strong { color: var(--primary); }
+
+        .article {
             background: var(--card);
+            padding: 0.75rem;
             border-radius: 10px;
-            padding: 0.75rem 1rem;
             margin-bottom: 0.5rem;
-            color: var(--text);
-            text-decoration: none;
-            font-size: 0.9rem;
         }
-        .links small { color: var(--muted); display: block; }
+        .article-link {
+            display: block; text-decoration: none; color: var(--text);
+        }
+        .article-title { font-weight: 500; margin-bottom: 0.25rem; line-height: 1.4; }
+        .article-title.clash { color: var(--clash); }
+        .article-meta { display: flex; justify-content: space-between; align-items: center; font-size: 0.8rem; color: var(--muted); }
 
-        .notice { color: var(--muted); font-size: 0.8rem; margin-top: 1rem; }
-        .status { color: var(--muted); text-align: center; padding: 1.5rem 0; }
-        .error { color: var(--danger); text-align: center; padding: 1.5rem 0; }
+        .latest-section { margin-top: 2rem; }
+        .section-title { font-size: 1.125rem; font-weight: 600; margin-bottom: 1rem; color: var(--muted); }
+
+        .official-links {
+            margin-top: 2rem;
+            padding: 1.25rem;
+            background: var(--surface-2);
+            border-radius: 16px;
+            border: 1px solid var(--line);
+        }
+        .official-links a {
+            display: block; padding: 0.75rem; margin-bottom: 0.5rem;
+            background: var(--card); border-radius: 10px;
+            text-decoration: none; color: var(--text);
+            font-size: 0.875rem;
+        }
+        .official-links a:last-child { margin-bottom: 0; }
+        .official-links small { display: block; color: var(--muted); margin-top: 0.25rem; }
+
+        .notice { color: var(--muted); font-size: 0.8rem; margin-top: 1.5rem; line-height: 1.5; }
+        .status, .error { text-align: center; padding: 2rem 0; }
+        .error { color: var(--clash); }
 
         .login {
-            position: fixed; inset: 0;
-            background: var(--bg);
+            position: fixed; inset: 0; background: var(--bg);
             display: flex; align-items: center; justify-content: center;
         }
         .login-box { width: 90%; max-width: 360px; }
         .login-box h2 { margin-bottom: 1rem; }
         .login-box input {
-            width: 100%;
-            padding: 0.9rem;
-            margin-bottom: 0.75rem;
-            border-radius: 12px;
-            border: 1px solid var(--line);
-            background: var(--card);
-            color: var(--text);
-            font-size: 1rem;
+            width: 100%; padding: 0.9rem; margin-bottom: 0.75rem;
+            border-radius: 12px; border: 1px solid var(--line);
+            background: var(--card); color: var(--text); font-size: 1rem;
         }
         .hidden { display: none !important; }
     </style>
@@ -124,20 +118,14 @@
 
     <div class="container hidden" id="main">
         <h1>🇫🇷 巴黎安全监控</h1>
-        <div class="subtitle">过去 48 小时巴黎游行 / 冲突相关新闻，按时间倒序</div>
+        <div class="subtitle">过去 10 天的游行信息，按日期归类</div>
 
         <button class="btn" id="searchBtn" onclick="search()">🔍 查询最新信息</button>
 
-        <div class="filters">
-            <span class="chip active" data-filter="all" onclick="setFilter('all')">全部</span>
-            <span class="chip" data-filter="high" onclick="setFilter('high')">🔴 冲突</span>
-            <span class="chip" data-filter="medium" onclick="setFilter('medium')">🟠 游行/罢工</span>
-        </div>
-
         <div id="results"></div>
 
-        <div class="section-title">📌 官方实时渠道（最权威）</div>
-        <div class="links">
+        <div class="official-links">
+            <div class="section-title">📌 官方实时渠道（最权威）</div>
             <a href="https://x.com/prefpolice" target="_blank" rel="noopener">
                 巴黎警察局 Préfecture de Police（X）
                 <small>官方发布游行路线、禁行区域、警情</small>
@@ -153,15 +141,14 @@
         </div>
 
         <div class="notice">
-            新闻来自 Google 新闻聚合的媒体报道，点开可看原文。红/橙色标记是按标题关键词自动判断的，只作提醒，不代表实际危险程度，以官方渠道为准。
+            新闻来自 Google 新闻聚合的媒体报道，点开可看原文。日期由标题自动提取，颜色标记是按关键词自动判断的，不代表实际危险程度，以官方渠道为准。
         </div>
     </div>
 
     <script>
         const STORAGE_KEY = 'paris_monitor_password';
         let password = localStorage.getItem(STORAGE_KEY);
-        let items = [];
-        let filter = 'all';
+        let data = null;
 
         if (password) {
             verify(password).then(ok => ok ? showMain() : localStorage.removeItem(STORAGE_KEY));
@@ -215,63 +202,102 @@
                     location.reload();
                     return;
                 }
-                const data = await res.json();
+                data = await res.json();
                 if (!data.success) throw new Error(data.error || '查询失败');
-                items = data.items;
-                render(data.timestamp);
+                render();
             } catch (e) {
-                results.innerHTML = `<div class="error">⚠️ ${escapeHtml(e.message)}，请稍后重试</div>`;
+                results.innerHTML = `<div class="error">⚠️ ${esc(e.message)}，请稍后重试</div>`;
             } finally {
                 btn.disabled = false;
                 btn.textContent = '🔍 查询最新信息';
             }
         }
 
-        function setFilter(f) {
-            filter = f;
-            document.querySelectorAll('.chip').forEach(c => c.classList.toggle('active', c.dataset.filter === f));
-            render();
-        }
+        function render() {
+            const events = data.events || [];
+            const latest = data.latest || [];
+            const html = [];
 
-        let lastTimestamp = null;
-        function render(timestamp) {
-            if (timestamp) lastTimestamp = timestamp;
-            const list = filter === 'all' ? items : items.filter(i => i.severity === filter);
-            const results = document.getElementById('results');
-
-            if (list.length === 0) {
-                results.innerHTML = '<div class="status">✅ 过去 48 小时没有找到相关报道</div>';
+            if (events.length === 0 && latest.length === 0) {
+                html.push('<div class="status">最近 10 天没有游行相关新闻</div>');
             } else {
-                results.innerHTML = list.map(item => `
-                    <a class="item ${item.severity}" href="${escapeHtml(item.link)}" target="_blank" rel="noopener">
-                        <div class="item-title">${escapeHtml(item.title)}</div>
-                        <div class="item-meta">
-                            ${item.severity === 'high' ? '<span class="tag high">冲突</span>' : ''}
-                            ${item.severity === 'medium' ? '<span class="tag medium">游行/罢工</span>' : ''}
-                            <span>${escapeHtml(item.source)}</span>
-                            <span>${timeAgo(item.publishedAt)}</span>
+                for (const ev of events) {
+                    const badge = ev.status === 'upcoming' ? '未来游行' : ev.status === 'today' ? '今天' : '已结束';
+                    const places = ev.places.length > 0 ? `<div class="places"><strong>地点：</strong>${ev.places.join('、')}</div>` : '';
+                    const clash = ev.clashCount > 0 ? `🔴 ${ev.clashCount} 冲突报道` : '';
+                    const meta = [
+                        `📰 ${ev.articleCount} 篇报道`,
+                        clash,
+                    ].filter(Boolean).join(' • ');
+
+                    const articles = ev.articles.map(a => `
+                        <div class="article">
+                            <a class="article-link" href="${esc(a.link)}" target="_blank" rel="noopener">
+                                <div class="article-title ${a.clash ? 'clash' : ''}">${esc(a.titleZh)}</div>
+                                <div class="article-meta">
+                                    <span>${esc(a.source)}</span>
+                                    <span>${formatTime(a.publishedAt)}</span>
+                                </div>
+                            </a>
                         </div>
-                    </a>
-                `).join('');
+                    `).join('');
+
+                    html.push(`
+                        <div class="event-card ${ev.status}">
+                            <div class="event-header">
+                                <div class="event-date">${formatDate(ev.date)}</div>
+                                <div class="event-badge ${ev.status}">${badge}</div>
+                            </div>
+                            <div class="event-meta">${meta}</div>
+                            ${places}
+                            ${articles}
+                        </div>
+                    `);
+                }
+
+                if (latest.length > 0) {
+                    html.push('<div class="latest-section"><div class="section-title">其他相关新闻</div>');
+                    for (const a of latest) {
+                        html.push(`
+                            <div class="article">
+                                <a class="article-link" href="${esc(a.link)}" target="_blank" rel="noopener">
+                                    <div class="article-title ${a.clash ? 'clash' : ''}">${esc(a.titleZh)}</div>
+                                    <div class="article-meta">
+                                        <span>${esc(a.source)}</span>
+                                        <span>${formatTime(a.publishedAt)}</span>
+                                    </div>
+                                </a>
+                            </div>
+                        `);
+                    }
+                    html.push('</div>');
+                }
             }
 
-            if (lastTimestamp) {
-                const t = new Date(lastTimestamp).toLocaleString('zh-CN', {
-                    timeZone: 'Europe/Paris', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit'
-                });
-                results.innerHTML += `<div class="status">更新于 ${t}（巴黎时间）</div>`;
-            }
+            document.getElementById('results').innerHTML = html.join('');
         }
 
-        function timeAgo(iso) {
-            const minutes = Math.round((Date.now() - new Date(iso)) / 60000);
-            if (minutes < 60) return `${Math.max(minutes, 1)} 分钟前`;
-            const hours = Math.round(minutes / 60);
-            return hours < 24 ? `${hours} 小时前` : `${Math.round(hours / 24)} 天前`;
+        function formatDate(d) {
+            const [y, m, day] = d.split('-');
+            return `${y}年${Number(m)}月${Number(day)}日`;
         }
 
-        function escapeHtml(s) {
-            return String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+        function formatTime(iso) {
+            const d = new Date(iso);
+            const now = Date.now();
+            const diff = now - d.getTime();
+            const h = Math.floor(diff / 3600000);
+            if (h < 1) return '刚刚';
+            if (h < 24) return `${h} 小时前`;
+            const days = Math.floor(h / 24);
+            if (days < 7) return `${days} 天前`;
+            return `${d.getMonth() + 1}/${d.getDate()}`;
+        }
+
+        function esc(s) {
+            const div = document.createElement('div');
+            div.textContent = s;
+            return div.innerHTML;
         }
     </script>
 </body>
