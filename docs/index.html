@@ -84,7 +84,7 @@
         .article-title {
             font-weight: 600; margin-bottom: 0.25rem;
             color: var(--text); text-decoration: none;
-            display: block;
+            display: block; transition: color 0.2s;
         }
         .article-title:hover { color: var(--primary); }
         .article-meta {
@@ -131,6 +131,16 @@
             💡 <strong>翻译提示</strong>：如果看到法语/英语，在微信中点右上角"..."→选择"翻译"可自动翻译整个页面
         </div>
 
+        <div style="background: rgba(233, 165, 104, .08); border-left: 3px solid #E9A568; padding: .75rem 1rem; margin: 1rem 0; border-radius: .5rem; font-size: .875rem; color: var(--text);">
+            🗺️ <strong>巴黎区域说明</strong>：巴黎分为20个区（arrondissement），从市中心向外螺旋状编号。
+            <ul style="margin: 0.5rem 0 0 1.5rem; line-height: 1.8;">
+                <li><strong>第1-4区</strong>（市中心）：卢浮宫、圣母院、市政厅、夏特雷</li>
+                <li><strong>第8区</strong>：香榭丽舍大街、凯旋门、协和广场</li>
+                <li><strong>第10-11区</strong>：共和国广场（游行集中地）、巴士底</li>
+                <li><strong>第16区</strong>：特罗卡德罗（埃菲尔铁塔对面）、凯旋门西侧</li>
+            </ul>
+        </div>
+
         <div class="filters">
             <button class="filter-btn active" data-filter="all">全部</button>
             <button class="filter-btn" data-filter="upcoming">未来游行</button>
@@ -160,6 +170,13 @@
     <script>
         let data = null;
         let currentFilter = 'all';
+
+        function toggleContent(id) {
+            const el = document.getElementById(id);
+            if (el) {
+                el.style.display = el.style.display === 'none' ? 'block' : 'none';
+            }
+        }
 
         async function loadData() {
             try {
@@ -206,12 +223,13 @@
                             ${e.clashCount > 0 ? `<span class="badge clash">🔴 ${e.clashCount} 冲突报道</span>` : ''}
                         </div>
                     </div>
-                    ${e.places.length > 0 ? `
+                    ${e.districts.length > 0 || e.places.length > 0 ? `
                         <div class="places">
+                            ${e.districts.length > 0 ? `<span class="place" style="background: #E9A568; color: #0A0D12; font-weight: 600;">🏛️ 第 ${e.districts.join(', ')} 区</span>` : ''}
                             ${e.places.map(p => `<span class="place">📍 ${p}</span>`).join('')}
                         </div>
                     ` : ''}
-                    <div>${e.articles.slice(0, 5).map(a => `
+                    <div>${e.articles.slice(0, 5).map((a, idx) => `
                         <div class="article">
                             <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.25rem;">
                                 <span style="font-size: 0.7rem; padding: 0.1rem 0.4rem; border-radius: 3px; background: ${a.title.match(/[a-zA-Z]/) ? '#3B6DFF' : '#6EE7B7'}; color: #000;">
