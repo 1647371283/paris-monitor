@@ -209,11 +209,17 @@
                     ` : ''}
                     <div>${e.articles.slice(0, 5).map(a => `
                         <div class="article">
+                            <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.25rem;">
+                                <span style="font-size: 0.7rem; padding: 0.1rem 0.4rem; border-radius: 3px; background: ${a.title.match(/[a-zA-Z]/) ? '#3B6DFF' : '#6EE7B7'}; color: #000;">
+                                    ${a.title.match(/[a-zA-Z]/) ? 'EN' : 'FR'}
+                                </span>
+                                <span style="font-size: 0.75rem; color: #94A3B8;">${a.source}</span>
+                            </div>
                             <a href="${a.link}" target="_blank" class="article-title">
-                                ${a.titleZh || a.title}
+                                ${a.title}
                             </a>
+                            ${a.titleZh && a.titleZh !== a.title ? `<div style="font-size: 0.85rem; color: #94A3B8; margin-top: 0.25rem;">${a.titleZh}</div>` : ''}
                             <div class="article-meta">
-                                <span>${a.source}</span>
                                 <span>${new Date(a.publishedAt).toLocaleString('zh-CN', {
                                     month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit'
                                 })}</span>

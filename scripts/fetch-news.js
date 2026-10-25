@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
 const cheerio = require('cheerio');
+const { translate: googleTranslate } = require('@vitalets/google-translate-api');
 
 const QUERIES = [
     { q: 'manifestation Paris', hl: 'fr', gl: 'FR', ceid: 'FR:fr' },
@@ -64,40 +65,12 @@ function shouldSkip(title) {
 }
 
 async function translate(text) {
-    const strategies = [
-        // 1. MyMemory 翻译 API（免费，无需 API key）
-        async () => {
-            const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|zh-CN`;
-            const res = await axios.get(url, { timeout: 5000 });
-            return res.data.responseData?.translatedText;
-        },
-        // 2. LibreTranslate（开源，无限制）
-        async () => {
-            const res = await axios.post('https://libretranslate.com/translate', {
-                q: text,
-                source: 'en',
-                target: 'zh',
-                format: 'text'
-            }, { timeout: 5000 });
-            return res.data.translatedText;
-        },
-        // 3. Google 翻译（备用）
-        async () => {
-            const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=${encodeURIComponent(text)}`;
-            const res = await axios.get(url, { timeout: 5000 });
-            return res.data[0].map(seg => seg[0]).join('');
-        }
-    ];
-
-    for (const strategy of strategies) {
-        try {
-            const result = await strategy();
-            if (result && result !== text) return result;
-        } catch (e) {
-            continue; // 尝试下一个
-        }
+    try {
+        const result = await googleTranslate(text, { to: 'zh-CN' });
+        return result.text;
+    } catch (e) {
+        return null; // 失败保留原文
     }
-    return null; // 所有方法都失败，保留原文
 }
 
 function extractPlaces(text) {
