@@ -119,10 +119,60 @@ async function main() {
     items.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
     const top = items.slice(0, 40);
 
+    // 读取旧翻译数据（远程和本地）
+    const oldDataPath = path.join(__dirname, '../docs/data.json');
+    const oldTranslations = new Map();
+
+    // 先尝试从 GitHub Pages 获取最新数据（如果已部署）
+    try {
+        const remoteUrl = 'https://1647371283.github.io/paris-monitor/data.json';
+        const https = require('https');
+        const remoteData = await new Promise((resolve, reject) => {
+            https.get(remoteUrl, res => {
+                let data = '';
+                res.on('data', chunk => data += chunk);
+                res.on('end', () => resolve(JSON.parse(data)));
+            }).on('error', reject);
+        });
+
+        remoteData.events?.forEach(e => {
+            e.articles?.forEach(a => {
+                if (a.titleZh && a.titleZh !== a.title) {
+                    oldTranslations.set(a.title, a.titleZh);
+                }
+            });
+        });
+        console.log(`Loaded ${oldTranslations.size} translations from remote`);
+    } catch (e) {
+        console.log('Remote data not available, trying local...');
+        // 回退到本地文件
+        if (fs.existsSync(oldDataPath)) {
+            try {
+                const oldData = JSON.parse(fs.readFileSync(oldDataPath, 'utf8'));
+                oldData.events?.forEach(e => {
+                    e.articles?.forEach(a => {
+                        if (a.titleZh && a.titleZh !== a.title) {
+                            oldTranslations.set(a.title, a.titleZh);
+                        }
+                    });
+                });
+                console.log(`Loaded ${oldTranslations.size} translations from local`);
+            } catch (e) {
+                console.log('No old translations found');
+            }
+        }
+    }
+
     console.log(`Translating ${top.length} titles...`);
     for (const item of top) {
-        item.titleZh = await translate(item.title) || item.title;
-        await new Promise(r => setTimeout(r, 200));
+        // 优先使用旧翻译
+        if (oldTranslations.has(item.title)) {
+            item.titleZh = oldTranslations.get(item.title);
+        } else {
+            // 只翻译新文章
+            item.titleZh = await translate(item.title) || item.title;
+            await new Promise(r => setTimeout(r, 200));
+        }
     }
 
     const events = {};
