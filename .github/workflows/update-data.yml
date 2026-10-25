@@ -1,0 +1,41 @@
+name: 自动更新巴黎游行数据
+
+on:
+  schedule:
+    # 每6小时运行一次（北京时间：2:37, 8:37, 14:37, 20:37）
+    - cron: '37 */6 * * *'
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 安装依赖
+        run: npm ci
+
+      - name: 抓取最新数据
+        run: node scripts/fetch-news.js
+
+      - name: 检查是否有更新
+        id: check_changes
+        run: |
+          git diff --quiet docs/data.json || echo "has_changes=true" >> $GITHUB_OUTPUT
+
+      - name: 提交更新
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add docs/data.json
+          git commit -m "chore: 自动更新游行数据 $(date '+%Y-%m-%d %H:%M')"
+          git push
