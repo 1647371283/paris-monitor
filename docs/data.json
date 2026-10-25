@@ -1,103 +1,27 @@
 {
   "success": true,
   "today": "2026-10-25",
-  "updatedAt": "2026-10-25T15:50:11.182Z",
+  "updatedAt": "2026-10-25T22:44:45.154Z",
   "events": [
     {
-      "date": "2026-10-30",
+      "date": "2027-10-23",
       "articles": [
         {
-          "title": "Manifestation du 31 octobre, à quoi s’attendre à Paris ?",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM3FWdUN6ZXphbVNHQVR5QU9PSUpvTHJ6UUU0OW1WTWVsejNtbnc0Qld2LURCODA3RUp0SUthVjVVbkhfMzIxTGJza1YwMDIza2hjS09sd3dEc1U1TlNOUUlqV3p0Wk1SNTNfMVA1d2RMRU9FMUotZFBFODJDcWZMTDVYcDBYeGJVVDVoNGRpWUVhQkF4YmNxbVVMcnpvS2lvdV9rVko1VmVGOU4tQXR5RUdieUVBaDBF?oc=5",
-          "publishedAt": "2026-10-25T08:12:42.000Z",
+          "title": "Manifestations du 24 octobre : le préfet du Rhône décide de reconduire dimanche le couvre-feu dans l'hypercentre de Lyon",
+          "source": "franceinfo",
+          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZ1gtbnBudU5lTmJQS1FkR1Y4QTF3SlBiY0VuYThJMkhNdDdsaW5EY2M4Vk9kNGVXc3JBdlNvM0lUOUZjdXNTZ3ZHMjRCdjVCdXBQY3RmYVI2RFJ2Rm5VYTZnTUlITXd1eHZGZEVjWklJeG9tZ0dLRjl4WW9VN3JuQzIwdTBjanRRa3ZPM2JSV1FiYThjSC1iOEJRbzBxU3hoYk1FZkhaTjVoZlliVmVFUTlkcFRPUDk1M2VyNlBNdTVIemVCVVBLbDJuSzAzanpTUWJnWVZKVmo3WjdNbnp6eW9jTlRRM0plU3FtekJVQlhRaDZDYU5SaFlCLVNvOV95Uml3SzFMVzNnX184cGNtMUdKNVZQVEg1UWRIUm56cUFHbUVlY2ZXUm4wemNZYktsbldrdQ?oc=5",
+          "publishedAt": "2026-10-25T22:16:21.000Z",
           "severity": "medium",
-          "titleZh": "Manifestation du 31 octobre, à quoi s’attendre à Paris ?",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
-      "date": "2026-10-31",
-      "articles": [
-        {
-          "title": "«D’un point de vue psychologique, ça rassure» : des agents de sécurité aux serruriers, les commerces parisiens ont anticipé la manif de samedi",
-          "source": "Libération",
-          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNZ2ZfZGhYT05kSDRydWZjbWlzTkI5eEM2Nk84Z0tydThPZ29SV2NpQTJIQm9IeXlGaDlmdlpkc0txWmk2VURXN0VLaEw3eS1HeFZvLVlneEVfeWx2ZFdYdXhlemxyaVNoUXlaX01pVVpXTjdxeV9qVFNoTmkzTzZSSmVKcWZKclpNbTZicmx1V2pRcU9LYnZVYU5sdHk0TkIyekYycGZDYlU1SnZSWWxaeGoyZkZUT1VOckJBaGlfOEY0c2ZCX0FGaFo0TmZUVmx2amM2aXRCOUtfejJkaVMzSGtGaXFLMEVLR01XYndrMDQyQmZvZS1SQVpQQ0NGWFRybU90UE9HMXpVR1M3Z2Z3d3hqNmNMcTZvMjJaX3piRUVxODAzVHkzcE8wbm1OUE42?oc=5",
-          "publishedAt": "2026-10-25T13:38:54.000Z",
-          "severity": "info",
-          "titleZh": "«D’un point de vue psychologique, ça rassure» : des agents de sécurité aux serruriers, les commerces parisiens ont anticipé la manif de samedi",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
-      "status": "upcoming"
-    },
-    {
-      "date": "2026-11-04",
-      "articles": [
-        {
-          "title": "Grève intersyndicale du 5 novembre : transports, éducation, santé... Quels sont les secteurs mobilisés ?",
-          "source": "Le Figaro",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV2t1bnhEcDQyczJuZHpaTUVpeUs1RjlnQ0tJZkVNX1p6N3JjNUszRWxnR2JCV0I2TVU1RzBBTGVHak5CTlhWcHNKdjQ2QlhDbnJBZW9BT2lVcmo2d1BjN3pJMnVCQXBINzAxODFkT2tFaFBlMkRmY3poRlpaOWxTc1ZoUTFKUXJqS2lqOGdSZ2dYRi1UdnpKQ2tBWlYxeHFPYnVkaWFHM1ZzSlJpSTBUR21JY3hNc3RiYTFHdEpuU0lnTzdHaHhMUTV4aEwxYl9s?oc=5",
-          "publishedAt": "2026-10-25T12:14:34.000Z",
-          "severity": "medium",
-          "titleZh": "Grève intersyndicale du 5 novembre : transports, éducation, santé... Quels sont les secteurs mobilisés ?",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
-      "date": "2027-02-27",
-      "articles": [
-        {
-          "title": "France protests: tear gas and 1,300 arrests after 400,000 march in peace",
-          "source": "The Times",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMEhEN2dHbmtrMWZGb0ZoTlp1VUlsTXhPaVNJalluRWJIMXo4QkFLQVdHaS1OSUlYVWZaSHlFSklJVzhfNUliZURza2dzQ3VXNHR4dUYzbFRSQXQ0aWRjTUFjeFJvRkh0X0ZfTDI2S1BPRnJsa3RPcU95dk0xNEg4LWd6LXprR1piVnJhQ1FKcFlnUUFSbzNKX3pKbw?oc=5",
-          "publishedAt": "2026-10-25T11:00:52.000Z",
-          "severity": "high",
-          "titleZh": "France protests: tear gas and 1,300 arrests after 400,000 march in peace",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 1,
-      "status": "recent"
-    },
-    {
-      "date": "2027-10-16",
-      "articles": [
-        {
-          "title": "Zazie en scooter dans Paris pendant les manifestations du 17 octobre : “Je me suis fait lacrymogéniser”",
-          "source": "Gala",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMnB1YUkxN3BjMnloTjZyOFpJTEw0dmhMNlBaZnF1ajE0NmEtbVlPREtBS0NCaGtGUmtQNFFIZlFwamxlcDVFNXB4a05kQzZXYlh5ZHRCX0p6VkVwR0N2REdoVEl6akNNSHpacHVKZVJncm85cGVGVnNOSTdRRFlFUnFsdG0yTzY3TVR5bC15WU5tcTU4MTZRTWdJT3VhODQza0t0M21KOE1Td2liOVNwSGhBNmxqTWhhemtjdGg3bEl6RWZyVzVmbmRfTl9LVU5DeUhyYkxuYkhuQVRtMVlvdA?oc=5",
-          "publishedAt": "2026-10-25T08:54:06.000Z",
-          "severity": "medium",
-          "titleZh": "Zazie en scooter dans Paris pendant les manifestations du 17 octobre : “Je me suis fait lacrymogéniser”",
+          "titleZh": "Manifestations du 24 octobre : le préfet du Rhône décide de reconduire dimanche le couvre-feu dans l'hypercentre de Lyon",
           "content": null
         },
         {
-          "title": "Pour la mobilisation samedi à Paris, \"les enseignements du 17 octobre ont été tirés\", se félicite la porte-parole de la préfecture de police de Paris",
-          "source": "franceinfo",
-          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQbXlVZUp6YmlWUkFIaHVFdHRlS2FzS0xDaFFMaTc0eElMNDZxZVJYZTZ6VHBWUWdzcGhENGJFTDdDOTBFdmFLRlRWbEl3ZWlta2EzdnFVVlFjNGRYWnVqUkRZNHVCdWVVQ0pFcUh5Wjc4UlQ0U1ctZjIxWHpzVmR2TkZ3N3VzNmJoWVkxbnhaVEE2R0tLZkl2ZWduSV9nYmJDQlY2MkxXVDdIWGVZTV9NeUlxbjMtSkhOZGtkQWRRS0R6VnZyeUg2UkJlRUpnQk45cUIyT0pFR1dxUlZvd3plRV9Vb2cyQlY1VmRRZWxtVTk5ZmxZeEFJR1g4Vnl4Y1E5T1VwcXo0QklNbjd5T0JJSGo4WlpGRTRqSmVabENoSkxrajg1WUJET1J0N2lfdkdp?oc=5",
-          "publishedAt": "2026-10-25T08:18:36.000Z",
+          "title": "Après le 24 octobre, de nouveaux rendez-vous déjà attendus la semaine prochaine",
+          "source": "Le HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWVZONWZlMEFhSVRHYVVNblNsNV8xMnNnU21xcWNBa2Yxa2FuYVB5MEFFcTVBM3FmMmtLTllPQThjNmNYQmVCakRZM2Q4cUhvMjhWeDNDdEhEM1d5VUtITGFWUWRNZElsdnJqLVYxNEQxMjI5UG1wSV91UW5aOS1vUUFaemR0WW5uY29ELWlsMDNobmpvUDJENkdUSDFmaHhFOHFySEpQRnFWOWdQMm9oak1iMGl4MVBrVUE4cHh5SmtERHZzaWtBQk5McXpYWlNLcnBHWGhXMkJ5Wi1hbnFWbFRCZk91QQ?oc=5",
+          "publishedAt": "2026-10-25T15:36:25.000Z",
           "severity": "info",
-          "titleZh": "Pour la mobilisation samedi à Paris, \"les enseignements du 17 octobre ont été tirés\", se félicite la porte-parole de la préfecture de police de Paris",
+          "titleZh": "Après le 24 octobre, de nouveaux rendez-vous déjà attendus la semaine prochaine",
           "content": null
         }
       ],
@@ -108,88 +32,268 @@
       "status": "recent"
     },
     {
-      "date": "2027-10-23",
+      "date": "2027-10-24",
       "articles": [
         {
-          "title": "Manifestation du 24 octobre : dans les coulisses du retour à la normale à Paris",
-          "source": "Ville de Paris",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3k5V2RPZlpSVE9RaW9FdGtHMXJlNmV3Uk1rYkg5STJjTDViWXM3TUs4cU9sZzBpakRGdWVWLTlVY3F2UFkxclRGLXJadW9hZEQ0bW9pR3ZGZElrLXFWNnJxVEd2UnIzS18xR2JnOTNHN0RZYlM0a1Vhb3NuTTNqb2FJUUJxQnllRDVUYzlwWXh5a2NRV2V3WDBsdXgzNDNnNy1ZamJkazJxbTBwWGxj?oc=5",
-          "publishedAt": "2026-10-25T10:44:29.000Z",
-          "severity": "medium",
-          "titleZh": "Manifestation du 24 octobre : dans les coulisses du retour à la normale à Paris",
-          "content": null
-        },
-        {
-          "title": "Manifestations du 24 octobre : « près de 1.000 » interpellations en France, 142 à Paris",
-          "source": "lanouvellerepublique.fr",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcDBkMUNaamo2OU1sODJWSjVQc2EyclZ1cWc5Tnd4ZElmWkpESlI2a1AzdUJXTFowc0toT1JmOGxuem9tM3pGTm8tUGI4eDNkaU4tREw1TEpmOVQxNXVxME5tdnVYeHdpMXFOeU15ZF9kVHRIaDd4M2gxQW1JUWQtSmlUcDFDU3JkV2pac0p1cHBncFAtb0tqVWxYU3VoUFNScnJ1ZW1VVmFXeDJmVkRLLUtvUWQ0SE5McDNTNWpIU0FhSG1XMG5xdHdyZTAyVnNadUE?oc=5",
-          "publishedAt": "2026-10-25T10:37:10.000Z",
-          "severity": "high",
-          "titleZh": "Manifestations du 24 octobre : « près de 1.000 » interpellations en France, 142 à Paris",
-          "content": null
-        },
-        {
-          "title": "«Ce n’était pas à Paris» : en plein direct sur la mobilisation du 24 octobre, CNews et France Info diffusent des images de tensions… en Albanie",
-          "source": "Libération",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNNWZDMFp4Mk5Mbmp0c0loUURPY2xzdEFLWTJJUFpkVE5JeDFRSUFNa3VLNW1RZjk1YThSSWJnd2hfTzhXN01KbTZFUWhuMk9ZN3haNU1DZ1ZibEVyYU9lWTFNcjBiZ0t5cTdMT0p6blZNSmVnOGNrTXY1V1hPSEc0cUQxdkdYMDk4S3EtQUFmb3VOMVltdTNnX2w0TlllblgxeThIblNNalJKY3EwS2xQNmZiNlIxa2NHSXcxYmhheHpJcVpmOE5nT0JLcUZqYUcwSFdudTFUc1pfOXI3d1RsazlJRS1TVVdMMDJoNDV2Z3FkSGlTQUJRM2MwT0NJY000Ymh0ckloX1lNQ194MWV3cGYtd1gwUmhQd0JsOXRNQlFpakQzMEEtV1NUZ0swODYyVGZjcFRmOWtiM3c?oc=5",
-          "publishedAt": "2026-10-25T10:09:00.000Z",
+          "title": "Couvre-feu à Paris dimanche 25 octobre : sortie perturbée, quels remboursements ?",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOblpRZGdqR3RuSU5DeFMycGI5QTREYm1kbmk4QThzWkRJSkk2VzE0azhmZlptMm9vbmpVOU9rOGVhekRwOE5RRERXQnl6TzVsMzhGYkZDUkhTeHFiQ1JFamktd2VQZXNTZWREb0tPT2pqM2M1S2Rra1lmOUVxTGVPRG1WdzdoN0ZwVlhxX0N3VFJuV0hGSy1vb0dPb2lqS1E0aTUxQnFsM2MxSlBsb0VZUmV6Z0dPSXJES0RndGJaaUpGSVZqMlU1TXRYN2lXMUh2dlhOWWxTSQ?oc=5",
+          "publishedAt": "2026-10-25T22:04:58.000Z",
           "severity": "info",
-          "titleZh": "«Ce n’était pas à Paris» : en plein direct sur la mobilisation du 24 octobre, CNews et France Info diffusent des images de tensions… en Albanie",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 24 octobre à Paris : moins d'interpellations que la semaine passée, un défilé dans le calme avec peu d'incidents majeurs",
-          "source": "France 3 Régions",
-          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNOTFOM1VyQmlmd2hnZ0NzR3RBVzlRWWtkSzVnVzFCWllVa2tvcjh4VjN2eS10X294cHdCQjN4aWphNEowMnpjZHdaZjVkLUdmbUpqaElQWTNFNU41NGFCSUk1dGQ4R2VJd2tQaE1QYUZpUXA2TnljRXdobVdFWkZSdlRfTjBhWUF6TjdHY0ZUR2F5SWdzbC1mckZLOUhJZ3ZqZUg4RXRfdWFRWmxQYU9QWjlwamk5MmYwRkt5OXJmVWNaTVF0c2ZmUk8zZWx1NDNvZWVlVm1uc2tPRDIwTE5LZkJONktrbVJiN2l5T3Boa2E5ZWh5NTJwN1UtSEJ5RWhHTGJQaHFoY0hTV1hNLXB6dU5PazlMZ2JOOTNfVlJwR3doUjZwVkZvV1NRMXYwZw?oc=5",
-          "publishedAt": "2026-10-25T09:15:02.000Z",
-          "severity": "high",
-          "titleZh": "Manifestation du 24 octobre à Paris : moins d'interpellations que la semaine passée, un défilé dans le calme avec peu d'incidents majeurs",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 24 octobre : en plein direct, CNews et franceinfo diffusent par erreur des images filmées en Albanie à la place des cortèges français",
-          "source": "Midi Libre",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNU1FuQUlPamMxbHE4ZktHeFZ5YWhCdEpRUklYOV9PZnh6YkVqeFFnV1A4ck1NQ0E2RHBGVGpmN2lRakh3SnRyZFJsakxoOThKdjgwLV93d0NnSVNCQXBodWtCSVRFUjFaajRvazgyTElLc3lnT01WZG00VlhPemxUbGNjR3BFTFpqYzZMUFBKWFBqSnk5QkZwTWkyOUlPemhUNW9IM0Y1ZHEtcHR3dGNQTzZXMF9Ed3hhUmhqalNQRUpieldYZVlyU28wZi1EUGMxOHFGVTBUNEtBSnU1WHBoeXdGRVp4WU9faF9nVUJiQ2szWGFIM2tiSkRJYk9yZ1BJb3o1OXpyeHluVnh4TFFoaHNDOTFhaU1aNXcxWWc0cTk0UQ?oc=5",
-          "publishedAt": "2026-10-25T08:47:00.000Z",
-          "severity": "medium",
-          "titleZh": "Manifestation du 24 octobre : en plein direct, CNews et franceinfo diffusent par erreur des images filmées en Albanie à la place des cortèges français",
-          "content": null
-        },
-        {
-          "title": "Manifestations du 24 octobre : une nouvelle forte mobilisation malgré les interdictions de manifester",
-          "source": "Les Echos",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRTE2bkVFUEpwaU03RDcxa3NQSlltWVNyam5rWTh0MGlVMVB6azI2aGltYWlyRGx2dDVIRkdadzlyT3FXdktpX0luTXhwdzZHTTF0cjlQVmhpa0R0UkxmMlhZZy1sVWpvbUhpZGpQY3VhUVlmSmRtUkVhUjJhM0RBV2Q3UHpJcHpuN2xERG5zUVFjd2lsZHhBTDNiT0R4SXZaQ2dyTmlDdkVETWh2OWFHQUtkNWliekVVNWluSXAzbGtTZjVJRGpGTFBwNGV2cW5WTGdodHVCbTdMOXFlck91TTNKc2Y3UHBpNkE?oc=5",
-          "publishedAt": "2026-10-25T08:35:47.000Z",
-          "severity": "medium",
-          "titleZh": "Manifestations du 24 octobre : une nouvelle forte mobilisation malgré les interdictions de manifester",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 24 octobre à Paris : 142 personnes interpellées dont 126 placées en garde à vue",
-          "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb3Nla0c1ejhNUno2S3EyQUd3SmJSYW0zQWl5eF9UR0FiR3VIRThEdExHM2p2eG5FdGZpaVZOcXljcWdiLVNsTDc5UmhISldHd0NhZnp4SmtFMDRMeF9TbC1uRlpBTGNZYTY0RlBqMEZFdE5aUkVVbmxFcnBhZEpEQnlGY3FRQ0RKdlo0eTFlcUxzNjhmS2p5ajlHVE9WMGR1SnpnU3VwdTlNX21ya29RVEozVHdXTDY0N2RjWVo5SE16S1FtRWRqUEI1dWJrdUNHTGVEak1KdUdyWnh5WDZTdHk0Yjk?oc=5",
-          "publishedAt": "2026-10-25T08:23:01.000Z",
-          "severity": "medium",
-          "titleZh": "Manifestation du 24 octobre à Paris : 142 personnes interpellées dont 126 placées en garde à vue",
+          "titleZh": "Couvre-feu à Paris dimanche 25 octobre : sortie perturbée, quels remboursements ?",
           "content": null
         }
       ],
       "places": [],
       "districts": [],
-      "articleCount": 7,
-      "clashCount": 2,
+      "articleCount": 1,
+      "clashCount": 0,
       "status": "recent"
     },
     {
       "date": "unknown",
       "articles": [
         {
+          "title": "French protest groups demand more rallies as Macron faces tough choices",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmJMN1JUSWphZktVT1hXNmhHdXJYblhCMjFhREdZTzR2ZWhKdWgwRnB1enEwWFp3TWxJY2hvN0tQX0RpSXBFdFJVRUJiYzBvMWJiMTRrUWs4U0tRdE1YQ0xSdmZabkFGWTNROWZLQjBrc1l1LURSU2d1NG1aMXRVTmpHRXpUTHFYR0hzU3VEem9tX3JPWExBZXRidV83VmZYY2g3cTBZX0tkb2pzb3hZVUt0dnhWalN1?oc=5",
+          "publishedAt": "2026-10-25T21:27:09.000Z",
+          "severity": "medium",
+          "titleZh": "French protest groups demand more rallies as Macron faces tough choices",
+          "content": null
+        },
+        {
+          "title": "Violences urbaines : l'État resserre l'étau sur les réseaux sociaux",
+          "source": "Presse Agence",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNME83ZlltbmNwaW04NWhPMFc4bVBpalpsYmNvNGJiRklDUU1QamtXaGtSOE1oYV9uMnRvemVocENTWWV3bU1kSUtMbFR2R3FRR0tPR3VDeWNVem1Oa00wTzNCeDBiTi1GTjVnQ1RDUDZXYTVuVUVOLTZzZEZ1UjJaQ2V2anVSUkcxNHRmUjluRl9MUzZaOEpManJqZklUakVwRDBSYzNuVlBjaEdfeXozSg?oc=5",
+          "publishedAt": "2026-10-25T21:00:00.000Z",
+          "severity": "high",
+          "titleZh": "Violences urbaines : l'État resserre l'étau sur les réseaux sociaux",
+          "content": null
+        },
+        {
+          "title": "France Protest Updates: Hundreds of Thousands March Amid Heavy Security",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81czdlcjVNUjBwb0g2dGNHaldFazEzUkI3bzhKeXVpTHBpMGdJNXBqZVBlT2pFZzROdTJ0dzBoSURnU2N0VzBNY3BER3VLM3ZreUVMRHJKdG1oc3ZiaEJvcHZIVjUtVGlWeFRqcjdMUnJkb09QT0E?oc=5",
+          "publishedAt": "2026-10-25T20:46:00.000Z",
+          "severity": "medium",
+          "titleZh": "France Protest Updates: Hundreds of Thousands March Amid Heavy Security",
+          "content": null
+        },
+        {
+          "title": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0dLRGRZNmgyYkpvTGttQVBhWmRkNUtlNXhLVVEzc25fMW8tYXUzeEY5a0NnMUpZbV8zbHpyNTNqeUVBZkJHTkxEOWpMRkx2amkwWDlRemVESjI1SXYxUUNycV9uRzllS0theFdfdUlxdkJ0cnBGNEllRE8yY1g3cE1RdFRFQ3pTVHpWbDBJbjhpSFhXWjJYWFZMVktyUko1cGc?oc=5",
+          "publishedAt": "2026-10-25T20:30:00.000Z",
+          "severity": "medium",
+          "titleZh": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
+          "content": null
+        },
+        {
+          "title": "Protests in France Did Not Overshadow Steelers-Saints Game: ‘It’s a Beautiful Country’",
+          "source": "Steelers Now",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnhIbTJRa3pFM1Uwb3JVcFY2S2xOcm9VQjVUYlNScGV0MUszQnU3MlBpbGRBZWRmcTF4Y2wzbm9KektDLVhlc2VRT3lpMzRWOFpXQV9Od0lCQjVIYzVMZ3NLVnVxQUNCOHRRc191VVg1c2NCd2gzaVJreDBYRm1OaVFiZWxPVEF1bEZuMUxVU1RKT2lSZ3NFaVlTX3ltWkNkLTZZdmljSUFvZTQ?oc=5",
+          "publishedAt": "2026-10-25T20:11:59.000Z",
+          "severity": "medium",
+          "titleZh": "Protests in France Did Not Overshadow Steelers-Saints Game: ‘It’s a Beautiful Country’",
+          "content": null
+        },
+        {
+          "title": "Les violences ont secoué l'Europe: on fait le point",
+          "source": "Watson",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGQ5OWZMbVI1eWtMWHgzdEpJNndtOUllRUlJQTJwYWs3SUIyVFZFbmNNN2VDQnIwYUFBaWNENHBzQkFGMFFFSTMweVRFQ3RoUjYxeFVoUW1IQkIyMEVYSVBVbTVWZUZsbzh3engzVHBlN1NkTGtmT2c1cXB0WURiZ0xjbHl3SFh6MHhETTVPRGJOUWNENzBtSDl1QUJkRm5FZm9rbmVKMXdidTlFeVE?oc=5",
+          "publishedAt": "2026-10-25T20:06:13.000Z",
+          "severity": "high",
+          "titleZh": "Les violences ont secoué l'Europe: on fait le point",
+          "content": null
+        },
+        {
+          "title": "How to stream and watch Steelers vs. Saints in Paris: Halftime show and protest details",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdzdDTk5QVjhXLUhRZTBYc3oxcUsyWXlndDdtN2dkcjFBandlb1BtZzFaOG1lZHVPX3RkallKeXhxcThDdmliTVI5aGR0WWRYbENxVi0yZGtHTmhlMjNhTTJ5LVVBWnNmbzVCX2pRZTJsYm9oVU5IejNvRkNGenJRS2ZIcFYzOWdjQVNxbHVEZ1NkRjR2Q0Y2TnktdFNVZw?oc=5",
+          "publishedAt": "2026-10-25T19:59:04.000Z",
+          "severity": "medium",
+          "titleZh": "How to stream and watch Steelers vs. Saints in Paris: Halftime show and protest details",
+          "content": null
+        },
+        {
+          "title": "Paris game played in festive atmosphere after fresh demonstrations",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODlPemRDNnlZRnl1Zk40aUFGVE5kSzZvSWl0ZnZJTzN2eGpyNTgxZGVhU0FscUhudktnejh4VVgwVGVyR3kwRzlhY0lRUFEtS2YxYzFKWGd2aGllWU1tekdXVDFUSDBoa1RKWE5pc0tRZ1ZSc1ZJeEF1dm85aWdwWmRWNE8zQ1BjaG8wdElGanNmZS1PNHI4RDJNaE5RM0FtS05XUWFIT193SDJoVEE?oc=5",
+          "publishedAt": "2026-10-25T19:54:19.000Z",
+          "severity": "medium",
+          "titleZh": "Paris game played in festive atmosphere after fresh demonstrations",
+          "content": null
+        },
+        {
+          "title": "NFL fans visiting Paris in high spirits for Saints vs. Steelers game, undeterred by protests",
+          "source": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcldRbE9EdG1TRHcyZ0ZXdWJ0UUJHaGI3akJiQ05PbFlXTWdlRTF5UVRJR2U1dkVaeUR1cGY0bl9CRnN1UDZaSV9yVDlqMl9uRjVtRGFyMWFzM0cwd1p1VTRYZUY4UkhnZnhza2xIRTZnV2ptVzdZZGo0UDFRbmJNZTJzVjFhVDhiSXNBOGpmZDFMMnQ4VW9LRTQxQXNKT1kxMVpoN2xVdUc5YW05dDJrWnA5dFBDSmRaSnc?oc=5",
+          "publishedAt": "2026-10-25T19:23:10.000Z",
+          "severity": "medium",
+          "titleZh": "NFL fans visiting Paris in high spirits for Saints vs. Steelers game, undeterred by protests",
+          "content": null
+        },
+        {
+          "title": "Retailers Assess Cost of Lost Business After Second Round of Protests",
+          "source": "WWD",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2ppeTY5RFpSRkxBS1JBVnpva0p1Y01OWm9rTmg4UDhhWjczZUFNVWY3V2ZLYkRkbjUxVE41X3Rab0hOWWxNQXpLUVhrcEZrOEp1SmY1ZkRnOUFnRVRlUDNkSm84Q3d5cjNxVDQ2YVRuYS1NZ0xTZ2dlVkMtWDlGa3dlUzhqbWpfUmlYRGhfdWR5dVJTWHpUeUx0dHNkVHJ1TG1sV0F1OWxuX0gydDRMZXAtY3pNdXZ3amFYbGhDbkpGREZCV2c?oc=5",
+          "publishedAt": "2026-10-25T19:16:37.000Z",
+          "severity": "medium",
+          "titleZh": "Retailers Assess Cost of Lost Business After Second Round of Protests",
+          "content": null
+        },
+        {
+          "title": "Grève Tour Eiffel : le BAPS au cœur de la polémique à Paris",
+          "source": "horticulture-abadie-pyrenees.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQemRTMXVuY1FLYWdkZG44dnJMV3Bvdzl0bkd0MC1MWllTeEF0YkxtLWNRX044Z2JKTG16RnhsRFY3MkZTUG5xb2ZDb3NQR2lUZzQ3bVZIakkySndqR2Zabl83TEVraVRiMlVNaDN1QWlMbXAyZ1JUVWpJNmZVcWNhLWRB?oc=5",
+          "publishedAt": "2026-10-25T18:51:15.000Z",
+          "severity": "medium",
+          "titleZh": "Grève Tour Eiffel : le BAPS au cœur de la polémique à Paris",
+          "content": null
+        },
+        {
+          "title": "France: Hundreds arrested after nationwide protests",
+          "source": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ibUd4UmJBOWljZ21rREdmQzc1Nk10NDN5UG1uX3d6VzAxMFcyUlUtSjhFZXNFSGlHWXlOeFZ5dlpQaVVwTmRXUG1EVGoyZUtOc0otNkl0SUN2b1Q3TjBLYTJRQ0ZMMHhqdy1CdTRpRE5GZw?oc=5",
+          "publishedAt": "2026-10-25T18:26:47.000Z",
+          "severity": "high",
+          "titleZh": "France: Hundreds arrested after nationwide protests",
+          "content": null
+        },
+        {
+          "title": "NFL-Paris game played in festive atmosphere after fresh demonstrations",
+          "source": "CNA",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMThvNHV3Ym8xWG9la3NTUms1d3BqRzFBeUY1MTNQRUtaUDhRd3dSNXNQbHh5SElPSlhtdVF6ZFRZbVVJczlhTmRyWjlwTHJWcFNtYTEtZUp1ZVZ2ZDFkTHpfY2hTUkZNSmFBYlVkNS1RU09zNnlCU3hYRGE3aFl4aGRjN2pROW9abVc3bzg2OGpYMGRSUVhUaE1nRFh0eE9wSWpnSnc3bGZhRENWU0RNcDRxUWpOM0k?oc=5",
+          "publishedAt": "2026-10-25T18:19:03.000Z",
+          "severity": "medium",
+          "titleZh": "NFL-Paris game played in festive atmosphere after fresh demonstrations",
+          "content": null
+        },
+        {
+          "title": "French TV channels scramble to apologize after airing Albanian protests as Paris and Lyon",
+          "source": "Bozeman Daily Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOa2Y3M2FIM2twRUhpU0JuaUJNMWFqdzdLU01INVlrVktlbEtSZGNsbm9Vd1BzQkltX1lIQTVFZno2RFNrQ0ZBMFJjYndsT2R4Y0VoR29aUXh4a2hJWG9DWEU0T3VlU05vcEdvallFNmI3VlpIaVBNSnpmTUdmUVVxSWdMeWUwUDZ0TjJoWUUxM3pDcER6ZHViNEJiMDFia05tcVRSVFRQTENWV25aZlF4NC1zNTlJQjVpdm5VRVV3UUdOenhyR2p3cUNVS0FRYmZqR0xIV1BManhqUUFZaUdvdl9mdTBQUTA5eGlWcHZSc3BXZXF6M0VWcjB6SU53a0FaQ0VISzJlMGJsWllLRldLVXh6ZnRESGxKeWZRajR5NVhKUQ?oc=5",
+          "publishedAt": "2026-10-25T17:56:27.000Z",
+          "severity": "medium",
+          "titleZh": "French TV channels scramble to apologize after airing Albanian protests as Paris and Lyon",
+          "content": null
+        },
+        {
+          "title": "Agressions et bagarre générale : à Rouen, des militants identitaires prennent à partie des manifestants",
+          "source": "Paris Normandie",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR2c1TDRJLXVneDEzRF9vMG04SE0xT040cXFFS2pmdlBoLXRHY3piallxUFpuSHFEWnVabmpmZldDZU1qVXdNbEkyNWxDdFYyZm05QW04bS1xdFYzZGVQbkN5N05TenZPRjVvZmNObkJWVHB1b3NWdlhWTDg4em12ZlM0RkZrT0lxX3hMYTVYTzEySUFuVGdJSWZiejJGaV8tRnd4dHRoeVFVdkVCQTRWRTF0QUxKRjVhdGNuRC1SOV9DdmdUMTFjZFEzMEM5ZjNwbllQOQ?oc=5",
+          "publishedAt": "2026-10-25T17:49:04.000Z",
+          "severity": "info",
+          "titleZh": "Agressions et bagarre générale : à Rouen, des militants identitaires prennent à partie des manifestants",
+          "content": null
+        },
+        {
+          "title": "NFL experiences smooth Sunday in Paris",
+          "source": "Sports Business Journal",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaHd6bG9wMVRSekQwYVM3ZG5qcE55d0FNaWdBcWJUSkhzZWxodm9UeklCc1ktS2JhdzRYWXgwQllmLWhQcWlLMGxzWTZYRzByX0RwLU1NbmJ4OXViOWJ5Snd2MXRQb3VlN0hIb2VsMHVmc2thdGsyajRGdDZqSVRiRWVLNFo1SkhkSjBDV3dON0JzUzJmUU5jcFktZ21HVjE2QzlSa1hR?oc=5",
+          "publishedAt": "2026-10-25T17:31:58.000Z",
+          "severity": "info",
+          "titleZh": "NFL experiences smooth Sunday in Paris",
+          "content": null
+        },
+        {
+          "title": "Nouvelle manifestation à Paris, enquête sur l'attentat raciste dans le Yvelines... Le point sur l'actu en Île-de-France",
+          "source": "Actu.fr",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRVFGUVYxeGpnbzBnNVJlR0FtRVIyd1BNNng0bjhFZUxJdWtmY3hkX2cxTnJOdzVZS2FvQktmT215ZlNaQzhfU0Y5S0pyUllqaGFINkJMcm1jYUx2ZmV4T1E1YzFLODB5Yzc5bGlmSlYwdHAtRURMWF8zZDM3Z2JGRi1GdERtU0RsX01fUlhNQXY4aGhVLXdDZG5TLVlsa3g0VVQ3aVVKR09xZGlMQnB6eWtXdXVpbGJPVWhPcGt4SUVhb21RbU5aV2hNSGxxUUR1TmNzYlZkRjBlbmdXOXBXcUozblNOZVZ2RUtJNnFYem1SQ3FwQ0xJN2YzNGtPakh0?oc=5",
+          "publishedAt": "2026-10-25T17:04:01.000Z",
+          "severity": "medium",
+          "titleZh": "Nouvelle manifestation à Paris, enquête sur l'attentat raciste dans le Yvelines... Le point sur l'actu en Île-de-France",
+          "content": null
+        },
+        {
+          "title": "Fake et intox record ont cherché à ternir les manifs en France",
+          "source": "Blick",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSXM3NndxTTdwdTU4WEVpbUtrYnRmUXNMNTdwM2RYWkpMb185Zk9YcDJOOGZNTUpEMmN6VlA0Rldqai1pM2VJSzM5bUdVVUxOZjlXSzhLU3lYaVVJZ21CdFA1TW9mNHlIalluMkxnOGVoSnljQ2FpWm0tR0l2SWVIMzIwVGQ0MlBIWDk4OHJQQjdEaEM5RTRRN0lnQU9uTVhOZFVSR1Nn?oc=5",
+          "publishedAt": "2026-10-25T16:58:50.000Z",
+          "severity": "info",
+          "titleZh": "Fake et intox record ont cherché à ternir les manifs en France",
+          "content": null
+        },
+        {
+          "title": "« Ils n’ont qu’à aller vers les Champs-Élysées ! » : à Paris, les commerçants s’inquiètent déjà des prochaines manifestations",
+          "source": "Le Parisien",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQNFppZlZQWGZJTlAyRlY4YllYNWVVVGtKRnh2SVd4Zy1iUXgtZ3NOeXI1dWVmVXFwZnI5YzRpT05qSHFqVUJRVkdwaUt3Q1dhRTNWd1NGYkFDYkRCeHMwQnpBSjJZblZMblBsVFNmMW9hWlQ5RUdtT3ZzTkRHaGRuMGdXNVJWaFdqQTJLTHZBUFJ2dnVnY1Zpa0IxMlpPSzF1TWV2X1ZwWV9rZzJ0cmM4QUFKQVlQZzY2MlNmR29uVDE1MnJxbXI5YlNNUlVkdEtEVDFFeFNkMzBCOVVkU2x0TzRrVWhDR0pESk8zZ0JZWGxna1N6ankwbXkwTHFkRFVCZTQyQ1o3clJuRVFIU2hsUkFUSDg4b2VpdEE?oc=5",
+          "publishedAt": "2026-10-25T16:47:51.000Z",
+          "severity": "medium",
+          "titleZh": "« Ils n’ont qu’à aller vers les Champs-Élysées ! » : à Paris, les commerçants s’inquiètent déjà des prochaines manifestations",
+          "content": null
+        },
+        {
+          "title": "NFL announces decision on future Paris games after civil unrest",
+          "source": "Yahoo Sports",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSlZaX2xzZy1IU3NKb2ROb0VxenFxeksxelF4S0hXRC1SNW5YdGI4bi15SGxNZGJGSFk3cGxqZjRKZTdWamRfWW9DYVhfNlpqM3lKYlRJbVViU0drNDktNXZ4QjZqVXdlVUJxUi1xcHp4MW1tR0NDNGFnMW1FVEI0cEVYYWdpZ051dWZfbA?oc=5",
+          "publishedAt": "2026-10-25T16:45:45.000Z",
+          "severity": "info",
+          "titleZh": "NFL announces decision on future Paris games after civil unrest",
+          "content": null
+        },
+        {
+          "title": "«Il est où le cortège ?» : les dessous de l’interdiction in extremis du parcours de la manifestation à Paris",
+          "source": "Le Figaro",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUEZPYTRaUmhYUjB6M1F2ajRaT0VZN1MtcS1LcUd1RV9veDdEYlA2ZGxGU0gzT3drWmhpeWlNZkRGNURTaG1LUlRnR1JfSW1hdjRjWTdRLUlTaGMyT2swYXVZTGE2aDE4OTBYQ2FFdElJOW1OLUM4ODlGWFZXQ1A0c3MyRlo2bktJUnAzbVJkb0ZMV002aUNGVm43bTBNYVFYS1R2c2NtaVBoUXBhQlR2XzFOMkJEZVRkaXM2RXBBVzFXbTUyOE1kQ0pydUg1NWV5SlRYRjViMHpEOXBibTc0UkFWRVk3TDQ?oc=5",
+          "publishedAt": "2026-10-25T16:38:23.000Z",
+          "severity": "medium",
+          "titleZh": "«Il est où le cortège ?» : les dessous de l’interdiction in extremis du parcours de la manifestation à Paris",
+          "content": null
+        },
+        {
+          "title": "À retenir ce soir : vigilance fortes pluies, voitures incendiées, volcan, manif à Paris et contrôles routiers",
+          "source": "Imaz Press",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxSmFmRk8wdVRmNk5RMm9NRjFpd0xxS2NIX0w1SWVvREdqUUUxZDJyVFBFdHd6cUlmTjZWZE1va3FqNEF2Z2hyMllqZ1o2MkEteXNQbXBrRUl0NFVlUDE0dk9vVWo?oc=5",
+          "publishedAt": "2026-10-25T16:24:53.000Z",
+          "severity": "info",
+          "titleZh": "À retenir ce soir : vigilance fortes pluies, voitures incendiées, volcan, manif à Paris et contrôles routiers",
+          "content": null
+        },
+        {
           "title": "Le journaliste algérien Badis Khenissa (AL24 News) agressé à Paris : ce que l’on sait",
           "source": "Visas & Voyages Algérie",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0lRYlluRnJJUGF2TF9MTFQyNzZRVVF2VlJiTVRsYjJCTnlTWjhMR0Y1czBLNWN2b0ZYd0lzczdxVlpRb09CS2RmRjl2ZTUzeFQzSG1kOVVmdU9mczRBZjc1a1M3ejZDMGVFQlhTQWlXbzlCMi1VUWsxYXNHQ1U5azNKMVVidTk4U04wZWROZGd0VnNSajJRMFBaYUpzWkd1NXVaM2FXMU1EVTVjbmk4?oc=5",
-          "publishedAt": "2026-10-25T15:42:27.000Z",
+          "publishedAt": "2026-10-25T15:42:04.000Z",
           "severity": "info",
           "titleZh": "Le journaliste algérien Badis Khenissa (AL24 News) agressé à Paris : ce que l’on sait",
+          "content": null
+        },
+        {
+          "title": "Video | Paris Protest Turns Violent: Police Fire Tear Gas, Clashes Erupt",
+          "source": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0dzOWJnWmZVX1o4OG1oeFhPQi15T3lJdVZQNUVWODNidTR0UnpfSDlQeGxDR2RwXy02eTJKdXVSdjNxMFJlRnhjSVR0Q0QybHRBLVVCR1dpMktsMzhyckt3VVZMeFZUckR5MXQ4cU9SbzZ4R21aZDV5Q0RXbGJ2ZHlRakljWFR2NVdxRHdsYVZLZFlIRXpxUzV2WDBPdw?oc=5",
+          "publishedAt": "2026-10-25T15:33:41.000Z",
+          "severity": "high",
+          "titleZh": "Video | Paris Protest Turns Violent: Police Fire Tear Gas, Clashes Erupt",
+          "content": null
+        },
+        {
+          "title": "From arrests to crackdowns, how Europe’s leaders are responding as protests rock the continent",
+          "source": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1h1NzE1SGNGYW1zbW55YlB0TmY0Q0pmVnFnMjNVbzlSemZYN3ZLTHcwUkkxRy1aUE00SlJlUUxzUXJWWmR3UEg4OXJrMlpqSmpfLTJDd2trQ1lvMGJaenhBR3pRSkJKN0gwc29qWUpzcXN5SjU3RnpOSFpmQ0tXLWRFYnMwZ2dqclpQQVBQUzlEZ25lWFFIVFB6OFFQbEttU1l1NG5R0gGrAUFVX3lxTE53N3A1SjJSVzJLM3VlQnZwRmNPd01qLWE5Y2JfX2gwMnhlQ2pYYW5WX1FHV1h5MkJRUWZhd0NvN2xVTk1Xd1ZoVXVUTFhUWWduRWdLWGlrTmVyVVE2Sy1hTGtfMkhLZWFHcXl4OVhnRDIwcVFreXdEZ0gxRDQxT2FHaTROR1JrcUpCbXJTbEVMNC1QN0IzWGF1b2JyRVhFaUhyQm5JYl8zbmdCVQ?oc=5",
+          "publishedAt": "2026-10-25T15:24:14.000Z",
+          "severity": "high",
+          "titleZh": "From arrests to crackdowns, how Europe’s leaders are responding as protests rock the continent",
+          "content": null
+        },
+        {
+          "title": "Videos Show Tear Gas, Fireworks Being Fired During Violent Paris Protests",
+          "source": "Newsweek",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGRLM3liTVZNNXZKakt5RGJnbEVwbURLODNkcTk5blFkaDB5bkVfaDJrQUV5LU9hbHJWczJ2WHZvTmlpeDh6WkZzVkw3a2xDVnJxcDc3YUIxUmIxal9WeVVSekphSklFcHB0eElVY2x2U0YwcDdjQ0tXanExMXN1QTE1eEJXVE5pS0FfU3BJVUxiS194SjJKSXZraU5pYnp4U19leW9xSGYyQQ?oc=5",
+          "publishedAt": "2026-10-25T15:06:00.000Z",
+          "severity": "medium",
+          "titleZh": "Videos Show Tear Gas, Fireworks Being Fired During Violent Paris Protests",
+          "content": null
+        },
+        {
+          "title": "Good mood among fans attending the 1st NFL game in Paris, a day after protests and clashes",
+          "source": "TribLIVE.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzdicTU3eGhub2xkWHlSWnJTa1cwQXlOa3EzX2c5bm1LYWFkNHBYSHNXd0tpdXcyekxJVnhMVm5NNWFXSHNzMHdWVGtpWEFjQUtzcXVKUU82Ti1kUHpUenV6TV9mbTBIZXNETkNQY2tXVXhZMXk4Z1hPNHdsd0ppVUhrVXdZbTJaUmtvaDYwaXAyb0RNOWtmZTlqTzZWeXBxVTlhRzJLLS1wbHpUYms3dlkwazJ5VzhxbWc?oc=5",
+          "publishedAt": "2026-10-25T14:59:10.000Z",
+          "severity": "high",
+          "titleZh": "Good mood among fans attending the 1st NFL game in Paris, a day after protests and clashes",
           "content": null
         },
         {
@@ -202,21 +306,21 @@
           "content": null
         },
         {
-          "title": "Casserolades, manifestation, grève générale : quelles sont les prochaines actions annoncées",
-          "source": "Libération",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVHBYUE4tRTZlU3dKbzlDUFdxVFJsMzdWbm55ajh6dzRDNGJDYlJJOGthRzM0NlpLb3ZmZjUwQ0g2aFk3cE5USU5XUHJRSkRKVEkya3kxd2dGVFlvWXdEdlV3dVJ5aV8wSmI3UmI2amNuX2lOQXJZX3NxMXctTndBSnlOekthdFpUSFczallIUjVJYURiZXo4cE9hY1JVNHFKLVBVTDlWVTNONGRzcnEzbEhOZUdNWTZnSThpQzIyTm9BWUxFd2xEdGE3aUE1N2ZXcGxZSGxYdHh6WjZBQXpUQnFCU3FTT0djcmJ0NFpLOA?oc=5",
-          "publishedAt": "2026-10-25T14:49:36.000Z",
-          "severity": "medium",
-          "titleZh": "Casserolades, manifestation, grève générale : quelles sont les prochaines actions annoncées",
+          "title": "Good mood among fans attending the first NFL game in Paris, a day after protests and clashes",
+          "source": "Toronto Star",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVTQ5NTdZcHdZX1Nndm81dmlCMkRIaVFneFRjM0lrekh3OVRycEViVmhUT2t6ZlBuX2N2NG9tSDZXdHJoajJqdlpQajlLSVBTSFVPRWo5blVkeWNCTG1IN3lqNVZFOU11VFZuNkprOW9mQXBhV0RPQXFpRXJkc01zb1RJcG9mOFcxOS1yYUxGYlREN3FPSDdoLW9yS1RyZWtvX3hQZFR1Y3lGV29xOUZ4REQwb0FMNXdONk9MU0t3WE9PM2x0anhzZ1FyQTVsZkpvbm9IYUFTREtPRVhWODQ1Szd1S3VHSy0yZGRpZXh1cWt3WktULUQweVU3dzdfUi1BYXZBTk1CT1BXaEFyQmc?oc=5",
+          "publishedAt": "2026-10-25T14:50:18.000Z",
+          "severity": "high",
+          "titleZh": "Good mood among fans attending the first NFL game in Paris, a day after protests and clashes",
           "content": null
         },
         {
-          "title": "Good mood among fans attending the first NFL game in Paris, a day after protests and clashes",
-          "source": "Yahoo Sports",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS1lORlNHU3pJQmhHM2Q4NGp2Nm1EQWhmZmxmbWJVSjdUOXkwTFNKSDVDb0dQOUZ2SlBLMlZQbUNkaTZDTGhqVmZUS3lyNGYtelZPczg3TGVlZy13cVBTMUNUYldCSU9yUHI4QWxQQUFNWURnYTAwbjNaTjlnTktIb01aQ0FpQQ?oc=5",
-          "publishedAt": "2026-10-25T14:49:12.000Z",
+          "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS1JVbTVIUDc2bno4ZDI1cTdTaGFwTGpMSlJ2Ynp4bEtxSjl6Y0RuZUxOUmNHQWRPTnlfOEd1cURTYUYxNHRqR1RqOXdSMzFlR1FWZkRsQ1A0VW1TbXBTRi03SDd5MFZqZWI2Z3R5Q19FR1hqa3dpU2tXOUJ5TkktcjFzTjFYZGZnVUlaatIBkgFBVV95cUxNcFpNTmNabWg2OVdLWHZabzc0c3hYVjdBNGdtdEVIM1RfNGQ2WnVtUTNyQzIxSmVqTjJKQzBxWkxIZ1NBWEVqcUxFRjBaSEVGOUJLb2gtOVpJVV9nZzNoZktfUFpjOGRrZTJSdE9haTFaenBtOUItVnFTYldmOGxmdmxNaHRXemhubkhUa3RiTENJdw?oc=5",
+          "publishedAt": "2026-10-25T14:14:23.000Z",
           "severity": "high",
-          "titleZh": "Good mood among fans attending the first NFL game in Paris, a day after protests and clashes",
+          "titleZh": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
           "content": null
         },
         {
@@ -229,6 +333,15 @@
           "content": null
         },
         {
+          "title": "France sees another weekend of mass protests with nearly 1,000 detained",
+          "source": "KOMU 8",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRVBKMkktLVBweVlqcV9leEJ4MV90ZFE3eDlVN2RGa3VNdTF1azVSSDRVeTdZQ1d6eUpqeWtVWFNfZFY3cDliMEtwQmNjZG9JSVNqQjhhTHk3UjQ3U2I4eHZlNUlKSWpkUUFSUEZwVFAwU0tibHFTeGlvUFBZSWswTHhuMDlwckpBUkRvb3pHQW5hWFRTd1oyX2FlWjA4RjNtTzMwLVBPQ00wU3FtZnFUTTdsM2RuY19ReGRQMTVzRy1mb3dkMjZpOUVjY3hQTC14NjJPX1kwU3JQejhtbGJGb25GQThDZ21UamtPRFg4OUNwOTU2NkHSAfYBQVVfeXFMUEVQSjJJLS1QcHlZanFfZXhCeDFfdGRRN3g5VTdkRmt1TXUxdWs1Ukg0VXk3WUNXenlKanlrVVhTX2RWN3A5YjBLcEJjY2RvSUlTakI4YUx5N1I0N1NiOHh2ZTVJSklqZFFBUlBGcFRQMFNLYmxxU3hpb1BQWUlrMEx4bjA5cHJKQVJEb296R0FuYVhUU3daMl9hZVowOEYzbU8zMC1QT0NNMFNxbWZxVE03bDNkbmNfUXhkUDE1c0ctZm93ZDI2aTlFY2N4UEwteDYyT19ZMFNyUHo4bWxiRm9uRkE4Q2dtVGprT0RYODlDcDk1NjZB?oc=5",
+          "publishedAt": "2026-10-25T14:09:00.000Z",
+          "severity": "medium",
+          "titleZh": "France sees another weekend of mass protests with nearly 1,000 detained",
+          "content": null
+        },
+        {
           "title": "Paris cost-of-living protest: 142 detained, 120 held in custody",
           "source": "Around Prague",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSDN0ejZUUGc4NFFaTTViSFhQOGlfVHBJakpZZ3hsbmhvWGV3bVZLcUk0Ri14SDc4a1VySF9WSFo2T0pZbXVxQ0VmWENoRVQwZllrRXBGeFJhcGNMeHd3dmdvbnNFQmpnZElLdUpvaW9JRVFWb0l5MTJ1ckRxX3JHak5hZlJSREt1VW9uY3FiVG5hUUF4UmQw?oc=5",
@@ -238,21 +351,21 @@
           "content": null
         },
         {
-          "title": "How to stream and watch Steelers vs. Saints in Paris: Halftime show and protest details",
-          "source": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdzdDTk5QVjhXLUhRZTBYc3oxcUsyWXlndDdtN2dkcjFBandlb1BtZzFaOG1lZHVPX3RkallKeXhxcThDdmliTVI5aGR0WWRYbENxVi0yZGtHTmhlMjNhTTJ5LVVBWnNmbzVCX2pRZTJsYm9oVU5IejNvRkNGenJRS2ZIcFYzOWdjQVNxbHVEZ1NkRjR2Q0Y2TnktdFNVZw?oc=5",
-          "publishedAt": "2026-10-25T13:46:51.000Z",
+          "title": "Casserolades, manifestation, grève générale : quelles sont les prochaines actions annoncées",
+          "source": "Libération",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVHBYUE4tRTZlU3dKbzlDUFdxVFJsMzdWbm55ajh6dzRDNGJDYlJJOGthRzM0NlpLb3ZmZjUwQ0g2aFk3cE5USU5XUHJRSkRKVEkya3kxd2dGVFlvWXdEdlV3dVJ5aV8wSmI3UmI2amNuX2lOQXJZX3NxMXctTndBSnlOekthdFpUSFczallIUjVJYURiZXo4cE9hY1JVNHFKLVBVTDlWVTNONGRzcnEzbEhOZUdNWTZnSThpQzIyTm9BWUxFd2xEdGE3aUE1N2ZXcGxZSGxYdHh6WjZBQXpUQnFCU3FTT0djcmJ0NFpLOA?oc=5",
+          "publishedAt": "2026-10-25T13:48:00.000Z",
           "severity": "medium",
-          "titleZh": "How to stream and watch Steelers vs. Saints in Paris: Halftime show and protest details",
+          "titleZh": "Casserolades, manifestation, grève générale : quelles sont les prochaines actions annoncées",
           "content": null
         },
         {
-          "title": "Paris NFL game set to kick off in calm atmosphere after fresh demonstrations",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODlPemRDNnlZRnl1Zk40aUFGVE5kSzZvSWl0ZnZJTzN2eGpyNTgxZGVhU0FscUhudktnejh4VVgwVGVyR3kwRzlhY0lRUFEtS2YxYzFKWGd2aGllWU1tekdXVDFUSDBoa1RKWE5pc0tRZ1ZSc1ZJeEF1dm85aWdwWmRWNE8zQ1BjaG8wdElGanNmZS1PNHI4RDJNaE5RM0FtS05XUWFIT193SDJoVEE?oc=5",
-          "publishedAt": "2026-10-25T13:27:56.000Z",
-          "severity": "medium",
-          "titleZh": "Paris NFL game set to kick off in calm atmosphere after fresh demonstrations",
+          "title": "NFL overcomes civil unrest, Trump concerns and calls to postpone as Steelers and Saints kick off in Paris",
+          "source": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVNhaEdvZ3V1S0JVajNQN2RJWFljSjFJMXVmZkxtLWNYWU8wajV6QjZLc0FmVHJzck10OHozczkyMkkyWFp2NTk2OEl6ZmRRdENVdkdfLU83aW9YNEtZZnd1SmlGMHNsbmlOVGZtelh3Rk5TMmFIdGFPUFpxQmdwTFJNNkFLSzhSeWE0Y2dOOExJUU9lQnhiUEN5ZVI5amZfbmtKNVd5Z1RoTFBScF9SRXNqbGdQd0o2ZWxJZUNZSl93UV82?oc=5",
+          "publishedAt": "2026-10-25T13:33:21.000Z",
+          "severity": "info",
+          "titleZh": "NFL overcomes civil unrest, Trump concerns and calls to postpone as Steelers and Saints kick off in Paris",
           "content": null
         },
         {
@@ -265,24 +378,6 @@
           "content": null
         },
         {
-          "title": "Paris Protests Expand",
-          "source": "930 WFMD Free Talk",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1UEhVWnhtNUV1YWFLT1Q4VWNLWFduaHF3R204WUJKZGs2RS1ralk4Q2FYUVhXb3oyM0tiNUlBWHVSOU5tdVE0WXp3aW5fV29GU0hCV2VnQUI3NzFPYUNDUEpFcE8?oc=5",
-          "publishedAt": "2026-10-25T13:09:08.000Z",
-          "severity": "medium",
-          "titleZh": "Paris Protests Expand",
-          "content": null
-        },
-        {
-          "title": "Do you hear the people sing? From Paris to Marseille, French protesters face tear gas as anger over costs boils over",
-          "source": "Malay Mail",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTGcyYzJLdGQzY1VyV05BRmEtMFYtT0s4bWlEemhQdGpqUmtwY1ZqejNIdzYyTkdNSFVMMUw3YmZfRkN5RkJpSEdvbmlQcnREXzZ0b3pMeUdxcEF1U1JoT2F0TmhndFIwSDRuUUNpaUNyWDhfQV9sUmFXMGdLaDZySXI2X3E5YllSYks5aVRIWkk4M1JEb3ZzTFNnbXNhZEJaS3ktR2JIOUIxNWRzVDZ5cmNqUU5nV3RPWGVrMFk2Vm9QODJMXzNTeVlPODBSVW5zeHlPbTUwYjEtWHB6SEh2NkVZZEE5ZHE2UWF1QjNoVTd6bXJKVEZ5dkJraTFfQdIBgwJBVV95cUxNYUdlaDF3UmZVcmdwTHdQNmlERFpSbzBJWVlPcXByaG16alZrdVNfSDNZakFxZXJPRXU5azF1VU5ralZBRFRyMzZfd1k5Y3hENTZ0RWZzLW9aN05rbEZ5U2RtdzdxS3lYVkFDdndMWGRybngwOW9GeVpUbGpSa1NhOHBZVXJBZGdjWDFXNlF0VkliMnFPdW1CNXBlTGEzYlRfX2Z2S0pycG9XU0ZWbV9tNkpDR3M5U1ItZjhFNjNRd202ZU9oa2cxZE1CVHJkVWVrcGtvT213bzVMUi1YaGFvMHMyYWlIVUxBTEJoVHh5WVU3dTg4bV9LYXhheUZDOWN1aWg0?oc=5",
-          "publishedAt": "2026-10-25T13:03:16.000Z",
-          "severity": "medium",
-          "titleZh": "Do you hear the people sing? From Paris to Marseille, French protesters face tear gas as anger over costs boils over",
-          "content": null
-        },
-        {
           "title": "The week in pictures: Protests across France, wildfires in Indonesia and Brazilian elections",
           "source": "France 24",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzZ0QUJKM0NNclFGRHV2el9BS0d0OU1FYUhnYTQ0RDBGeFZOYUt5eXc1ck9kVGFhenVGVXVKRUhWZ3pBUkRobmh3amZwdmEwZ2RHdDBtdmtRb19pREhTdDA0amc2Z1dObDRoVHN1RDBYWTkxUnZuV3Y4QW5nOC1vSkYxYW5uenJDa0ZZTnpSbUJvcnB4NWF1NUlZZndkcFJ4bGphcmVnVDRFdmR6LXpvdXRuXzVOaEF5Yk1rc2dsY1FGMjNJX1hURzVaQ3ZlQWc?oc=5",
@@ -290,163 +385,291 @@
           "severity": "medium",
           "titleZh": "The week in pictures: Protests across France, wildfires in Indonesia and Brazilian elections",
           "content": null
-        },
-        {
-          "title": "Manifestations : des commerçants \"soulagés\", mais inquiets pour les prochains week-ends",
-          "source": "Boursorama",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbnB3WFY4cWNyOUpTZXFOaFoydjJldWJlcThYUXpjUzJxalc2TlNRdmU3S3FvbkVteUZkVk5LTnBfOXprTXJ0SWcxdmV3TDRkQU1fOXVtdlZIYVlVVmhyb2l3cndWMmNaVWxxRG9yRzJyNEgzcGpSamFsazlxMV9OMzZ3SnhVWU1JdWkydXh0TnN6MENwcXh4WjlfR1ZVSU82UE9wWGk3OXZjRUcxcERQdXN0dWMzU0Y2ODlfM0RCTFhoeUtqMW1wclhVY0twX0JHMFdyb2pScUdLSnM1ZW40LXFOa3RWRUY5a0U4bEQ4SU9tbGV4eEVF0gH3AUFVX3lxTFBucHdYVjhxY3I5SlNlcU5oWjJ2MmV1YmVxOFhRemNTMnFqVzZOU1F2ZTdLcW9uRW15RmRWTktOcF85emtNcnRJZzF2ZXdMNGRBTV85dW12VkhhWVVWaHJvaXdyd1YyY1pVbHFEb3JHMnI0SDNwalJqYWxrOXExX04zNndKeFVZTUl1aTJ1eHROc3owQ3BxeHhaOV9HVlVJTzZQT3BYaTc5dmNFRzFwRFB1c3R1YzNTRjY4OV8zREJMWGh5S2oxbXByWFVjS3BfQkcwV3JvalJxR0tKczVlbjQtcU5rdFZFRjlrRThsRDhJT21sZXh4RUU?oc=5",
-          "publishedAt": "2026-10-25T12:40:17.000Z",
-          "severity": "medium",
-          "titleZh": "Manifestations : des commerçants \"soulagés\", mais inquiets pour les prochains week-ends",
-          "content": null
-        },
-        {
-          "title": "French protest groups demand more rallies as Macron faces tough choices",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmJMN1JUSWphZktVT1hXNmhHdXJYblhCMjFhREdZTzR2ZWhKdWgwRnB1enEwWFp3TWxJY2hvN0tQX0RpSXBFdFJVRUJiYzBvMWJiMTRrUWs4U0tRdE1YQ0xSdmZabkFGWTNROWZLQjBrc1l1LURSU2d1NG1aMXRVTmpHRXpUTHFYR0hzU3VEem9tX3JPWExBZXRidV83VmZYY2g3cTBZX0tkb2pzb3hZVUt0dnhWalN1?oc=5",
-          "publishedAt": "2026-10-25T12:38:50.000Z",
-          "severity": "medium",
-          "titleZh": "French protest groups demand more rallies as Macron faces tough choices",
-          "content": null
-        },
-        {
-          "title": "Laurent Nuñez Says Police Arrest Nearly 1,000 In Paris Protests Over School Funding: 15 outlets compared",
-          "source": "NewsCord",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeFNJd0tyUFBlMkJXaHZyeFgxQ2NuQjIybGJ0VzFsWHFLZGZKYWI4ZWxDbWtGSUYyckFuRnZ4U2lzcmFjUUdzVXdCY0VSWEF3Q2Vsck1nc2IzeEJrRFRXUDZQSVlOMWQzZWpXeTgxWTUxMlVNcE02cHFyRFI1QTZ2SUlpeFVvSDhuMVNlM3BhS1JHWUJ5ZEVqT2M1aHZMZTVzS3pXUkRhS3BZRXZwdFQ1R2gxaXFRUnZKWXNHSnl6MHlzdVZIM1ZlOGlXZnNJcEU5MWxwMGtoMGtlc0E4bGFCNEMwWVZ0dWhxdWc?oc=5",
-          "publishedAt": "2026-10-25T12:37:40.000Z",
-          "severity": "high",
-          "titleZh": "Laurent Nuñez Says Police Arrest Nearly 1,000 In Paris Protests Over School Funding: 15 outlets compared",
-          "content": null
-        },
-        {
-          "title": "Protests Erupt Across Europe Ahead of Historic NFL Game in Paris",
-          "source": "TODAY.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQazRTeUF5SGFHZjBIM2Y3RGFwRXFUTEFhWXEzbExJa1JyakhFOXpHZzNGMTJGZk9lQ1dldjNiWXZVQUtWRW5hUlU3cjE3bEU3Uk5tRUk5Y2poTWNXc185R2NBQWJOQXFlUUdTNVNhUnhiWmNwLWxHM2plRDlZZFc3RF9Sd2JwUFp5enFwRkhCR2ppenNfdTJNZVY3b3FoZzROWFNjRFc3N3k?oc=5",
-          "publishedAt": "2026-10-25T12:34:21.000Z",
-          "severity": "medium",
-          "titleZh": "Protests Erupt Across Europe Ahead of Historic NFL Game in Paris",
-          "content": null
-        },
-        {
-          "title": "\"8 impacts de balles. C'est une violence, une barbarie terrible\", attentat raciste à Trappes, la fillette de 12 ans, blessée, toujours hospitalisée",
-          "source": "France 3 Régions",
-          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxObWpUMUtkcmFKWVE4SE0ycktBejNKWHprVkdrSG5EcTRFZFh0OTlncnFJMHNxam01bjNZUlZKQjlUSVA5RnlUd1N2eVdodGdnRThyMTlZb2pTQWpUVXZ4dEkzRDBZNXR6ejJBRHN0cG5Hc0pYZFVSVkdrSlo2bFFGbWw0U0ZxOWlJMDBZMHdmVjMwVW1lY1Zrcm9mQUdvNnc2Q1NfZWZIVW14Wnczd3pvandtUEZ0V21pRUdIc3hwdEswSXRsaW9RRHRNS0QzMXRIVUxxYk40TWJuUV9mTWx1bkVTLUxDTHBybm5VZFJOa1F6XzUyVXAxOFkwYTRuVFE0Z2c2NXVXMkRXTllUZXJiT2NsaDg4aFV3MXowRXM0alpSU3ZWQThIWjZqTkxGS0VtWXh5ZA?oc=5",
-          "publishedAt": "2026-10-25T11:08:04.000Z",
-          "severity": "high",
-          "titleZh": "\"8 impacts de balles. C'est une violence, une barbarie terrible\", attentat raciste à Trappes, la fillette de 12 ans, blessée, toujours hospitalisée",
-          "content": null
-        },
-        {
-          "title": "L’Homme est-il naturellement violent ? Ce que révèle l’histoire de notre espèce",
-          "source": "L'Express",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeWZUNzAtOWs0R3pOcXFDYS1YMXBsNTE1dTlxOHdNeU5GZEY3a195cldVYVJoeFBqWDg1ckhhMHJ5aVN1dVAySmtla253dE5QYVIwTDVNSHlxaHhOeU9JX2RoUGc3eU9OX3JURldndjQtTU82aDMyUlJMeHRpYXpvdTRCcnJ3Rlp6MXNxWmJvRks4cUU5YnFSeXRQc0tsYXFkTlZRbWhhc21zb3R3d1piZ0tacXRBY3lxeEEyNWplTExkVHZMenp0bGtMRi1ZaktYQWMyaDFxVDVHdw?oc=5",
-          "publishedAt": "2026-10-25T11:00:00.000Z",
-          "severity": "info",
-          "titleZh": "L’Homme est-il naturellement violent ? Ce que révèle l’histoire de notre espèce",
-          "content": null
-        },
-        {
-          "title": "Suspect in racist Paris shooting transferred to psychiatric unit, had drugs in his system",
-          "source": "France 24",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmZ5emNxZDRfdV9fQlpfZEVfTzVwX1BWblJFaHFiU2pYQ2w1MFF4UjRKZ1FLYnp6bHFndWJ4ck4xNkI3bENQZmRDT0Vxc3dUSVM4aFVtUEFJQ2duT0xvR1lkTEZ3VXdpXzZ5QmhTa3liUVdpQ2U3d2dvejhPNjZaUTZQRGpaUlRMVGgzS1d6cWYyRlhhM3RzeURHZklsc1VCSG5KelZtUlJ6QmN2MDdjUkZJUEhiQQ?oc=5",
-          "publishedAt": "2026-10-25T10:36:42.000Z",
-          "severity": "info",
-          "titleZh": "Suspect in racist Paris shooting transferred to psychiatric unit, had drugs in his system",
-          "content": null
-        },
-        {
-          "title": "France reports 1,314 arrests after protests as police defend security operation",
-          "source": "RFI",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWUpuVFN4Y3VNa19maHlXbkxCT1ZHa1NYaW9SZTNmbUpJSE5Hc2ZRZWpDQVVaWmF5RlZJLWxxSlRpMnpxSl9xRWFqRmhFbV9LU0dmM1hIdTFDaU9OVldmVE14OXN6ZFBKZGh1U3hMdkM0UGlIOHRheV9RTGgxY2g5cm5JX1puZTBQSEhKN2QyNjB6U1BRUjMzSUswMnU4THR3RHFsVGtldzlUWm05NE8zTEc0T0Q5cnZJ?oc=5",
-          "publishedAt": "2026-10-25T10:33:44.000Z",
-          "severity": "high",
-          "titleZh": "France reports 1,314 arrests after protests as police defend security operation",
-          "content": null
-        },
-        {
-          "title": "What Travelers Need to Know About the Paris Protests and the Wave of Demonstrations in Europe",
-          "source": "AFAR",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQay1zQUN4VDBqbGQxYnFfendHdEhXU01PMzVIc0VqUnA2UHRYdW1VQ214UXFnUmFuM21vUDVnTWJDVW9hb3dyc3RyUHRhTFMwQnQ4cEVCR2hMLVRMa1pITm9Tc0d6MTVMM3Jlbkp6SzJNUWlMMHZBR3NUUG5GeThRZlVXaVZfUzV3UjNPRlhINUhISFFR?oc=5",
-          "publishedAt": "2026-10-25T10:23:40.000Z",
-          "severity": "medium",
-          "titleZh": "What Travelers Need to Know About the Paris Protests and the Wave of Demonstrations in Europe",
-          "content": null
-        },
-        {
-          "title": "France: Some clashes erupted at end of protests",
-          "source": "France 24",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWHNRNlBmdUttOE54YkpVLUNNcTBsaDVCQTJEQ3ZtWkpwSVdFN0NvS2FyWWlrQUp5X3k3clU5cXJqaFFfQjh4WW5GaUxtTjJFU0RNcHg0UHlhYngzdWRvY3JCVnJ0Y1BEbWNfa2MtM1djanMwNmVGNnJCUmJwME0?oc=5",
-          "publishedAt": "2026-10-25T09:29:34.000Z",
-          "severity": "high",
-          "titleZh": "France: Some clashes erupted at end of protests",
-          "content": null
-        },
-        {
-          "title": "More than 400.000 protest across France",
-          "source": "France 24",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83Uy1vME9xYXhmb2txdk9JaXdOdFFtMldsRFJTV29jTDVvUzFsRm9kUFlxMmVpdWhycmtraTE0MERobW9Ta1U5VGllcUlyUlM1ZkRDM1FwVWZCSnVudEZyQmdfYU5wN29qd044UFNwaDh0aDJ1UlE?oc=5",
-          "publishedAt": "2026-10-25T09:27:43.000Z",
-          "severity": "medium",
-          "titleZh": "More than 400.000 protest across France",
-          "content": null
-        },
-        {
-          "title": "Hundreds of thousands march in France to protest against government",
-          "source": "France 24",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTm9wYUVJdEwzNUVUU21MaUhtcm9COXdxLTZBbkVvVlJrVjUzUjhIcFd0OXpqaWdnWXd2WEluUXhwZUZxWHdXM1ozS3Y4TXA2NmNURlRNZzYtbEFpTmZacExlMjNabEpjaWJkTUQ4YXEyRGJfQ2YwRndpMkpNZElKZHl2OWJYY0dIWjcyQV9zUkhzNXA4UlVLcUM5MA?oc=5",
-          "publishedAt": "2026-10-25T09:19:07.000Z",
-          "severity": "medium",
-          "titleZh": "Hundreds of thousands march in France to protest against government",
-          "content": null
-        },
-        {
-          "title": "France : le journaliste algérien Badis Khenissa victime d’une agression à Paris",
-          "source": "Algerie360",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYUJPdWM0bEFPVG9TM2ZXcDdvYVJ5YV83Y0M0NVlZcW8zMlJ0RHNCM1BCeFZLRFg1Y2xtOFlRa0dJWXBqNGstWHllUko1YkNhSHNIeXFyZFNHenpnQVBHa2pkeVduSkFFOVc4eTVmbjhaNTlCWU1GNmhRUm9qZk9mSFlnUTI5dw?oc=5",
-          "publishedAt": "2026-10-25T09:08:32.000Z",
-          "severity": "info",
-          "titleZh": "France : le journaliste algérien Badis Khenissa victime d’une agression à Paris",
-          "content": null
-        },
-        {
-          "title": "Notre maison brûle et on regarde les poubelles » : à Paris, 250 000 manifestants ont dénoncé l’aveuglement du pouvoir",
-          "source": "Reporterre, le média de l'écologie",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yRVlTWXZKcFRiejdCRGRRX1RxWkVGTk9CdW1BdlctMW9ucnMxV3lvdHlCaE0xT3lMVG9SNXRmV0VfdnJrbThibV9xbWExaUZZc1ZJRnFmVWRvcUhTbDIzNTZxU2VpdFp1cDlHY1Fqb0F5Ulp1WFE?oc=5",
-          "publishedAt": "2026-10-25T09:04:00.000Z",
-          "severity": "info",
-          "titleZh": "Notre maison brûle et on regarde les poubelles » : à Paris, 250 000 manifestants ont dénoncé l’aveuglement du pouvoir",
-          "content": null
-        },
-        {
-          "title": "Les manifestations se propagent à travers l'Europe, Paris est « comme un confinement ».",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWpWbm5JVEpjMVRoeXZmQlpBVDNHcWRPQVY2UXd1c0drTTdyb2hSdXFzNnZtNGR5R1dSWEszWU9NeXRFeUowUW93VzVJbDlPOGNUZmctMFZWR3NZVmZIT0hsYlQzVk5ubGlqSDF1SkZlSnNUWWRtMHZtOG9SWTl6eQ?oc=5",
-          "publishedAt": "2026-10-25T08:27:25.000Z",
-          "severity": "medium",
-          "titleZh": "Les manifestations se propagent à travers l'Europe, Paris est « comme un confinement ».",
-          "content": null
         }
       ],
       "places": [
-        "歌剧院 Opéra"
+        "民族广场 Nation",
+        "香榭丽舍 Champs-Élysées"
       ],
       "districts": [
-        2,
-        9
+        8,
+        11,
+        12
       ],
-      "articleCount": 27,
-      "clashCount": 5,
+      "articleCount": 37,
+      "clashCount": 8,
       "status": "unknown"
     }
   ],
   "latest": [
     {
+      "title": "Manifestations du 24 octobre : le préfet du Rhône décide de reconduire dimanche le couvre-feu dans l'hypercentre de Lyon",
+      "source": "franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZ1gtbnBudU5lTmJQS1FkR1Y4QTF3SlBiY0VuYThJMkhNdDdsaW5EY2M4Vk9kNGVXc3JBdlNvM0lUOUZjdXNTZ3ZHMjRCdjVCdXBQY3RmYVI2RFJ2Rm5VYTZnTUlITXd1eHZGZEVjWklJeG9tZ0dLRjl4WW9VN3JuQzIwdTBjanRRa3ZPM2JSV1FiYThjSC1iOEJRbzBxU3hoYk1FZkhaTjVoZlliVmVFUTlkcFRPUDk1M2VyNlBNdTVIemVCVVBLbDJuSzAzanpTUWJnWVZKVmo3WjdNbnp6eW9jTlRRM0plU3FtekJVQlhRaDZDYU5SaFlCLVNvOV95Uml3SzFMVzNnX184cGNtMUdKNVZQVEg1UWRIUm56cUFHbUVlY2ZXUm4wemNZYktsbldrdQ?oc=5",
+      "publishedAt": "2026-10-25T22:16:21.000Z",
+      "severity": "medium",
+      "titleZh": "Manifestations du 24 octobre : le préfet du Rhône décide de reconduire dimanche le couvre-feu dans l'hypercentre de Lyon",
+      "content": null
+    },
+    {
+      "title": "Couvre-feu à Paris dimanche 25 octobre : sortie perturbée, quels remboursements ?",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOblpRZGdqR3RuSU5DeFMycGI5QTREYm1kbmk4QThzWkRJSkk2VzE0azhmZlptMm9vbmpVOU9rOGVhekRwOE5RRERXQnl6TzVsMzhGYkZDUkhTeHFiQ1JFamktd2VQZXNTZWREb0tPT2pqM2M1S2Rra1lmOUVxTGVPRG1WdzdoN0ZwVlhxX0N3VFJuV0hGSy1vb0dPb2lqS1E0aTUxQnFsM2MxSlBsb0VZUmV6Z0dPSXJES0RndGJaaUpGSVZqMlU1TXRYN2lXMUh2dlhOWWxTSQ?oc=5",
+      "publishedAt": "2026-10-25T22:04:58.000Z",
+      "severity": "info",
+      "titleZh": "Couvre-feu à Paris dimanche 25 octobre : sortie perturbée, quels remboursements ?",
+      "content": null
+    },
+    {
+      "title": "French protest groups demand more rallies as Macron faces tough choices",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmJMN1JUSWphZktVT1hXNmhHdXJYblhCMjFhREdZTzR2ZWhKdWgwRnB1enEwWFp3TWxJY2hvN0tQX0RpSXBFdFJVRUJiYzBvMWJiMTRrUWs4U0tRdE1YQ0xSdmZabkFGWTNROWZLQjBrc1l1LURSU2d1NG1aMXRVTmpHRXpUTHFYR0hzU3VEem9tX3JPWExBZXRidV83VmZYY2g3cTBZX0tkb2pzb3hZVUt0dnhWalN1?oc=5",
+      "publishedAt": "2026-10-25T21:27:09.000Z",
+      "severity": "medium",
+      "titleZh": "French protest groups demand more rallies as Macron faces tough choices",
+      "content": null
+    },
+    {
+      "title": "Violences urbaines : l'État resserre l'étau sur les réseaux sociaux",
+      "source": "Presse Agence",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNME83ZlltbmNwaW04NWhPMFc4bVBpalpsYmNvNGJiRklDUU1QamtXaGtSOE1oYV9uMnRvemVocENTWWV3bU1kSUtMbFR2R3FRR0tPR3VDeWNVem1Oa00wTzNCeDBiTi1GTjVnQ1RDUDZXYTVuVUVOLTZzZEZ1UjJaQ2V2anVSUkcxNHRmUjluRl9MUzZaOEpManJqZklUakVwRDBSYzNuVlBjaEdfeXozSg?oc=5",
+      "publishedAt": "2026-10-25T21:00:00.000Z",
+      "severity": "high",
+      "titleZh": "Violences urbaines : l'État resserre l'étau sur les réseaux sociaux",
+      "content": null
+    },
+    {
+      "title": "France Protest Updates: Hundreds of Thousands March Amid Heavy Security",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81czdlcjVNUjBwb0g2dGNHaldFazEzUkI3bzhKeXVpTHBpMGdJNXBqZVBlT2pFZzROdTJ0dzBoSURnU2N0VzBNY3BER3VLM3ZreUVMRHJKdG1oc3ZiaEJvcHZIVjUtVGlWeFRqcjdMUnJkb09QT0E?oc=5",
+      "publishedAt": "2026-10-25T20:46:00.000Z",
+      "severity": "medium",
+      "titleZh": "France Protest Updates: Hundreds of Thousands March Amid Heavy Security",
+      "content": null
+    },
+    {
+      "title": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0dLRGRZNmgyYkpvTGttQVBhWmRkNUtlNXhLVVEzc25fMW8tYXUzeEY5a0NnMUpZbV8zbHpyNTNqeUVBZkJHTkxEOWpMRkx2amkwWDlRemVESjI1SXYxUUNycV9uRzllS0theFdfdUlxdkJ0cnBGNEllRE8yY1g3cE1RdFRFQ3pTVHpWbDBJbjhpSFhXWjJYWFZMVktyUko1cGc?oc=5",
+      "publishedAt": "2026-10-25T20:30:00.000Z",
+      "severity": "medium",
+      "titleZh": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
+      "content": null
+    },
+    {
+      "title": "Protests in France Did Not Overshadow Steelers-Saints Game: ‘It’s a Beautiful Country’",
+      "source": "Steelers Now",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnhIbTJRa3pFM1Uwb3JVcFY2S2xOcm9VQjVUYlNScGV0MUszQnU3MlBpbGRBZWRmcTF4Y2wzbm9KektDLVhlc2VRT3lpMzRWOFpXQV9Od0lCQjVIYzVMZ3NLVnVxQUNCOHRRc191VVg1c2NCd2gzaVJreDBYRm1OaVFiZWxPVEF1bEZuMUxVU1RKT2lSZ3NFaVlTX3ltWkNkLTZZdmljSUFvZTQ?oc=5",
+      "publishedAt": "2026-10-25T20:11:59.000Z",
+      "severity": "medium",
+      "titleZh": "Protests in France Did Not Overshadow Steelers-Saints Game: ‘It’s a Beautiful Country’",
+      "content": null
+    },
+    {
+      "title": "Les violences ont secoué l'Europe: on fait le point",
+      "source": "Watson",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGQ5OWZMbVI1eWtMWHgzdEpJNndtOUllRUlJQTJwYWs3SUIyVFZFbmNNN2VDQnIwYUFBaWNENHBzQkFGMFFFSTMweVRFQ3RoUjYxeFVoUW1IQkIyMEVYSVBVbTVWZUZsbzh3engzVHBlN1NkTGtmT2c1cXB0WURiZ0xjbHl3SFh6MHhETTVPRGJOUWNENzBtSDl1QUJkRm5FZm9rbmVKMXdidTlFeVE?oc=5",
+      "publishedAt": "2026-10-25T20:06:13.000Z",
+      "severity": "high",
+      "titleZh": "Les violences ont secoué l'Europe: on fait le point",
+      "content": null
+    },
+    {
+      "title": "How to stream and watch Steelers vs. Saints in Paris: Halftime show and protest details",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdzdDTk5QVjhXLUhRZTBYc3oxcUsyWXlndDdtN2dkcjFBandlb1BtZzFaOG1lZHVPX3RkallKeXhxcThDdmliTVI5aGR0WWRYbENxVi0yZGtHTmhlMjNhTTJ5LVVBWnNmbzVCX2pRZTJsYm9oVU5IejNvRkNGenJRS2ZIcFYzOWdjQVNxbHVEZ1NkRjR2Q0Y2TnktdFNVZw?oc=5",
+      "publishedAt": "2026-10-25T19:59:04.000Z",
+      "severity": "medium",
+      "titleZh": "How to stream and watch Steelers vs. Saints in Paris: Halftime show and protest details",
+      "content": null
+    },
+    {
+      "title": "Paris game played in festive atmosphere after fresh demonstrations",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODlPemRDNnlZRnl1Zk40aUFGVE5kSzZvSWl0ZnZJTzN2eGpyNTgxZGVhU0FscUhudktnejh4VVgwVGVyR3kwRzlhY0lRUFEtS2YxYzFKWGd2aGllWU1tekdXVDFUSDBoa1RKWE5pc0tRZ1ZSc1ZJeEF1dm85aWdwWmRWNE8zQ1BjaG8wdElGanNmZS1PNHI4RDJNaE5RM0FtS05XUWFIT193SDJoVEE?oc=5",
+      "publishedAt": "2026-10-25T19:54:19.000Z",
+      "severity": "medium",
+      "titleZh": "Paris game played in festive atmosphere after fresh demonstrations",
+      "content": null
+    },
+    {
+      "title": "NFL fans visiting Paris in high spirits for Saints vs. Steelers game, undeterred by protests",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcldRbE9EdG1TRHcyZ0ZXdWJ0UUJHaGI3akJiQ05PbFlXTWdlRTF5UVRJR2U1dkVaeUR1cGY0bl9CRnN1UDZaSV9yVDlqMl9uRjVtRGFyMWFzM0cwd1p1VTRYZUY4UkhnZnhza2xIRTZnV2ptVzdZZGo0UDFRbmJNZTJzVjFhVDhiSXNBOGpmZDFMMnQ4VW9LRTQxQXNKT1kxMVpoN2xVdUc5YW05dDJrWnA5dFBDSmRaSnc?oc=5",
+      "publishedAt": "2026-10-25T19:23:10.000Z",
+      "severity": "medium",
+      "titleZh": "NFL fans visiting Paris in high spirits for Saints vs. Steelers game, undeterred by protests",
+      "content": null
+    },
+    {
+      "title": "Retailers Assess Cost of Lost Business After Second Round of Protests",
+      "source": "WWD",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2ppeTY5RFpSRkxBS1JBVnpva0p1Y01OWm9rTmg4UDhhWjczZUFNVWY3V2ZLYkRkbjUxVE41X3Rab0hOWWxNQXpLUVhrcEZrOEp1SmY1ZkRnOUFnRVRlUDNkSm84Q3d5cjNxVDQ2YVRuYS1NZ0xTZ2dlVkMtWDlGa3dlUzhqbWpfUmlYRGhfdWR5dVJTWHpUeUx0dHNkVHJ1TG1sV0F1OWxuX0gydDRMZXAtY3pNdXZ3amFYbGhDbkpGREZCV2c?oc=5",
+      "publishedAt": "2026-10-25T19:16:37.000Z",
+      "severity": "medium",
+      "titleZh": "Retailers Assess Cost of Lost Business After Second Round of Protests",
+      "content": null
+    },
+    {
+      "title": "Grève Tour Eiffel : le BAPS au cœur de la polémique à Paris",
+      "source": "horticulture-abadie-pyrenees.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQemRTMXVuY1FLYWdkZG44dnJMV3Bvdzl0bkd0MC1MWllTeEF0YkxtLWNRX044Z2JKTG16RnhsRFY3MkZTUG5xb2ZDb3NQR2lUZzQ3bVZIakkySndqR2Zabl83TEVraVRiMlVNaDN1QWlMbXAyZ1JUVWpJNmZVcWNhLWRB?oc=5",
+      "publishedAt": "2026-10-25T18:51:15.000Z",
+      "severity": "medium",
+      "titleZh": "Grève Tour Eiffel : le BAPS au cœur de la polémique à Paris",
+      "content": null
+    },
+    {
+      "title": "France: Hundreds arrested after nationwide protests",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ibUd4UmJBOWljZ21rREdmQzc1Nk10NDN5UG1uX3d6VzAxMFcyUlUtSjhFZXNFSGlHWXlOeFZ5dlpQaVVwTmRXUG1EVGoyZUtOc0otNkl0SUN2b1Q3TjBLYTJRQ0ZMMHhqdy1CdTRpRE5GZw?oc=5",
+      "publishedAt": "2026-10-25T18:26:47.000Z",
+      "severity": "high",
+      "titleZh": "France: Hundreds arrested after nationwide protests",
+      "content": null
+    },
+    {
+      "title": "NFL-Paris game played in festive atmosphere after fresh demonstrations",
+      "source": "CNA",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMThvNHV3Ym8xWG9la3NTUms1d3BqRzFBeUY1MTNQRUtaUDhRd3dSNXNQbHh5SElPSlhtdVF6ZFRZbVVJczlhTmRyWjlwTHJWcFNtYTEtZUp1ZVZ2ZDFkTHpfY2hTUkZNSmFBYlVkNS1RU09zNnlCU3hYRGE3aFl4aGRjN2pROW9abVc3bzg2OGpYMGRSUVhUaE1nRFh0eE9wSWpnSnc3bGZhRENWU0RNcDRxUWpOM0k?oc=5",
+      "publishedAt": "2026-10-25T18:19:03.000Z",
+      "severity": "medium",
+      "titleZh": "NFL-Paris game played in festive atmosphere after fresh demonstrations",
+      "content": null
+    },
+    {
+      "title": "French TV channels scramble to apologize after airing Albanian protests as Paris and Lyon",
+      "source": "Bozeman Daily Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOa2Y3M2FIM2twRUhpU0JuaUJNMWFqdzdLU01INVlrVktlbEtSZGNsbm9Vd1BzQkltX1lIQTVFZno2RFNrQ0ZBMFJjYndsT2R4Y0VoR29aUXh4a2hJWG9DWEU0T3VlU05vcEdvallFNmI3VlpIaVBNSnpmTUdmUVVxSWdMeWUwUDZ0TjJoWUUxM3pDcER6ZHViNEJiMDFia05tcVRSVFRQTENWV25aZlF4NC1zNTlJQjVpdm5VRVV3UUdOenhyR2p3cUNVS0FRYmZqR0xIV1BManhqUUFZaUdvdl9mdTBQUTA5eGlWcHZSc3BXZXF6M0VWcjB6SU53a0FaQ0VISzJlMGJsWllLRldLVXh6ZnRESGxKeWZRajR5NVhKUQ?oc=5",
+      "publishedAt": "2026-10-25T17:56:27.000Z",
+      "severity": "medium",
+      "titleZh": "French TV channels scramble to apologize after airing Albanian protests as Paris and Lyon",
+      "content": null
+    },
+    {
+      "title": "Agressions et bagarre générale : à Rouen, des militants identitaires prennent à partie des manifestants",
+      "source": "Paris Normandie",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR2c1TDRJLXVneDEzRF9vMG04SE0xT040cXFFS2pmdlBoLXRHY3piallxUFpuSHFEWnVabmpmZldDZU1qVXdNbEkyNWxDdFYyZm05QW04bS1xdFYzZGVQbkN5N05TenZPRjVvZmNObkJWVHB1b3NWdlhWTDg4em12ZlM0RkZrT0lxX3hMYTVYTzEySUFuVGdJSWZiejJGaV8tRnd4dHRoeVFVdkVCQTRWRTF0QUxKRjVhdGNuRC1SOV9DdmdUMTFjZFEzMEM5ZjNwbllQOQ?oc=5",
+      "publishedAt": "2026-10-25T17:49:04.000Z",
+      "severity": "info",
+      "titleZh": "Agressions et bagarre générale : à Rouen, des militants identitaires prennent à partie des manifestants",
+      "content": null
+    },
+    {
+      "title": "NFL experiences smooth Sunday in Paris",
+      "source": "Sports Business Journal",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaHd6bG9wMVRSekQwYVM3ZG5qcE55d0FNaWdBcWJUSkhzZWxodm9UeklCc1ktS2JhdzRYWXgwQllmLWhQcWlLMGxzWTZYRzByX0RwLU1NbmJ4OXViOWJ5Snd2MXRQb3VlN0hIb2VsMHVmc2thdGsyajRGdDZqSVRiRWVLNFo1SkhkSjBDV3dON0JzUzJmUU5jcFktZ21HVjE2QzlSa1hR?oc=5",
+      "publishedAt": "2026-10-25T17:31:58.000Z",
+      "severity": "info",
+      "titleZh": "NFL experiences smooth Sunday in Paris",
+      "content": null
+    },
+    {
+      "title": "Nouvelle manifestation à Paris, enquête sur l'attentat raciste dans le Yvelines... Le point sur l'actu en Île-de-France",
+      "source": "Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRVFGUVYxeGpnbzBnNVJlR0FtRVIyd1BNNng0bjhFZUxJdWtmY3hkX2cxTnJOdzVZS2FvQktmT215ZlNaQzhfU0Y5S0pyUllqaGFINkJMcm1jYUx2ZmV4T1E1YzFLODB5Yzc5bGlmSlYwdHAtRURMWF8zZDM3Z2JGRi1GdERtU0RsX01fUlhNQXY4aGhVLXdDZG5TLVlsa3g0VVQ3aVVKR09xZGlMQnB6eWtXdXVpbGJPVWhPcGt4SUVhb21RbU5aV2hNSGxxUUR1TmNzYlZkRjBlbmdXOXBXcUozblNOZVZ2RUtJNnFYem1SQ3FwQ0xJN2YzNGtPakh0?oc=5",
+      "publishedAt": "2026-10-25T17:04:01.000Z",
+      "severity": "medium",
+      "titleZh": "Nouvelle manifestation à Paris, enquête sur l'attentat raciste dans le Yvelines... Le point sur l'actu en Île-de-France",
+      "content": null
+    },
+    {
+      "title": "Fake et intox record ont cherché à ternir les manifs en France",
+      "source": "Blick",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSXM3NndxTTdwdTU4WEVpbUtrYnRmUXNMNTdwM2RYWkpMb185Zk9YcDJOOGZNTUpEMmN6VlA0Rldqai1pM2VJSzM5bUdVVUxOZjlXSzhLU3lYaVVJZ21CdFA1TW9mNHlIalluMkxnOGVoSnljQ2FpWm0tR0l2SWVIMzIwVGQ0MlBIWDk4OHJQQjdEaEM5RTRRN0lnQU9uTVhOZFVSR1Nn?oc=5",
+      "publishedAt": "2026-10-25T16:58:50.000Z",
+      "severity": "info",
+      "titleZh": "Fake et intox record ont cherché à ternir les manifs en France",
+      "content": null
+    },
+    {
+      "title": "« Ils n’ont qu’à aller vers les Champs-Élysées ! » : à Paris, les commerçants s’inquiètent déjà des prochaines manifestations",
+      "source": "Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQNFppZlZQWGZJTlAyRlY4YllYNWVVVGtKRnh2SVd4Zy1iUXgtZ3NOeXI1dWVmVXFwZnI5YzRpT05qSHFqVUJRVkdwaUt3Q1dhRTNWd1NGYkFDYkRCeHMwQnpBSjJZblZMblBsVFNmMW9hWlQ5RUdtT3ZzTkRHaGRuMGdXNVJWaFdqQTJLTHZBUFJ2dnVnY1Zpa0IxMlpPSzF1TWV2X1ZwWV9rZzJ0cmM4QUFKQVlQZzY2MlNmR29uVDE1MnJxbXI5YlNNUlVkdEtEVDFFeFNkMzBCOVVkU2x0TzRrVWhDR0pESk8zZ0JZWGxna1N6ankwbXkwTHFkRFVCZTQyQ1o3clJuRVFIU2hsUkFUSDg4b2VpdEE?oc=5",
+      "publishedAt": "2026-10-25T16:47:51.000Z",
+      "severity": "medium",
+      "titleZh": "« Ils n’ont qu’à aller vers les Champs-Élysées ! » : à Paris, les commerçants s’inquiètent déjà des prochaines manifestations",
+      "content": null
+    },
+    {
+      "title": "NFL announces decision on future Paris games after civil unrest",
+      "source": "Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSlZaX2xzZy1IU3NKb2ROb0VxenFxeksxelF4S0hXRC1SNW5YdGI4bi15SGxNZGJGSFk3cGxqZjRKZTdWamRfWW9DYVhfNlpqM3lKYlRJbVViU0drNDktNXZ4QjZqVXdlVUJxUi1xcHp4MW1tR0NDNGFnMW1FVEI0cEVYYWdpZ051dWZfbA?oc=5",
+      "publishedAt": "2026-10-25T16:45:45.000Z",
+      "severity": "info",
+      "titleZh": "NFL announces decision on future Paris games after civil unrest",
+      "content": null
+    },
+    {
+      "title": "«Il est où le cortège ?» : les dessous de l’interdiction in extremis du parcours de la manifestation à Paris",
+      "source": "Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUEZPYTRaUmhYUjB6M1F2ajRaT0VZN1MtcS1LcUd1RV9veDdEYlA2ZGxGU0gzT3drWmhpeWlNZkRGNURTaG1LUlRnR1JfSW1hdjRjWTdRLUlTaGMyT2swYXVZTGE2aDE4OTBYQ2FFdElJOW1OLUM4ODlGWFZXQ1A0c3MyRlo2bktJUnAzbVJkb0ZMV002aUNGVm43bTBNYVFYS1R2c2NtaVBoUXBhQlR2XzFOMkJEZVRkaXM2RXBBVzFXbTUyOE1kQ0pydUg1NWV5SlRYRjViMHpEOXBibTc0UkFWRVk3TDQ?oc=5",
+      "publishedAt": "2026-10-25T16:38:23.000Z",
+      "severity": "medium",
+      "titleZh": "«Il est où le cortège ?» : les dessous de l’interdiction in extremis du parcours de la manifestation à Paris",
+      "content": null
+    },
+    {
+      "title": "À retenir ce soir : vigilance fortes pluies, voitures incendiées, volcan, manif à Paris et contrôles routiers",
+      "source": "Imaz Press",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxSmFmRk8wdVRmNk5RMm9NRjFpd0xxS2NIX0w1SWVvREdqUUUxZDJyVFBFdHd6cUlmTjZWZE1va3FqNEF2Z2hyMllqZ1o2MkEteXNQbXBrRUl0NFVlUDE0dk9vVWo?oc=5",
+      "publishedAt": "2026-10-25T16:24:53.000Z",
+      "severity": "info",
+      "titleZh": "À retenir ce soir : vigilance fortes pluies, voitures incendiées, volcan, manif à Paris et contrôles routiers",
+      "content": null
+    },
+    {
       "title": "Le journaliste algérien Badis Khenissa (AL24 News) agressé à Paris : ce que l’on sait",
       "source": "Visas & Voyages Algérie",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0lRYlluRnJJUGF2TF9MTFQyNzZRVVF2VlJiTVRsYjJCTnlTWjhMR0Y1czBLNWN2b0ZYd0lzczdxVlpRb09CS2RmRjl2ZTUzeFQzSG1kOVVmdU9mczRBZjc1a1M3ejZDMGVFQlhTQWlXbzlCMi1VUWsxYXNHQ1U5azNKMVVidTk4U04wZWROZGd0VnNSajJRMFBaYUpzWkd1NXVaM2FXMU1EVTVjbmk4?oc=5",
-      "publishedAt": "2026-10-25T15:42:27.000Z",
+      "publishedAt": "2026-10-25T15:42:04.000Z",
       "severity": "info",
       "titleZh": "Le journaliste algérien Badis Khenissa (AL24 News) agressé à Paris : ce que l’on sait",
+      "content": null
+    },
+    {
+      "title": "Après le 24 octobre, de nouveaux rendez-vous déjà attendus la semaine prochaine",
+      "source": "Le HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWVZONWZlMEFhSVRHYVVNblNsNV8xMnNnU21xcWNBa2Yxa2FuYVB5MEFFcTVBM3FmMmtLTllPQThjNmNYQmVCakRZM2Q4cUhvMjhWeDNDdEhEM1d5VUtITGFWUWRNZElsdnJqLVYxNEQxMjI5UG1wSV91UW5aOS1vUUFaemR0WW5uY29ELWlsMDNobmpvUDJENkdUSDFmaHhFOHFySEpQRnFWOWdQMm9oak1iMGl4MVBrVUE4cHh5SmtERHZzaWtBQk5McXpYWlNLcnBHWGhXMkJ5Wi1hbnFWbFRCZk91QQ?oc=5",
+      "publishedAt": "2026-10-25T15:36:25.000Z",
+      "severity": "info",
+      "titleZh": "Après le 24 octobre, de nouveaux rendez-vous déjà attendus la semaine prochaine",
+      "content": null
+    },
+    {
+      "title": "Video | Paris Protest Turns Violent: Police Fire Tear Gas, Clashes Erupt",
+      "source": "NDTV",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0dzOWJnWmZVX1o4OG1oeFhPQi15T3lJdVZQNUVWODNidTR0UnpfSDlQeGxDR2RwXy02eTJKdXVSdjNxMFJlRnhjSVR0Q0QybHRBLVVCR1dpMktsMzhyckt3VVZMeFZUckR5MXQ4cU9SbzZ4R21aZDV5Q0RXbGJ2ZHlRakljWFR2NVdxRHdsYVZLZFlIRXpxUzV2WDBPdw?oc=5",
+      "publishedAt": "2026-10-25T15:33:41.000Z",
+      "severity": "high",
+      "titleZh": "Video | Paris Protest Turns Violent: Police Fire Tear Gas, Clashes Erupt",
+      "content": null
+    },
+    {
+      "title": "From arrests to crackdowns, how Europe’s leaders are responding as protests rock the continent",
+      "source": "Fox News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1h1NzE1SGNGYW1zbW55YlB0TmY0Q0pmVnFnMjNVbzlSemZYN3ZLTHcwUkkxRy1aUE00SlJlUUxzUXJWWmR3UEg4OXJrMlpqSmpfLTJDd2trQ1lvMGJaenhBR3pRSkJKN0gwc29qWUpzcXN5SjU3RnpOSFpmQ0tXLWRFYnMwZ2dqclpQQVBQUzlEZ25lWFFIVFB6OFFQbEttU1l1NG5R0gGrAUFVX3lxTE53N3A1SjJSVzJLM3VlQnZwRmNPd01qLWE5Y2JfX2gwMnhlQ2pYYW5WX1FHV1h5MkJRUWZhd0NvN2xVTk1Xd1ZoVXVUTFhUWWduRWdLWGlrTmVyVVE2Sy1hTGtfMkhLZWFHcXl4OVhnRDIwcVFreXdEZ0gxRDQxT2FHaTROR1JrcUpCbXJTbEVMNC1QN0IzWGF1b2JyRVhFaUhyQm5JYl8zbmdCVQ?oc=5",
+      "publishedAt": "2026-10-25T15:24:14.000Z",
+      "severity": "high",
+      "titleZh": "From arrests to crackdowns, how Europe’s leaders are responding as protests rock the continent",
+      "content": null
+    },
+    {
+      "title": "Videos Show Tear Gas, Fireworks Being Fired During Violent Paris Protests",
+      "source": "Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGRLM3liTVZNNXZKakt5RGJnbEVwbURLODNkcTk5blFkaDB5bkVfaDJrQUV5LU9hbHJWczJ2WHZvTmlpeDh6WkZzVkw3a2xDVnJxcDc3YUIxUmIxal9WeVVSekphSklFcHB0eElVY2x2U0YwcDdjQ0tXanExMXN1QTE1eEJXVE5pS0FfU3BJVUxiS194SjJKSXZraU5pYnp4U19leW9xSGYyQQ?oc=5",
+      "publishedAt": "2026-10-25T15:06:00.000Z",
+      "severity": "medium",
+      "titleZh": "Videos Show Tear Gas, Fireworks Being Fired During Violent Paris Protests",
+      "content": null
+    },
+    {
+      "title": "Good mood among fans attending the 1st NFL game in Paris, a day after protests and clashes",
+      "source": "TribLIVE.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzdicTU3eGhub2xkWHlSWnJTa1cwQXlOa3EzX2c5bm1LYWFkNHBYSHNXd0tpdXcyekxJVnhMVm5NNWFXSHNzMHdWVGtpWEFjQUtzcXVKUU82Ti1kUHpUenV6TV9mbTBIZXNETkNQY2tXVXhZMXk4Z1hPNHdsd0ppVUhrVXdZbTJaUmtvaDYwaXAyb0RNOWtmZTlqTzZWeXBxVTlhRzJLLS1wbHpUYms3dlkwazJ5VzhxbWc?oc=5",
+      "publishedAt": "2026-10-25T14:59:10.000Z",
+      "severity": "high",
+      "titleZh": "Good mood among fans attending the 1st NFL game in Paris, a day after protests and clashes",
       "content": null
     },
     {
@@ -459,21 +682,21 @@
       "content": null
     },
     {
-      "title": "Casserolades, manifestation, grève générale : quelles sont les prochaines actions annoncées",
-      "source": "Libération",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVHBYUE4tRTZlU3dKbzlDUFdxVFJsMzdWbm55ajh6dzRDNGJDYlJJOGthRzM0NlpLb3ZmZjUwQ0g2aFk3cE5USU5XUHJRSkRKVEkya3kxd2dGVFlvWXdEdlV3dVJ5aV8wSmI3UmI2amNuX2lOQXJZX3NxMXctTndBSnlOekthdFpUSFczallIUjVJYURiZXo4cE9hY1JVNHFKLVBVTDlWVTNONGRzcnEzbEhOZUdNWTZnSThpQzIyTm9BWUxFd2xEdGE3aUE1N2ZXcGxZSGxYdHh6WjZBQXpUQnFCU3FTT0djcmJ0NFpLOA?oc=5",
-      "publishedAt": "2026-10-25T14:49:36.000Z",
-      "severity": "medium",
-      "titleZh": "Casserolades, manifestation, grève générale : quelles sont les prochaines actions annoncées",
+      "title": "Good mood among fans attending the first NFL game in Paris, a day after protests and clashes",
+      "source": "Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVTQ5NTdZcHdZX1Nndm81dmlCMkRIaVFneFRjM0lrekh3OVRycEViVmhUT2t6ZlBuX2N2NG9tSDZXdHJoajJqdlpQajlLSVBTSFVPRWo5blVkeWNCTG1IN3lqNVZFOU11VFZuNkprOW9mQXBhV0RPQXFpRXJkc01zb1RJcG9mOFcxOS1yYUxGYlREN3FPSDdoLW9yS1RyZWtvX3hQZFR1Y3lGV29xOUZ4REQwb0FMNXdONk9MU0t3WE9PM2x0anhzZ1FyQTVsZkpvbm9IYUFTREtPRVhWODQ1Szd1S3VHSy0yZGRpZXh1cWt3WktULUQweVU3dzdfUi1BYXZBTk1CT1BXaEFyQmc?oc=5",
+      "publishedAt": "2026-10-25T14:50:18.000Z",
+      "severity": "high",
+      "titleZh": "Good mood among fans attending the first NFL game in Paris, a day after protests and clashes",
       "content": null
     },
     {
-      "title": "Good mood among fans attending the first NFL game in Paris, a day after protests and clashes",
-      "source": "Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS1lORlNHU3pJQmhHM2Q4NGp2Nm1EQWhmZmxmbWJVSjdUOXkwTFNKSDVDb0dQOUZ2SlBLMlZQbUNkaTZDTGhqVmZUS3lyNGYtelZPczg3TGVlZy13cVBTMUNUYldCSU9yUHI4QWxQQUFNWURnYTAwbjNaTjlnTktIb01aQ0FpQQ?oc=5",
-      "publishedAt": "2026-10-25T14:49:12.000Z",
+      "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS1JVbTVIUDc2bno4ZDI1cTdTaGFwTGpMSlJ2Ynp4bEtxSjl6Y0RuZUxOUmNHQWRPTnlfOEd1cURTYUYxNHRqR1RqOXdSMzFlR1FWZkRsQ1A0VW1TbXBTRi03SDd5MFZqZWI2Z3R5Q19FR1hqa3dpU2tXOUJ5TkktcjFzTjFYZGZnVUlaatIBkgFBVV95cUxNcFpNTmNabWg2OVdLWHZabzc0c3hYVjdBNGdtdEVIM1RfNGQ2WnVtUTNyQzIxSmVqTjJKQzBxWkxIZ1NBWEVqcUxFRjBaSEVGOUJLb2gtOVpJVV9nZzNoZktfUFpjOGRrZTJSdE9haTFaenBtOUItVnFTYldmOGxmdmxNaHRXemhubkhUa3RiTENJdw?oc=5",
+      "publishedAt": "2026-10-25T14:14:23.000Z",
       "severity": "high",
-      "titleZh": "Good mood among fans attending the first NFL game in Paris, a day after protests and clashes",
+      "titleZh": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
       "content": null
     },
     {
@@ -486,6 +709,15 @@
       "content": null
     },
     {
+      "title": "France sees another weekend of mass protests with nearly 1,000 detained",
+      "source": "KOMU 8",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRVBKMkktLVBweVlqcV9leEJ4MV90ZFE3eDlVN2RGa3VNdTF1azVSSDRVeTdZQ1d6eUpqeWtVWFNfZFY3cDliMEtwQmNjZG9JSVNqQjhhTHk3UjQ3U2I4eHZlNUlKSWpkUUFSUEZwVFAwU0tibHFTeGlvUFBZSWswTHhuMDlwckpBUkRvb3pHQW5hWFRTd1oyX2FlWjA4RjNtTzMwLVBPQ00wU3FtZnFUTTdsM2RuY19ReGRQMTVzRy1mb3dkMjZpOUVjY3hQTC14NjJPX1kwU3JQejhtbGJGb25GQThDZ21UamtPRFg4OUNwOTU2NkHSAfYBQVVfeXFMUEVQSjJJLS1QcHlZanFfZXhCeDFfdGRRN3g5VTdkRmt1TXUxdWs1Ukg0VXk3WUNXenlKanlrVVhTX2RWN3A5YjBLcEJjY2RvSUlTakI4YUx5N1I0N1NiOHh2ZTVJSklqZFFBUlBGcFRQMFNLYmxxU3hpb1BQWUlrMEx4bjA5cHJKQVJEb296R0FuYVhUU3daMl9hZVowOEYzbU8zMC1QT0NNMFNxbWZxVE03bDNkbmNfUXhkUDE1c0ctZm93ZDI2aTlFY2N4UEwteDYyT19ZMFNyUHo4bWxiRm9uRkE4Q2dtVGprT0RYODlDcDk1NjZB?oc=5",
+      "publishedAt": "2026-10-25T14:09:00.000Z",
+      "severity": "medium",
+      "titleZh": "France sees another weekend of mass protests with nearly 1,000 detained",
+      "content": null
+    },
+    {
       "title": "Paris cost-of-living protest: 142 detained, 120 held in custody",
       "source": "Around Prague",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSDN0ejZUUGc4NFFaTTViSFhQOGlfVHBJakpZZ3hsbmhvWGV3bVZLcUk0Ri14SDc4a1VySF9WSFo2T0pZbXVxQ0VmWENoRVQwZllrRXBGeFJhcGNMeHd3dmdvbnNFQmpnZElLdUpvaW9JRVFWb0l5MTJ1ckRxX3JHak5hZlJSREt1VW9uY3FiVG5hUUF4UmQw?oc=5",
@@ -495,30 +727,21 @@
       "content": null
     },
     {
-      "title": "How to stream and watch Steelers vs. Saints in Paris: Halftime show and protest details",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdzdDTk5QVjhXLUhRZTBYc3oxcUsyWXlndDdtN2dkcjFBandlb1BtZzFaOG1lZHVPX3RkallKeXhxcThDdmliTVI5aGR0WWRYbENxVi0yZGtHTmhlMjNhTTJ5LVVBWnNmbzVCX2pRZTJsYm9oVU5IejNvRkNGenJRS2ZIcFYzOWdjQVNxbHVEZ1NkRjR2Q0Y2TnktdFNVZw?oc=5",
-      "publishedAt": "2026-10-25T13:46:51.000Z",
-      "severity": "medium",
-      "titleZh": "How to stream and watch Steelers vs. Saints in Paris: Halftime show and protest details",
-      "content": null
-    },
-    {
-      "title": "«D’un point de vue psychologique, ça rassure» : des agents de sécurité aux serruriers, les commerces parisiens ont anticipé la manif de samedi",
+      "title": "Casserolades, manifestation, grève générale : quelles sont les prochaines actions annoncées",
       "source": "Libération",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNZ2ZfZGhYT05kSDRydWZjbWlzTkI5eEM2Nk84Z0tydThPZ29SV2NpQTJIQm9IeXlGaDlmdlpkc0txWmk2VURXN0VLaEw3eS1HeFZvLVlneEVfeWx2ZFdYdXhlemxyaVNoUXlaX01pVVpXTjdxeV9qVFNoTmkzTzZSSmVKcWZKclpNbTZicmx1V2pRcU9LYnZVYU5sdHk0TkIyekYycGZDYlU1SnZSWWxaeGoyZkZUT1VOckJBaGlfOEY0c2ZCX0FGaFo0TmZUVmx2amM2aXRCOUtfejJkaVMzSGtGaXFLMEVLR01XYndrMDQyQmZvZS1SQVpQQ0NGWFRybU90UE9HMXpVR1M3Z2Z3d3hqNmNMcTZvMjJaX3piRUVxODAzVHkzcE8wbm1OUE42?oc=5",
-      "publishedAt": "2026-10-25T13:38:54.000Z",
-      "severity": "info",
-      "titleZh": "«D’un point de vue psychologique, ça rassure» : des agents de sécurité aux serruriers, les commerces parisiens ont anticipé la manif de samedi",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVHBYUE4tRTZlU3dKbzlDUFdxVFJsMzdWbm55ajh6dzRDNGJDYlJJOGthRzM0NlpLb3ZmZjUwQ0g2aFk3cE5USU5XUHJRSkRKVEkya3kxd2dGVFlvWXdEdlV3dVJ5aV8wSmI3UmI2amNuX2lOQXJZX3NxMXctTndBSnlOekthdFpUSFczallIUjVJYURiZXo4cE9hY1JVNHFKLVBVTDlWVTNONGRzcnEzbEhOZUdNWTZnSThpQzIyTm9BWUxFd2xEdGE3aUE1N2ZXcGxZSGxYdHh6WjZBQXpUQnFCU3FTT0djcmJ0NFpLOA?oc=5",
+      "publishedAt": "2026-10-25T13:48:00.000Z",
+      "severity": "medium",
+      "titleZh": "Casserolades, manifestation, grève générale : quelles sont les prochaines actions annoncées",
       "content": null
     },
     {
-      "title": "Paris NFL game set to kick off in calm atmosphere after fresh demonstrations",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODlPemRDNnlZRnl1Zk40aUFGVE5kSzZvSWl0ZnZJTzN2eGpyNTgxZGVhU0FscUhudktnejh4VVgwVGVyR3kwRzlhY0lRUFEtS2YxYzFKWGd2aGllWU1tekdXVDFUSDBoa1RKWE5pc0tRZ1ZSc1ZJeEF1dm85aWdwWmRWNE8zQ1BjaG8wdElGanNmZS1PNHI4RDJNaE5RM0FtS05XUWFIT193SDJoVEE?oc=5",
-      "publishedAt": "2026-10-25T13:27:56.000Z",
-      "severity": "medium",
-      "titleZh": "Paris NFL game set to kick off in calm atmosphere after fresh demonstrations",
+      "title": "NFL overcomes civil unrest, Trump concerns and calls to postpone as Steelers and Saints kick off in Paris",
+      "source": "Fox News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVNhaEdvZ3V1S0JVajNQN2RJWFljSjFJMXVmZkxtLWNYWU8wajV6QjZLc0FmVHJzck10OHozczkyMkkyWFp2NTk2OEl6ZmRRdENVdkdfLU83aW9YNEtZZnd1SmlGMHNsbmlOVGZtelh3Rk5TMmFIdGFPUFpxQmdwTFJNNkFLSzhSeWE0Y2dOOExJUU9lQnhiUEN5ZVI5amZfbmtKNVd5Z1RoTFBScF9SRXNqbGdQd0o2ZWxJZUNZSl93UV82?oc=5",
+      "publishedAt": "2026-10-25T13:33:21.000Z",
+      "severity": "info",
+      "titleZh": "NFL overcomes civil unrest, Trump concerns and calls to postpone as Steelers and Saints kick off in Paris",
       "content": null
     },
     {
@@ -531,273 +754,12 @@
       "content": null
     },
     {
-      "title": "Paris Protests Expand",
-      "source": "930 WFMD Free Talk",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1UEhVWnhtNUV1YWFLT1Q4VWNLWFduaHF3R204WUJKZGs2RS1ralk4Q2FYUVhXb3oyM0tiNUlBWHVSOU5tdVE0WXp3aW5fV29GU0hCV2VnQUI3NzFPYUNDUEpFcE8?oc=5",
-      "publishedAt": "2026-10-25T13:09:08.000Z",
-      "severity": "medium",
-      "titleZh": "Paris Protests Expand",
-      "content": null
-    },
-    {
-      "title": "Do you hear the people sing? From Paris to Marseille, French protesters face tear gas as anger over costs boils over",
-      "source": "Malay Mail",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTGcyYzJLdGQzY1VyV05BRmEtMFYtT0s4bWlEemhQdGpqUmtwY1ZqejNIdzYyTkdNSFVMMUw3YmZfRkN5RkJpSEdvbmlQcnREXzZ0b3pMeUdxcEF1U1JoT2F0TmhndFIwSDRuUUNpaUNyWDhfQV9sUmFXMGdLaDZySXI2X3E5YllSYks5aVRIWkk4M1JEb3ZzTFNnbXNhZEJaS3ktR2JIOUIxNWRzVDZ5cmNqUU5nV3RPWGVrMFk2Vm9QODJMXzNTeVlPODBSVW5zeHlPbTUwYjEtWHB6SEh2NkVZZEE5ZHE2UWF1QjNoVTd6bXJKVEZ5dkJraTFfQdIBgwJBVV95cUxNYUdlaDF3UmZVcmdwTHdQNmlERFpSbzBJWVlPcXByaG16alZrdVNfSDNZakFxZXJPRXU5azF1VU5ralZBRFRyMzZfd1k5Y3hENTZ0RWZzLW9aN05rbEZ5U2RtdzdxS3lYVkFDdndMWGRybngwOW9GeVpUbGpSa1NhOHBZVXJBZGdjWDFXNlF0VkliMnFPdW1CNXBlTGEzYlRfX2Z2S0pycG9XU0ZWbV9tNkpDR3M5U1ItZjhFNjNRd202ZU9oa2cxZE1CVHJkVWVrcGtvT213bzVMUi1YaGFvMHMyYWlIVUxBTEJoVHh5WVU3dTg4bV9LYXhheUZDOWN1aWg0?oc=5",
-      "publishedAt": "2026-10-25T13:03:16.000Z",
-      "severity": "medium",
-      "titleZh": "Do you hear the people sing? From Paris to Marseille, French protesters face tear gas as anger over costs boils over",
-      "content": null
-    },
-    {
       "title": "The week in pictures: Protests across France, wildfires in Indonesia and Brazilian elections",
       "source": "France 24",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzZ0QUJKM0NNclFGRHV2el9BS0d0OU1FYUhnYTQ0RDBGeFZOYUt5eXc1ck9kVGFhenVGVXVKRUhWZ3pBUkRobmh3amZwdmEwZ2RHdDBtdmtRb19pREhTdDA0amc2Z1dObDRoVHN1RDBYWTkxUnZuV3Y4QW5nOC1vSkYxYW5uenJDa0ZZTnpSbUJvcnB4NWF1NUlZZndkcFJ4bGphcmVnVDRFdmR6LXpvdXRuXzVOaEF5Yk1rc2dsY1FGMjNJX1hURzVaQ3ZlQWc?oc=5",
       "publishedAt": "2026-10-25T12:48:31.000Z",
       "severity": "medium",
       "titleZh": "The week in pictures: Protests across France, wildfires in Indonesia and Brazilian elections",
-      "content": null
-    },
-    {
-      "title": "Manifestations : des commerçants \"soulagés\", mais inquiets pour les prochains week-ends",
-      "source": "Boursorama",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbnB3WFY4cWNyOUpTZXFOaFoydjJldWJlcThYUXpjUzJxalc2TlNRdmU3S3FvbkVteUZkVk5LTnBfOXprTXJ0SWcxdmV3TDRkQU1fOXVtdlZIYVlVVmhyb2l3cndWMmNaVWxxRG9yRzJyNEgzcGpSamFsazlxMV9OMzZ3SnhVWU1JdWkydXh0TnN6MENwcXh4WjlfR1ZVSU82UE9wWGk3OXZjRUcxcERQdXN0dWMzU0Y2ODlfM0RCTFhoeUtqMW1wclhVY0twX0JHMFdyb2pScUdLSnM1ZW40LXFOa3RWRUY5a0U4bEQ4SU9tbGV4eEVF0gH3AUFVX3lxTFBucHdYVjhxY3I5SlNlcU5oWjJ2MmV1YmVxOFhRemNTMnFqVzZOU1F2ZTdLcW9uRW15RmRWTktOcF85emtNcnRJZzF2ZXdMNGRBTV85dW12VkhhWVVWaHJvaXdyd1YyY1pVbHFEb3JHMnI0SDNwalJqYWxrOXExX04zNndKeFVZTUl1aTJ1eHROc3owQ3BxeHhaOV9HVlVJTzZQT3BYaTc5dmNFRzFwRFB1c3R1YzNTRjY4OV8zREJMWGh5S2oxbXByWFVjS3BfQkcwV3JvalJxR0tKczVlbjQtcU5rdFZFRjlrRThsRDhJT21sZXh4RUU?oc=5",
-      "publishedAt": "2026-10-25T12:40:17.000Z",
-      "severity": "medium",
-      "titleZh": "Manifestations : des commerçants \"soulagés\", mais inquiets pour les prochains week-ends",
-      "content": null
-    },
-    {
-      "title": "French protest groups demand more rallies as Macron faces tough choices",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmJMN1JUSWphZktVT1hXNmhHdXJYblhCMjFhREdZTzR2ZWhKdWgwRnB1enEwWFp3TWxJY2hvN0tQX0RpSXBFdFJVRUJiYzBvMWJiMTRrUWs4U0tRdE1YQ0xSdmZabkFGWTNROWZLQjBrc1l1LURSU2d1NG1aMXRVTmpHRXpUTHFYR0hzU3VEem9tX3JPWExBZXRidV83VmZYY2g3cTBZX0tkb2pzb3hZVUt0dnhWalN1?oc=5",
-      "publishedAt": "2026-10-25T12:38:50.000Z",
-      "severity": "medium",
-      "titleZh": "French protest groups demand more rallies as Macron faces tough choices",
-      "content": null
-    },
-    {
-      "title": "Laurent Nuñez Says Police Arrest Nearly 1,000 In Paris Protests Over School Funding: 15 outlets compared",
-      "source": "NewsCord",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeFNJd0tyUFBlMkJXaHZyeFgxQ2NuQjIybGJ0VzFsWHFLZGZKYWI4ZWxDbWtGSUYyckFuRnZ4U2lzcmFjUUdzVXdCY0VSWEF3Q2Vsck1nc2IzeEJrRFRXUDZQSVlOMWQzZWpXeTgxWTUxMlVNcE02cHFyRFI1QTZ2SUlpeFVvSDhuMVNlM3BhS1JHWUJ5ZEVqT2M1aHZMZTVzS3pXUkRhS3BZRXZwdFQ1R2gxaXFRUnZKWXNHSnl6MHlzdVZIM1ZlOGlXZnNJcEU5MWxwMGtoMGtlc0E4bGFCNEMwWVZ0dWhxdWc?oc=5",
-      "publishedAt": "2026-10-25T12:37:40.000Z",
-      "severity": "high",
-      "titleZh": "Laurent Nuñez Says Police Arrest Nearly 1,000 In Paris Protests Over School Funding: 15 outlets compared",
-      "content": null
-    },
-    {
-      "title": "Protests Erupt Across Europe Ahead of Historic NFL Game in Paris",
-      "source": "TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQazRTeUF5SGFHZjBIM2Y3RGFwRXFUTEFhWXEzbExJa1JyakhFOXpHZzNGMTJGZk9lQ1dldjNiWXZVQUtWRW5hUlU3cjE3bEU3Uk5tRUk5Y2poTWNXc185R2NBQWJOQXFlUUdTNVNhUnhiWmNwLWxHM2plRDlZZFc3RF9Sd2JwUFp5enFwRkhCR2ppenNfdTJNZVY3b3FoZzROWFNjRFc3N3k?oc=5",
-      "publishedAt": "2026-10-25T12:34:21.000Z",
-      "severity": "medium",
-      "titleZh": "Protests Erupt Across Europe Ahead of Historic NFL Game in Paris",
-      "content": null
-    },
-    {
-      "title": "Grève intersyndicale du 5 novembre : transports, éducation, santé... Quels sont les secteurs mobilisés ?",
-      "source": "Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV2t1bnhEcDQyczJuZHpaTUVpeUs1RjlnQ0tJZkVNX1p6N3JjNUszRWxnR2JCV0I2TVU1RzBBTGVHak5CTlhWcHNKdjQ2QlhDbnJBZW9BT2lVcmo2d1BjN3pJMnVCQXBINzAxODFkT2tFaFBlMkRmY3poRlpaOWxTc1ZoUTFKUXJqS2lqOGdSZ2dYRi1UdnpKQ2tBWlYxeHFPYnVkaWFHM1ZzSlJpSTBUR21JY3hNc3RiYTFHdEpuU0lnTzdHaHhMUTV4aEwxYl9s?oc=5",
-      "publishedAt": "2026-10-25T12:14:34.000Z",
-      "severity": "medium",
-      "titleZh": "Grève intersyndicale du 5 novembre : transports, éducation, santé... Quels sont les secteurs mobilisés ?",
-      "content": null
-    },
-    {
-      "title": "\"8 impacts de balles. C'est une violence, une barbarie terrible\", attentat raciste à Trappes, la fillette de 12 ans, blessée, toujours hospitalisée",
-      "source": "France 3 Régions",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxObWpUMUtkcmFKWVE4SE0ycktBejNKWHprVkdrSG5EcTRFZFh0OTlncnFJMHNxam01bjNZUlZKQjlUSVA5RnlUd1N2eVdodGdnRThyMTlZb2pTQWpUVXZ4dEkzRDBZNXR6ejJBRHN0cG5Hc0pYZFVSVkdrSlo2bFFGbWw0U0ZxOWlJMDBZMHdmVjMwVW1lY1Zrcm9mQUdvNnc2Q1NfZWZIVW14Wnczd3pvandtUEZ0V21pRUdIc3hwdEswSXRsaW9RRHRNS0QzMXRIVUxxYk40TWJuUV9mTWx1bkVTLUxDTHBybm5VZFJOa1F6XzUyVXAxOFkwYTRuVFE0Z2c2NXVXMkRXTllUZXJiT2NsaDg4aFV3MXowRXM0alpSU3ZWQThIWjZqTkxGS0VtWXh5ZA?oc=5",
-      "publishedAt": "2026-10-25T11:08:04.000Z",
-      "severity": "high",
-      "titleZh": "\"8 impacts de balles. C'est une violence, une barbarie terrible\", attentat raciste à Trappes, la fillette de 12 ans, blessée, toujours hospitalisée",
-      "content": null
-    },
-    {
-      "title": "France protests: tear gas and 1,300 arrests after 400,000 march in peace",
-      "source": "The Times",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMEhEN2dHbmtrMWZGb0ZoTlp1VUlsTXhPaVNJalluRWJIMXo4QkFLQVdHaS1OSUlYVWZaSHlFSklJVzhfNUliZURza2dzQ3VXNHR4dUYzbFRSQXQ0aWRjTUFjeFJvRkh0X0ZfTDI2S1BPRnJsa3RPcU95dk0xNEg4LWd6LXprR1piVnJhQ1FKcFlnUUFSbzNKX3pKbw?oc=5",
-      "publishedAt": "2026-10-25T11:00:52.000Z",
-      "severity": "high",
-      "titleZh": "France protests: tear gas and 1,300 arrests after 400,000 march in peace",
-      "content": null
-    },
-    {
-      "title": "L’Homme est-il naturellement violent ? Ce que révèle l’histoire de notre espèce",
-      "source": "L'Express",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeWZUNzAtOWs0R3pOcXFDYS1YMXBsNTE1dTlxOHdNeU5GZEY3a195cldVYVJoeFBqWDg1ckhhMHJ5aVN1dVAySmtla253dE5QYVIwTDVNSHlxaHhOeU9JX2RoUGc3eU9OX3JURldndjQtTU82aDMyUlJMeHRpYXpvdTRCcnJ3Rlp6MXNxWmJvRks4cUU5YnFSeXRQc0tsYXFkTlZRbWhhc21zb3R3d1piZ0tacXRBY3lxeEEyNWplTExkVHZMenp0bGtMRi1ZaktYQWMyaDFxVDVHdw?oc=5",
-      "publishedAt": "2026-10-25T11:00:00.000Z",
-      "severity": "info",
-      "titleZh": "L’Homme est-il naturellement violent ? Ce que révèle l’histoire de notre espèce",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 24 octobre : dans les coulisses du retour à la normale à Paris",
-      "source": "Ville de Paris",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3k5V2RPZlpSVE9RaW9FdGtHMXJlNmV3Uk1rYkg5STJjTDViWXM3TUs4cU9sZzBpakRGdWVWLTlVY3F2UFkxclRGLXJadW9hZEQ0bW9pR3ZGZElrLXFWNnJxVEd2UnIzS18xR2JnOTNHN0RZYlM0a1Vhb3NuTTNqb2FJUUJxQnllRDVUYzlwWXh5a2NRV2V3WDBsdXgzNDNnNy1ZamJkazJxbTBwWGxj?oc=5",
-      "publishedAt": "2026-10-25T10:44:29.000Z",
-      "severity": "medium",
-      "titleZh": "Manifestation du 24 octobre : dans les coulisses du retour à la normale à Paris",
-      "content": null
-    },
-    {
-      "title": "Manifestations du 24 octobre : « près de 1.000 » interpellations en France, 142 à Paris",
-      "source": "lanouvellerepublique.fr",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcDBkMUNaamo2OU1sODJWSjVQc2EyclZ1cWc5Tnd4ZElmWkpESlI2a1AzdUJXTFowc0toT1JmOGxuem9tM3pGTm8tUGI4eDNkaU4tREw1TEpmOVQxNXVxME5tdnVYeHdpMXFOeU15ZF9kVHRIaDd4M2gxQW1JUWQtSmlUcDFDU3JkV2pac0p1cHBncFAtb0tqVWxYU3VoUFNScnJ1ZW1VVmFXeDJmVkRLLUtvUWQ0SE5McDNTNWpIU0FhSG1XMG5xdHdyZTAyVnNadUE?oc=5",
-      "publishedAt": "2026-10-25T10:37:10.000Z",
-      "severity": "high",
-      "titleZh": "Manifestations du 24 octobre : « près de 1.000 » interpellations en France, 142 à Paris",
-      "content": null
-    },
-    {
-      "title": "Suspect in racist Paris shooting transferred to psychiatric unit, had drugs in his system",
-      "source": "France 24",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmZ5emNxZDRfdV9fQlpfZEVfTzVwX1BWblJFaHFiU2pYQ2w1MFF4UjRKZ1FLYnp6bHFndWJ4ck4xNkI3bENQZmRDT0Vxc3dUSVM4aFVtUEFJQ2duT0xvR1lkTEZ3VXdpXzZ5QmhTa3liUVdpQ2U3d2dvejhPNjZaUTZQRGpaUlRMVGgzS1d6cWYyRlhhM3RzeURHZklsc1VCSG5KelZtUlJ6QmN2MDdjUkZJUEhiQQ?oc=5",
-      "publishedAt": "2026-10-25T10:36:42.000Z",
-      "severity": "info",
-      "titleZh": "Suspect in racist Paris shooting transferred to psychiatric unit, had drugs in his system",
-      "content": null
-    },
-    {
-      "title": "France reports 1,314 arrests after protests as police defend security operation",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWUpuVFN4Y3VNa19maHlXbkxCT1ZHa1NYaW9SZTNmbUpJSE5Hc2ZRZWpDQVVaWmF5RlZJLWxxSlRpMnpxSl9xRWFqRmhFbV9LU0dmM1hIdTFDaU9OVldmVE14OXN6ZFBKZGh1U3hMdkM0UGlIOHRheV9RTGgxY2g5cm5JX1puZTBQSEhKN2QyNjB6U1BRUjMzSUswMnU4THR3RHFsVGtldzlUWm05NE8zTEc0T0Q5cnZJ?oc=5",
-      "publishedAt": "2026-10-25T10:33:44.000Z",
-      "severity": "high",
-      "titleZh": "France reports 1,314 arrests after protests as police defend security operation",
-      "content": null
-    },
-    {
-      "title": "What Travelers Need to Know About the Paris Protests and the Wave of Demonstrations in Europe",
-      "source": "AFAR",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQay1zQUN4VDBqbGQxYnFfendHdEhXU01PMzVIc0VqUnA2UHRYdW1VQ214UXFnUmFuM21vUDVnTWJDVW9hb3dyc3RyUHRhTFMwQnQ4cEVCR2hMLVRMa1pITm9Tc0d6MTVMM3Jlbkp6SzJNUWlMMHZBR3NUUG5GeThRZlVXaVZfUzV3UjNPRlhINUhISFFR?oc=5",
-      "publishedAt": "2026-10-25T10:23:40.000Z",
-      "severity": "medium",
-      "titleZh": "What Travelers Need to Know About the Paris Protests and the Wave of Demonstrations in Europe",
-      "content": null
-    },
-    {
-      "title": "«Ce n’était pas à Paris» : en plein direct sur la mobilisation du 24 octobre, CNews et France Info diffusent des images de tensions… en Albanie",
-      "source": "Libération",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNNWZDMFp4Mk5Mbmp0c0loUURPY2xzdEFLWTJJUFpkVE5JeDFRSUFNa3VLNW1RZjk1YThSSWJnd2hfTzhXN01KbTZFUWhuMk9ZN3haNU1DZ1ZibEVyYU9lWTFNcjBiZ0t5cTdMT0p6blZNSmVnOGNrTXY1V1hPSEc0cUQxdkdYMDk4S3EtQUFmb3VOMVltdTNnX2w0TlllblgxeThIblNNalJKY3EwS2xQNmZiNlIxa2NHSXcxYmhheHpJcVpmOE5nT0JLcUZqYUcwSFdudTFUc1pfOXI3d1RsazlJRS1TVVdMMDJoNDV2Z3FkSGlTQUJRM2MwT0NJY000Ymh0ckloX1lNQ194MWV3cGYtd1gwUmhQd0JsOXRNQlFpakQzMEEtV1NUZ0swODYyVGZjcFRmOWtiM3c?oc=5",
-      "publishedAt": "2026-10-25T10:09:00.000Z",
-      "severity": "info",
-      "titleZh": "«Ce n’était pas à Paris» : en plein direct sur la mobilisation du 24 octobre, CNews et France Info diffusent des images de tensions… en Albanie",
-      "content": null
-    },
-    {
-      "title": "France: Some clashes erupted at end of protests",
-      "source": "France 24",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWHNRNlBmdUttOE54YkpVLUNNcTBsaDVCQTJEQ3ZtWkpwSVdFN0NvS2FyWWlrQUp5X3k3clU5cXJqaFFfQjh4WW5GaUxtTjJFU0RNcHg0UHlhYngzdWRvY3JCVnJ0Y1BEbWNfa2MtM1djanMwNmVGNnJCUmJwME0?oc=5",
-      "publishedAt": "2026-10-25T09:29:34.000Z",
-      "severity": "high",
-      "titleZh": "France: Some clashes erupted at end of protests",
-      "content": null
-    },
-    {
-      "title": "More than 400.000 protest across France",
-      "source": "France 24",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83Uy1vME9xYXhmb2txdk9JaXdOdFFtMldsRFJTV29jTDVvUzFsRm9kUFlxMmVpdWhycmtraTE0MERobW9Ta1U5VGllcUlyUlM1ZkRDM1FwVWZCSnVudEZyQmdfYU5wN29qd044UFNwaDh0aDJ1UlE?oc=5",
-      "publishedAt": "2026-10-25T09:27:43.000Z",
-      "severity": "medium",
-      "titleZh": "More than 400.000 protest across France",
-      "content": null
-    },
-    {
-      "title": "Hundreds of thousands march in France to protest against government",
-      "source": "France 24",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTm9wYUVJdEwzNUVUU21MaUhtcm9COXdxLTZBbkVvVlJrVjUzUjhIcFd0OXpqaWdnWXd2WEluUXhwZUZxWHdXM1ozS3Y4TXA2NmNURlRNZzYtbEFpTmZacExlMjNabEpjaWJkTUQ4YXEyRGJfQ2YwRndpMkpNZElKZHl2OWJYY0dIWjcyQV9zUkhzNXA4UlVLcUM5MA?oc=5",
-      "publishedAt": "2026-10-25T09:19:07.000Z",
-      "severity": "medium",
-      "titleZh": "Hundreds of thousands march in France to protest against government",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 24 octobre à Paris : moins d'interpellations que la semaine passée, un défilé dans le calme avec peu d'incidents majeurs",
-      "source": "France 3 Régions",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNOTFOM1VyQmlmd2hnZ0NzR3RBVzlRWWtkSzVnVzFCWllVa2tvcjh4VjN2eS10X294cHdCQjN4aWphNEowMnpjZHdaZjVkLUdmbUpqaElQWTNFNU41NGFCSUk1dGQ4R2VJd2tQaE1QYUZpUXA2TnljRXdobVdFWkZSdlRfTjBhWUF6TjdHY0ZUR2F5SWdzbC1mckZLOUhJZ3ZqZUg4RXRfdWFRWmxQYU9QWjlwamk5MmYwRkt5OXJmVWNaTVF0c2ZmUk8zZWx1NDNvZWVlVm1uc2tPRDIwTE5LZkJONktrbVJiN2l5T3Boa2E5ZWh5NTJwN1UtSEJ5RWhHTGJQaHFoY0hTV1hNLXB6dU5PazlMZ2JOOTNfVlJwR3doUjZwVkZvV1NRMXYwZw?oc=5",
-      "publishedAt": "2026-10-25T09:15:02.000Z",
-      "severity": "high",
-      "titleZh": "Manifestation du 24 octobre à Paris : moins d'interpellations que la semaine passée, un défilé dans le calme avec peu d'incidents majeurs",
-      "content": null
-    },
-    {
-      "title": "France : le journaliste algérien Badis Khenissa victime d’une agression à Paris",
-      "source": "Algerie360",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYUJPdWM0bEFPVG9TM2ZXcDdvYVJ5YV83Y0M0NVlZcW8zMlJ0RHNCM1BCeFZLRFg1Y2xtOFlRa0dJWXBqNGstWHllUko1YkNhSHNIeXFyZFNHenpnQVBHa2pkeVduSkFFOVc4eTVmbjhaNTlCWU1GNmhRUm9qZk9mSFlnUTI5dw?oc=5",
-      "publishedAt": "2026-10-25T09:08:32.000Z",
-      "severity": "info",
-      "titleZh": "France : le journaliste algérien Badis Khenissa victime d’une agression à Paris",
-      "content": null
-    },
-    {
-      "title": "Notre maison brûle et on regarde les poubelles » : à Paris, 250 000 manifestants ont dénoncé l’aveuglement du pouvoir",
-      "source": "Reporterre, le média de l'écologie",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yRVlTWXZKcFRiejdCRGRRX1RxWkVGTk9CdW1BdlctMW9ucnMxV3lvdHlCaE0xT3lMVG9SNXRmV0VfdnJrbThibV9xbWExaUZZc1ZJRnFmVWRvcUhTbDIzNTZxU2VpdFp1cDlHY1Fqb0F5Ulp1WFE?oc=5",
-      "publishedAt": "2026-10-25T09:04:00.000Z",
-      "severity": "info",
-      "titleZh": "Notre maison brûle et on regarde les poubelles » : à Paris, 250 000 manifestants ont dénoncé l’aveuglement du pouvoir",
-      "content": null
-    },
-    {
-      "title": "Zazie en scooter dans Paris pendant les manifestations du 17 octobre : “Je me suis fait lacrymogéniser”",
-      "source": "Gala",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMnB1YUkxN3BjMnloTjZyOFpJTEw0dmhMNlBaZnF1ajE0NmEtbVlPREtBS0NCaGtGUmtQNFFIZlFwamxlcDVFNXB4a05kQzZXYlh5ZHRCX0p6VkVwR0N2REdoVEl6akNNSHpacHVKZVJncm85cGVGVnNOSTdRRFlFUnFsdG0yTzY3TVR5bC15WU5tcTU4MTZRTWdJT3VhODQza0t0M21KOE1Td2liOVNwSGhBNmxqTWhhemtjdGg3bEl6RWZyVzVmbmRfTl9LVU5DeUhyYkxuYkhuQVRtMVlvdA?oc=5",
-      "publishedAt": "2026-10-25T08:54:06.000Z",
-      "severity": "medium",
-      "titleZh": "Zazie en scooter dans Paris pendant les manifestations du 17 octobre : “Je me suis fait lacrymogéniser”",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 24 octobre : en plein direct, CNews et franceinfo diffusent par erreur des images filmées en Albanie à la place des cortèges français",
-      "source": "Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNU1FuQUlPamMxbHE4ZktHeFZ5YWhCdEpRUklYOV9PZnh6YkVqeFFnV1A4ck1NQ0E2RHBGVGpmN2lRakh3SnRyZFJsakxoOThKdjgwLV93d0NnSVNCQXBodWtCSVRFUjFaajRvazgyTElLc3lnT01WZG00VlhPemxUbGNjR3BFTFpqYzZMUFBKWFBqSnk5QkZwTWkyOUlPemhUNW9IM0Y1ZHEtcHR3dGNQTzZXMF9Ed3hhUmhqalNQRUpieldYZVlyU28wZi1EUGMxOHFGVTBUNEtBSnU1WHBoeXdGRVp4WU9faF9nVUJiQ2szWGFIM2tiSkRJYk9yZ1BJb3o1OXpyeHluVnh4TFFoaHNDOTFhaU1aNXcxWWc0cTk0UQ?oc=5",
-      "publishedAt": "2026-10-25T08:47:00.000Z",
-      "severity": "medium",
-      "titleZh": "Manifestation du 24 octobre : en plein direct, CNews et franceinfo diffusent par erreur des images filmées en Albanie à la place des cortèges français",
-      "content": null
-    },
-    {
-      "title": "Manifestations du 24 octobre : une nouvelle forte mobilisation malgré les interdictions de manifester",
-      "source": "Les Echos",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRTE2bkVFUEpwaU03RDcxa3NQSlltWVNyam5rWTh0MGlVMVB6azI2aGltYWlyRGx2dDVIRkdadzlyT3FXdktpX0luTXhwdzZHTTF0cjlQVmhpa0R0UkxmMlhZZy1sVWpvbUhpZGpQY3VhUVlmSmRtUkVhUjJhM0RBV2Q3UHpJcHpuN2xERG5zUVFjd2lsZHhBTDNiT0R4SXZaQ2dyTmlDdkVETWh2OWFHQUtkNWliekVVNWluSXAzbGtTZjVJRGpGTFBwNGV2cW5WTGdodHVCbTdMOXFlck91TTNKc2Y3UHBpNkE?oc=5",
-      "publishedAt": "2026-10-25T08:35:47.000Z",
-      "severity": "medium",
-      "titleZh": "Manifestations du 24 octobre : une nouvelle forte mobilisation malgré les interdictions de manifester",
-      "content": null
-    },
-    {
-      "title": "Les manifestations se propagent à travers l'Europe, Paris est « comme un confinement ».",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWpWbm5JVEpjMVRoeXZmQlpBVDNHcWRPQVY2UXd1c0drTTdyb2hSdXFzNnZtNGR5R1dSWEszWU9NeXRFeUowUW93VzVJbDlPOGNUZmctMFZWR3NZVmZIT0hsYlQzVk5ubGlqSDF1SkZlSnNUWWRtMHZtOG9SWTl6eQ?oc=5",
-      "publishedAt": "2026-10-25T08:27:25.000Z",
-      "severity": "medium",
-      "titleZh": "Les manifestations se propagent à travers l'Europe, Paris est « comme un confinement ».",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 24 octobre à Paris : 142 personnes interpellées dont 126 placées en garde à vue",
-      "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb3Nla0c1ejhNUno2S3EyQUd3SmJSYW0zQWl5eF9UR0FiR3VIRThEdExHM2p2eG5FdGZpaVZOcXljcWdiLVNsTDc5UmhISldHd0NhZnp4SmtFMDRMeF9TbC1uRlpBTGNZYTY0RlBqMEZFdE5aUkVVbmxFcnBhZEpEQnlGY3FRQ0RKdlo0eTFlcUxzNjhmS2p5ajlHVE9WMGR1SnpnU3VwdTlNX21ya29RVEozVHdXTDY0N2RjWVo5SE16S1FtRWRqUEI1dWJrdUNHTGVEak1KdUdyWnh5WDZTdHk0Yjk?oc=5",
-      "publishedAt": "2026-10-25T08:23:01.000Z",
-      "severity": "medium",
-      "titleZh": "Manifestation du 24 octobre à Paris : 142 personnes interpellées dont 126 placées en garde à vue",
-      "content": null
-    },
-    {
-      "title": "Pour la mobilisation samedi à Paris, \"les enseignements du 17 octobre ont été tirés\", se félicite la porte-parole de la préfecture de police de Paris",
-      "source": "franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQbXlVZUp6YmlWUkFIaHVFdHRlS2FzS0xDaFFMaTc0eElMNDZxZVJYZTZ6VHBWUWdzcGhENGJFTDdDOTBFdmFLRlRWbEl3ZWlta2EzdnFVVlFjNGRYWnVqUkRZNHVCdWVVQ0pFcUh5Wjc4UlQ0U1ctZjIxWHpzVmR2TkZ3N3VzNmJoWVkxbnhaVEE2R0tLZkl2ZWduSV9nYmJDQlY2MkxXVDdIWGVZTV9NeUlxbjMtSkhOZGtkQWRRS0R6VnZyeUg2UkJlRUpnQk45cUIyT0pFR1dxUlZvd3plRV9Vb2cyQlY1VmRRZWxtVTk5ZmxZeEFJR1g4Vnl4Y1E5T1VwcXo0QklNbjd5T0JJSGo4WlpGRTRqSmVabENoSkxrajg1WUJET1J0N2lfdkdp?oc=5",
-      "publishedAt": "2026-10-25T08:18:36.000Z",
-      "severity": "info",
-      "titleZh": "Pour la mobilisation samedi à Paris, \"les enseignements du 17 octobre ont été tirés\", se félicite la porte-parole de la préfecture de police de Paris",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 31 octobre, à quoi s’attendre à Paris ?",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM3FWdUN6ZXphbVNHQVR5QU9PSUpvTHJ6UUU0OW1WTWVsejNtbnc0Qld2LURCODA3RUp0SUthVjVVbkhfMzIxTGJza1YwMDIza2hjS09sd3dEc1U1TlNOUUlqV3p0Wk1SNTNfMVA1d2RMRU9FMUotZFBFODJDcWZMTDVYcDBYeGJVVDVoNGRpWUVhQkF4YmNxbVVMcnpvS2lvdV9rVko1VmVGOU4tQXR5RUdieUVBaDBF?oc=5",
-      "publishedAt": "2026-10-25T08:12:42.000Z",
-      "severity": "medium",
-      "titleZh": "Manifestation du 31 octobre, à quoi s’attendre à Paris ?",
       "content": null
     }
   ]
