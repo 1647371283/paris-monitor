@@ -11,4 +11,4 @@ AUTH_PASSWORD=你的密码 npm start
 
 ## 部署（Vercel）
 
-导入仓库时在 Environment Variables 中设置 `AUTH_PASSWORD`。密码只放在环境变量里，不要写进代码。
+导入仓库时在 Environment Variables 中设置 `ADMIN_PASSWORD`。密码只放在环境变量里，不要写进代码。

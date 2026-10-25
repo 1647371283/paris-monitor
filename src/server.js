@@ -7,7 +7,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Password must come from the environment; never hardcode it in a public repo
-const AUTH_PASSWORD = process.env.AUTH_PASSWORD;
+const AUTH_PASSWORD = process.env.ADMIN_PASSWORD || process.env.AUTH_PASSWORD;
 
 // Only keep news from the last N hours
 const MAX_AGE_HOURS = 48;
