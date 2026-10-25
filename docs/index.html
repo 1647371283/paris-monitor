@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0A0D12">
+    <title>🇫🇷 巴黎安全监控</title>
+    <style>
+        :root {
+            --bg: #05070C; --surface-1: #0A0D12; --surface-2: #0F131C;
+            --surface-3: #161D2B; --card: #1E2636;
+            --text: #E8EBF0; --muted: #8B92A6; --line: #2A3344;
+            --primary: #38BDF8; --upcoming: #6EE7B7; --warning: #F59E0B; --error: #EF4444;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            background: var(--bg); color: var(--text);
+            line-height: 1.6; padding: clamp(1rem, 4vw, 2rem);
+        }
+        .container { max-width: 52rem; margin: 0 auto; }
+        .header {
+            text-align: center; padding: 2rem 0;
+            border-bottom: 1px solid var(--line);
+            margin-bottom: 2rem;
+        }
+        .header h1 { font-size: clamp(1.75rem, 5vw, 2.5rem); margin-bottom: 0.5rem; }
+        .header p { color: var(--muted); font-size: 0.95rem; }
+        .meta {
+            display: flex; justify-content: space-between; align-items: center;
+            padding: 1rem; background: var(--surface-2);
+            border-radius: 999px; margin-bottom: 2rem; font-size: 0.9rem;
+        }
+        .meta button {
+            background: var(--primary); color: white; border: none;
+            padding: 0.5rem 1.25rem; border-radius: 999px;
+            cursor: pointer; font-weight: 600; font-size: 0.9rem;
+        }
+        .meta button:hover { opacity: 0.9; }
+        .filters {
+            display: flex; gap: 0.75rem; margin-bottom: 2rem;
+            flex-wrap: wrap; justify-content: center;
+        }
+        .filter-btn {
+            padding: 0.5rem 1.25rem; border-radius: 999px;
+            border: 1px solid var(--line); background: var(--surface-2);
+            color: var(--text); cursor: pointer; font-size: 0.9rem;
+            transition: all 0.2s;
+        }
+        .filter-btn.active { background: var(--primary); border-color: var(--primary); }
+        .event-card {
+            background: var(--card); border-radius: 1rem;
+            padding: 1.5rem; margin-bottom: 1.5rem;
+            border-left: 4px solid var(--muted);
+        }
+        .event-card.upcoming { border-left-color: var(--upcoming); }
+        .event-card.high { border-left-color: var(--error); }
+        .event-header {
+            display: flex; justify-content: space-between; align-items: center;
+            margin-bottom: 1rem; flex-wrap: wrap; gap: 0.5rem;
+        }
+        .event-date {
+            font-size: 1.25rem; font-weight: 700;
+            display: flex; align-items: center; gap: 0.5rem;
+        }
+        .badge {
+            padding: 0.25rem 0.75rem; border-radius: 999px;
+            font-size: 0.8rem; font-weight: 600;
+        }
+        .badge.upcoming { background: var(--upcoming); color: #0A0D12; }
+        .badge.past { background: var(--surface-3); color: var(--muted); }
+        .badge.clash { background: var(--error); color: white; }
+        .places {
+            display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1rem;
+        }
+        .place {
+            background: var(--surface-3); padding: 0.25rem 0.75rem;
+            border-radius: 999px; font-size: 0.85rem; color: var(--primary);
+        }
+        .article {
+            padding: 0.75rem 0; border-top: 1px solid var(--line);
+        }
+        .article:first-child { border-top: none; padding-top: 0; }
+        .article-title {
+            font-weight: 600; margin-bottom: 0.25rem;
+            color: var(--text); text-decoration: none;
+            display: block;
+        }
+        .article-title:hover { color: var(--primary); }
+        .article-meta {
+            font-size: 0.85rem; color: var(--muted);
+            display: flex; gap: 1rem; flex-wrap: wrap;
+        }
+        .severity-high { border-left-color: var(--error); }
+        .severity-medium { border-left-color: var(--warning); }
+        .footer {
+            margin-top: 3rem; padding-top: 2rem;
+            border-top: 1px solid var(--line);
+            text-align: center; color: var(--muted); font-size: 0.85rem;
+        }
+        .footer a { color: var(--primary); text-decoration: none; }
+        .footer a:hover { text-decoration: underline; }
+        .official-links {
+            background: var(--surface-2); padding: 1.5rem;
+            border-radius: 1rem; margin: 2rem 0;
+        }
+        .official-links a {
+            display: block; padding: 1rem; background: var(--surface-3);
+            border-radius: 0.5rem; margin-top: 0.75rem;
+            color: var(--text); text-decoration: none;
+            transition: background 0.2s;
+        }
+        .official-links a:hover { background: var(--card); }
+        .official-links small { display: block; color: var(--muted); margin-top: 0.25rem; }
+        .loading { text-align: center; padding: 3rem 0; color: var(--muted); }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🇫🇷 巴黎安全监控</h1>
+            <p>实时追踪巴黎游行暴乱区域 · 每小时自动更新</p>
+        </div>
+
+        <div class="meta">
+            <span id="updateTime">加载中...</span>
+            <button onclick="location.reload()">🔄 刷新</button>
+        </div>
+
+        <div class="filters">
+            <button class="filter-btn active" data-filter="all">全部</button>
+            <button class="filter-btn" data-filter="upcoming">未来游行</button>
+            <button class="filter-btn" data-filter="clash">冲突报道</button>
+        </div>
+
+        <div id="results" class="loading">正在加载数据...</div>
+
+        <div class="official-links">
+            <div style="font-weight: 700; margin-bottom: 1rem;">📌 官方实时渠道（最权威）</div>
+            <a href="https://x.com/prefpolice" target="_blank" rel="noopener">
+                巴黎警察局 Préfecture de Police（X）
+                <small>官方发布游行路线、禁行区域、警情</small>
+            </a>
+            <a href="https://www.ratp.fr/infos-trafic" target="_blank" rel="noopener">
+                RATP 地铁实时交通
+                <small>游行时地铁站常临时关闭，出门前看这里</small>
+            </a>
+        </div>
+
+        <div class="footer">
+            数据来自 Google 新闻聚合 · 每小时自动更新 ·
+            <a href="https://github.com/1647371283/paris-monitor" target="_blank">GitHub</a>
+        </div>
+    </div>
+
+    <script>
+        let data = null;
+        let currentFilter = 'all';
+
+        async function loadData() {
+            try {
+                const res = await fetch('./data.json');
+                data = await res.json();
+                document.getElementById('updateTime').textContent =
+                    `最后更新: ${new Date(data.updatedAt).toLocaleString('zh-CN')}`;
+                render();
+            } catch (e) {
+                document.getElementById('results').innerHTML =
+                    `<div style="color: var(--error); text-align: center;">⚠️ 加载失败: ${e.message}</div>`;
+            }
+        }
+
+        function render() {
+            const results = document.getElementById('results');
+            let events = data.events;
+
+            if (currentFilter === 'upcoming') {
+                events = events.filter(e => e.status === 'upcoming');
+            } else if (currentFilter === 'clash') {
+                events = events.filter(e => e.clashCount > 0);
+            }
+
+            events.sort((a, b) => {
+                if (a.status === 'upcoming' && b.status !== 'upcoming') return -1;
+                if (a.status !== 'upcoming' && b.status === 'upcoming') return 1;
+                return b.articleCount - a.articleCount;
+            });
+
+            if (events.length === 0) {
+                results.innerHTML = '<div class="loading">暂无符合条件的消息</div>';
+                return;
+            }
+
+            results.innerHTML = events.map(e => `
+                <div class="event-card ${e.status} ${e.clashCount > 3 ? 'high' : ''}">
+                    <div class="event-header">
+                        <div class="event-date">
+                            ${e.status === 'upcoming' ? '🟢' : '⚪'} ${e.date}
+                        </div>
+                        <div style="display: flex; gap: 0.5rem;">
+                            <span class="badge ${e.status}">${e.status === 'upcoming' ? '未来游行' : '已结束'}</span>
+                            ${e.clashCount > 0 ? `<span class="badge clash">🔴 ${e.clashCount} 冲突报道</span>` : ''}
+                        </div>
+                    </div>
+                    ${e.places.length > 0 ? `
+                        <div class="places">
+                            ${e.places.map(p => `<span class="place">📍 ${p}</span>`).join('')}
+                        </div>
+                    ` : ''}
+                    <div>${e.articles.slice(0, 5).map(a => `
+                        <div class="article">
+                            <a href="${a.link}" target="_blank" class="article-title">
+                                ${a.titleZh || a.title}
+                            </a>
+                            <div class="article-meta">
+                                <span>${a.source}</span>
+                                <span>${new Date(a.publishedAt).toLocaleString('zh-CN', {
+                                    month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit'
+                                })}</span>
+                            </div>
+                        </div>
+                    `).join('')}</div>
+                </div>
+            `).join('');
+        }
+
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentFilter = btn.dataset.filter;
+                render();
+            });
+        });
+
+        loadData();
+    </script>
+</body>
+</html>
