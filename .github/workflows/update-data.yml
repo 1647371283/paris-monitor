@@ -2,10 +2,14 @@ name: 自动更新巴黎游行数据
 
 on:
   schedule:
-    # 每6小时运行一次（北京时间：2:37, 8:37, 14:37, 20:37）
-    - cron: '37 */6 * * *'
+    # 每30分钟运行一次（每小时第7分和第37分）
+    - cron: '7,37 * * * *'
   # 允许手动触发
   workflow_dispatch:
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -41,4 +45,5 @@ jobs:
           git config user.email "actions@github.com"
           git add docs/data.json
           git commit -m "chore: 自动更新游行数据 $(date '+%Y-%m-%d %H:%M')"
+          git pull --rebase
           git push
