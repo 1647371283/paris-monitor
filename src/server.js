@@ -165,12 +165,12 @@ async function translate(text) {
     if (translationCache.has(text)) return translationCache.get(text);
     try {
         const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=${encodeURIComponent(text)}`;
-        const res = await axios.get(url, { timeout: 8000 });
+        const res = await axios.get(url, { timeout: 5000 });
         const zh = res.data[0].map(seg => seg[0]).join('');
         translationCache.set(text, zh);
         return zh;
     } catch (err) {
-        console.error('Translate error:', err.message);
+        // Silent fail: show original text instead of blocking
         return null;
     }
 }

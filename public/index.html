@@ -196,7 +196,14 @@
             results.innerHTML = '<div class="status">正在获取最新新闻...</div>';
 
             try {
-                const res = await fetch('/api/search', { method: 'POST', headers: { 'X-Password': password } });
+                const controller = new AbortController();
+                const timeoutId = setTimeout(() => controller.abort(), 90000);
+                const res = await fetch('/api/search', {
+                    method: 'POST',
+                    headers: { 'X-Password': password },
+                    signal: controller.signal,
+                });
+                clearTimeout(timeoutId);
                 if (res.status === 401) {
                     localStorage.removeItem(STORAGE_KEY);
                     location.reload();
@@ -206,7 +213,8 @@
                 if (!data.success) throw new Error(data.error || '查询失败');
                 render();
             } catch (e) {
-                results.innerHTML = `<div class="error">⚠️ ${esc(e.message)}，请稍后重试</div>`;
+                const msg = e.name === 'AbortError' ? '请求超时，请检查网络后重试' : e.message;
+                results.innerHTML = `<div class="error">⚠️ ${esc(msg)}</div>`;
             } finally {
                 btn.disabled = false;
                 btn.textContent = '🔍 查询最新信息';
