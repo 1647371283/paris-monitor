@@ -1,46 +1,18 @@
 {
   "success": true,
-  "today": "2026-10-25",
-  "updatedAt": "2026-10-25T23:38:20.783Z",
+  "today": "2026-10-26",
+  "updatedAt": "2026-10-26T04:35:56.210Z",
   "events": [
     {
       "date": "2027-10-24",
       "articles": [
         {
-          "title": "Manifestations du 24 octobre : le préfet du Rhône décide de reconduire dimanche le couvre-feu dans l'hypercentre de Lyon",
-          "source": "franceinfo",
-          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZ1gtbnBudU5lTmJQS1FkR1Y4QTF3SlBiY0VuYThJMkhNdDdsaW5EY2M4Vk9kNGVXc3JBdlNvM0lUOUZjdXNTZ3ZHMjRCdjVCdXBQY3RmYVI2RFJ2Rm5VYTZnTUlITXd1eHZGZEVjWklJeG9tZ0dLRjl4WW9VN3JuQzIwdTBjanRRa3ZPM2JSV1FiYThjSC1iOEJRbzBxU3hoYk1FZkhaTjVoZlliVmVFUTlkcFRPUDk1M2VyNlBNdTVIemVCVVBLbDJuSzAzanpTUWJnWVZKVmo3WjdNbnp6eW9jTlRRM0plU3FtekJVQlhRaDZDYU5SaFlCLVNvOV95Uml3SzFMVzNnX184cGNtMUdKNVZQVEg1UWRIUm56cUFHbUVlY2ZXUm4wemNZYktsbldrdQ?oc=5",
-          "publishedAt": "2026-10-25T22:16:21.000Z",
-          "severity": "medium",
-          "titleZh": "10 月 24 日示威活动：罗讷省长决定延长周日里昂市中心的宵禁",
-          "content": null
-        },
-        {
-          "title": "Après la mobilisation du 24 octobre, de nouveaux rendez-vous déjà attendus la semaine prochaine",
+          "title": "Après le 24 octobre, de nouveaux rendez-vous déjà attendus la semaine prochaine",
           "source": "Le HuffPost",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWVZONWZlMEFhSVRHYVVNblNsNV8xMnNnU21xcWNBa2Yxa2FuYVB5MEFFcTVBM3FmMmtLTllPQThjNmNYQmVCakRZM2Q4cUhvMjhWeDNDdEhEM1d5VUtITGFWUWRNZElsdnJqLVYxNEQxMjI5UG1wSV91UW5aOS1vUUFaemR0WW5uY29ELWlsMDNobmpvUDJENkdUSDFmaHhFOHFySEpQRnFWOWdQMm9oak1iMGl4MVBrVUE4cHh5SmtERHZzaWtBQk5McXpYWlNLcnBHWGhXMkJ5Wi1hbnFWbFRCZk91QQ?oc=5",
           "publishedAt": "2026-10-25T15:36:25.000Z",
           "severity": "info",
-          "titleZh": "10 月 24 日动员后，预计下周将召开新会议",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 2,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
-      "date": "2027-10-25",
-      "articles": [
-        {
-          "title": "Couvre-feu à Paris dimanche 25 octobre : sortie perturbée, quels remboursements ?",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOblpRZGdqR3RuSU5DeFMycGI5QTREYm1kbmk4QThzWkRJSkk2VzE0azhmZlptMm9vbmpVOU9rOGVhekRwOE5RRERXQnl6TzVsMzhGYkZDUkhTeHFiQ1JFamktd2VQZXNTZWREb0tPT2pqM2M1S2Rra1lmOUVxTGVPRG1WdzdoN0ZwVlhxX0N3VFJuV0hGSy1vb0dPb2lqS1E0aTUxQnFsM2MxSlBsb0VZUmV6Z0dPSXJES0RndGJaaUpGSVZqMlU1TXRYN2lXMUh2dlhOWWxTSQ?oc=5",
-          "publishedAt": "2026-10-25T22:04:58.000Z",
-          "severity": "info",
-          "titleZh": "10月25日周日巴黎宵禁：郊游中断，如何报销？",
+          "titleZh": "10 月 24 日之后，预计下周将举行新会议",
           "content": null
         }
       ],
@@ -51,8 +23,90 @@
       "status": "recent"
     },
     {
+      "date": "2027-10-25",
+      "articles": [
+        {
+          "title": "Couvre-feu à Paris dimanche 25 octobre : sortie perturbée, quels remboursements ?",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOblpRZGdqR3RuSU5DeFMycGI5QTREYm1kbmk4QThzWkRJSkk2VzE0azhmZlptMm9vbmpVOU9rOGVhekRwOE5RRERXQnl6TzVsMzhGYkZDUkhTeHFiQ1JFamktd2VQZXNTZWREb0tPT2pqM2M1S2Rra1lmOUVxTGVPRG1WdzdoN0ZwVlhxX0N3VFJuV0hGSy1vb0dPb2lqS1E0aTUxQnFsM2MxSlBsb0VZUmV6Z0dPSXJES0RndGJaaUpGSVZqMlU1TXRYN2lXMUh2dlhOWWxTSQ?oc=5",
+          "publishedAt": "2026-10-26T02:45:25.000Z",
+          "severity": "info",
+          "titleZh": "10月25日周日巴黎宵禁：郊游中断，如何报销？",
+          "content": null
+        },
+        {
+          "title": "Couvre-feu à Paris : les stations de métro et de RER fermées dimanche 25 octobre dès 22h",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVXpSbVJITk1VelFsMlM5X2pxQnNLVTI3WjZVMXlzRkppeWVpbERra1E4RXgzU19hM2o3bG5wQ1BzRk43aUowQjBTcGNVeFU2ckNVMVg3d3NnX0tYcjJyM2hJZWNFRlJDSjNHdzRtVUQ1NWx1eWk2RkI0Ml9YMkcwcWlKUEJwUFVhQl9uVWtrdlJ1UU0yYlBjeTEyS1JacWJxMTRiS05UeEVDTXhzUWVNRnF6QWZpbHF4ZUg5RWhzODJxZ2k5aW5jNVA2QTBoeVhQLTdETU5iNUd1b0hIbTU0Rnc5ZWI?oc=5",
+          "publishedAt": "2026-10-26T01:40:30.000Z",
+          "severity": "info",
+          "titleZh": "巴黎宵禁：地铁和 RER 车站于 10 月 25 日星期日晚上 10 点起关闭。",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 2,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
       "date": "unknown",
       "articles": [
+        {
+          "title": "French TV channels scramble to apologize after airing Albanian protests as Paris and Lyon",
+          "source": "The Seattle Times",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUVIxNG1rQ1ZpcDkzMVg1eW1mcGZEVE9ZU1l6SGhiSWNSYUllQ3o3NkhFWFRUeFhNZ1hPYnR6WmpZcU5id28wQ2FjamlyV1FfUWNfZlRJbm9iWGV5aXBqTDM5OFZ2bFR2Qkljams2ZTBSUk9sSEJ1VjlCQlJhLS1Nd2Rha3E4Q0ljWDBWU2JtZk5RZXlJckhvVi1vTmNmTU5UTmpaVkdEbVBFSmVveVdUR0Z5dHBkYXZvMTRvMVcwNE52UnM5X3R4VmptOV8?oc=5",
+          "publishedAt": "2026-10-26T03:28:27.000Z",
+          "severity": "medium",
+          "titleZh": "法国电视频道在播出阿尔巴尼亚抗议活动后争先恐后地道歉",
+          "content": null
+        },
+        {
+          "title": "France dodges rerun of looting and riots at protests",
+          "source": "The Japan Times",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX3dEaVZDMENYa3cwcjFvUnJfaE5WQlNXMWpucjFtd21OVG1BeUZCalo1c3VkWDVKTmhmUDNLaUdfc0VBak11R2hMSm5GYkwxRHlpVnBaNVM2dU0tLVZ5VFpjcndRTHFMN3dJS2V0TUJPSkQyX3ZlUjRsUjZyMzUtckxkOEdPaFk?oc=5",
+          "publishedAt": "2026-10-26T02:33:00.000Z",
+          "severity": "medium",
+          "titleZh": "法国避免因抗议活动重演抢劫和骚乱",
+          "content": null
+        },
+        {
+          "title": "Sona Mohapatra thanks PM Modi for ensuring Delhi doesn't turn into Paris amidst protest",
+          "source": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxONTZrdW5TY0NxcW1OWmVtbkhBMHJ4SldmQlU0TVdoVllZY0pCMkNfbmRzS2hnQmtET0ozeTZaeXc1aWsyUHQ4eEIySUZBaGZWSUloUFZNX3prX29YQ3NKT0JGVkVESVBodnNkN0FiYkdUOURXbU9fajVORTZtbHJpWkM0UjRDdEV2MW5GeFlNaG5iTHhQQ2g3d21yckZ4YjZQblVjbFkyR2hjUDNObGN4aUF5T2ZhNi0ydWVicmJvM2hETndRRGR2M3dNdXd5MklyaVB1aUVXN3hGMHVfY3pmSENQbWRQTmFqbmZJeTk3NFkwOW1WQ1NRRGRodFlYaktuOWxfQ1ViZElNVi1rMDNMUtIBlgJBVV95cUxPX0dreEpkTkNvZ3Z6dVhMRUpRY0RCRkV0dU5FcHAwdGUzSUpUMElsSlgybkZ6SlZuelJqYldpWE9XSTY4bU5zeExXZEJqcnZ3eE8xdHU3OFdkTGZ5bFlmRTV3SFp1THNMQ0t3Ti1IbVpmN0szTzhYcWlodkRKa1FYcHpXLWpmald4b0tNMExBc3FyZHN0WGlNSzZNTjRRTHhtR1VSdEo5eW9UeC1VVEJuQm1qOVExcnVDVXFLamtiZ3dpZ3JkWnc1b0stTUxMdTk3YXozb0NwRWhtS0U4YkJwN0xHNjJQMTAzYlVNRVE2TkxlRDYwV2xpMWdEM3pIZmh3dzRudUNuMnBWbExqUjNqTUk4eGNzdw?oc=5",
+          "publishedAt": "2026-10-26T02:22:00.000Z",
+          "severity": "medium",
+          "titleZh": "索纳·莫哈帕特拉感谢莫迪总理确保德里不会在抗议中变成巴黎",
+          "content": null
+        },
+        {
+          "title": "France Braces for Mass Protests: What to Know",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
+          "publishedAt": "2026-10-26T01:43:04.000Z",
+          "severity": "medium",
+          "titleZh": "法国为大规模抗议做好准备：要知道什么",
+          "content": null
+        },
+        {
+          "title": "Police, protesters clash as unrest sweeps France",
+          "source": "InDaily South Australia",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVEo2UHJiZmVFN3B6aGM4OHBMbTJXOXJUTE9IdXVIRHZhSjh6eVJNVF9EeWczNXZfTmFreWZTTC1vSmh3Z2pqbVUxbFBla2tjaTB6TUJOM3huTEF1UExjbmYxUFhoSGFLMzNmbEZNZFpwVlQ5NGpPT0dGMVZRUVd2T0FvaVpGUUNQaWJGbHFONHhwWXc?oc=5",
+          "publishedAt": "2026-10-26T00:54:30.000Z",
+          "severity": "high",
+          "titleZh": "骚乱席卷法国，警察与抗议者发生冲突",
+          "content": null
+        },
+        {
+          "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
+          "publishedAt": "2026-10-26T00:52:06.000Z",
+          "severity": "info",
+          "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
+          "content": null
+        },
         {
           "title": "How to stream and watch Steelers vs. Saints in Paris: Halftime show and protest details",
           "source": "The New York Times",
@@ -90,24 +144,6 @@
           "content": null
         },
         {
-          "title": "France Protest Updates: Hundreds of Thousands March Amid Heavy Security",
-          "source": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81czdlcjVNUjBwb0g2dGNHaldFazEzUkI3bzhKeXVpTHBpMGdJNXBqZVBlT2pFZzROdTJ0dzBoSURnU2N0VzBNY3BER3VLM3ZreUVMRHJKdG1oc3ZiaEJvcHZIVjUtVGlWeFRqcjdMUnJkb09QT0E?oc=5",
-          "publishedAt": "2026-10-25T20:46:00.000Z",
-          "severity": "medium",
-          "titleZh": "法国抗议活动最新动态：数十万人在戒备森严的情况下游行",
-          "content": null
-        },
-        {
-          "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
-          "source": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50UzFBMjNUd0EyTk4xYk5pS20tWWRYeW9KQTJtbG8yOXkzS182U2tPUUJrYUJ0SThkdkZaUjM1MVBkN1hVczdJSS1PRlBDbGhuajZUb0dCZXAtQ2gxMWstbDZKNl9obGM0X3dNbFVGMlhKbUJhVURRWVYzbmQ?oc=5",
-          "publishedAt": "2026-10-25T20:41:00.000Z",
-          "severity": "info",
-          "titleZh": "巴黎镇压骚乱，孤独地欢迎游客",
-          "content": null
-        },
-        {
           "title": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
           "source": "The Guardian",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0dLRGRZNmgyYkpvTGttQVBhWmRkNUtlNXhLVVEzc25fMW8tYXUzeEY5a0NnMUpZbV8zbHpyNTNqeUVBZkJHTkxEOWpMRkx2amkwWDlRemVESjI1SXYxUUNycV9uRzllS0theFdfdUlxdkJ0cnBGNEllRE8yY1g3cE1RdFRFQ3pTVHpWbDBJbjhpSFhXWjJYWFZMVktyUko1cGc?oc=5",
@@ -132,6 +168,15 @@
           "publishedAt": "2026-10-25T20:06:13.000Z",
           "severity": "high",
           "titleZh": "暴力事件震撼欧���：我们进行盘点",
+          "content": null
+        },
+        {
+          "title": "Retailers in France and Italy Tally the Cost of Lost Business After Second Round of Protests",
+          "source": "WWD",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWk0QkgwX1VHOHRzdjFiZGpqbEU5eEcxREJjY3lIT21WaS1pZS1HMVJXTlJtQ3JZQWNkUXZlZ3FIS0JDY1l0T0pNSXpsaXpRRVA3V2otbmFCREV6UHpnU2Jvb2dwUmlmVHJ1M2pEU2xWdmtFSlZnWUJaeGtwYjZLUXVYSTFMRkhad1JPc25EYkZXSFRBVl9NYTVlaWsyaUV2Z0VfbmtjSi1HWVRN?oc=5",
+          "publishedAt": "2026-10-25T19:58:24.000Z",
+          "severity": "medium",
+          "titleZh": "法国和意大利零售商统计第二轮抗议后失去业务的成本",
           "content": null
         },
         {
@@ -180,39 +225,12 @@
           "content": null
         },
         {
-          "title": "NFL-Paris game played in festive atmosphere after fresh demonstrations",
-          "source": "CNA",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMThvNHV3Ym8xWG9la3NTUms1d3BqRzFBeUY1MTNQRUtaUDhRd3dSNXNQbHh5SElPSlhtdVF6ZFRZbVVJczlhTmRyWjlwTHJWcFNtYTEtZUp1ZVZ2ZDFkTHpfY2hTUkZNSmFBYlVkNS1RU09zNnlCU3hYRGE3aFl4aGRjN2pROW9abVc3bzg2OGpYMGRSUVhUaE1nRFh0eE9wSWpnSnc3bGZhRENWU0RNcDRxUWpOM0k?oc=5",
-          "publishedAt": "2026-10-25T18:19:03.000Z",
-          "severity": "medium",
-          "titleZh": "NFL-巴黎比赛在新的示威后在节日气氛中进行",
-          "content": null
-        },
-        {
-          "title": "French TV channels scramble to apologize after airing Albanian protests as Paris and Lyon",
-          "source": "Bozeman Daily Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOa2Y3M2FIM2twRUhpU0JuaUJNMWFqdzdLU01INVlrVktlbEtSZGNsbm9Vd1BzQkltX1lIQTVFZno2RFNrQ0ZBMFJjYndsT2R4Y0VoR29aUXh4a2hJWG9DWEU0T3VlU05vcEdvallFNmI3VlpIaVBNSnpmTUdmUVVxSWdMeWUwUDZ0TjJoWUUxM3pDcER6ZHViNEJiMDFia05tcVRSVFRQTENWV25aZlF4NC1zNTlJQjVpdm5VRVV3UUdOenhyR2p3cUNVS0FRYmZqR0xIV1BManhqUUFZaUdvdl9mdTBQUTA5eGlWcHZSc3BXZXF6M0VWcjB6SU53a0FaQ0VISzJlMGJsWllLRldLVXh6ZnRESGxKeWZRajR5NVhKUQ?oc=5",
-          "publishedAt": "2026-10-25T17:56:27.000Z",
-          "severity": "medium",
-          "titleZh": "法国电视频道在播出阿尔巴尼亚抗议活动后争先恐后地道歉",
-          "content": null
-        },
-        {
           "title": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
           "source": "The New York Times",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1MxY0g2Q2M3bUlIUGpnRnVhQ2RYcUZETDJ6cG1LRE05enFYUWxmZHlqalVkWnFLN3hwTG1td3lSX1p6a3VXTXF1OGEzRUFXQnJPaVBxS1FPVXV6cWdxWlR6YmJHeUdlbTZkVUxQSVRVWXJuSnZ3TTM0aTV4cF9VM3ktblVlOXRh?oc=5",
           "publishedAt": "2026-10-25T17:52:46.000Z",
           "severity": "high",
           "titleZh": "法国再次爆发街头冲突一天后，宽慰与焦虑交织在一起",
-          "content": null
-        },
-        {
-          "title": "Agressions et bagarre générale : à Rouen, des militants identitaires prennent à partie des manifestants",
-          "source": "Paris Normandie",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR2c1TDRJLXVneDEzRF9vMG04SE0xT040cXFFS2pmdlBoLXRHY3piallxUFpuSHFEWnVabmpmZldDZU1qVXdNbEkyNWxDdFYyZm05QW04bS1xdFYzZGVQbkN5N05TenZPRjVvZmNObkJWVHB1b3NWdlhWTDg4em12ZlM0RkZrT0lxX3hMYTVYTzEySUFuVGdJSWZiejJGaV8tRnd4dHRoeVFVdkVCQTRWRTF0QUxKRjVhdGNuRC1SOV9DdmdUMTFjZFEzMEM5ZjNwbllQOQ?oc=5",
-          "publishedAt": "2026-10-25T17:49:04.000Z",
-          "severity": "info",
-          "titleZh": "袭击和普遍斗殴：在鲁昂，身份活动人士袭击示威者",
           "content": null
         },
         {
@@ -231,6 +249,15 @@
           "publishedAt": "2026-10-25T17:04:01.000Z",
           "severity": "medium",
           "titleZh": "巴黎新的示威活动、对伊夫林种族主义袭击事件的调查……法兰西岛新闻更新",
+          "content": null
+        },
+        {
+          "title": "France : Pour les touristes piégés dans les émeutes à Paris, choc et adrénaline au rendez-vous",
+          "source": "ZoneSamui.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbGFVZk4wZHdpWjBKZmpKQ01xSTFwNzZucVBQNXNISF8yaUhod0FkdTFhV2xCU0dZaldHdm9DSHk4QVJCZHVnYVhVWkZVOFMtTDVRWGlIeTNTMVZ4X3I5SWZrSy1IWmV2cFhSRHlRcUVOWU5abkRBd2JLQTlibFAxWkw3bkN5S3o1bHNybHpYcXpiNXlCdGNNYmVrRUQ3eF9EeDVmUGpPNEw3RzJOczZlMUdVWQ?oc=5",
+          "publishedAt": "2026-10-25T16:53:54.000Z",
+          "severity": "info",
+          "titleZh": "法国：对于陷入巴黎骚乱的游客来说，震惊和肾上腺素在等待着您",
           "content": null
         },
         {
@@ -306,12 +333,21 @@
           "content": null
         },
         {
-          "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
+          "title": "Casserolades, manifestation, grève générale : quelles sont les prochaines actions annoncées",
+          "source": "Libération",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVHBYUE4tRTZlU3dKbzlDUFdxVFJsMzdWbm55ajh6dzRDNGJDYlJJOGthRzM0NlpLb3ZmZjUwQ0g2aFk3cE5USU5XUHJRSkRKVEkya3kxd2dGVFlvWXdEdlV3dVJ5aV8wSmI3UmI2amNuX2lOQXJZX3NxMXctTndBSnlOekthdFpUSFczallIUjVJYURiZXo4cE9hY1JVNHFKLVBVTDlWVTNONGRzcnEzbEhOZUdNWTZnSThpQzIyTm9BWUxFd2xEdGE3aUE1N2ZXcGxZSGxYdHh6WjZBQXpUQnFCU3FTT0djcmJ0NFpLOA?oc=5",
+          "publishedAt": "2026-10-25T14:49:36.000Z",
+          "severity": "medium",
+          "titleZh": "砂锅菜、示威、总罢工：接下来宣布的行动是什么",
+          "content": null
+        },
+        {
+          "title": "In pictures: Protests over inequality, rising living costs turn violent across France",
           "source": "CNBC",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS1JVbTVIUDc2bno4ZDI1cTdTaGFwTGpMSlJ2Ynp4bEtxSjl6Y0RuZUxOUmNHQWRPTnlfOEd1cURTYUYxNHRqR1RqOXdSMzFlR1FWZkRsQ1A0VW1TbXBTRi03SDd5MFZqZWI2Z3R5Q19FR1hqa3dpU2tXOUJ5TkktcjFzTjFYZGZnVUlaatIBkgFBVV95cUxNcFpNTmNabWg2OVdLWHZabzc0c3hYVjdBNGdtdEVIM1RfNGQ2WnVtUTNyQzIxSmVqTjJKQzBxWkxIZ1NBWEVqcUxFRjBaSEVGOUJLb2gtOVpJVV9nZzNoZktfUFpjOGRrZTJSdE9haTFaenBtOUItVnFTYldmOGxmdmxNaHRXemhubkhUa3RiTENJdw?oc=5",
           "publishedAt": "2026-10-25T14:14:23.000Z",
-          "severity": "high",
-          "titleZh": "图片中：法国各地针对不平等现象的最初和平抗议再次演变成暴力",
+          "severity": "medium",
+          "titleZh": "图片中：法国各地针对不平等和生活成本上涨的抗议活动演变成暴力活动",
           "content": null
         },
         {
@@ -324,39 +360,12 @@
           "content": null
         },
         {
-          "title": "France sees another weekend of mass protests with nearly 1,000 detained",
-          "source": "KOMU 8",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRVBKMkktLVBweVlqcV9leEJ4MV90ZFE3eDlVN2RGa3VNdTF1azVSSDRVeTdZQ1d6eUpqeWtVWFNfZFY3cDliMEtwQmNjZG9JSVNqQjhhTHk3UjQ3U2I4eHZlNUlKSWpkUUFSUEZwVFAwU0tibHFTeGlvUFBZSWswTHhuMDlwckpBUkRvb3pHQW5hWFRTd1oyX2FlWjA4RjNtTzMwLVBPQ00wU3FtZnFUTTdsM2RuY19ReGRQMTVzRy1mb3dkMjZpOUVjY3hQTC14NjJPX1kwU3JQejhtbGJGb25GQThDZ21UamtPRFg4OUNwOTU2NkHSAfYBQVVfeXFMUEVQSjJJLS1QcHlZanFfZXhCeDFfdGRRN3g5VTdkRmt1TXUxdWs1Ukg0VXk3WUNXenlKanlrVVhTX2RWN3A5YjBLcEJjY2RvSUlTakI4YUx5N1I0N1NiOHh2ZTVJSklqZFFBUlBGcFRQMFNLYmxxU3hpb1BQWUlrMEx4bjA5cHJKQVJEb296R0FuYVhUU3daMl9hZVowOEYzbU8zMC1QT0NNMFNxbWZxVE03bDNkbmNfUXhkUDE1c0ctZm93ZDI2aTlFY2N4UEwteDYyT19ZMFNyUHo4bWxiRm9uRkE4Q2dtVGprT0RYODlDcDk1NjZB?oc=5",
-          "publishedAt": "2026-10-25T14:09:00.000Z",
-          "severity": "medium",
-          "titleZh": "法国周末又发生大规模抗议活动，近千人被拘留",
-          "content": null
-        },
-        {
           "title": "Paris cost-of-living protest: 142 detained, 120 held in custody",
           "source": "Around Prague",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSDN0ejZUUGc4NFFaTTViSFhQOGlfVHBJakpZZ3hsbmhvWGV3bVZLcUk0Ri14SDc4a1VySF9WSFo2T0pZbXVxQ0VmWENoRVQwZllrRXBGeFJhcGNMeHd3dmdvbnNFQmpnZElLdUpvaW9JRVFWb0l5MTJ1ckRxX3JHak5hZlJSREt1VW9uY3FiVG5hUUF4UmQw?oc=5",
           "publishedAt": "2026-10-25T13:50:53.000Z",
           "severity": "medium",
           "titleZh": "巴黎生活费抗议：142人被拘留，120人被拘留",
-          "content": null
-        },
-        {
-          "title": "Casserolades, manifestation, grève générale : quelles sont les prochaines actions annoncées",
-          "source": "Libération",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVHBYUE4tRTZlU3dKbzlDUFdxVFJsMzdWbm55ajh6dzRDNGJDYlJJOGthRzM0NlpLb3ZmZjUwQ0g2aFk3cE5USU5XUHJRSkRKVEkya3kxd2dGVFlvWXdEdlV3dVJ5aV8wSmI3UmI2amNuX2lOQXJZX3NxMXctTndBSnlOekthdFpUSFczallIUjVJYURiZXo4cE9hY1JVNHFKLVBVTDlWVTNONGRzcnEzbEhOZUdNWTZnSThpQzIyTm9BWUxFd2xEdGE3aUE1N2ZXcGxZSGxYdHh6WjZBQXpUQnFCU3FTT0djcmJ0NFpLOA?oc=5",
-          "publishedAt": "2026-10-25T13:48:00.000Z",
-          "severity": "medium",
-          "titleZh": "砂锅菜、示威、总罢工：接下来宣布的行动是什么",
-          "content": null
-        },
-        {
-          "title": "NFL overcomes civil unrest, Trump concerns and calls to postpone as Steelers and Saints kick off in Paris",
-          "source": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVNhaEdvZ3V1S0JVajNQN2RJWFljSjFJMXVmZkxtLWNYWU8wajV6QjZLc0FmVHJzck10OHozczkyMkkyWFp2NTk2OEl6ZmRRdENVdkdfLU83aW9YNEtZZnd1SmlGMHNsbmlOVGZtelh3Rk5TMmFIdGFPUFpxQmdwTFJNNkFLSzhSeWE0Y2dOOExJUU9lQnhiUEN5ZVI5amZfbmtKNVd5Z1RoTFBScF9SRXNqbGdQd0o2ZWxJZUNZSl93UV82?oc=5",
-          "publishedAt": "2026-10-25T13:33:21.000Z",
-          "severity": "info",
-          "titleZh": "NFL克服内乱、特朗普的担忧并呼吁推迟钢人队和圣徒队在巴黎开赛",
           "content": null
         },
         {
@@ -376,15 +385,6 @@
           "severity": "medium",
           "titleZh": "本周图片：法国各地的抗议活动、印度尼西亚的野火和巴西的选举",
           "content": null
-        },
-        {
-          "title": "Good mood among fans attending the first NFL game in Paris, a day after protests and clashes",
-          "source": "ABC27",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYkwyUjlNREVDUTZXRDhmMkg3TnQza1lJRVVJMldJMkhkRkp0V2ZxdDhYa2tSdXRxTnFVMU5BUHRhSk15Vmw1OUdQejlrYVBOc3NaSnE3WDRZNE9QSGJIVk1TZ1NPZ0ZIUWlLY2ZqUE5pckJMYlNzdUFqRXcxeVM2OXE0WnRjRG5lZDBrdGtvbFFBRkx6amJMTC03SFBwdmpEeE91c1E3TGdWVUJyX0F4bFYzdWd0ZTdscW5LZmxLMGdxMDNFZWxUaXVZeDNpbnlEYUNlbWpyYjVpWFBh0gHcAUFVX3lxTE5iTDJSOU1ERUNRNldEOGYySDdOdDNrWUlFVUkyV0kySGRGSnRXZnF0OFhra1J1dHFOcVUxTkFQdGFKTXlWbDU5R1B6OWthUE5zc1pKcTdYNFk0T1BIYkhWTVNnU09nRkhRaUtjZmpQTmlyQkxiU3N1QWpFdzF5UzY5cTRadGNEbmVkMGt0a29sUUFGTHpqYkxMLTdIUHB2akR4T3VzUTdMZ1ZVQnJfQXhsVjN1Z3RlN2xxbktmbEswZ3EwM0VlbFRpdVl4M2lueURhQ2VtanJiNWlYUGE?oc=5",
-          "publishedAt": "2026-10-25T12:43:39.000Z",
-          "severity": "high",
-          "titleZh": "抗议和冲突发生一天后，在巴黎观看第一场 NFL 比赛的球迷情绪良好",
-          "content": null
         }
       ],
       "places": [
@@ -397,11 +397,83 @@
         12
       ],
       "articleCount": 37,
-      "clashCount": 8,
+      "clashCount": 7,
       "status": "unknown"
     }
   ],
   "latest": [
+    {
+      "title": "French TV channels scramble to apologize after airing Albanian protests as Paris and Lyon",
+      "source": "The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUVIxNG1rQ1ZpcDkzMVg1eW1mcGZEVE9ZU1l6SGhiSWNSYUllQ3o3NkhFWFRUeFhNZ1hPYnR6WmpZcU5id28wQ2FjamlyV1FfUWNfZlRJbm9iWGV5aXBqTDM5OFZ2bFR2Qkljams2ZTBSUk9sSEJ1VjlCQlJhLS1Nd2Rha3E4Q0ljWDBWU2JtZk5RZXlJckhvVi1vTmNmTU5UTmpaVkdEbVBFSmVveVdUR0Z5dHBkYXZvMTRvMVcwNE52UnM5X3R4VmptOV8?oc=5",
+      "publishedAt": "2026-10-26T03:28:27.000Z",
+      "severity": "medium",
+      "titleZh": "法国电视频道在播出阿尔巴尼亚抗议活动后争先恐后地道歉",
+      "content": null
+    },
+    {
+      "title": "Couvre-feu à Paris dimanche 25 octobre : sortie perturbée, quels remboursements ?",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOblpRZGdqR3RuSU5DeFMycGI5QTREYm1kbmk4QThzWkRJSkk2VzE0azhmZlptMm9vbmpVOU9rOGVhekRwOE5RRERXQnl6TzVsMzhGYkZDUkhTeHFiQ1JFamktd2VQZXNTZWREb0tPT2pqM2M1S2Rra1lmOUVxTGVPRG1WdzdoN0ZwVlhxX0N3VFJuV0hGSy1vb0dPb2lqS1E0aTUxQnFsM2MxSlBsb0VZUmV6Z0dPSXJES0RndGJaaUpGSVZqMlU1TXRYN2lXMUh2dlhOWWxTSQ?oc=5",
+      "publishedAt": "2026-10-26T02:45:25.000Z",
+      "severity": "info",
+      "titleZh": "10月25日周日巴黎宵禁：郊游中断，如何报销？",
+      "content": null
+    },
+    {
+      "title": "France dodges rerun of looting and riots at protests",
+      "source": "The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX3dEaVZDMENYa3cwcjFvUnJfaE5WQlNXMWpucjFtd21OVG1BeUZCalo1c3VkWDVKTmhmUDNLaUdfc0VBak11R2hMSm5GYkwxRHlpVnBaNVM2dU0tLVZ5VFpjcndRTHFMN3dJS2V0TUJPSkQyX3ZlUjRsUjZyMzUtckxkOEdPaFk?oc=5",
+      "publishedAt": "2026-10-26T02:33:00.000Z",
+      "severity": "medium",
+      "titleZh": "法国避免因抗议活动重演抢劫和骚乱",
+      "content": null
+    },
+    {
+      "title": "Sona Mohapatra thanks PM Modi for ensuring Delhi doesn't turn into Paris amidst protest",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxONTZrdW5TY0NxcW1OWmVtbkhBMHJ4SldmQlU0TVdoVllZY0pCMkNfbmRzS2hnQmtET0ozeTZaeXc1aWsyUHQ4eEIySUZBaGZWSUloUFZNX3prX29YQ3NKT0JGVkVESVBodnNkN0FiYkdUOURXbU9fajVORTZtbHJpWkM0UjRDdEV2MW5GeFlNaG5iTHhQQ2g3d21yckZ4YjZQblVjbFkyR2hjUDNObGN4aUF5T2ZhNi0ydWVicmJvM2hETndRRGR2M3dNdXd5MklyaVB1aUVXN3hGMHVfY3pmSENQbWRQTmFqbmZJeTk3NFkwOW1WQ1NRRGRodFlYaktuOWxfQ1ViZElNVi1rMDNMUtIBlgJBVV95cUxPX0dreEpkTkNvZ3Z6dVhMRUpRY0RCRkV0dU5FcHAwdGUzSUpUMElsSlgybkZ6SlZuelJqYldpWE9XSTY4bU5zeExXZEJqcnZ3eE8xdHU3OFdkTGZ5bFlmRTV3SFp1THNMQ0t3Ti1IbVpmN0szTzhYcWlodkRKa1FYcHpXLWpmald4b0tNMExBc3FyZHN0WGlNSzZNTjRRTHhtR1VSdEo5eW9UeC1VVEJuQm1qOVExcnVDVXFLamtiZ3dpZ3JkWnc1b0stTUxMdTk3YXozb0NwRWhtS0U4YkJwN0xHNjJQMTAzYlVNRVE2TkxlRDYwV2xpMWdEM3pIZmh3dzRudUNuMnBWbExqUjNqTUk4eGNzdw?oc=5",
+      "publishedAt": "2026-10-26T02:22:00.000Z",
+      "severity": "medium",
+      "titleZh": "索纳·莫哈帕特拉感谢莫迪总理确保德里不会在抗议中变成巴黎",
+      "content": null
+    },
+    {
+      "title": "France Braces for Mass Protests: What to Know",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
+      "publishedAt": "2026-10-26T01:43:04.000Z",
+      "severity": "medium",
+      "titleZh": "法国为大规模抗议做好准备：要知道什么",
+      "content": null
+    },
+    {
+      "title": "Couvre-feu à Paris : les stations de métro et de RER fermées dimanche 25 octobre dès 22h",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVXpSbVJITk1VelFsMlM5X2pxQnNLVTI3WjZVMXlzRkppeWVpbERra1E4RXgzU19hM2o3bG5wQ1BzRk43aUowQjBTcGNVeFU2ckNVMVg3d3NnX0tYcjJyM2hJZWNFRlJDSjNHdzRtVUQ1NWx1eWk2RkI0Ml9YMkcwcWlKUEJwUFVhQl9uVWtrdlJ1UU0yYlBjeTEyS1JacWJxMTRiS05UeEVDTXhzUWVNRnF6QWZpbHF4ZUg5RWhzODJxZ2k5aW5jNVA2QTBoeVhQLTdETU5iNUd1b0hIbTU0Rnc5ZWI?oc=5",
+      "publishedAt": "2026-10-26T01:40:30.000Z",
+      "severity": "info",
+      "titleZh": "巴黎宵禁：地铁和 RER 车站于 10 月 25 日星期日晚上 10 点起关闭。",
+      "content": null
+    },
+    {
+      "title": "Police, protesters clash as unrest sweeps France",
+      "source": "InDaily South Australia",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVEo2UHJiZmVFN3B6aGM4OHBMbTJXOXJUTE9IdXVIRHZhSjh6eVJNVF9EeWczNXZfTmFreWZTTC1vSmh3Z2pqbVUxbFBla2tjaTB6TUJOM3huTEF1UExjbmYxUFhoSGFLMzNmbEZNZFpwVlQ5NGpPT0dGMVZRUVd2T0FvaVpGUUNQaWJGbHFONHhwWXc?oc=5",
+      "publishedAt": "2026-10-26T00:54:30.000Z",
+      "severity": "high",
+      "titleZh": "骚乱席卷法国，警察与抗议者发生冲突",
+      "content": null
+    },
+    {
+      "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
+      "publishedAt": "2026-10-26T00:52:06.000Z",
+      "severity": "info",
+      "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
+      "content": null
+    },
     {
       "title": "How to stream and watch Steelers vs. Saints in Paris: Halftime show and protest details",
       "source": "The New York Times",
@@ -421,24 +493,6 @@
       "content": null
     },
     {
-      "title": "Manifestations du 24 octobre : le préfet du Rhône décide de reconduire dimanche le couvre-feu dans l'hypercentre de Lyon",
-      "source": "franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZ1gtbnBudU5lTmJQS1FkR1Y4QTF3SlBiY0VuYThJMkhNdDdsaW5EY2M4Vk9kNGVXc3JBdlNvM0lUOUZjdXNTZ3ZHMjRCdjVCdXBQY3RmYVI2RFJ2Rm5VYTZnTUlITXd1eHZGZEVjWklJeG9tZ0dLRjl4WW9VN3JuQzIwdTBjanRRa3ZPM2JSV1FiYThjSC1iOEJRbzBxU3hoYk1FZkhaTjVoZlliVmVFUTlkcFRPUDk1M2VyNlBNdTVIemVCVVBLbDJuSzAzanpTUWJnWVZKVmo3WjdNbnp6eW9jTlRRM0plU3FtekJVQlhRaDZDYU5SaFlCLVNvOV95Uml3SzFMVzNnX184cGNtMUdKNVZQVEg1UWRIUm56cUFHbUVlY2ZXUm4wemNZYktsbldrdQ?oc=5",
-      "publishedAt": "2026-10-25T22:16:21.000Z",
-      "severity": "medium",
-      "titleZh": "10 月 24 日示威活动：罗讷省长决定延长周日里昂市中心的宵禁",
-      "content": null
-    },
-    {
-      "title": "Couvre-feu à Paris dimanche 25 octobre : sortie perturbée, quels remboursements ?",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOblpRZGdqR3RuSU5DeFMycGI5QTREYm1kbmk4QThzWkRJSkk2VzE0azhmZlptMm9vbmpVOU9rOGVhekRwOE5RRERXQnl6TzVsMzhGYkZDUkhTeHFiQ1JFamktd2VQZXNTZWREb0tPT2pqM2M1S2Rra1lmOUVxTGVPRG1WdzdoN0ZwVlhxX0N3VFJuV0hGSy1vb0dPb2lqS1E0aTUxQnFsM2MxSlBsb0VZUmV6Z0dPSXJES0RndGJaaUpGSVZqMlU1TXRYN2lXMUh2dlhOWWxTSQ?oc=5",
-      "publishedAt": "2026-10-25T22:04:58.000Z",
-      "severity": "info",
-      "titleZh": "10月25日周日巴黎宵禁：郊游中断，如何报销？",
-      "content": null
-    },
-    {
       "title": "French protest groups demand more rallies as Macron faces tough choices",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmJMN1JUSWphZktVT1hXNmhHdXJYblhCMjFhREdZTzR2ZWhKdWgwRnB1enEwWFp3TWxJY2hvN0tQX0RpSXBFdFJVRUJiYzBvMWJiMTRrUWs4U0tRdE1YQ0xSdmZabkFGWTNROWZLQjBrc1l1LURSU2d1NG1aMXRVTmpHRXpUTHFYR0hzU3VEem9tX3JPWExBZXRidV83VmZYY2g3cTBZX0tkb2pzb3hZVUt0dnhWalN1?oc=5",
@@ -454,24 +508,6 @@
       "publishedAt": "2026-10-25T21:00:00.000Z",
       "severity": "high",
       "titleZh": "城市暴力：国家加强对社交网络的控制",
-      "content": null
-    },
-    {
-      "title": "France Protest Updates: Hundreds of Thousands March Amid Heavy Security",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81czdlcjVNUjBwb0g2dGNHaldFazEzUkI3bzhKeXVpTHBpMGdJNXBqZVBlT2pFZzROdTJ0dzBoSURnU2N0VzBNY3BER3VLM3ZreUVMRHJKdG1oc3ZiaEJvcHZIVjUtVGlWeFRqcjdMUnJkb09QT0E?oc=5",
-      "publishedAt": "2026-10-25T20:46:00.000Z",
-      "severity": "medium",
-      "titleZh": "法国抗议活动最新动态：数十万人在戒备森严的情况下游行",
-      "content": null
-    },
-    {
-      "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50UzFBMjNUd0EyTk4xYk5pS20tWWRYeW9KQTJtbG8yOXkzS182U2tPUUJrYUJ0SThkdkZaUjM1MVBkN1hVczdJSS1PRlBDbGhuajZUb0dCZXAtQ2gxMWstbDZKNl9obGM0X3dNbFVGMlhKbUJhVURRWVYzbmQ?oc=5",
-      "publishedAt": "2026-10-25T20:41:00.000Z",
-      "severity": "info",
-      "titleZh": "巴黎镇压骚乱，孤独地欢迎游客",
       "content": null
     },
     {
@@ -499,6 +535,15 @@
       "publishedAt": "2026-10-25T20:06:13.000Z",
       "severity": "high",
       "titleZh": "暴力事件震撼欧���：我们进行盘点",
+      "content": null
+    },
+    {
+      "title": "Retailers in France and Italy Tally the Cost of Lost Business After Second Round of Protests",
+      "source": "WWD",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWk0QkgwX1VHOHRzdjFiZGpqbEU5eEcxREJjY3lIT21WaS1pZS1HMVJXTlJtQ3JZQWNkUXZlZ3FIS0JDY1l0T0pNSXpsaXpRRVA3V2otbmFCREV6UHpnU2Jvb2dwUmlmVHJ1M2pEU2xWdmtFSlZnWUJaeGtwYjZLUXVYSTFMRkhad1JPc25EYkZXSFRBVl9NYTVlaWsyaUV2Z0VfbmtjSi1HWVRN?oc=5",
+      "publishedAt": "2026-10-25T19:58:24.000Z",
+      "severity": "medium",
+      "titleZh": "法国和意大利零售商统计第二轮抗议后失去业务的成本",
       "content": null
     },
     {
@@ -547,39 +592,12 @@
       "content": null
     },
     {
-      "title": "NFL-Paris game played in festive atmosphere after fresh demonstrations",
-      "source": "CNA",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMThvNHV3Ym8xWG9la3NTUms1d3BqRzFBeUY1MTNQRUtaUDhRd3dSNXNQbHh5SElPSlhtdVF6ZFRZbVVJczlhTmRyWjlwTHJWcFNtYTEtZUp1ZVZ2ZDFkTHpfY2hTUkZNSmFBYlVkNS1RU09zNnlCU3hYRGE3aFl4aGRjN2pROW9abVc3bzg2OGpYMGRSUVhUaE1nRFh0eE9wSWpnSnc3bGZhRENWU0RNcDRxUWpOM0k?oc=5",
-      "publishedAt": "2026-10-25T18:19:03.000Z",
-      "severity": "medium",
-      "titleZh": "NFL-巴黎比赛在新的示威后在节日气氛中进行",
-      "content": null
-    },
-    {
-      "title": "French TV channels scramble to apologize after airing Albanian protests as Paris and Lyon",
-      "source": "Bozeman Daily Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOa2Y3M2FIM2twRUhpU0JuaUJNMWFqdzdLU01INVlrVktlbEtSZGNsbm9Vd1BzQkltX1lIQTVFZno2RFNrQ0ZBMFJjYndsT2R4Y0VoR29aUXh4a2hJWG9DWEU0T3VlU05vcEdvallFNmI3VlpIaVBNSnpmTUdmUVVxSWdMeWUwUDZ0TjJoWUUxM3pDcER6ZHViNEJiMDFia05tcVRSVFRQTENWV25aZlF4NC1zNTlJQjVpdm5VRVV3UUdOenhyR2p3cUNVS0FRYmZqR0xIV1BManhqUUFZaUdvdl9mdTBQUTA5eGlWcHZSc3BXZXF6M0VWcjB6SU53a0FaQ0VISzJlMGJsWllLRldLVXh6ZnRESGxKeWZRajR5NVhKUQ?oc=5",
-      "publishedAt": "2026-10-25T17:56:27.000Z",
-      "severity": "medium",
-      "titleZh": "法国电视频道在播出阿尔巴尼亚抗议活动后争先恐后地道歉",
-      "content": null
-    },
-    {
       "title": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1MxY0g2Q2M3bUlIUGpnRnVhQ2RYcUZETDJ6cG1LRE05enFYUWxmZHlqalVkWnFLN3hwTG1td3lSX1p6a3VXTXF1OGEzRUFXQnJPaVBxS1FPVXV6cWdxWlR6YmJHeUdlbTZkVUxQSVRVWXJuSnZ3TTM0aTV4cF9VM3ktblVlOXRh?oc=5",
       "publishedAt": "2026-10-25T17:52:46.000Z",
       "severity": "high",
       "titleZh": "法国再次爆发街头冲突一天后，宽慰与焦虑交织在一起",
-      "content": null
-    },
-    {
-      "title": "Agressions et bagarre générale : à Rouen, des militants identitaires prennent à partie des manifestants",
-      "source": "Paris Normandie",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR2c1TDRJLXVneDEzRF9vMG04SE0xT040cXFFS2pmdlBoLXRHY3piallxUFpuSHFEWnVabmpmZldDZU1qVXdNbEkyNWxDdFYyZm05QW04bS1xdFYzZGVQbkN5N05TenZPRjVvZmNObkJWVHB1b3NWdlhWTDg4em12ZlM0RkZrT0lxX3hMYTVYTzEySUFuVGdJSWZiejJGaV8tRnd4dHRoeVFVdkVCQTRWRTF0QUxKRjVhdGNuRC1SOV9DdmdUMTFjZFEzMEM5ZjNwbllQOQ?oc=5",
-      "publishedAt": "2026-10-25T17:49:04.000Z",
-      "severity": "info",
-      "titleZh": "袭击和普遍斗殴：在鲁昂，身份活动人士袭击示威者",
       "content": null
     },
     {
@@ -598,6 +616,15 @@
       "publishedAt": "2026-10-25T17:04:01.000Z",
       "severity": "medium",
       "titleZh": "巴黎新的示威活动、对伊夫林种族主义袭击事件的调查……法兰西岛新闻更新",
+      "content": null
+    },
+    {
+      "title": "France : Pour les touristes piégés dans les émeutes à Paris, choc et adrénaline au rendez-vous",
+      "source": "ZoneSamui.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbGFVZk4wZHdpWjBKZmpKQ01xSTFwNzZucVBQNXNISF8yaUhod0FkdTFhV2xCU0dZaldHdm9DSHk4QVJCZHVnYVhVWkZVOFMtTDVRWGlIeTNTMVZ4X3I5SWZrSy1IWmV2cFhSRHlRcUVOWU5abkRBd2JLQTlibFAxWkw3bkN5S3o1bHNybHpYcXpiNXlCdGNNYmVrRUQ3eF9EeDVmUGpPNEw3RzJOczZlMUdVWQ?oc=5",
+      "publishedAt": "2026-10-25T16:53:54.000Z",
+      "severity": "info",
+      "titleZh": "法国：对于陷入巴黎骚乱的游客来说，震惊和肾上腺素在等待着您",
       "content": null
     },
     {
@@ -646,12 +673,12 @@
       "content": null
     },
     {
-      "title": "Après la mobilisation du 24 octobre, de nouveaux rendez-vous déjà attendus la semaine prochaine",
+      "title": "Après le 24 octobre, de nouveaux rendez-vous déjà attendus la semaine prochaine",
       "source": "Le HuffPost",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWVZONWZlMEFhSVRHYVVNblNsNV8xMnNnU21xcWNBa2Yxa2FuYVB5MEFFcTVBM3FmMmtLTllPQThjNmNYQmVCakRZM2Q4cUhvMjhWeDNDdEhEM1d5VUtITGFWUWRNZElsdnJqLVYxNEQxMjI5UG1wSV91UW5aOS1vUUFaemR0WW5uY29ELWlsMDNobmpvUDJENkdUSDFmaHhFOHFySEpQRnFWOWdQMm9oak1iMGl4MVBrVUE4cHh5SmtERHZzaWtBQk5McXpYWlNLcnBHWGhXMkJ5Wi1hbnFWbFRCZk91QQ?oc=5",
       "publishedAt": "2026-10-25T15:36:25.000Z",
       "severity": "info",
-      "titleZh": "10 月 24 日动员后，预计下周将召开新会议",
+      "titleZh": "10 月 24 日之后，预计下周将举行新会议",
       "content": null
     },
     {
@@ -682,12 +709,21 @@
       "content": null
     },
     {
-      "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
+      "title": "Casserolades, manifestation, grève générale : quelles sont les prochaines actions annoncées",
+      "source": "Libération",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVHBYUE4tRTZlU3dKbzlDUFdxVFJsMzdWbm55ajh6dzRDNGJDYlJJOGthRzM0NlpLb3ZmZjUwQ0g2aFk3cE5USU5XUHJRSkRKVEkya3kxd2dGVFlvWXdEdlV3dVJ5aV8wSmI3UmI2amNuX2lOQXJZX3NxMXctTndBSnlOekthdFpUSFczallIUjVJYURiZXo4cE9hY1JVNHFKLVBVTDlWVTNONGRzcnEzbEhOZUdNWTZnSThpQzIyTm9BWUxFd2xEdGE3aUE1N2ZXcGxZSGxYdHh6WjZBQXpUQnFCU3FTT0djcmJ0NFpLOA?oc=5",
+      "publishedAt": "2026-10-25T14:49:36.000Z",
+      "severity": "medium",
+      "titleZh": "砂锅菜、示威、总罢工：接下来宣布的行动是什么",
+      "content": null
+    },
+    {
+      "title": "In pictures: Protests over inequality, rising living costs turn violent across France",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS1JVbTVIUDc2bno4ZDI1cTdTaGFwTGpMSlJ2Ynp4bEtxSjl6Y0RuZUxOUmNHQWRPTnlfOEd1cURTYUYxNHRqR1RqOXdSMzFlR1FWZkRsQ1A0VW1TbXBTRi03SDd5MFZqZWI2Z3R5Q19FR1hqa3dpU2tXOUJ5TkktcjFzTjFYZGZnVUlaatIBkgFBVV95cUxNcFpNTmNabWg2OVdLWHZabzc0c3hYVjdBNGdtdEVIM1RfNGQ2WnVtUTNyQzIxSmVqTjJKQzBxWkxIZ1NBWEVqcUxFRjBaSEVGOUJLb2gtOVpJVV9nZzNoZktfUFpjOGRrZTJSdE9haTFaenBtOUItVnFTYldmOGxmdmxNaHRXemhubkhUa3RiTENJdw?oc=5",
       "publishedAt": "2026-10-25T14:14:23.000Z",
-      "severity": "high",
-      "titleZh": "图片中：法国各地针对不平等现象的最初和平抗议再次演变成暴力",
+      "severity": "medium",
+      "titleZh": "图片中：法国各地针对不平等和生活成本上涨的抗议活动演变成暴力活动",
       "content": null
     },
     {
@@ -700,39 +736,12 @@
       "content": null
     },
     {
-      "title": "France sees another weekend of mass protests with nearly 1,000 detained",
-      "source": "KOMU 8",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRVBKMkktLVBweVlqcV9leEJ4MV90ZFE3eDlVN2RGa3VNdTF1azVSSDRVeTdZQ1d6eUpqeWtVWFNfZFY3cDliMEtwQmNjZG9JSVNqQjhhTHk3UjQ3U2I4eHZlNUlKSWpkUUFSUEZwVFAwU0tibHFTeGlvUFBZSWswTHhuMDlwckpBUkRvb3pHQW5hWFRTd1oyX2FlWjA4RjNtTzMwLVBPQ00wU3FtZnFUTTdsM2RuY19ReGRQMTVzRy1mb3dkMjZpOUVjY3hQTC14NjJPX1kwU3JQejhtbGJGb25GQThDZ21UamtPRFg4OUNwOTU2NkHSAfYBQVVfeXFMUEVQSjJJLS1QcHlZanFfZXhCeDFfdGRRN3g5VTdkRmt1TXUxdWs1Ukg0VXk3WUNXenlKanlrVVhTX2RWN3A5YjBLcEJjY2RvSUlTakI4YUx5N1I0N1NiOHh2ZTVJSklqZFFBUlBGcFRQMFNLYmxxU3hpb1BQWUlrMEx4bjA5cHJKQVJEb296R0FuYVhUU3daMl9hZVowOEYzbU8zMC1QT0NNMFNxbWZxVE03bDNkbmNfUXhkUDE1c0ctZm93ZDI2aTlFY2N4UEwteDYyT19ZMFNyUHo4bWxiRm9uRkE4Q2dtVGprT0RYODlDcDk1NjZB?oc=5",
-      "publishedAt": "2026-10-25T14:09:00.000Z",
-      "severity": "medium",
-      "titleZh": "法国周末又发生大规模抗议活动，近千人被拘留",
-      "content": null
-    },
-    {
       "title": "Paris cost-of-living protest: 142 detained, 120 held in custody",
       "source": "Around Prague",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSDN0ejZUUGc4NFFaTTViSFhQOGlfVHBJakpZZ3hsbmhvWGV3bVZLcUk0Ri14SDc4a1VySF9WSFo2T0pZbXVxQ0VmWENoRVQwZllrRXBGeFJhcGNMeHd3dmdvbnNFQmpnZElLdUpvaW9JRVFWb0l5MTJ1ckRxX3JHak5hZlJSREt1VW9uY3FiVG5hUUF4UmQw?oc=5",
       "publishedAt": "2026-10-25T13:50:53.000Z",
       "severity": "medium",
       "titleZh": "巴黎生活费抗议：142人被拘留，120人被拘留",
-      "content": null
-    },
-    {
-      "title": "Casserolades, manifestation, grève générale : quelles sont les prochaines actions annoncées",
-      "source": "Libération",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVHBYUE4tRTZlU3dKbzlDUFdxVFJsMzdWbm55ajh6dzRDNGJDYlJJOGthRzM0NlpLb3ZmZjUwQ0g2aFk3cE5USU5XUHJRSkRKVEkya3kxd2dGVFlvWXdEdlV3dVJ5aV8wSmI3UmI2amNuX2lOQXJZX3NxMXctTndBSnlOekthdFpUSFczallIUjVJYURiZXo4cE9hY1JVNHFKLVBVTDlWVTNONGRzcnEzbEhOZUdNWTZnSThpQzIyTm9BWUxFd2xEdGE3aUE1N2ZXcGxZSGxYdHh6WjZBQXpUQnFCU3FTT0djcmJ0NFpLOA?oc=5",
-      "publishedAt": "2026-10-25T13:48:00.000Z",
-      "severity": "medium",
-      "titleZh": "砂锅菜、示威、总罢工：接下来宣布的行动是什么",
-      "content": null
-    },
-    {
-      "title": "NFL overcomes civil unrest, Trump concerns and calls to postpone as Steelers and Saints kick off in Paris",
-      "source": "Fox News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVNhaEdvZ3V1S0JVajNQN2RJWFljSjFJMXVmZkxtLWNYWU8wajV6QjZLc0FmVHJzck10OHozczkyMkkyWFp2NTk2OEl6ZmRRdENVdkdfLU83aW9YNEtZZnd1SmlGMHNsbmlOVGZtelh3Rk5TMmFIdGFPUFpxQmdwTFJNNkFLSzhSeWE0Y2dOOExJUU9lQnhiUEN5ZVI5amZfbmtKNVd5Z1RoTFBScF9SRXNqbGdQd0o2ZWxJZUNZSl93UV82?oc=5",
-      "publishedAt": "2026-10-25T13:33:21.000Z",
-      "severity": "info",
-      "titleZh": "NFL克服内乱、特朗普的担忧并呼吁推迟钢人队和圣徒队在巴黎开赛",
       "content": null
     },
     {
@@ -751,15 +760,6 @@
       "publishedAt": "2026-10-25T12:48:31.000Z",
       "severity": "medium",
       "titleZh": "本周图片：法国各地的抗议活动、印度尼西亚的野火和巴西的选举",
-      "content": null
-    },
-    {
-      "title": "Good mood among fans attending the first NFL game in Paris, a day after protests and clashes",
-      "source": "ABC27",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYkwyUjlNREVDUTZXRDhmMkg3TnQza1lJRVVJMldJMkhkRkp0V2ZxdDhYa2tSdXRxTnFVMU5BUHRhSk15Vmw1OUdQejlrYVBOc3NaSnE3WDRZNE9QSGJIVk1TZ1NPZ0ZIUWlLY2ZqUE5pckJMYlNzdUFqRXcxeVM2OXE0WnRjRG5lZDBrdGtvbFFBRkx6amJMTC03SFBwdmpEeE91c1E3TGdWVUJyX0F4bFYzdWd0ZTdscW5LZmxLMGdxMDNFZWxUaXVZeDNpbnlEYUNlbWpyYjVpWFBh0gHcAUFVX3lxTE5iTDJSOU1ERUNRNldEOGYySDdOdDNrWUlFVUkyV0kySGRGSnRXZnF0OFhra1J1dHFOcVUxTkFQdGFKTXlWbDU5R1B6OWthUE5zc1pKcTdYNFk0T1BIYkhWTVNnU09nRkhRaUtjZmpQTmlyQkxiU3N1QWpFdzF5UzY5cTRadGNEbmVkMGt0a29sUUFGTHpqYkxMLTdIUHB2akR4T3VzUTdMZ1ZVQnJfQXhsVjN1Z3RlN2xxbktmbEswZ3EwM0VlbFRpdVl4M2lueURhQ2VtanJiNWlYUGE?oc=5",
-      "publishedAt": "2026-10-25T12:43:39.000Z",
-      "severity": "high",
-      "titleZh": "抗议和冲突发生一天后，在巴黎观看第一场 NFL 比赛的球迷情绪良好",
       "content": null
     }
   ]
