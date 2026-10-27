@@ -1,39 +1,11 @@
 {
   "success": true,
   "today": "2026-10-27",
-  "updatedAt": "2026-10-27T12:38:53.189Z",
+  "updatedAt": "2026-10-27T18:40:12.323Z",
   "events": [
-    {
-      "date": "2026-10-30",
-      "articles": [
-        {
-          "title": "\"Casserolades\" des Gilets jaunes à Paris le 30 octobre : à quoi faut-il s'attendre ?",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVS1oS2tSS0c4T1Jtemp1YzMwZFhfNzhuSUxPVEFFME1lUE13UFJaeDlnblE0eFQ1YTZGYWRISHR5OGc0TWdDYi1fejZOYWNrWjZnUGdaWEtjYXhpM1UzRmZPdXlxQmVTOFBDQ1RldWlfM08zeGF3eWtlSENTMkpEV0NHTXljXzZoS2FkQlRFQWRkVmRvRDBqTldadUtZXzVxNnZzS3FORHJHellLRkJUVFpESW82T0Y3R19Xa0hUT3lzTWdQWmpHSWxDMG9rMzItSDc0dVVEZmdyQQ?oc=5",
-          "publishedAt": "2026-10-27T08:50:47.000Z",
-          "severity": "info",
-          "titleZh": "10 月 30 日巴黎黄背心的“Casserolades”：您应该期待什么？",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
-      "status": "recent"
-    },
     {
       "date": "2026-10-31",
       "articles": [
-        {
-          "title": "Manifestation du 31 octobre, à quoi s’attendre à Paris ? Parcours et infos",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSmVzOXg3M1FQZU5lbUo2bHV1YTRTd25scm5PMFZRbkhKV0hqT1R0TUFwV19lSG5icmRWUUpJUGhQbHpTWlBlVjNyQ3hkTHpjN0JHWTNvaHFlTEo2WDJZS1dqbU9uY2FXaE5uX3B3bjBYeVljRDFrMHZTd0JSYXZ3b0tKakxhM2xVeXpQRnBCMm5xSHJ5eGM2MVBPcmVCS1BzY1I5amh3Tzk0ZV9Oei1sYUpudFN3c0ZRVEgtejMtRm5yTi1iaHZ5UVdjWWxOR1Fa?oc=5",
-          "publishedAt": "2026-10-27T12:14:30.000Z",
-          "severity": "medium",
-          "titleZh": "10 月 31 日示威，巴黎会发生什么？路线及信息",
-          "content": null
-        },
         {
           "title": "Manifestation du 31 octobre à Paris : quel est le parcours souhaité par les Gilets jaunes ?",
           "source": "Sortir à Paris",
@@ -44,173 +16,395 @@
           "content": null
         },
         {
-          "title": "Les Gilets jaunes appellent à manifester dans le centre de Paris le 31 octobre et menacent la préfecture d'une plainte",
-          "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPa1dmeGQwS0ZHRVh3WEVGZjY0Xy1MeTVTX2ZFOUFneXRpcWFQUHVYX3QxYzVGVExpTzN1V2ZRNTNYUDVReXh5S0s4eW9FU2JERlk1WVJiX0xDb2tyYlJVQlhuLWhXUUQyTVRnd0c1RzhmWHFFWi1VdUFhWjFlUlJIM3FLelRjSldDaVZ1RkhOU25fVnRTUnhpUHZvVndhN2hnNjlUeDZ3MTBUZmp6YVIxcEpKV0diQ3Azdm5LbGxvMmpzU1VtYXd1SWZnUE9xM1N6TnEyU1dsX2VUNG8xSGVnelFubE1jMzhQNllmRTlIOVlYMHBSSzBIS2ZaTXZJTE12RllDRQ?oc=5",
-          "publishedAt": "2026-10-27T11:39:45.000Z",
-          "severity": "info",
-          "titleZh": "黄背心呼吁10月31日在巴黎市中心举行示威，并以投诉威胁该地区",
-          "content": null
-        },
-        {
-          "title": "31 octobre à Paris : les Gilets jaunes déposent un parcours Bastille-Opéra-Concorde et menacent de porter plainte en cas de refus",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPNHpiSjROMUY0RVMzaHFnY1VpbUNMb21oMFRLVEEzcl8yNXBZVEtDNjNwcmVPSGp0TWZqX09GUHVTVFlaUlZOelFaZXBlRTlaS25lV2RLMHZCeEQ2c2I4dEw2d2UyM0w1VmlhSDI1OUFtU09MaktPRTlOM0dlVGNHcVdoR0Qta25obi1tMU9CMkI1bzFEZW5iWDR5UGdvMThyVnNhZ0poUDNWLUdwWHoyUWp0WXVYOFN0cDFUZ21qZnYxLWRUZmtzYW85dTBoN3hJcHZrNU1wR2kyYWlubkdVRHZrSkZJMjg1S3FtVDdhVVFkYXVDTjNRaUstbm14ZmlUWnQyQUxxQWNWQVlvempGcldHMnB6RWtiRW8yNTBsbE1MSENpc0xybWFKdGM?oc=5",
-          "publishedAt": "2026-10-27T09:50:28.000Z",
-          "severity": "info",
-          "titleZh": "10 月 31 日巴黎：“黄背心”提出巴士底狱-歌剧院-协和广场路线，并威胁如果拒绝将提出投诉",
-          "content": null
-        },
-        {
-          "title": "Après des heurts samedi, des comparutions immédiates",
-          "source": "www.lamarseillaise.fr",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOem1iLXprOWZ6U0phd2MzOXAyQnlBMkxfWUFscjhxYkNjeHBqVTBhRDhBTDJlMldNR2xmenRxRnRlSUFxcDRvTng4NjhfdlhKalowdUI1dWtkY1UyeUpucDdZWUd4QkdVMHNqWTRXVzNKRWtORkVJamtsOFQwTmpxMU5JT3JacDN5MDVZWDNlU0hkVUs3V0JpTlJHd1p5ZG5QUGc?oc=5",
-          "publishedAt": "2026-10-27T06:33:00.000Z",
-          "severity": "high",
-          "titleZh": "周六发生冲突后，立即出场",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 31 octobre, à quoi s’attendre à Paris ? Les infos",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXdabmo0SWNJa0FZTVhjRExkdG5zelE3NUNTTzc4SGdMNG9qZDdkajdsekpaNFlPNXR1THdJdDZSVTBZRmczVklnOVoxSUlrYWluUTJPVkhGcmVJdHRCb0hBLXJWNlJpaXN1enNsZXJ5TFRMb0t2T2pXby1BSWcteUpBcV9FUEF3QmhfWTJETmVsQWRpeGcyOTRwNm5uLWhOMlJZSXItYUJIUEpIX2s0TmRkcnNDSFB5MDFZclI1ZEk1bXl5VFE?oc=5",
-          "publishedAt": "2026-10-27T06:17:00.000Z",
+          "title": "Manifestations de samedi en France: nombreux appels à commettre \"exactions\" et \"pillages\" - Monde - International",
+          "source": "Ahraminfo",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSEh1ODlSVWx6aGgwQTNDWFp1TTE3LWFXZ0g2RlNoOHlpTGJXd0NOWVlZQnlkTW5tVzBDcXdES0NnTVpMNjc1R08xLUhIUjQ3cWM3a3ZR?oc=5",
+          "publishedAt": "2026-10-27T12:02:17.000Z",
           "severity": "medium",
-          "titleZh": "10 月 31 日示威，巴黎会发生什么？信息",
+          "titleZh": "法国周六的示威活动：多次呼吁实施“精确”和“抢劫” - 世界 - 国际",
           "content": null
         }
       ],
       "places": [
-        "巴士底 Bastille",
-        "歌剧院 Opéra",
-        "协和广场 Concorde"
+        "民族广场 Nation"
       ],
       "districts": [
-        1,
-        2,
-        4,
-        8,
-        9,
         11,
         12
       ],
-      "articleCount": 6,
-      "clashCount": 1,
+      "articleCount": 2,
+      "clashCount": 0,
+      "status": "upcoming"
+    },
+    {
+      "date": "2026-11-03",
+      "articles": [
+        {
+          "title": "L'intersyndicale de SFR appelle à la grève le 3 novembre: le tribunal judiciaire de Paris déboute le CSE de l'opérateur d'une action en référé dans le cadre du projet de rachat",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNZDB3ZzJ1WXU1cUNzLUI4TksxY0VvX2tsWGxQSEVqWFNPSWM4ZXhHNFNQV2FPcjFYR1ZFUTAzVlJvY0pJREgwNFFKM3BQQW1xeVFhM0cxWU9ELWFWSVlTYlE2QWVTUTYyY1VIcy1zb2JWeHQzNlhxV0VhUGdBdjhUYnMtRjN5NEtzdG5UQ1J3VjF2ZFpaa0N1cEhQb0JxakFjeUFxU2lNdmhFT1E1NGhJeHlQbXlqUVkwbFhPZEVYQXZ2b1hRQUtuZ2RSSTVreHRPNE81WXg1bmZvb3B5WExyQUUwVS04R08zQVpnUUdtMlYwR3htZmVXMlZVUXI1SlotSExvUm05cEN4U1ZqY2l2ZlMxaDJNT0JHeEZjLXhjVERmWFhURnUzaGJjWUZKWk03V2NUX1FOQzVnTWYyWmZfck9xMkRTeHZZblA4V01xWHp3SFZ2UHk5NW9PWQ?oc=5",
+          "publishedAt": "2026-10-27T13:51:07.000Z",
+          "severity": "medium",
+          "titleZh": "SFR工会呼吁11月3日罢工：巴黎法院驳回运营商CSE针对收购项目的临时诉讼",
+          "content": null
+        }
+      ],
+      "places": [
+        "歌剧院 Opéra"
+      ],
+      "districts": [
+        2,
+        9
+      ],
+      "articleCount": 1,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2026-11-05",
+      "articles": [
+        {
+          "title": "Saint-Denis : étudiants et travailleurs s'organisent en AG interprofessionnelle pour préparer le 5 novembre",
+          "source": "Revolution Permanente",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOamFLanNJbXRTTzl5aXEwXzV6dkp2TnRCTFUxcWxtWmNiUHJTWlVDVUFuRG1wWVc3Yk1ERDFPN2ljTE53TU5IOHpVRDFGaUQ5SkRZWWtuZEY2cVMwV1kzOEdGdUUyeS1XZkJGUDFNNVhfR1FoclFtLW9CbThDVnpmQXljVVZHWjZ1OWlmdm1HQTZuNlZVSl90RFhoTXY2UktLem1MOG1jdEl3ZXN3TExKMS1RcXB4R0FiQ3FGWjRWUF9jTUx0LXZKaXEwMEVZNTVBV0FVNNIB1AFBVV95cUxOamFLanNJbXRTTzl5aXEwXzV6dkp2TnRCTFUxcWxtWmNiUHJTWlVDVUFuRG1wWVc3Yk1ERDFPN2ljTE53TU5IOHpVRDFGaUQ5SkRZWWtuZEY2cVMwV1kzOEdGdUUyeS1XZkJGUDFNNVhfR1FoclFtLW9CbThDVnpmQXljVVZHWjZ1OWlmdm1HQTZuNlZVSl90RFhoTXY2UktLem1MOG1jdEl3ZXN3TExKMS1RcXB4R0FiQ3FGWjRWUF9jTUx0LXZKaXEwMEVZNTVBV0FVNA?oc=5",
+          "publishedAt": "2026-10-27T12:38:06.000Z",
+          "severity": "info",
+          "titleZh": "圣但尼：学生和工人组织起来组成跨专业 AG，为 11 月 5 日做准备",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 1,
+      "clashCount": 0,
       "status": "upcoming"
     },
     {
       "date": "2027-10-17",
       "articles": [
         {
-          "title": "Rififi à la commission d'enquête sur le 17 octobre, ces nouveaux contrôles de police anti-émeutes",
-          "source": "L'Express",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaE9CLVhybkhlNG1CRmM1RE5YblJHQ3IySmQzZHl5TlA4SHI0NmpOWUpIODF2b1ZXOUVTSzU2NHRHblJZQjMyS1VkQm5lZnJMU3RmcTJBaDJFSk9wbXA0VWtjWWo3TWd3Ni13X0xfNUtXLW03THZOSzFWZWRlMUJRY1lhQVVoRG5Hako3dkUwVkVkV282dkxucVZrYk1TNVdCSThZQ1FBMUtHZlg0bC1YWXVIelE2SG0zelNTRmJXNDlzWGFSTmZWU1V1ZUNGazBVWE1VU0NzSU1GMEwyNGhmcENYSVNvLXpCbFg5SVVSNmVpbWNm?oc=5",
-          "publishedAt": "2026-10-27T11:00:00.000Z",
-          "severity": "info",
-          "titleZh": "Rififi在10月17日的调查委员会中，这些新的防暴警察控制",
+          "title": "Mobilisation du 17 octobre : la famille de l'homme décédé porte plainte pour \"violences volontaires\"",
+          "source": "ici.fr",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSDBDaHVHYzlfcnIwVDFCelNncjd4YmhaVnl5Q3hjNUVfRlY1cHZMUG9rRG5WUjR1LXpnVnJQMDJORzh1ajdwZzhIRVRxMUxrSjgtNEVWQzBlR0EzNTBZN2NSU3M0UmJnWjVkYnhZN3ZZUzJBZnVSUzQ3NHlad3pzYjlzeWtKcVVraEV6TEVLVTFLVHhMMDJXa2tOdlNlMVRTNGtGcXZTc25rWGZCTlBTaDlyc0dEMmhvc2JPVU0zWkdtbjNuX3JtbTN3TUpMNlptWGhwLTBJT3M5bGlnajdYeWp4bVNxbGM?oc=5",
+          "publishedAt": "2026-10-27T16:00:40.000Z",
+          "severity": "high",
+          "titleZh": "10月17日动员：死者家属投诉“故意暴力”",
           "content": null
         },
         {
-          "title": "17 octobre : témoignage d’un ami Parisien...",
-          "source": "AgoraVox le média citoyen",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZzd5UEpCajYzc0RiN2NpeE1iZmF3a1VZYS1TemZ0UG1xNUdaU1Nwdi05Zkx3aW8yZG0zYkhCR0g0VzhCTzB5MzdTZW0wTEhJcG9JUkd1M1BrQUs3cTNQZDhxYTVwODlzeTkyeE1jdGw4OUFIU3hkcUJCOXQxN1EyOGdYclBXWGNnT0JR0gGLAUFVX3lxTE9teXVKNk14Zlo5QWJYQ3M5TVAySkFtNVBkMno0U3dhSFFTc3RtUXRJSWV5TzV5ZjNFWjJqRzhOY21KN19lcE5uN2hKWk1BTDF1dlpPR3BIcFdHalpUN0tfanY0eFFwNngwdnVTVlQxRThqMll2NmlILUtlWjNncUxmeWw0Vmlic3ZVOFE?oc=5",
-          "publishedAt": "2026-10-27T08:14:04.000Z",
-          "severity": "info",
-          "titleZh": "10 月 17 日：一位巴黎朋友的证词......",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 2,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
-      "date": "2027-10-24",
-      "articles": [
-        {
-          "title": "Manifestation du 24 octobre: Interpellation violente par des policiers à St…",
-          "source": "20 Minutes",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU1hic0I1NGptVzUxRkxNcXNGLUVlWUJJU2o2eU9peE95ZFFLTkNGVjFVcU9CWDc5U0NjM2NKZWZMVTFVclN4QmE2SzRPd05tZnpqMVlpZ3JjMzFhd1pqcWZLZDlmTUdKYkpVXzZGWllRRm93S0ZNS3ZIcGRrckZfa1NLM29xMzZGWGxOT1kyQlpwRnNVMEY5X0t3QURidVdocHhGLXlvNTVCSDJ2bjdteG1mTEgtbEpQTWtKVUhUYzZSb184a3k0MUowcF9FUFc3MVZIT01ucXBkYndpODh5Vk1mMERHMFJvSWJUaS1vcmtsbjFxaG1scmpnNFNZbU0?oc=5",
-          "publishedAt": "2026-10-27T11:11:00.000Z",
+          "title": "Actu Paris - Manifestation du 17 octobre à Paris : la famille de Christophe M., mort en marge du cortège, porte plainte",
+          "source": "Actu.fr",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT2dCeXFzbTJteHdvZWxwYzY0WkpXT3U1T0F2MVB2SXJfT3JJSEMyVnB4QUlpMTg1c1BBRDJwUzZoUDRQYjYyNFFOVl9tXzFBdjNQVlAwMkZjem1TbjZZN2N5a2NsbzYybzVPMXkwbHNpZms3aDlpakp2dlk5STROTTZubEpXZm9jbjZZWmpJSDNZM0hIdVg0UldheXVjWW14TTd5TWJUN0tnZkhNTXhYRGlLaEIwckNVX1FGZWgwYnpIYXlwRElPVll3?oc=5",
+          "publishedAt": "2026-10-27T15:56:03.000Z",
           "severity": "medium",
-          "titleZh": "10月24日示威：圣保罗市警察暴力逮捕",
+          "titleZh": "巴黎新闻 - 巴黎10月17日示威：游行期间死亡的Christophe M.的家人提出申诉",
           "content": null
         },
         {
-          "title": "Après la manifestation historique le 24 octobre, tous.tes en grève le 5 novembre !",
-          "source": "94.snuipp.fr",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3ZyUF9ZT1Y1UE5kVmQ1dVBLYlBhR2VNLUdIYzFtVk9qQVR5bmRzaTg2NzJHbkZtVk1WT3JiLUd6OHZka1RJMm1GQ1ZEazdjZUJtV0M5QkQzVWVHSTlhQUtPcWlPNUwxNi03LXF2OVRsYzZXTTZBX29UaXFxSHozUlZLUHpubTFDSHlMZDFibXdZaWV1UjNwcUNzTGloaEVVbmlWLUJxUEhxaWtD?oc=5",
-          "publishedAt": "2026-10-27T10:16:19.000Z",
-          "severity": "medium",
-          "titleZh": "继10月24日历史性示威之后，11月5日大家罢工！",
+          "title": "La famille de Christophe M., manifestant mort à Paris aux abords du cortège du 17 octobre, a déposé plainte",
+          "source": "franceinfo",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPS3NZQUFnMWRXejVDSlZWc1lUaDVfbVRKbnlMU1FscDY4TGRab1NhQ1dKYno5Q1IybUxqT1p2QUdaNjJTamZzcDkzUTZvU0dtWUZRTGFCS3lGMjNjRlBqVk1XdVZTSGhmUlB3bTN5ejZQMWt5ZERpTks4Q04tOUZBNWhsS0g1UXFuSFJYMTBhZ3hSVE0tY0JyZEtIa096Zkx0NWVJSW5mZVpxX2VjNWl4QnFZd0NMT0NPY3cxajNDNm9hYzhmRV9zLXVyaURiZXZGWUhGUU5qa1RNNHdmV3V5WENSYllMa294QnJkdnpvUTJSdFBGc09xcXZndTJFVGp3LXJFUW9xTjlUQQ?oc=5",
+          "publishedAt": "2026-10-27T15:54:22.000Z",
+          "severity": "info",
+          "titleZh": "10 月 17 日游行附近在巴黎死亡的抗议者 Christophe M. 的家人提出了申诉",
           "content": null
         },
         {
-          "title": "Manifestation du 24 octobre à Reims : L’IGPN ouvre une enquête après la gra…",
-          "source": "20 Minutes",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFcyR05qTU41aGpXclZuU1RyeXNUc201ekNhcFJsMno4U0FGWkVaYnUzMThNUm9XbnZFUmp3RDNndHRIM1NyQXRhLVRoR09ILV9tS3ZXU2FVU044LUtka1dseU1UZ2hqak5vM0xGQjEtdjZKbFF1LTFsZ2ZlTFJsUXVsWi1EZHJJWGhoSER5V0Y1Wm1jcUN5QTBkWHpmNUtTSjBfMmNKck9naEp1TF8yMnRlajZnSG5WaFEyNjJVQlZvZFVua3QzOEVPSVpzbTZ0Z1BOVWFn?oc=5",
-          "publishedAt": "2026-10-27T09:28:00.000Z",
+          "title": "Manifestation du 17 octobre à Paris : la famille de Christophe M., mort en marge du cortège, porte plainte",
+          "source": "Actu.fr",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdDR2UUxCeEdWQ0dEY1JocndrYTY5RExCVGJWUTZQNmtLUERweV90TmR4aUdkZXdETmIyMXBwQndlcFdHVkZ0RWxydW9hV2xQRnZ5cjctaU5DMDhaNmZSWG5FWGNFMTBWckFGZExYRFdTUEgxNmlmOERxTHNfOHZBb1AwSFNoeVM1V214LTdWYWVWUHl2UEc2U2lRRFJRZEMycWJOQTFzc3V0ZmgyOHZreDJTM1Q0UWQwSXp3OTMyV045N0M1TjlIeFpBLTljeDZoT0MtdFJGM0hiMU02N182dkNFbDFadGxRZ2VPTEZn?oc=5",
+          "publishedAt": "2026-10-27T15:41:19.000Z",
           "severity": "medium",
-          "titleZh": "10 月 24 日在兰斯举行的示威活动：IGPN 在...后展开调查",
+          "titleZh": "10月17日巴黎示威：游行期间死亡的Christophe M.的家人提出申诉",
           "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 3,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
-      "date": "2027-10-26",
-      "articles": [
+        },
         {
-          "title": "Couvre-feu à Paris : les stations de métro et de RER fermées dès 22h ce 26 octobre 2026",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTUlwYzNZc2VuQVZKLUJ5X1dCNHc2UVp1ZzZrRmRNTThtMlo5aFppNFJNbmkySVdxdm5WS1liak5samVMQkpNU09kdkVFS3RoOWtyQlk0eVZaSG41MWdtNURCTFIzSS1JTTM0S3QzUFJFQU00M3BIQ016S3oxMXcwVUt5OV9sYkcteVJqdzJzSmFQOGRpZ3VLMFRkdldsSmtaZ05zbHVLYWZUVlRqWXpleGtlQ0tTV0pMaFh4U0d0RnI5Q1EtQ0hHdHEzSDNON1BmX21tVy0zbmFMVUdzakVJZlJscw?oc=5",
-          "publishedAt": "2026-10-27T09:13:35.000Z",
+          "title": "Ces vendeurs de rue n'ont pas été filmés à Paris après le 17 octobre 2026, mais en septembre à Madrid",
+          "source": "Yahoo Actualités",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZUU2ci1RU2tQaTlmSm0wMWU2amtSUlA3cTM3RU0yMk5lNWZMR3hsTTh5X2ZLM1NiVUZ1NDB0N3FTSUFyYmtIbnd5VUN0VkIyRDVXR0RBTDVqNjVoM3VuR1BWNVdianBqek5FbFJqX21xaTFUd1RYVkx0NWFod01qbll2Y0hoMEdBS3o3dw?oc=5",
+          "publishedAt": "2026-10-27T14:48:39.000Z",
           "severity": "info",
-          "titleZh": "巴黎宵禁：地铁和 RER 车站从晚上 10 点起关闭今年 2026 年 10 月 26 日",
+          "titleZh": "这些街头小贩并不是2026年10月17日之后在巴黎拍摄的，而是9月份在马德里拍摄的",
           "content": null
         }
       ],
       "places": [],
       "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
-      "date": "2027-10-27",
-      "articles": [
-        {
-          "title": "Couvre-feu à Paris : va-t-il encore être reconduit ce mardi 27 octobre ?",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTkNPaWxqbWxpMjdSc3VJZ2NKWDg5Z2RYbkwwMm03TDIzT0daTmR2Z3c2bmpZd3d5WHQ3NHB1SDFVUHBnUS1SRXJwYjJEMkVtZ2dXOHdveW5pYkZJbFZMVm9pMmJQQzBOckRoTlpDQU5NbzhCLTJVa0J1OTJsUm0tOHl1c25MR0Y1ZGh3WUZiQl9fam5hcTZUVDlLWmxWaU1vb1dPcW9ncTZ4MjlLTTRINHE5bndPWHlMQUU5c2xtNkJ1T2hUREdBZGpCMnM?oc=5",
-          "publishedAt": "2026-10-27T08:15:00.000Z",
-          "severity": "info",
-          "titleZh": "巴黎宵禁：10月27日星期二会再次延长吗？",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
+      "articleCount": 5,
+      "clashCount": 1,
       "status": "recent"
     },
     {
       "date": "unknown",
       "articles": [
         {
+          "title": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYXZ5NV9pRkVRc1VEREl6X2pZUFBRdnBhQW50ZDRkaVJNbWp2ZEkxdWlkY2dEQmhiM2Uyc1hTSThSdG9jaWx4a1U5cGQyM3djbU1SbFhxc2pLOXBUdWpYY1lsMlVJTXFBajdSNzhRdl9rbnpNWVVERlVXSmJqaXNFZXVBYkdTeGRQQ3FVbHJBN0JrOG1Rd2FkaU1VOF96d010QzNZVnF4SzAwWWdPUzV1ZGVmQ0FYeTFFcTJhOWdFVlpHejRqSVc0?oc=5",
+          "publishedAt": "2026-10-27T18:27:15.000Z",
+          "severity": "info",
+          "titleZh": "人权组织表示，法国拟议的让骚乱者赔偿损失的法律是反民主的",
+          "content": null
+        },
+        {
+          "title": "Derrière les barricades des Misérables, la révolte oubliée de juin 1832",
+          "source": "magazine GEO",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQelNtOWQzM3pWVlZwYTZPVTZqbk5HVVRuQUxrOGdlai1xeFUxVjlSQVlhMG9LOWlPY3RjaXh1X1prTVZJY0ItSFduSGdiOHhCNHduejU2SFNzdm9vdFFwdUZRNUdLcHhpUDYzbXkzQWhMTWN0dWIwNXNGRFdqaUFEaXFZcmVTbzNVSUVuMUoxS3YzTEk2bjd3TGhfN1J2VV9XaUpyRkRmWWE?oc=5",
+          "publishedAt": "2026-10-27T18:15:00.000Z",
+          "severity": "info",
+          "titleZh": "在悲惨世界的路障后面，1832 年 6 月被遗忘的起义",
+          "content": null
+        },
+        {
+          "title": "Reporter caught in violent Paris protests recalls how 'all of a sudden, it exploded' after peaceful march",
+          "source": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWJVUGhkNXVDcjhrQTRaZWp5NXlOQWtzVnNINjh6SGw0QUR1bGk1ZUVCbVNqUkVMYlJ2eHVieGdFUE0wMGRCaVNEQjVFTkZGMDd0a1NxanNYQjBZelpDZUMxZG9qcUpZanE1ZFc3NnBMSGVNTU1xeFd5eFBQOTJab09uQ1NzSHF2STh2ZXpBQnE1RTlDYzAwX2VGY0tmTXhnRzB3NjRuT3NMX3lHankwbk40YmVYUVpoN2VN0gHAAUFVX3lxTE5xSFNkaVVzN1dUc1o1b0hrNURMUXM5X0JEdDZFYVh0NzQ0SG9Nb0FXSklsWVluQWpmNkNFSkRiMmViUUp0X0ptSnQ1VjlJOUV2bmo0NF91aXVnc2poSzZPTHNFZFU3TGRCVmxIY2lCVEx1TXRVQUFmb1FTVWx2eDBXWlA1V3VCbXZja1NocERDQTZNVjZzTzZMVEJVWndiZlYwSHQxOEF2QkFiVWFjeUxOVGZCTEhtdlZBV2p4dUhyeQ?oc=5",
+          "publishedAt": "2026-10-27T17:56:45.000Z",
+          "severity": "medium",
+          "titleZh": "陷入巴黎暴力抗议活动的记者回忆和平游行后“突然爆发”",
+          "content": null
+        },
+        {
+          "title": "Le BHV Marais demande son placement en redressement judiciaire, mais reste ouvert : ce que l'on sait",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUWh4REI1M29iVmk0N2Rud3lla2w5cktpR3NTelBNVHdVRVhNN204c29vQnJUVEN2NmJRanY0QUY3Yl9BUkUxbmI3VWxEaE1XV2JSOUhxUnVzeWU5aEZRbl83ZXY4Z1laTTZDTlQzdjNTU2I2TTRGUDA2aU5WMmg3bk5PdENtd1hPSEhlVkREejZRaWU4NmxSaVBia3dzSllCazF2Y3IxMnJCYkVqQVQ5QmRVMXhfUHM5MjB5NlB1T1g0bXhocEN0ejNEclpmOUdxMzBzeHJJLWZEN3FEUlJQN0hsTG5PLU56RTZkbUJ1dkxVNDA?oc=5",
+          "publishedAt": "2026-10-27T17:50:49.000Z",
+          "severity": "info",
+          "titleZh": "BHV Marais 请求接管，但仍保持开放状态：我们所知道的",
+          "content": null
+        },
+        {
+          "title": "La République française est sans défense",
+          "source": "Tribune Juive",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0trbGZTTE85T0cwbE1jOVZtN2M0WmQ1d0thT2xSaVpvUHAxcXRWZXFnZW56MklTWlZzSFVucXVwNmIyaHhKQTllbE9pbVdFSThBRDRpX1c4NXRnVjFyaVlremljRnFSSjdJYXFfNGxnMDJIZVVJdXlkakpjaV9ZWndueVV1TXZudFE?oc=5",
+          "publishedAt": "2026-10-27T17:26:15.000Z",
+          "severity": "info",
+          "titleZh": "法兰西共和国毫无防御能力",
+          "content": null
+        },
+        {
+          "title": "« Vous êtes prêts pour la manif ? » : un chauffeur de bus motive ses passagers à Paris (vidéo)",
+          "source": "Le Tribunal du Net",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSWdpYVJTTldPUEw1NUR0Q1A4V21ualdVSDRLVG5oZVVPUUtfQUtzUmRHOFZNRFJEVWZuUXVsVXp0SFNtbVU1MjcwWDNaRXAtblFLZHYwZWx4Tl9SX2hxQWJTbXhKdGp6U3hqRTgyLVdXMHgzcTNhb1FEVlZuMDh4cTJsRDhwS0FPSENpN21RRG1LU09vRjdTSVJ4UnFoVC1yMnoxLVRmZw?oc=5",
+          "publishedAt": "2026-10-27T17:25:00.000Z",
+          "severity": "info",
+          "titleZh": "“你准备好参加示威了吗？”：一名巴士司机在巴黎激励乘客（视频）",
+          "content": null
+        },
+        {
+          "title": "Projet de loi «casseurs-payeurs» : «C’est une autre manière d’empêcher de manifester»",
+          "source": "Libération",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbWlFZ1lUaGRSbDMtdF9nUTlQYjFETG14eEhIVFRoS19NamRrTTlRTUtZV0Vsck1vWmtUZHQtaDdMQ0hJbE5ZZ09ramRCeFhRQUROZzBqNEw2TlNkV3V2LUt5cWp5ZUpaSzd4aWlib3RYWkd4M0gyaGZrdkYzNURIQzhYUHNmS0dpUnV3TWNxWDNGSjduVVlzM1R6MUI3TTRLLUU4VmRGeU01RWZtaDJUYlJnZXQtWFRQb3Z1V1BzVW9XWG9qTGkzUmN3azJ5WnFYVDU4dnNmNks4cUpwMXhVTzdR?oc=5",
+          "publishedAt": "2026-10-27T17:09:00.000Z",
+          "severity": "info",
+          "titleZh": "“粉碎者支付”账单：“这是防止示威的另一种方式”",
+          "content": null
+        },
+        {
+          "title": "The student-led protests in Europe may have died down, but they will be back",
+          "source": "The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjFucDI2eXpzcEpGTmRBdGQteHllWkNiaEdpTHRaeF9XSTNDN0RuLVB6X0Y3N3FVTUZSbm5FblE1cXpBOGZ6RzBWZmFoeEM3M2tsY0xxaF9SN2w1ZWNBVDFXY25sd2p1WDN4XzNSVmIySkxnN2pJcHUzZ2dXRy1ibERRelo1SUVITWp6Zi1HQ0UtTkZXLUU5QzlFWlBLd1hRd3RUajdWQV9jOXFSczYxSw?oc=5",
+          "publishedAt": "2026-10-27T16:57:32.000Z",
+          "severity": "medium",
+          "titleZh": "欧洲学生主导的抗议活动可能已经平息，但它们将会卷土重来",
+          "content": null
+        },
+        {
+          "title": "Bons plans : Les sorties gratuites et pas chères à Paris pour les petits budgets",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPODdJazFHSW5hbnd5UGhEZWtZSHNNcWZSMWdFRDB4Rmlwb3Jib2c0SjY3QV9tNmgyMm96bHY3NHppNXhtR0tTVGp1bGJYT0ZVQk05aEJBR0M5ZFEtdWdIc0Q2U1loUDExUmRoOF9ka2FTcXBjVXpNWC1zSlpMdjk2bGl5aWFvRmdVdEp0UU83SmpiS0RTMndDLWQyZl9aY2ladnZBNEFhcXFVcnVFUzF1azhBWDhiMVJSUktGSUNoOVY4VlRWV3ZsM09IeTBFeGh2ajNqMmh3dw?oc=5",
+          "publishedAt": "2026-10-27T16:47:47.000Z",
+          "severity": "info",
+          "titleZh": "超值优惠：小预算即可免费、廉价地游览巴黎",
+          "content": null
+        },
+        {
+          "title": "Les instances du football français reportent plusieurs matches de Ligue 1 face à l’intensification des manifestations dans tout le pays",
+          "source": "Goal.com",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZm5Hd1FUcW5FbnFYQmFnWUJja0ZNSnppZWRwQnpmbGJOWUFlTjViVzZPVTVma0kwN25DaDdpa1JfS2M5OFRVcDd2aU5vUGQzaFdQTWhDWTlyeWNHV1AyVXdFQV82dXRBVzVaM3c0ZVpCOUlqLXY5VU9qTzA5UlFTbm5HVm96Vy1MSkIyaDBDM29BYVBzZjByTVlETFB2R3ZqYllMb3BVeUgzVFZwYkhCVWhkeGF1Z0QzVVlVQVFkSUlWTzdmTWsxTGRsMmx6M3d3WENSaVR2ZG5oUGpPNU9nMFpYbU1lY2VidzJvT3I1Z29HNmdic2xpSXgyNGt5SVA4dTAyLVdYZ1FCa3VvNzdPbkdR?oc=5",
+          "publishedAt": "2026-10-27T16:03:07.000Z",
+          "severity": "medium",
+          "titleZh": "由于全国抗议活动加剧，法国足球当局推迟了几场法甲比赛",
+          "content": null
+        },
+        {
+          "title": "« Taxe émeutes » : les Français vont-ils devoir payer pour les casseurs ?",
+          "source": "Le Point",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZjNmWEhOSk56UUJSc0s2c2hBX3JYQnAxVENoNWdTLU1rWWxkcHBwS3Z2UmNESnVXVHFfLTdnWllTeWNJR2RjcG9uMmtYbXViNDM4dDJibXBrY3cxdEhDX2dkRzZQTDJvVW1VOHNueXpUVXFObU5kS0NwSGpWR2U4TG9CLXp6OHNWMHB4YWVBR2FFdzBLc0hnVzVqb2I?oc=5",
+          "publishedAt": "2026-10-27T16:00:00.000Z",
+          "severity": "info",
+          "titleZh": "“防暴税”：法国人要为暴徒买单吗？",
+          "content": null
+        },
+        {
+          "title": "Violences dans les manifestations : la préfecture de police de Paris serre la vis",
+          "source": "mesinfos",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd21ZX1lfM2s2S0d2VmNPYjBDY2dHTGU1NC04NVBGaFdHLWhpZmJXbGp5Qm1ydEpZMk95YTNWc20tejRnTDNycklqN1ZkYWxyVEVIT1BPWDBreUxfVHFTNWpsbmRVS2VVX2xXaS0taVlCenJWUXFUcG9HNEpzWTh2VGtTcVVjbTVBbWptNmtqSVV0a0hCTDY0M3l3dzY3UWFzZjd6OXA4cmlzbElFRGZqWGdjYXhvVlFncWUwdjdsZFg?oc=5",
+          "publishedAt": "2026-10-27T15:47:00.000Z",
+          "severity": "high",
+          "titleZh": "示威暴力：巴黎警察总部拧紧螺丝",
+          "content": null
+        },
+        {
+          "title": "Hommage aux victimes de l'attentat de Trappes à Paris : BFM TV et CNews ciblés aux cris de \"assassins\" pa...",
+          "source": "Jean-Marc Morandini",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPMEN5ZVFCS1lwZ0JkY3FCbGtaNzVQcEtiWGhkU0JtZC05d0lvcjNZV3lmUXpOa2tOZlk2ckRPX2hkX2gtaTZHMjYtV1UtSURIU1NTalV1anI3Ymlib19QalJlNWtTR3gtWl9fallaU0E2SkNIR1hJY0tHTUFodWJRcWF4eHNlZTJlVnRHc1VjNE9QNXBjVTFWM09KRzF5dzhKeV9oMWM4bllmWnBLR1VtTmpQX2tBWm5YRG5kYURZa3NRS05ZRjNkd05KUkw3WndiWHZLNmtWLUx4Q2pLbEVQY05sb1ZIZkliSDJ0eHZLelZpUGR2SGJiQWtNMmdaX0dBYmdUbXExRVhTZ2ZKcV93cXZQWUZQYkl6Q2twMDM5RmFtWVg5U0djT3UwS0ZiRmQ2WkNwWXVzTkt2M0szcmREel9FQTVRc1BEakVjT2VJaEVuVVBjb2fSAdsCQVVfeXFMTnUxTDhsRXhSMTlqbjZrNmtBMjFweEtKTGdKbFJfVEQybzVUN0pYMVVBVy02aWY3QWFqdk1OUG1GUk9mM0txUjlMMjltUXYwdTNSTUx1VEl5TjZ0QWZtSnY5WGgzVkgxU2VsZkdvOWpZZ09aTHBKV0l0LU80ekxZWk1lZ2N2WXptY2haX0w2d1dtc3BGam54SF9pcFdWWUplVDRicVhmbDhZUnFzQVpQYkM5bEU1YW9HeEhHakpZNWRyTzhwaVpXa2NPUHoycEpKSXBCZ2ctT01YVFd4cElrcWx3dnhSMjg0Z0RtT2NhQzBWX25jd1B5ZC1zTDQybEFFckhkU0J5T1ZiM2oweWZvMGQtZlBjZkdXZDYtdFBjYlBYb0JCVXFScjJ5SE1ndWUtVExYdGNxem5wNHdTVS04T2EzNm91QmIxVUJ5alp1Rmk2dTJaTmluM1JnMFU?oc=5",
+          "publishedAt": "2026-10-27T15:18:00.000Z",
+          "severity": "info",
+          "titleZh": "向巴黎特拉普袭击事件的受害者致敬：BFM TV 和 CNews 成为“刺客”呼声的目标",
+          "content": null
+        },
+        {
+          "title": "Val-de-Reuil : le maire appelle à un rassemblement « contre la violence et l’extrême droite »",
+          "source": "Paris Normandie",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjhXZ0NpemhHMk04RW1zeFhidFkwUEEyOVcwU19Dd2EyT0J0WElmUC1scVc1bkZZOE5hSnhiWGRiZWEyQnlaVU5vclcwaHh5NEM2bDkwWTMtVGp2bXdDYlJGeUhEVGVFUWR3QnpoOWVTYWZoQnVuZmZ2WmFfQ0VnZjljNjFnMVB2N1pweElRS01HMTYzM3FiXy1fRFF5REtiYXp0QjlvT2x1VV9DbEo4Y3NaaHVaSmNDOVpnSWhBYTNkLXBldE9oVEprcnV0Qk40OEE?oc=5",
+          "publishedAt": "2026-10-27T15:16:00.000Z",
+          "severity": "high",
+          "titleZh": "Val-de-Reuil：市长呼吁举行集会“反对暴力和极右”",
+          "content": null
+        },
+        {
+          "title": "Face au délitement du pouvoir, la violence est-elle une façon de se faire entendre ?",
+          "source": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcDBjb0czTVBrZnR6ODMydERaek5VS0cyS2MxSGNtak0wXzdJcktZYl82dy1UQjZVRVNvOUVHWnNQa0F4dC02amNLVFdwbVd5UFBSdmt3UE5aRkVuNks2S0NSbk1UTE5GVV9vWngwT1FDVHR0VFUxS1lrM1ZLTWd1X1hFOGZnSXlldlFPdm01T0lELUxYSFJjZl9ZSWxhb0RLdXlFSkJwNVhwUUc0NThVYWM2azc3S3M?oc=5",
+          "publishedAt": "2026-10-27T15:14:58.000Z",
+          "severity": "high",
+          "titleZh": "面对权力的瓦解，暴力是表达自己意见的一种方式吗？",
+          "content": null
+        },
+        {
+          "title": "Photographer Alleges Police Grenade Attack Amidst Massive Paris Protests",
+          "source": "freeyork",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS25IU1pmRmI4c3EwNlpMV19Va0psSWJHeEVEUkxWTmVNd2xCZllwTFZLRWp0S0xOSGEtVlVwY2EtS3Q2QkI2YVVIZ0xHYnJBQ3NwcUplakd2SWpmNlRPZHg4Ym9OQXNQekdqR2lPZllaZGExNzVxb1ZQS0dHRklMSEx4aGFJUQ?oc=5",
+          "publishedAt": "2026-10-27T15:13:23.000Z",
+          "severity": "medium",
+          "titleZh": "摄影师声称巴黎大规模抗议活动中发生警察手榴弹袭击",
+          "content": null
+        },
+        {
+          "title": "Émeutes : la France peut-elle tenir jusqu’en 2027 ?",
+          "source": "lejdd.fr",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR0pXRDFFVXZ1dDlRLVdiaFFBdDVWMi1vejlISVZvSGpPRHRSazRaS195bHg1czg5bUNma3Jzd3VBZU80NDFSZHl5MUhxa1p6VnY1Xzk2NFJtdFdGWlZpUUx1UXdKdmJyTDlJU1ZTU3RpTWs4WGUzWlVGaW1QWFJDNGEyWjd5YWxoT3c?oc=5",
+          "publishedAt": "2026-10-27T14:52:43.000Z",
+          "severity": "info",
+          "titleZh": "骚乱：法国能坚持到2027年吗？",
+          "content": null
+        },
+        {
+          "title": "Attentat raciste à Trappes : « Ça aurait pu m'arriver aussi », la communauté ultramarine mobilisée à Paris",
+          "source": "RCI",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRnNEbUJTNWlOM0pQaXJqcDRfcGZTaU9aUFpvWW5HeWJHUXJHVE9VaU1JdDBCNGR5WEZFb2cwRG5Sc2QtSHVoOVotUm8tc1BLWlJ2cU1kWF9fN3puZTFXSVlmbHVleUtmQjJGTFZVdXZBU1lKbUZXYXVGQW9kdXJFWWxrVGl4Sll0UmUtQnhBNGtpdnFzNGdsV3dIam9HWnZRVjVZMWZjLTNxSG5KNGtQeEtBd0wxVTA?oc=5",
+          "publishedAt": "2026-10-27T14:37:47.000Z",
+          "severity": "info",
+          "titleZh": "特拉普的种族主义袭击：巴黎海外社区动员“这也可能发生在我身上”",
+          "content": null
+        },
+        {
+          "title": "Attentat raciste à Trappes : « Ça aurait pu m'arriver aussi », la communauté antillaise mobilisée à Paris",
+          "source": "RCI",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRnNEbUJTNWlOM0pQaXJqcDRfcGZTaU9aUFpvWW5HeWJHUXJHVE9VaU1JdDBCNGR5WEZFb2cwRG5Sc2QtSHVoOVotUm8tc1BLWlJ2cU1kWF9fN3puZTFXSVlmbHVleUtmQjJGTFZVdXZBU1lKbUZXYXVGQW9kdXJFWWxrVGl4Sll0UmUtQnhBNGtpdnFzNGdsV3dIam9HWnZRVjVZMWZjLTNxSG5KNGtQeEtBd0wxVTA?oc=5",
+          "publishedAt": "2026-10-27T14:37:47.000Z",
+          "severity": "info",
+          "titleZh": "特拉普的种族主义袭击：“这也可能发生在我身上”，西印度社区在巴黎动员起来",
+          "content": null
+        },
+        {
+          "title": "French soccer league moves games from Saturday amid public protests on streets",
+          "source": "Bozeman Daily Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOaHBSV0x0My1RMmFicHdIMFJPdnI1UWdqZEVkUzRBUE81WDJDSnFkV2NkeFlrZ3ZxQ05CajVsdVBZUFdQa25kOUN3Y0dpMl85QXFTc3ExRGV4T3p6WEZibWM2bGRoUkMxRE1NTG90b1QyMTNMY0tubnp5dzk0dElGWEZiQUNacU82eUgyWEJCX0NVcnBzUTM1a3RPb0JaRElGMWdEWjZDSGU0eXVrVFdmd1ZNcmVKTTk1SjJCX2RNNVVQMU1Ec1JPdjY4ZER4ZEhKbGdTMTRRMzdzOThEX1R2OTZPLU4zQTVUa1ZLaTNCeDgwbnFyRnA0VHBVUmNsOEhWVmxzTUV3YnRsUQ?oc=5",
+          "publishedAt": "2026-10-27T14:06:19.000Z",
+          "severity": "medium",
+          "titleZh": "法国足球联赛因街头公众抗议而将比赛从周六推迟",
+          "content": null
+        },
+        {
+          "title": "Fact Check: Pro-refugee protest photo edited to show woman who confronted Paris looters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcWMwT2ZJTUJfVWRoNjZqcS1mdkpqamo4VG9hX29sWnB5LXVmOTVfT2RlalRFc2JwTmJCNENvNnlTTE1lNnp3YVJodVA1UUxMNmJDcG1qY1ZBdm13Y3U4cGZzMFlocThLemdEa3lzbnpSX0lqTG1mOFhfQ19ZM09ieXl6TmZtcjNkMkJHUlAwdlFfaDU1YmhFX0l5QVRUUkVlbHZUQ2s4Z3I5M1R1S0wtaThQQ2U2SHgwSmpZ?oc=5",
+          "publishedAt": "2026-10-27T14:02:56.000Z",
+          "severity": "medium",
+          "titleZh": "事实核查：支持难民的抗议照片经过编辑，显示与巴黎抢劫者对峙的妇女",
+          "content": null
+        },
+        {
+          "title": "Émeutes, pillages : pourquoi vous allez payer la facture",
+          "source": "Valeurs actuelles",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzA2RGp2blh0Yk9Eam1FVzFJYjRKNmRuTzMwM1loSGJ5U0VzUkpZMGU2TVJaeU9lVjJXZkxETjJ3Vkd5NUZZMWJFMno0LWZYQlBaaTFSVXNaaXAzTEtlOWVPSHFxYVgzaUNhdnByZlVpakVYT1MxN1BOWGdydmFkdDNuWl9iQVF0MzVJUTdoa0c2QWRqVlJ3UWhMQQ?oc=5",
+          "publishedAt": "2026-10-27T14:01:57.000Z",
+          "severity": "info",
+          "titleZh": "骚乱、抢劫：为什么你要买单",
+          "content": null
+        },
+        {
+          "title": "Violence d’ultradroite : ce que 10 ans de lutte contre le djihadisme peuvent nous apprendre",
+          "source": "La Montagne",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUEdOR2VYOS1lSnR3dFphWVVrT1JtRHFsYWw5NEtfRm1DUW5wQ0lFRlA4bEl4ZkNFckVqczdqb2EyTU1QTzM2OHBtdXJFTWxJT3FDTm9TYWJxd2V2M0xjRW5vYVlyQTVMSVI2dU9fRDNMeFJOYm80bFpCYndpNlRZZjJtR1BqTzhScnlqd2pGWkJibmRoYVMwT3Y5UmNDU2xfREJ3N09tckNkakI2TG02Q2JkbmtMU0oxdzBEMlc1UEZiZnVDVUZqeEdHUUUxWkJmNXdkdzNHa3paUE9UaDNpTg?oc=5",
+          "publishedAt": "2026-10-27T14:00:00.000Z",
+          "severity": "high",
+          "titleZh": "极右暴力：十年的反圣战斗争可以教会我们什么",
+          "content": null
+        },
+        {
+          "title": "Pourquoi la grève Tour Eiffel a-t-elle été déclenchée ?",
+          "source": "horticulture-abadie-pyrenees.com",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HRUpTMWpPZldXR3FhcUZuelcwYkZtY1lodU5jRDJrU3UxSDZNSldGVFA0REhfc1NRTkthTlpGTnB1dDNEc3g3aGhBenFDUU1QWUszbVZCR0FqelBydmNpQ29LbzlaelhGWFIzTjNkZFB0cWVXdVB5X3VZTlFvTnc?oc=5",
+          "publishedAt": "2026-10-27T13:49:59.000Z",
+          "severity": "medium",
+          "titleZh": "为什么埃菲尔铁塔罢工？",
+          "content": null
+        },
+        {
+          "title": "Paris rally condemns racism after deadly Trappes attack",
+          "source": "Operativ Məlumat Mərkəzi",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkpLclVhTmxpLVdtVlVrRFBHUlMxR3RZd09JZUI1R1VYUVRoeEtkd2U5UWZVeVFVRXdSWUExdHBON1pRcGtOckdyc09mblZ2NEpfaHI4bmdiYWtqeWdPUDdLQjBTV1RUNUF1RHNLY3ZmejNKZlhLamgwbFJCbDN0SlRuMVd4ZXlNSkV6dGVaVnoxbGFZLXc?oc=5",
+          "publishedAt": "2026-10-27T13:13:41.000Z",
+          "severity": "info",
+          "titleZh": "巴黎集会谴责特拉普致命袭击后的种族主义",
+          "content": null
+        },
+        {
+          "title": "France’s Rulers Want Violence as a Pretext for a Crackdown",
+          "source": "Jacobin",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaml6SkVaNV9CYTZoN0RUdFpzM3Mwd3IwTWJkaWtJMnRzWGpSeHA2U2xaS09uNm1uUGF5U3FuQU05NC13QW1zR0pvd3dNSzA5R3Rjc2VNNGxLUGRlUVVROVRBSVhQNTNRWEhOdGNtSy1ocHJyZVpyeTc3SEtDY3JKNGNn?oc=5",
+          "publishedAt": "2026-10-27T13:00:03.000Z",
+          "severity": "high",
+          "titleZh": "法国统治者希望以暴力作为镇压的借口",
+          "content": null
+        },
+        {
           "title": "October 31 protest: What to expect in Paris? Route and information",
           "source": "Sortir à Paris",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX1d4aFJTamtYRzk2eGJ6N0dya1B3dU5LcFFBR0xDZVNySGVvVnF0WmpELTk3RFI2ckx1dmhoMWdfVUZsdFlVQllqMkppWGJtZDZldEZOTWxlU1dvbjlFRVlldk04T1g4UExVNzZUb0RVS1NIM3Raek1BUTNoai1vVzFueWJONFdsaGcySnNLWGtDQlVLZEVuRVhIUVBPenRVNzE1WTlESGsxRUZzZ2V4aVVBb1NBVENLV0dkcnoxVUlINkVZUmwxNnJjNlU?oc=5",
-          "publishedAt": "2026-10-27T12:14:30.000Z",
+          "publishedAt": "2026-10-27T12:36:45.000Z",
           "severity": "medium",
           "titleZh": "10 月 31 日抗议：巴黎会发生什么？路线及信息",
+          "content": null
+        },
+        {
+          "title": "NFL game kicks off in Paris amid massive protests",
+          "source": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORkJ4VExvUURRaHhBanl2N0NPMDI5MXZ5Q0hqVjhqcGlpRk5qX0RmeGRHUmc4ZXRaMHpwUnhrSm9uRGktUlQwd1N4RVp5YVE3bXFKLXR0SVNEQ3ZvUVNCZUFYaFo2MDdxZVQ4X19JR3JtTDFfYnkxZl84Y2V2blRhTTJ2Y3A2ZFpmTnJNcmRwcUFlVWZmN0wwZ19HaGJqSUcy?oc=5",
+          "publishedAt": "2026-10-27T12:06:06.000Z",
+          "severity": "medium",
+          "titleZh": "NFL 比赛在大规模抗议中在巴黎拉开帷幕",
+          "content": null
+        },
+        {
+          "title": "October 31 demonstration in Paris: What route do the Yellow Vests want?",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORV95b2JlNEhqOUd6WlJUQ1BqNVlxRnpXeGV2bktVbk5JTUdBenowTVlHYzlCQzY5ZDVHTHl1Qjl4R0NKSjJ1Y3pNcDRQeHZMdzFpc2RNYWJPQVlQRXZVU2NkX2tEVzVVejIyWm5wcEdYdWxiTDQtZnM5R2xCSVM4emtZTk9GSC1NQ1o3S2tWN2llQUxsZlRUMjByd0ZLNVdhMG85OHlQYVNSV01GOHRtOTN2djFjMU5wazhXWHZ1SERWOUdBQ0xSanNCcw?oc=5",
+          "publishedAt": "2026-10-27T12:06:06.000Z",
+          "severity": "medium",
+          "titleZh": "10月31日巴黎示威：黄背心想要走哪条路？",
+          "content": null
+        },
+        {
+          "title": "Trump suggests NFL could have postponed Paris game as protests escalate in France - The Athletic",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQand0MkZuck5ZVllud19IRFBBOFpIN1drUFZkLWFabktCdzA5ekNHcDVSVkQzYWVKLVpocjFoSkk2YU1FTXR2VHd2MlI4dVh1VHBtSEo1SkxLdjNJbWtBYVpaMEU4R1RxWnVtRjZ1TnlFRE5wTi14ajZZNm5BM3RVZ3F0eWJPaVp6V0twUXpZcmoyT0djeVU3bURsN2p3dU16SWc?oc=5",
+          "publishedAt": "2026-10-27T12:06:00.000Z",
+          "severity": "medium",
+          "titleZh": "随着法国抗议活动升级，特朗普暗示 NFL 可能会推迟巴黎比赛 - The Athletic",
           "content": null
         },
         {
@@ -221,246 +415,318 @@
           "severity": "high",
           "titleZh": "“我们不关心损害”：影响者曼农·德尔科特因其对动员和城市暴力的评论而受到司法控制",
           "content": null
-        },
-        {
-          "title": "La République française est sans défense",
-          "source": "Tribune Juive",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0trbGZTTE85T0cwbE1jOVZtN2M0WmQ1d0thT2xSaVpvUHAxcXRWZXFnZW56MklTWlZzSFVucXVwNmIyaHhKQTllbE9pbVdFSThBRDRpX1c4NXRnVjFyaVlremljRnFSSjdJYXFfNGxnMDJIZVVJdXlkakpjaV9ZWndueVV1TXZudFE?oc=5",
-          "publishedAt": "2026-10-27T11:34:48.000Z",
-          "severity": "info",
-          "titleZh": "法兰西共和国毫无防御能力",
-          "content": null
-        },
-        {
-          "title": "Crise lycéenne : malgré les annonces du gouvernement, la colère ne retombe pas",
-          "source": "mesinfos",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZy1qSWRUX2t3d3FWbC1nQkg2RmU3LWpIN2VISndUUUotaEtuTkRoUjZwSk91cV9iM3Uxa0lJdDB0SzM5ZXBXQ2MzOW5BaDBqdzRoVEZ3VmFhRWZnLVVNRGZ1Y0Zra08xdWRlaHJxMm4wSllXU1NOTEh5T0E0X2xVaVNocWZocmdYVldZbDJmcU1CbFNmT3F0aFctS1pCNzZremdvMnA3S0txU0RNOC1FSWhKU3FsWEpjdW1Z?oc=5",
-          "publishedAt": "2026-10-27T11:25:00.000Z",
-          "severity": "info",
-          "titleZh": "高中危机：尽管政府宣布，愤怒并未平息",
-          "content": null
-        },
-        {
-          "title": "Photographer ‘Almost Died’ After Police Hit Him With Grenade While Covering Paris Protests",
-          "source": "PetaPixel",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVUpJdXpHaktWdzdjYTlGNTctTEdHQUZlbjhvWnFVbzB0S2YzSDdISEhYcVA3Z0l5QjJLWmxjUmJ0NXZHeVhWTHBwaGRsblQ2VWdFdUdRcGpYSVlOWm8tdDZmcmNuZnh0LXdESjhRcmhkaWtSb3RGQ1dqUG9GQmdpNWVkRDI0b2JjalJaMzVXaVNSaHhQYnZ3UXBvT0Q4d1R1by0zLVVUTzIzTnJsQWNueXBUMmpyZDViVU1veGpvOA?oc=5",
-          "publishedAt": "2026-10-27T10:34:58.000Z",
-          "severity": "medium",
-          "titleZh": "摄影师在报道巴黎抗议活动时被警察用手榴弹击中后“差点丧命”",
-          "content": null
-        },
-        {
-          "title": "France’s youth are outnumbered. Their protests are testing who gets heard",
-          "source": "CTPost",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUoyczFHNm5udVM0ejA2OW5xXzFINXlBd1AwLUF5VlJ1c3JjMVludldPeEd3X1ZiTGdadVMyd0tVaDg4clBtWmVwMjZON2FrbUd6cDJhb050N2FlenNVTmszSndOMFlhREgxTEMtaTNHOHpuU1RKeE9ITmJpOTRWMzdEUGZ3SkRkZ2VRSk9WTm9UdHNMdE5HM254bFNzeHhlZmc?oc=5",
-          "publishedAt": "2026-10-27T10:10:19.000Z",
-          "severity": "medium",
-          "titleZh": "法国的年轻人数量处于劣势。他们的抗议正在考验谁的声音得到倾听",
-          "content": null
-        },
-        {
-          "title": "Watching Paris Burning From Hawaiʻi",
-          "source": "Honolulu Civil Beat",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYllOb3c5ODFUQ1dDb0FRWDlKOVlMUVJTd0tIY1d3WDktUEc3UlgzcU1ZZU9GY3J1REU1MjJzaVk5M3RkNVliU1NqR2FqR0piYkQtRlcweDVMZ21yd0EzbXJIU3BYS2xaY3h3bzUxaE95Ync0V0ZuZnY0Y1FOdXJBcw?oc=5",
-          "publishedAt": "2026-10-27T10:04:01.000Z",
-          "severity": "info",
-          "titleZh": "从夏威夷观看巴黎燃烧",
-          "content": null
-        },
-        {
-          "title": "Saint-Pierre-lès-Elbeuf lance trois semaines d’actions contre les violences conjugales",
-          "source": "Paris Normandie",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMXhBaHZ5ZndkVUs4WTRDRVAzSDkxSHRjclpuVUVzSlYtUVh5b29nT0dKV0VUZUVCeGpybTd0MGZoSWE5UEhLWGxMN3VYNkViS01DZ29ZY2Q5dGVzTVFsSmxFSlNDc0E4RkNlSUd6ZkhOVzM5NG1wZ0pBQ1B4NGotemRidm8zb0l4OXdtLXhYT1ZhbGxzbUM5MEZoQjZIc3ZMVWNwLTY4aVZJaEh2dzN6bzRKcUZicTJFbGplRHZHT2w5VjBsQ083bkxyUlhFZw?oc=5",
-          "publishedAt": "2026-10-27T10:02:49.000Z",
-          "severity": "high",
-          "titleZh": "圣皮埃尔莱埃尔伯夫启动为期三周的反家庭暴力行动",
-          "content": null
-        },
-        {
-          "title": "News : Une date à Paris pour Saint Etienne",
-          "source": "Sound Of Violence",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeWlmamZCcGk0MWFyVU5yVFNfNmhmVE40LUtaUUhMR0tGaHliN0FBVFNXNm9fcmI1OFM5dzE3UkU0elBmZHB1Tk90czlHY3hrcGFfNWRlRmNYb29zbUF0QjhUZVdwd29adzgyVGlYMHdKdHd6M2RMbFRncmZET244LVp2dU04cEVrTEZRTm1EY185dw?oc=5",
-          "publishedAt": "2026-10-27T09:27:40.000Z",
-          "severity": "info",
-          "titleZh": "新闻：圣艾蒂安在巴黎的约会",
-          "content": null
-        },
-        {
-          "title": "AI image falsely shared as authentic depiction of Paris during protests",
-          "source": "AFP Fact Check",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xR2dwekVibnU1N1otOXBfQ1JFbHpSQjBsTGFvTHNFQm9hTDNsWGYweU1DaDctRE5GU3ZhZjVEWERvQzhudnJPcmFIbW10UXdhMDM5SWdnSXU?oc=5",
-          "publishedAt": "2026-10-27T09:25:08.000Z",
-          "severity": "medium",
-          "titleZh": "抗议期间人工智能图像被错误地分享为巴黎的真实描绘",
-          "content": null
-        },
-        {
-          "title": "France’s Permanent State of Emergency",
-          "source": "The Nation",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zWS04dExnRmluc3hROUozZEdYN1JvbW1WWk53b2ZKR1N6WWpVYmJqYnR4WjdITk81V1ZZc3EwSy1Dc0ZaeTRvMHIxbDQyUzJRay11RHQ1RDRNSWM2T2FoOXZFTdIBmgFBVV95cUxQUHNtS2xDYlU5NzZyQkgwVUk3bWtwbHFodVJlTmRCOGE0OXBocXFKVWlYa0hhYTJYa1hPWkdHVndZVTdFc0t3VzhRWU9ud2Zzam12cmNoQ0xPcUMydTRmRWpzdk5mVkJoN0ZRMG1mWVBqUW1Dc1JSaDFVRkVkVngwTUpMaUVGUTZXNURaNHZTaGRTMk1sTno4MG1n?oc=5",
-          "publishedAt": "2026-10-27T09:08:38.000Z",
-          "severity": "info",
-          "titleZh": "法国永久进入紧急状态",
-          "content": null
-        },
-        {
-          "title": "Riot Police Charge Paris Crowd Protesting Death Of MMA Fighter Killed In Suspected Racist Shooting",
-          "source": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVmotM0xqMllLVWtmQk1PWE93WWlLMnNPbG9wRmJpUkMtYjBIVDZfQ2YzQlJudHdnOUMwdVAzQU5ob1d3SWxOTFFsNjVTRG1abTAwZjZOajBtWFdyeVFSekhQcDFQcE15aFI4dVFMNXpObkJ5aUh3Nlg3b1pKMENiYnEyOVJ1dGMtNWd0M3NubUlVRHpCd3RLZFJVUDY2UjQzY0ppT2dFN0U0ZWpVdUtXejd5NC1CZUNfejlKZWVuV1NRRnhLeHhDN1A4bVNrVmF1UTN0R0VxNDA1WDRDZGRxTEFTVFB0Tzd1cEg1RHNudThiOXJ1MndMVkJvdGlwUlFRM0YtTm4yZ3dJOTg?oc=5",
-          "publishedAt": "2026-10-27T09:05:00.000Z",
-          "severity": "medium",
-          "titleZh": "防暴警察指控巴黎人群抗议在涉嫌种族主义枪击事件中丧生的综合格斗选手",
-          "content": null
-        },
-        {
-          "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
-          "publishedAt": "2026-10-27T09:03:47.000Z",
-          "severity": "info",
-          "titleZh": "预计 2026 年在巴黎和法兰西岛举行的��幕活动和重大活动：今年的议程",
-          "content": null
-        },
-        {
-          "title": "“Pot-and-pan protests” by the Yellow Vests in Paris on October 30: what should we expect?",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeDZEQ3lNV2RCcE1mSlZpZDhQQ3hfYWtqc0R6M0dTaUR3NGptSS05dFc1dlkyTjlaT294VUh1ekZGVEptY3U0ZnBFdlhZTWFSU3dJNzdOOHN4dnZkS1ZGLUxfa2wtYVJ1aGNFVHd5aFNQc2dLV1N0eXJ5MngwbngxSEh0ZFdCNTB1eVFMMnlqdmxDM2xfZEhGTkxkNVp4WWE4U0J0dEEwY19VTnpadUIxNEVwWGJMYXdRbUxHQW1CYTJoRFNKWVNmQXhVaHdaNUk2ZUg4QzZR?oc=5",
-          "publishedAt": "2026-10-27T08:50:47.000Z",
-          "severity": "medium",
-          "titleZh": "10 月 30 日巴黎黄背心的“全面抗议”：我们应该期待什么？",
-          "content": null
-        },
-        {
-          "title": "French consumer confidence hits a 2013 low in October amid protests",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUU5lTjItazhkMENWeGlZWkl5SEdxZzdjYlE2V3g1S0FnMHpXeGVnWFBWaXJBcWRtR1E4VXFGQk5Zd29iVkRXd2hLYU1reWJ2LXRpY3pMd3BLWUtyeGl1RV9jNEJyMnpiZThPV3NyUV9tVjRDSDBRNDM1ODJtRF9iR1NnNTItbGh2WldydnpUdXUtc3g4TUV1MktudXVrc0VwTS1TQW5uZXZSRmc?oc=5",
-          "publishedAt": "2026-10-27T08:36:46.000Z",
-          "severity": "medium",
-          "titleZh": "法国10月消费者信心因抗议活动跌至2013年低点",
-          "content": null
-        },
-        {
-          "title": "Le guide des courses à pied solidaires en 2026 à Paris et en Île-de-France",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWVp3ZnlDREM5ajFNMmFwNVZEX1NaV3lhcmZaVk15UnUwVlJIYkZibjlqTUY4RFU2cUthTjhEeFFtR0tqZW4xVl9HUDNmUFZ0WWh6Ym12UEhydjY5ZU54NGdWWmVkeDdRTVBnTWItc0ZOekdiR2duWGJHa1Ftem05NlFIRmFPLXlBS05VNjdMNEc1b1hpZ21zd0dlUFNmc05KSC16bUk5U3VlY3JuQ0tzUjJycXF0bW1VZm5yelR5bUctb2hVQWhKRVUzOA?oc=5",
-          "publishedAt": "2026-10-27T08:30:01.000Z",
-          "severity": "info",
-          "titleZh": "2026 年巴黎和法兰西岛团结跑比赛指南",
-          "content": null
-        },
-        {
-          "title": "Rassemblement contre le racisme à Paris : Emmanuel Grégoire hué pendant son discours",
-          "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOelBsdFN4OXQwMnAydHJnUFdCVHJkYXY4VHlGLTVYU2ZUYzdkbzVIZGsyNV92OG0tMFNfTmdKWW40VnpNODNHZ3BWUXZoR2xiUEdJLU9ZMlNTc0R0U1A0TVNqaXVDeE80LXpUdkdteThNMlZyRWx3ZTZMMVlkU0MzWlMxeHBzdjdkakFFTnVmM25SdHR4bldtNTNUNUtMR0cxTHJGaG9ZczdWdlhnTE92YnFibHNkU1JBMFZ5MnFPUWllQ2FORXF3cUxla085WVZwNERXcg?oc=5",
-          "publishedAt": "2026-10-27T08:07:27.000Z",
-          "severity": "info",
-          "titleZh": "巴黎反对种族主义集会：伊曼纽尔·格雷瓜尔在演讲中遭到嘘声",
-          "content": null
-        },
-        {
-          "title": "Grande soirée débats, club de la presse indé et concert !",
-          "source": "Au Poste",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSm1fODgwVElsM1RHOGwwNEp4ckRXOGxwWG5mdHdxWWN6NXFBVF9JTFM4QS0xRXBzckM0N29TYjBnR3FkRTlzZmxSMXpLbjd2MXRZTXJwcUlsalcwVFE3dWZKQ1lNYlRfekpIQ0NoM1Jjb19WX1hSR3BSV0xZNWN4XzNXTWk3QWFqdUR1MVl5RXpsZ1B3eVlUam1zN3o5cW5QcGc?oc=5",
-          "publishedAt": "2026-10-27T08:06:10.000Z",
-          "severity": "info",
-          "titleZh": "辩论、独立新闻俱乐部和音乐会的美好夜晚！",
-          "content": null
-        },
-        {
-          "title": "Résister à la tentation de l'Ordre",
-          "source": "Les Echos",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUEFpYkdWLUpIZ2tyTm8zWjRpNFJsbE5nRzJQa2RqYWxoQzU0TnYzU3A3SnhJTjA4UVN4UlRCZmdCLW0yRG9qeEFLeGY3eVRCWVVUUHJidTkzNVdtaGNTekJ5bDRqV1RmdFhSUURJdVI4eXR0bi1VOW1TUWJ5VXNwYl9tMHpmRXotYWl1QmxlcEIwbnU3VUN5UzRn?oc=5",
-          "publishedAt": "2026-10-27T08:00:33.000Z",
-          "severity": "info",
-          "titleZh": "抵制教团的诱惑",
-          "content": null
-        },
-        {
-          "title": "Manifestant mort à Paris : prudence journalistique ou suivisme préfectoral ?",
-          "source": "Acrimed",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93dUVMb0Q2R0lHay1aTWpZSGo3R0xBakhUQmFRM2xVNWtCemRsQXJDTnZrR0Q3QjdJZWhKNmJiajdzQURiWk1WdVdLZWxKejlXNGp2cmhkNVEzNERiSlZXZjl1ZmFXeFp2UUVxMk1qcGtIT054YzNVQ1hGVk0?oc=5",
-          "publishedAt": "2026-10-27T07:51:24.000Z",
-          "severity": "info",
-          "titleZh": "巴黎抗议者死亡：新闻谨慎还是地方当局跟进？",
-          "content": null
-        },
-        {
-          "title": "Is it safe to travel to Paris right now? What travellers should know about the protests in France",
-          "source": "Condé Nast Traveller Middle East",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRExyTVlMdTNjSENPSGpzdVpWQ3FtaTF4cURDV1VIdUNHcXFiS1pkY0FLNjh5TG9IMFBQNEh2Nndta3REam9jMmJKSXNvTnBjZ0xqbVFUN3Nfc2lLSDdjUFlRVWoySExlVzY2STNSbnk1SWZIRnRtQmpTMFltLWhlRVBhNTVySDk1UUxoX2x4ZjdLQ3BtQWxiLU9zMkdSTFVhYTdxSmJnMjIyN3NITGphanlQMFZTd0lUN1ZfREdDNnRqMVNKMjg0XzN2Q18?oc=5",
-          "publishedAt": "2026-10-27T07:49:11.000Z",
-          "severity": "medium",
-          "titleZh": "现在去 巴黎 旅行安全吗？关于法国的抗议活动，旅行者应该了解什么",
-          "content": null
-        },
-        {
-          "title": "Hommage aux victimes de l'attentat de Trappes à Paris : BFM TV et CNews ciblés aux cris de \"assassins\" pa...",
-          "source": "Jean-Marc Morandini",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPMEN5ZVFCS1lwZ0JkY3FCbGtaNzVQcEtiWGhkU0JtZC05d0lvcjNZV3lmUXpOa2tOZlk2ckRPX2hkX2gtaTZHMjYtV1UtSURIU1NTalV1anI3Ymlib19QalJlNWtTR3gtWl9fallaU0E2SkNIR1hJY0tHTUFodWJRcWF4eHNlZTJlVnRHc1VjNE9QNXBjVTFWM09KRzF5dzhKeV9oMWM4bllmWnBLR1VtTmpQX2tBWm5YRG5kYURZa3NRS05ZRjNkd05KUkw3WndiWHZLNmtWLUx4Q2pLbEVQY05sb1ZIZkliSDJ0eHZLelZpUGR2SGJiQWtNMmdaX0dBYmdUbXExRVhTZ2ZKcV93cXZQWUZQYkl6Q2twMDM5RmFtWVg5U0djT3UwS0ZiRmQ2WkNwWXVzTkt2M0szcmREel9FQTVRc1BEakVjT2VJaEVuVVBjb2fSAdsCQVVfeXFMTnUxTDhsRXhSMTlqbjZrNmtBMjFweEtKTGdKbFJfVEQybzVUN0pYMVVBVy02aWY3QWFqdk1OUG1GUk9mM0txUjlMMjltUXYwdTNSTUx1VEl5TjZ0QWZtSnY5WGgzVkgxU2VsZkdvOWpZZ09aTHBKV0l0LU80ekxZWk1lZ2N2WXptY2haX0w2d1dtc3BGam54SF9pcFdWWUplVDRicVhmbDhZUnFzQVpQYkM5bEU1YW9HeEhHakpZNWRyTzhwaVpXa2NPUHoycEpKSXBCZ2ctT01YVFd4cElrcWx3dnhSMjg0Z0RtT2NhQzBWX25jd1B5ZC1zTDQybEFFckhkU0J5T1ZiM2oweWZvMGQtZlBjZkdXZDYtdFBjYlBYb0JCVXFScjJ5SE1ndWUtVExYdGNxem5wNHdTVS04T2EzNm91QmIxVUJ5alp1Rmk2dTJaTmluM1JnMFU?oc=5",
-          "publishedAt": "2026-10-27T06:49:37.000Z",
-          "severity": "info",
-          "titleZh": "向巴黎特拉普袭击事件的受害者致敬：BFM TV 和 CNews 成为“刺客”呼声的目标",
-          "content": null
-        },
-        {
-          "title": "October 31 protest: what to expect in Paris? The details",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVDd5bV9QS1BYWWpSc3Utbzl2QVVLMWZCNjdnalNxSUhmQk5WRDlEVXJEbWZoelVYWnNkX1lRVW5JOTdCN3k3SzZNUFZJVllvZVpGVTNxejd2TFJsWGxETkZZSGNseE95LWg0ekdORFNTY0w2M1ZLajVaUFFFZzVMUkRLcmppdEVnY0dSaUhNYmlsTTdfeGlWLVlwU2NjT3NvdWxpVWRCSG5ZRHpndm0wTDN6WWJXUnplNnUyM0xnUQ?oc=5",
-          "publishedAt": "2026-10-27T06:46:37.000Z",
-          "severity": "medium",
-          "titleZh": "10 月 31 日抗议：巴黎会发生什么？详细内容",
-          "content": null
-        },
-        {
-          "title": "112 publications appelant à la violence supprimées après des signalements du gouvernement",
-          "source": "RMC",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLVdLYThkTlNDT0FxWXRhdkxtWFhJaTM4MnFzNS1mWkpQcDFuWkZyVkFtOU1UUDFZMDUwZjFXWTh2X2xZeDZ4T0JCWWE4YzBsTWRfVm9CVzhqTFV0UTNlbldhUkk3WUhPbExLVFZSWE9hcXM0OHg1X1JOWWVQVU0xQzNlZGppejFsQ1lMRUdnT3MyUUxHTHJ6cXZySmJhSVNYQzB2V244NVkwMHlzenN3TnhxZGU0c0tKX0gyV1FNVjFubzA1REhCT1FPZGd5Wm1WWXhROC11S1R4S2JCdWZkazRXWGpFTlc4WHBkaFBn?oc=5",
-          "publishedAt": "2026-10-27T06:14:00.000Z",
-          "severity": "high",
-          "titleZh": "政府报告后删除了 112 条呼吁暴力的帖子",
-          "content": null
-        },
-        {
-          "title": "\"Ils posent beaucoup de questions\": après les manifestations à Paris, comment aborder le sujet avec les enfants ?",
-          "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPci1qa3JvbzVSa1NxZ21xV25lMVBqbnBuaUs2ZnRpbVFTeW1JN09iN3IwYXBRN0w0S05YUlpHb0dmdXIxRVE3ci1vYVE3RHBndk9INjZkVExVQ1dWQXhYOUNVSUpjLTMzX2Zoa2tEMHgzdWVHZkFBcm00TEx6OXJ6NklMeFkycGozYWF5VFJFUU5BMWZPRmcwOTNlR3FRY2YwemlfY1Vqd0xPQ2JQSjhOWE9BSDdETHZIU2hsTTFIa1VjSmR2QjFmSDA3OTNpVV9WeklSaWt1T0ppNTZfd2Z0SVd6aXpxMmxScDVDVk9qOHIzNlhIbVE?oc=5",
-          "publishedAt": "2026-10-27T06:04:02.000Z",
-          "severity": "medium",
-          "titleZh": "“他们提出了很多问题”：巴黎示威之后，如何与孩子们探讨这个话题？",
-          "content": null
-        },
-        {
-          "title": "Paris : des centaines de manifestants rassemblés contre le racisme",
-          "source": "Orange Actualités",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVVpYTy1xbWFSVk1BX0tuNlBGTVFMRVVvdTRoaElXb3d6dFhGRThsYjJjUjNKenJDbmYyNml2TEt1TWstalBZbTRuaUFKS3FTU243a2tPQ08yaXdmWUR0REFVb0djQWJBeXN4R3d0NEg5QjJ5XzFNRGhoSF9KRGoxOVJFa2hpeUd1TGNORjI1YjN5YzZYNDA5UlktMndkajY2LXRBa0o5MWRjalJSSy1EcTNhLXZQQnJwNmJWMzY1aHRrUQ?oc=5",
-          "publishedAt": "2026-10-27T06:00:21.000Z",
-          "severity": "info",
-          "titleZh": "巴黎：数百名示威者聚集反对种族主义",
-          "content": null
         }
       ],
       "places": [],
       "districts": [],
-      "articleCount": 26,
-      "clashCount": 3,
+      "articleCount": 31,
+      "clashCount": 6,
       "status": "unknown"
     }
   ],
   "latest": [
     {
-      "title": "Manifestation du 31 octobre, à quoi s’attendre à Paris ? Parcours et infos",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSmVzOXg3M1FQZU5lbUo2bHV1YTRTd25scm5PMFZRbkhKV0hqT1R0TUFwV19lSG5icmRWUUpJUGhQbHpTWlBlVjNyQ3hkTHpjN0JHWTNvaHFlTEo2WDJZS1dqbU9uY2FXaE5uX3B3bjBYeVljRDFrMHZTd0JSYXZ3b0tKakxhM2xVeXpQRnBCMm5xSHJ5eGM2MVBPcmVCS1BzY1I5amh3Tzk0ZV9Oei1sYUpudFN3c0ZRVEgtejMtRm5yTi1iaHZ5UVdjWWxOR1Fa?oc=5",
-      "publishedAt": "2026-10-27T12:14:30.000Z",
+      "title": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
+      "source": "France 24",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYXZ5NV9pRkVRc1VEREl6X2pZUFBRdnBhQW50ZDRkaVJNbWp2ZEkxdWlkY2dEQmhiM2Uyc1hTSThSdG9jaWx4a1U5cGQyM3djbU1SbFhxc2pLOXBUdWpYY1lsMlVJTXFBajdSNzhRdl9rbnpNWVVERlVXSmJqaXNFZXVBYkdTeGRQQ3FVbHJBN0JrOG1Rd2FkaU1VOF96d010QzNZVnF4SzAwWWdPUzV1ZGVmQ0FYeTFFcTJhOWdFVlpHejRqSVc0?oc=5",
+      "publishedAt": "2026-10-27T18:27:15.000Z",
+      "severity": "info",
+      "titleZh": "人权组织表示，法国拟议的让骚乱者赔偿损失的法律是反民主的",
+      "content": null
+    },
+    {
+      "title": "Derrière les barricades des Misérables, la révolte oubliée de juin 1832",
+      "source": "magazine GEO",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQelNtOWQzM3pWVlZwYTZPVTZqbk5HVVRuQUxrOGdlai1xeFUxVjlSQVlhMG9LOWlPY3RjaXh1X1prTVZJY0ItSFduSGdiOHhCNHduejU2SFNzdm9vdFFwdUZRNUdLcHhpUDYzbXkzQWhMTWN0dWIwNXNGRFdqaUFEaXFZcmVTbzNVSUVuMUoxS3YzTEk2bjd3TGhfN1J2VV9XaUpyRkRmWWE?oc=5",
+      "publishedAt": "2026-10-27T18:15:00.000Z",
+      "severity": "info",
+      "titleZh": "在悲惨世界的路障后面，1832 年 6 月被遗忘的起义",
+      "content": null
+    },
+    {
+      "title": "Reporter caught in violent Paris protests recalls how 'all of a sudden, it exploded' after peaceful march",
+      "source": "Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWJVUGhkNXVDcjhrQTRaZWp5NXlOQWtzVnNINjh6SGw0QUR1bGk1ZUVCbVNqUkVMYlJ2eHVieGdFUE0wMGRCaVNEQjVFTkZGMDd0a1NxanNYQjBZelpDZUMxZG9qcUpZanE1ZFc3NnBMSGVNTU1xeFd5eFBQOTJab09uQ1NzSHF2STh2ZXpBQnE1RTlDYzAwX2VGY0tmTXhnRzB3NjRuT3NMX3lHankwbk40YmVYUVpoN2VN0gHAAUFVX3lxTE5xSFNkaVVzN1dUc1o1b0hrNURMUXM5X0JEdDZFYVh0NzQ0SG9Nb0FXSklsWVluQWpmNkNFSkRiMmViUUp0X0ptSnQ1VjlJOUV2bmo0NF91aXVnc2poSzZPTHNFZFU3TGRCVmxIY2lCVEx1TXRVQUFmb1FTVWx2eDBXWlA1V3VCbXZja1NocERDQTZNVjZzTzZMVEJVWndiZlYwSHQxOEF2QkFiVWFjeUxOVGZCTEhtdlZBV2p4dUhyeQ?oc=5",
+      "publishedAt": "2026-10-27T17:56:45.000Z",
       "severity": "medium",
-      "titleZh": "10 月 31 日示威，巴黎会发生什么？路线及信息",
+      "titleZh": "陷入巴黎暴力抗议活动的记者回忆和平游行后“突然爆发”",
+      "content": null
+    },
+    {
+      "title": "Le BHV Marais demande son placement en redressement judiciaire, mais reste ouvert : ce que l'on sait",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUWh4REI1M29iVmk0N2Rud3lla2w5cktpR3NTelBNVHdVRVhNN204c29vQnJUVEN2NmJRanY0QUY3Yl9BUkUxbmI3VWxEaE1XV2JSOUhxUnVzeWU5aEZRbl83ZXY4Z1laTTZDTlQzdjNTU2I2TTRGUDA2aU5WMmg3bk5PdENtd1hPSEhlVkREejZRaWU4NmxSaVBia3dzSllCazF2Y3IxMnJCYkVqQVQ5QmRVMXhfUHM5MjB5NlB1T1g0bXhocEN0ejNEclpmOUdxMzBzeHJJLWZEN3FEUlJQN0hsTG5PLU56RTZkbUJ1dkxVNDA?oc=5",
+      "publishedAt": "2026-10-27T17:50:49.000Z",
+      "severity": "info",
+      "titleZh": "BHV Marais 请求接管，但仍保持开放状态：我们所知道的",
+      "content": null
+    },
+    {
+      "title": "La République française est sans défense",
+      "source": "Tribune Juive",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0trbGZTTE85T0cwbE1jOVZtN2M0WmQ1d0thT2xSaVpvUHAxcXRWZXFnZW56MklTWlZzSFVucXVwNmIyaHhKQTllbE9pbVdFSThBRDRpX1c4NXRnVjFyaVlremljRnFSSjdJYXFfNGxnMDJIZVVJdXlkakpjaV9ZWndueVV1TXZudFE?oc=5",
+      "publishedAt": "2026-10-27T17:26:15.000Z",
+      "severity": "info",
+      "titleZh": "法兰西共和国毫无防御能力",
+      "content": null
+    },
+    {
+      "title": "« Vous êtes prêts pour la manif ? » : un chauffeur de bus motive ses passagers à Paris (vidéo)",
+      "source": "Le Tribunal du Net",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSWdpYVJTTldPUEw1NUR0Q1A4V21ualdVSDRLVG5oZVVPUUtfQUtzUmRHOFZNRFJEVWZuUXVsVXp0SFNtbVU1MjcwWDNaRXAtblFLZHYwZWx4Tl9SX2hxQWJTbXhKdGp6U3hqRTgyLVdXMHgzcTNhb1FEVlZuMDh4cTJsRDhwS0FPSENpN21RRG1LU09vRjdTSVJ4UnFoVC1yMnoxLVRmZw?oc=5",
+      "publishedAt": "2026-10-27T17:25:00.000Z",
+      "severity": "info",
+      "titleZh": "“你准备好参加示威了吗？”：一名巴士司机在巴黎激励乘客（视频）",
+      "content": null
+    },
+    {
+      "title": "Projet de loi «casseurs-payeurs» : «C’est une autre manière d’empêcher de manifester»",
+      "source": "Libération",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbWlFZ1lUaGRSbDMtdF9nUTlQYjFETG14eEhIVFRoS19NamRrTTlRTUtZV0Vsck1vWmtUZHQtaDdMQ0hJbE5ZZ09ramRCeFhRQUROZzBqNEw2TlNkV3V2LUt5cWp5ZUpaSzd4aWlib3RYWkd4M0gyaGZrdkYzNURIQzhYUHNmS0dpUnV3TWNxWDNGSjduVVlzM1R6MUI3TTRLLUU4VmRGeU01RWZtaDJUYlJnZXQtWFRQb3Z1V1BzVW9XWG9qTGkzUmN3azJ5WnFYVDU4dnNmNks4cUpwMXhVTzdR?oc=5",
+      "publishedAt": "2026-10-27T17:09:00.000Z",
+      "severity": "info",
+      "titleZh": "“粉碎者支付”账单：“这是防止示威的另一种方式”",
+      "content": null
+    },
+    {
+      "title": "The student-led protests in Europe may have died down, but they will be back",
+      "source": "The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjFucDI2eXpzcEpGTmRBdGQteHllWkNiaEdpTHRaeF9XSTNDN0RuLVB6X0Y3N3FVTUZSbm5FblE1cXpBOGZ6RzBWZmFoeEM3M2tsY0xxaF9SN2w1ZWNBVDFXY25sd2p1WDN4XzNSVmIySkxnN2pJcHUzZ2dXRy1ibERRelo1SUVITWp6Zi1HQ0UtTkZXLUU5QzlFWlBLd1hRd3RUajdWQV9jOXFSczYxSw?oc=5",
+      "publishedAt": "2026-10-27T16:57:32.000Z",
+      "severity": "medium",
+      "titleZh": "欧洲学生主导的抗议活动可能已经平息，但它们将会卷土重来",
+      "content": null
+    },
+    {
+      "title": "Bons plans : Les sorties gratuites et pas chères à Paris pour les petits budgets",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPODdJazFHSW5hbnd5UGhEZWtZSHNNcWZSMWdFRDB4Rmlwb3Jib2c0SjY3QV9tNmgyMm96bHY3NHppNXhtR0tTVGp1bGJYT0ZVQk05aEJBR0M5ZFEtdWdIc0Q2U1loUDExUmRoOF9ka2FTcXBjVXpNWC1zSlpMdjk2bGl5aWFvRmdVdEp0UU83SmpiS0RTMndDLWQyZl9aY2ladnZBNEFhcXFVcnVFUzF1azhBWDhiMVJSUktGSUNoOVY4VlRWV3ZsM09IeTBFeGh2ajNqMmh3dw?oc=5",
+      "publishedAt": "2026-10-27T16:47:47.000Z",
+      "severity": "info",
+      "titleZh": "超值优惠：小预算即可免费、廉价地游览巴黎",
+      "content": null
+    },
+    {
+      "title": "Les instances du football français reportent plusieurs matches de Ligue 1 face à l’intensification des manifestations dans tout le pays",
+      "source": "Goal.com",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZm5Hd1FUcW5FbnFYQmFnWUJja0ZNSnppZWRwQnpmbGJOWUFlTjViVzZPVTVma0kwN25DaDdpa1JfS2M5OFRVcDd2aU5vUGQzaFdQTWhDWTlyeWNHV1AyVXdFQV82dXRBVzVaM3c0ZVpCOUlqLXY5VU9qTzA5UlFTbm5HVm96Vy1MSkIyaDBDM29BYVBzZjByTVlETFB2R3ZqYllMb3BVeUgzVFZwYkhCVWhkeGF1Z0QzVVlVQVFkSUlWTzdmTWsxTGRsMmx6M3d3WENSaVR2ZG5oUGpPNU9nMFpYbU1lY2VidzJvT3I1Z29HNmdic2xpSXgyNGt5SVA4dTAyLVdYZ1FCa3VvNzdPbkdR?oc=5",
+      "publishedAt": "2026-10-27T16:03:07.000Z",
+      "severity": "medium",
+      "titleZh": "由于全国抗议活动加剧，法国足球当局推迟了几场法甲比赛",
+      "content": null
+    },
+    {
+      "title": "Mobilisation du 17 octobre : la famille de l'homme décédé porte plainte pour \"violences volontaires\"",
+      "source": "ici.fr",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSDBDaHVHYzlfcnIwVDFCelNncjd4YmhaVnl5Q3hjNUVfRlY1cHZMUG9rRG5WUjR1LXpnVnJQMDJORzh1ajdwZzhIRVRxMUxrSjgtNEVWQzBlR0EzNTBZN2NSU3M0UmJnWjVkYnhZN3ZZUzJBZnVSUzQ3NHlad3pzYjlzeWtKcVVraEV6TEVLVTFLVHhMMDJXa2tOdlNlMVRTNGtGcXZTc25rWGZCTlBTaDlyc0dEMmhvc2JPVU0zWkdtbjNuX3JtbTN3TUpMNlptWGhwLTBJT3M5bGlnajdYeWp4bVNxbGM?oc=5",
+      "publishedAt": "2026-10-27T16:00:40.000Z",
+      "severity": "high",
+      "titleZh": "10月17日动员：死者家属投诉“故意暴力”",
+      "content": null
+    },
+    {
+      "title": "« Taxe émeutes » : les Français vont-ils devoir payer pour les casseurs ?",
+      "source": "Le Point",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZjNmWEhOSk56UUJSc0s2c2hBX3JYQnAxVENoNWdTLU1rWWxkcHBwS3Z2UmNESnVXVHFfLTdnWllTeWNJR2RjcG9uMmtYbXViNDM4dDJibXBrY3cxdEhDX2dkRzZQTDJvVW1VOHNueXpUVXFObU5kS0NwSGpWR2U4TG9CLXp6OHNWMHB4YWVBR2FFdzBLc0hnVzVqb2I?oc=5",
+      "publishedAt": "2026-10-27T16:00:00.000Z",
+      "severity": "info",
+      "titleZh": "“防暴税”：法国人要为暴徒买单吗？",
+      "content": null
+    },
+    {
+      "title": "Actu Paris - Manifestation du 17 octobre à Paris : la famille de Christophe M., mort en marge du cortège, porte plainte",
+      "source": "Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT2dCeXFzbTJteHdvZWxwYzY0WkpXT3U1T0F2MVB2SXJfT3JJSEMyVnB4QUlpMTg1c1BBRDJwUzZoUDRQYjYyNFFOVl9tXzFBdjNQVlAwMkZjem1TbjZZN2N5a2NsbzYybzVPMXkwbHNpZms3aDlpakp2dlk5STROTTZubEpXZm9jbjZZWmpJSDNZM0hIdVg0UldheXVjWW14TTd5TWJUN0tnZkhNTXhYRGlLaEIwckNVX1FGZWgwYnpIYXlwRElPVll3?oc=5",
+      "publishedAt": "2026-10-27T15:56:03.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎新闻 - 巴黎10月17日示威：游行期间死亡的Christophe M.的家人提出申诉",
+      "content": null
+    },
+    {
+      "title": "La famille de Christophe M., manifestant mort à Paris aux abords du cortège du 17 octobre, a déposé plainte",
+      "source": "franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPS3NZQUFnMWRXejVDSlZWc1lUaDVfbVRKbnlMU1FscDY4TGRab1NhQ1dKYno5Q1IybUxqT1p2QUdaNjJTamZzcDkzUTZvU0dtWUZRTGFCS3lGMjNjRlBqVk1XdVZTSGhmUlB3bTN5ejZQMWt5ZERpTks4Q04tOUZBNWhsS0g1UXFuSFJYMTBhZ3hSVE0tY0JyZEtIa096Zkx0NWVJSW5mZVpxX2VjNWl4QnFZd0NMT0NPY3cxajNDNm9hYzhmRV9zLXVyaURiZXZGWUhGUU5qa1RNNHdmV3V5WENSYllMa294QnJkdnpvUTJSdFBGc09xcXZndTJFVGp3LXJFUW9xTjlUQQ?oc=5",
+      "publishedAt": "2026-10-27T15:54:22.000Z",
+      "severity": "info",
+      "titleZh": "10 月 17 日游行附近在巴黎死亡的抗议者 Christophe M. 的家人提出了申诉",
+      "content": null
+    },
+    {
+      "title": "Violences dans les manifestations : la préfecture de police de Paris serre la vis",
+      "source": "mesinfos",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd21ZX1lfM2s2S0d2VmNPYjBDY2dHTGU1NC04NVBGaFdHLWhpZmJXbGp5Qm1ydEpZMk95YTNWc20tejRnTDNycklqN1ZkYWxyVEVIT1BPWDBreUxfVHFTNWpsbmRVS2VVX2xXaS0taVlCenJWUXFUcG9HNEpzWTh2VGtTcVVjbTVBbWptNmtqSVV0a0hCTDY0M3l3dzY3UWFzZjd6OXA4cmlzbElFRGZqWGdjYXhvVlFncWUwdjdsZFg?oc=5",
+      "publishedAt": "2026-10-27T15:47:00.000Z",
+      "severity": "high",
+      "titleZh": "示威暴力：巴黎警察总部拧紧螺丝",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 17 octobre à Paris : la famille de Christophe M., mort en marge du cortège, porte plainte",
+      "source": "Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdDR2UUxCeEdWQ0dEY1JocndrYTY5RExCVGJWUTZQNmtLUERweV90TmR4aUdkZXdETmIyMXBwQndlcFdHVkZ0RWxydW9hV2xQRnZ5cjctaU5DMDhaNmZSWG5FWGNFMTBWckFGZExYRFdTUEgxNmlmOERxTHNfOHZBb1AwSFNoeVM1V214LTdWYWVWUHl2UEc2U2lRRFJRZEMycWJOQTFzc3V0ZmgyOHZreDJTM1Q0UWQwSXp3OTMyV045N0M1TjlIeFpBLTljeDZoT0MtdFJGM0hiMU02N182dkNFbDFadGxRZ2VPTEZn?oc=5",
+      "publishedAt": "2026-10-27T15:41:19.000Z",
+      "severity": "medium",
+      "titleZh": "10月17日巴黎示威：游行期间死亡的Christophe M.的家人提出申诉",
+      "content": null
+    },
+    {
+      "title": "Hommage aux victimes de l'attentat de Trappes à Paris : BFM TV et CNews ciblés aux cris de \"assassins\" pa...",
+      "source": "Jean-Marc Morandini",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPMEN5ZVFCS1lwZ0JkY3FCbGtaNzVQcEtiWGhkU0JtZC05d0lvcjNZV3lmUXpOa2tOZlk2ckRPX2hkX2gtaTZHMjYtV1UtSURIU1NTalV1anI3Ymlib19QalJlNWtTR3gtWl9fallaU0E2SkNIR1hJY0tHTUFodWJRcWF4eHNlZTJlVnRHc1VjNE9QNXBjVTFWM09KRzF5dzhKeV9oMWM4bllmWnBLR1VtTmpQX2tBWm5YRG5kYURZa3NRS05ZRjNkd05KUkw3WndiWHZLNmtWLUx4Q2pLbEVQY05sb1ZIZkliSDJ0eHZLelZpUGR2SGJiQWtNMmdaX0dBYmdUbXExRVhTZ2ZKcV93cXZQWUZQYkl6Q2twMDM5RmFtWVg5U0djT3UwS0ZiRmQ2WkNwWXVzTkt2M0szcmREel9FQTVRc1BEakVjT2VJaEVuVVBjb2fSAdsCQVVfeXFMTnUxTDhsRXhSMTlqbjZrNmtBMjFweEtKTGdKbFJfVEQybzVUN0pYMVVBVy02aWY3QWFqdk1OUG1GUk9mM0txUjlMMjltUXYwdTNSTUx1VEl5TjZ0QWZtSnY5WGgzVkgxU2VsZkdvOWpZZ09aTHBKV0l0LU80ekxZWk1lZ2N2WXptY2haX0w2d1dtc3BGam54SF9pcFdWWUplVDRicVhmbDhZUnFzQVpQYkM5bEU1YW9HeEhHakpZNWRyTzhwaVpXa2NPUHoycEpKSXBCZ2ctT01YVFd4cElrcWx3dnhSMjg0Z0RtT2NhQzBWX25jd1B5ZC1zTDQybEFFckhkU0J5T1ZiM2oweWZvMGQtZlBjZkdXZDYtdFBjYlBYb0JCVXFScjJ5SE1ndWUtVExYdGNxem5wNHdTVS04T2EzNm91QmIxVUJ5alp1Rmk2dTJaTmluM1JnMFU?oc=5",
+      "publishedAt": "2026-10-27T15:18:00.000Z",
+      "severity": "info",
+      "titleZh": "向巴黎特拉普袭击事件的受害者致敬：BFM TV 和 CNews 成为“刺客”呼声的目标",
+      "content": null
+    },
+    {
+      "title": "Val-de-Reuil : le maire appelle à un rassemblement « contre la violence et l’extrême droite »",
+      "source": "Paris Normandie",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjhXZ0NpemhHMk04RW1zeFhidFkwUEEyOVcwU19Dd2EyT0J0WElmUC1scVc1bkZZOE5hSnhiWGRiZWEyQnlaVU5vclcwaHh5NEM2bDkwWTMtVGp2bXdDYlJGeUhEVGVFUWR3QnpoOWVTYWZoQnVuZmZ2WmFfQ0VnZjljNjFnMVB2N1pweElRS01HMTYzM3FiXy1fRFF5REtiYXp0QjlvT2x1VV9DbEo4Y3NaaHVaSmNDOVpnSWhBYTNkLXBldE9oVEprcnV0Qk40OEE?oc=5",
+      "publishedAt": "2026-10-27T15:16:00.000Z",
+      "severity": "high",
+      "titleZh": "Val-de-Reuil：市长呼吁举行集会“反对暴力和极右”",
+      "content": null
+    },
+    {
+      "title": "Face au délitement du pouvoir, la violence est-elle une façon de se faire entendre ?",
+      "source": "The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcDBjb0czTVBrZnR6ODMydERaek5VS0cyS2MxSGNtak0wXzdJcktZYl82dy1UQjZVRVNvOUVHWnNQa0F4dC02amNLVFdwbVd5UFBSdmt3UE5aRkVuNks2S0NSbk1UTE5GVV9vWngwT1FDVHR0VFUxS1lrM1ZLTWd1X1hFOGZnSXlldlFPdm01T0lELUxYSFJjZl9ZSWxhb0RLdXlFSkJwNVhwUUc0NThVYWM2azc3S3M?oc=5",
+      "publishedAt": "2026-10-27T15:14:58.000Z",
+      "severity": "high",
+      "titleZh": "面对权力的瓦解，暴力是表达自己意见的一种方式吗？",
+      "content": null
+    },
+    {
+      "title": "Photographer Alleges Police Grenade Attack Amidst Massive Paris Protests",
+      "source": "freeyork",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS25IU1pmRmI4c3EwNlpMV19Va0psSWJHeEVEUkxWTmVNd2xCZllwTFZLRWp0S0xOSGEtVlVwY2EtS3Q2QkI2YVVIZ0xHYnJBQ3NwcUplakd2SWpmNlRPZHg4Ym9OQXNQekdqR2lPZllaZGExNzVxb1ZQS0dHRklMSEx4aGFJUQ?oc=5",
+      "publishedAt": "2026-10-27T15:13:23.000Z",
+      "severity": "medium",
+      "titleZh": "摄影师声称巴黎大规模抗议活动中发生警察手榴弹袭击",
+      "content": null
+    },
+    {
+      "title": "Émeutes : la France peut-elle tenir jusqu’en 2027 ?",
+      "source": "lejdd.fr",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR0pXRDFFVXZ1dDlRLVdiaFFBdDVWMi1vejlISVZvSGpPRHRSazRaS195bHg1czg5bUNma3Jzd3VBZU80NDFSZHl5MUhxa1p6VnY1Xzk2NFJtdFdGWlZpUUx1UXdKdmJyTDlJU1ZTU3RpTWs4WGUzWlVGaW1QWFJDNGEyWjd5YWxoT3c?oc=5",
+      "publishedAt": "2026-10-27T14:52:43.000Z",
+      "severity": "info",
+      "titleZh": "骚乱：法国能坚持到2027年吗？",
+      "content": null
+    },
+    {
+      "title": "Ces vendeurs de rue n'ont pas été filmés à Paris après le 17 octobre 2026, mais en septembre à Madrid",
+      "source": "Yahoo Actualités",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZUU2ci1RU2tQaTlmSm0wMWU2amtSUlA3cTM3RU0yMk5lNWZMR3hsTTh5X2ZLM1NiVUZ1NDB0N3FTSUFyYmtIbnd5VUN0VkIyRDVXR0RBTDVqNjVoM3VuR1BWNVdianBqek5FbFJqX21xaTFUd1RYVkx0NWFod01qbll2Y0hoMEdBS3o3dw?oc=5",
+      "publishedAt": "2026-10-27T14:48:39.000Z",
+      "severity": "info",
+      "titleZh": "这些街头小贩并不是2026年10月17日之后在巴黎拍摄的，而是9月份在马德里拍摄的",
+      "content": null
+    },
+    {
+      "title": "Attentat raciste à Trappes : « Ça aurait pu m'arriver aussi », la communauté ultramarine mobilisée à Paris",
+      "source": "RCI",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRnNEbUJTNWlOM0pQaXJqcDRfcGZTaU9aUFpvWW5HeWJHUXJHVE9VaU1JdDBCNGR5WEZFb2cwRG5Sc2QtSHVoOVotUm8tc1BLWlJ2cU1kWF9fN3puZTFXSVlmbHVleUtmQjJGTFZVdXZBU1lKbUZXYXVGQW9kdXJFWWxrVGl4Sll0UmUtQnhBNGtpdnFzNGdsV3dIam9HWnZRVjVZMWZjLTNxSG5KNGtQeEtBd0wxVTA?oc=5",
+      "publishedAt": "2026-10-27T14:37:47.000Z",
+      "severity": "info",
+      "titleZh": "特拉普的种族主义袭击：巴黎海外社区动员“这也可能发生在我身上”",
+      "content": null
+    },
+    {
+      "title": "Attentat raciste à Trappes : « Ça aurait pu m'arriver aussi », la communauté antillaise mobilisée à Paris",
+      "source": "RCI",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRnNEbUJTNWlOM0pQaXJqcDRfcGZTaU9aUFpvWW5HeWJHUXJHVE9VaU1JdDBCNGR5WEZFb2cwRG5Sc2QtSHVoOVotUm8tc1BLWlJ2cU1kWF9fN3puZTFXSVlmbHVleUtmQjJGTFZVdXZBU1lKbUZXYXVGQW9kdXJFWWxrVGl4Sll0UmUtQnhBNGtpdnFzNGdsV3dIam9HWnZRVjVZMWZjLTNxSG5KNGtQeEtBd0wxVTA?oc=5",
+      "publishedAt": "2026-10-27T14:37:47.000Z",
+      "severity": "info",
+      "titleZh": "特拉普的种族主义袭击：“这也可能发生在我身上”，西印度社区在巴黎动员起来",
+      "content": null
+    },
+    {
+      "title": "French soccer league moves games from Saturday amid public protests on streets",
+      "source": "Bozeman Daily Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOaHBSV0x0My1RMmFicHdIMFJPdnI1UWdqZEVkUzRBUE81WDJDSnFkV2NkeFlrZ3ZxQ05CajVsdVBZUFdQa25kOUN3Y0dpMl85QXFTc3ExRGV4T3p6WEZibWM2bGRoUkMxRE1NTG90b1QyMTNMY0tubnp5dzk0dElGWEZiQUNacU82eUgyWEJCX0NVcnBzUTM1a3RPb0JaRElGMWdEWjZDSGU0eXVrVFdmd1ZNcmVKTTk1SjJCX2RNNVVQMU1Ec1JPdjY4ZER4ZEhKbGdTMTRRMzdzOThEX1R2OTZPLU4zQTVUa1ZLaTNCeDgwbnFyRnA0VHBVUmNsOEhWVmxzTUV3YnRsUQ?oc=5",
+      "publishedAt": "2026-10-27T14:06:19.000Z",
+      "severity": "medium",
+      "titleZh": "法国足球联赛因街头公众抗议而将比赛从周六推迟",
+      "content": null
+    },
+    {
+      "title": "Fact Check: Pro-refugee protest photo edited to show woman who confronted Paris looters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcWMwT2ZJTUJfVWRoNjZqcS1mdkpqamo4VG9hX29sWnB5LXVmOTVfT2RlalRFc2JwTmJCNENvNnlTTE1lNnp3YVJodVA1UUxMNmJDcG1qY1ZBdm13Y3U4cGZzMFlocThLemdEa3lzbnpSX0lqTG1mOFhfQ19ZM09ieXl6TmZtcjNkMkJHUlAwdlFfaDU1YmhFX0l5QVRUUkVlbHZUQ2s4Z3I5M1R1S0wtaThQQ2U2SHgwSmpZ?oc=5",
+      "publishedAt": "2026-10-27T14:02:56.000Z",
+      "severity": "medium",
+      "titleZh": "事实核查：支持难民的抗议照片经过编辑，显示与巴黎抢劫者对峙的妇女",
+      "content": null
+    },
+    {
+      "title": "Émeutes, pillages : pourquoi vous allez payer la facture",
+      "source": "Valeurs actuelles",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzA2RGp2blh0Yk9Eam1FVzFJYjRKNmRuTzMwM1loSGJ5U0VzUkpZMGU2TVJaeU9lVjJXZkxETjJ3Vkd5NUZZMWJFMno0LWZYQlBaaTFSVXNaaXAzTEtlOWVPSHFxYVgzaUNhdnByZlVpakVYT1MxN1BOWGdydmFkdDNuWl9iQVF0MzVJUTdoa0c2QWRqVlJ3UWhMQQ?oc=5",
+      "publishedAt": "2026-10-27T14:01:57.000Z",
+      "severity": "info",
+      "titleZh": "骚乱、抢劫：为什么你要买单",
+      "content": null
+    },
+    {
+      "title": "Violence d’ultradroite : ce que 10 ans de lutte contre le djihadisme peuvent nous apprendre",
+      "source": "La Montagne",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUEdOR2VYOS1lSnR3dFphWVVrT1JtRHFsYWw5NEtfRm1DUW5wQ0lFRlA4bEl4ZkNFckVqczdqb2EyTU1QTzM2OHBtdXJFTWxJT3FDTm9TYWJxd2V2M0xjRW5vYVlyQTVMSVI2dU9fRDNMeFJOYm80bFpCYndpNlRZZjJtR1BqTzhScnlqd2pGWkJibmRoYVMwT3Y5UmNDU2xfREJ3N09tckNkakI2TG02Q2JkbmtMU0oxdzBEMlc1UEZiZnVDVUZqeEdHUUUxWkJmNXdkdzNHa3paUE9UaDNpTg?oc=5",
+      "publishedAt": "2026-10-27T14:00:00.000Z",
+      "severity": "high",
+      "titleZh": "极右暴力：十年的反圣战斗争可以教会我们什么",
+      "content": null
+    },
+    {
+      "title": "L'intersyndicale de SFR appelle à la grève le 3 novembre: le tribunal judiciaire de Paris déboute le CSE de l'opérateur d'une action en référé dans le cadre du projet de rachat",
+      "source": "BFM",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNZDB3ZzJ1WXU1cUNzLUI4TksxY0VvX2tsWGxQSEVqWFNPSWM4ZXhHNFNQV2FPcjFYR1ZFUTAzVlJvY0pJREgwNFFKM3BQQW1xeVFhM0cxWU9ELWFWSVlTYlE2QWVTUTYyY1VIcy1zb2JWeHQzNlhxV0VhUGdBdjhUYnMtRjN5NEtzdG5UQ1J3VjF2ZFpaa0N1cEhQb0JxakFjeUFxU2lNdmhFT1E1NGhJeHlQbXlqUVkwbFhPZEVYQXZ2b1hRQUtuZ2RSSTVreHRPNE81WXg1bmZvb3B5WExyQUUwVS04R08zQVpnUUdtMlYwR3htZmVXMlZVUXI1SlotSExvUm05cEN4U1ZqY2l2ZlMxaDJNT0JHeEZjLXhjVERmWFhURnUzaGJjWUZKWk03V2NUX1FOQzVnTWYyWmZfck9xMkRTeHZZblA4V01xWHp3SFZ2UHk5NW9PWQ?oc=5",
+      "publishedAt": "2026-10-27T13:51:07.000Z",
+      "severity": "medium",
+      "titleZh": "SFR工会呼吁11月3日罢工：巴黎法院驳回运营商CSE针对收购项目的临时诉讼",
+      "content": null
+    },
+    {
+      "title": "Pourquoi la grève Tour Eiffel a-t-elle été déclenchée ?",
+      "source": "horticulture-abadie-pyrenees.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HRUpTMWpPZldXR3FhcUZuelcwYkZtY1lodU5jRDJrU3UxSDZNSldGVFA0REhfc1NRTkthTlpGTnB1dDNEc3g3aGhBenFDUU1QWUszbVZCR0FqelBydmNpQ29LbzlaelhGWFIzTjNkZFB0cWVXdVB5X3VZTlFvTnc?oc=5",
+      "publishedAt": "2026-10-27T13:49:59.000Z",
+      "severity": "medium",
+      "titleZh": "为什么埃菲尔铁塔罢工？",
+      "content": null
+    },
+    {
+      "title": "Paris rally condemns racism after deadly Trappes attack",
+      "source": "Operativ Məlumat Mərkəzi",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkpLclVhTmxpLVdtVlVrRFBHUlMxR3RZd09JZUI1R1VYUVRoeEtkd2U5UWZVeVFVRXdSWUExdHBON1pRcGtOckdyc09mblZ2NEpfaHI4bmdiYWtqeWdPUDdLQjBTV1RUNUF1RHNLY3ZmejNKZlhLamgwbFJCbDN0SlRuMVd4ZXlNSkV6dGVaVnoxbGFZLXc?oc=5",
+      "publishedAt": "2026-10-27T13:13:41.000Z",
+      "severity": "info",
+      "titleZh": "巴黎集会谴责特拉普致命袭击后的种族主义",
+      "content": null
+    },
+    {
+      "title": "France’s Rulers Want Violence as a Pretext for a Crackdown",
+      "source": "Jacobin",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaml6SkVaNV9CYTZoN0RUdFpzM3Mwd3IwTWJkaWtJMnRzWGpSeHA2U2xaS09uNm1uUGF5U3FuQU05NC13QW1zR0pvd3dNSzA5R3Rjc2VNNGxLUGRlUVVROVRBSVhQNTNRWEhOdGNtSy1ocHJyZVpyeTc3SEtDY3JKNGNn?oc=5",
+      "publishedAt": "2026-10-27T13:00:03.000Z",
+      "severity": "high",
+      "titleZh": "法国统治者希望以暴力作为镇压的借口",
+      "content": null
+    },
+    {
+      "title": "Saint-Denis : étudiants et travailleurs s'organisent en AG interprofessionnelle pour préparer le 5 novembre",
+      "source": "Revolution Permanente",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOamFLanNJbXRTTzl5aXEwXzV6dkp2TnRCTFUxcWxtWmNiUHJTWlVDVUFuRG1wWVc3Yk1ERDFPN2ljTE53TU5IOHpVRDFGaUQ5SkRZWWtuZEY2cVMwV1kzOEdGdUUyeS1XZkJGUDFNNVhfR1FoclFtLW9CbThDVnpmQXljVVZHWjZ1OWlmdm1HQTZuNlZVSl90RFhoTXY2UktLem1MOG1jdEl3ZXN3TExKMS1RcXB4R0FiQ3FGWjRWUF9jTUx0LXZKaXEwMEVZNTVBV0FVNNIB1AFBVV95cUxOamFLanNJbXRTTzl5aXEwXzV6dkp2TnRCTFUxcWxtWmNiUHJTWlVDVUFuRG1wWVc3Yk1ERDFPN2ljTE53TU5IOHpVRDFGaUQ5SkRZWWtuZEY2cVMwV1kzOEdGdUUyeS1XZkJGUDFNNVhfR1FoclFtLW9CbThDVnpmQXljVVZHWjZ1OWlmdm1HQTZuNlZVSl90RFhoTXY2UktLem1MOG1jdEl3ZXN3TExKMS1RcXB4R0FiQ3FGWjRWUF9jTUx0LXZKaXEwMEVZNTVBV0FVNA?oc=5",
+      "publishedAt": "2026-10-27T12:38:06.000Z",
+      "severity": "info",
+      "titleZh": "圣但尼：学生和工人组织起来组成跨专业 AG，为 11 月 5 日做准备",
       "content": null
     },
     {
       "title": "October 31 protest: What to expect in Paris? Route and information",
       "source": "Sortir à Paris",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX1d4aFJTamtYRzk2eGJ6N0dya1B3dU5LcFFBR0xDZVNySGVvVnF0WmpELTk3RFI2ckx1dmhoMWdfVUZsdFlVQllqMkppWGJtZDZldEZOTWxlU1dvbjlFRVlldk04T1g4UExVNzZUb0RVS1NIM3Raek1BUTNoai1vVzFueWJONFdsaGcySnNLWGtDQlVLZEVuRVhIUVBPenRVNzE1WTlESGsxRUZzZ2V4aVVBb1NBVENLV0dkcnoxVUlINkVZUmwxNnJjNlU?oc=5",
-      "publishedAt": "2026-10-27T12:14:30.000Z",
+      "publishedAt": "2026-10-27T12:36:45.000Z",
       "severity": "medium",
       "titleZh": "10 月 31 日抗议：巴黎会发生什么？路线及信息",
       "content": null
@@ -475,336 +741,48 @@
       "content": null
     },
     {
+      "title": "NFL game kicks off in Paris amid massive protests",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORkJ4VExvUURRaHhBanl2N0NPMDI5MXZ5Q0hqVjhqcGlpRk5qX0RmeGRHUmc4ZXRaMHpwUnhrSm9uRGktUlQwd1N4RVp5YVE3bXFKLXR0SVNEQ3ZvUVNCZUFYaFo2MDdxZVQ4X19JR3JtTDFfYnkxZl84Y2V2blRhTTJ2Y3A2ZFpmTnJNcmRwcUFlVWZmN0wwZ19HaGJqSUcy?oc=5",
+      "publishedAt": "2026-10-27T12:06:06.000Z",
+      "severity": "medium",
+      "titleZh": "NFL 比赛在大规模抗议中在巴黎拉开帷幕",
+      "content": null
+    },
+    {
+      "title": "October 31 demonstration in Paris: What route do the Yellow Vests want?",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORV95b2JlNEhqOUd6WlJUQ1BqNVlxRnpXeGV2bktVbk5JTUdBenowTVlHYzlCQzY5ZDVHTHl1Qjl4R0NKSjJ1Y3pNcDRQeHZMdzFpc2RNYWJPQVlQRXZVU2NkX2tEVzVVejIyWm5wcEdYdWxiTDQtZnM5R2xCSVM4emtZTk9GSC1NQ1o3S2tWN2llQUxsZlRUMjByd0ZLNVdhMG85OHlQYVNSV01GOHRtOTN2djFjMU5wazhXWHZ1SERWOUdBQ0xSanNCcw?oc=5",
+      "publishedAt": "2026-10-27T12:06:06.000Z",
+      "severity": "medium",
+      "titleZh": "10月31日巴黎示威：黄背心想要走哪条路？",
+      "content": null
+    },
+    {
+      "title": "Trump suggests NFL could have postponed Paris game as protests escalate in France - The Athletic",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQand0MkZuck5ZVllud19IRFBBOFpIN1drUFZkLWFabktCdzA5ekNHcDVSVkQzYWVKLVpocjFoSkk2YU1FTXR2VHd2MlI4dVh1VHBtSEo1SkxLdjNJbWtBYVpaMEU4R1RxWnVtRjZ1TnlFRE5wTi14ajZZNm5BM3RVZ3F0eWJPaVp6V0twUXpZcmoyT0djeVU3bURsN2p3dU16SWc?oc=5",
+      "publishedAt": "2026-10-27T12:06:00.000Z",
+      "severity": "medium",
+      "titleZh": "随着法国抗议活动升级，特朗普暗示 NFL 可能会推迟巴黎比赛 - The Athletic",
+      "content": null
+    },
+    {
+      "title": "Manifestations de samedi en France: nombreux appels à commettre \"exactions\" et \"pillages\" - Monde - International",
+      "source": "Ahraminfo",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSEh1ODlSVWx6aGgwQTNDWFp1TTE3LWFXZ0g2RlNoOHlpTGJXd0NOWVlZQnlkTW5tVzBDcXdES0NnTVpMNjc1R08xLUhIUjQ3cWM3a3ZR?oc=5",
+      "publishedAt": "2026-10-27T12:02:17.000Z",
+      "severity": "medium",
+      "titleZh": "法国周六的示威活动：多次呼吁实施“精确”和“抢劫” - 世界 - 国际",
+      "content": null
+    },
+    {
       "title": "«La casse, on s’en fiche» : l’influenceuse Manon Delcourt placée sous contrôle judiciaire pour ses propos sur les mobilisations et les violences urbaines",
       "source": "CNews",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQjN3TG54ampfS0UyQWJxWVpKRm5LclVtZnQ1ZENBNXpIbzN6bnJoaU81TUZuVjJSOVVDNkV6S3BVeXJjRWJRaFdOVEhFUFVfdGtxb1JjVUxac08tcFlzak92Wnl5QXZQWVROYVFEZ3VUTFJYUzJUamgtR29CeGI1eVVNRTNCOVM5V0s5bk9zMkpUcnVsdVMyakJRZjVaeEd3cFN5OHlyWXNTZ0NuZ0plRUxSONIBuAFBVV95cUxPV18wS2lFUFR6ZUtVdkVBOFM0enJoSWJlSGhqNzVZanFQSW5UWUFJYnNWY1BmVy1YZ05tS2dHQnVLRHYtVEdpREZlVWVsbHJiWkcxWC1vOWc1ZVViN0c3NEFiRWhoamlKMW51bUxIU1FOa3RFNEtYek5feVp3R1RURmJ5Q2p3TGgxV1V6ZkI1Rm1kTXQ0Q2FCYlBXVXRwWmtOOWpFbWlLQ1paTTJlLTY0dkpxTFhpTW9y?oc=5",
       "publishedAt": "2026-10-27T11:53:59.000Z",
       "severity": "high",
       "titleZh": "“我们不关心损害”：影响者曼农·德尔科特因其对动员和城市暴力的评论而受到司法控制",
-      "content": null
-    },
-    {
-      "title": "Les Gilets jaunes appellent à manifester dans le centre de Paris le 31 octobre et menacent la préfecture d'une plainte",
-      "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPa1dmeGQwS0ZHRVh3WEVGZjY0Xy1MeTVTX2ZFOUFneXRpcWFQUHVYX3QxYzVGVExpTzN1V2ZRNTNYUDVReXh5S0s4eW9FU2JERlk1WVJiX0xDb2tyYlJVQlhuLWhXUUQyTVRnd0c1RzhmWHFFWi1VdUFhWjFlUlJIM3FLelRjSldDaVZ1RkhOU25fVnRTUnhpUHZvVndhN2hnNjlUeDZ3MTBUZmp6YVIxcEpKV0diQ3Azdm5LbGxvMmpzU1VtYXd1SWZnUE9xM1N6TnEyU1dsX2VUNG8xSGVnelFubE1jMzhQNllmRTlIOVlYMHBSSzBIS2ZaTXZJTE12RllDRQ?oc=5",
-      "publishedAt": "2026-10-27T11:39:45.000Z",
-      "severity": "info",
-      "titleZh": "黄背心呼吁10月31日在巴黎市中心举行示威，并以投诉威胁该地区",
-      "content": null
-    },
-    {
-      "title": "La République française est sans défense",
-      "source": "Tribune Juive",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0trbGZTTE85T0cwbE1jOVZtN2M0WmQ1d0thT2xSaVpvUHAxcXRWZXFnZW56MklTWlZzSFVucXVwNmIyaHhKQTllbE9pbVdFSThBRDRpX1c4NXRnVjFyaVlremljRnFSSjdJYXFfNGxnMDJIZVVJdXlkakpjaV9ZWndueVV1TXZudFE?oc=5",
-      "publishedAt": "2026-10-27T11:34:48.000Z",
-      "severity": "info",
-      "titleZh": "法兰西共和国毫无防御能力",
-      "content": null
-    },
-    {
-      "title": "Crise lycéenne : malgré les annonces du gouvernement, la colère ne retombe pas",
-      "source": "mesinfos",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZy1qSWRUX2t3d3FWbC1nQkg2RmU3LWpIN2VISndUUUotaEtuTkRoUjZwSk91cV9iM3Uxa0lJdDB0SzM5ZXBXQ2MzOW5BaDBqdzRoVEZ3VmFhRWZnLVVNRGZ1Y0Zra08xdWRlaHJxMm4wSllXU1NOTEh5T0E0X2xVaVNocWZocmdYVldZbDJmcU1CbFNmT3F0aFctS1pCNzZremdvMnA3S0txU0RNOC1FSWhKU3FsWEpjdW1Z?oc=5",
-      "publishedAt": "2026-10-27T11:25:00.000Z",
-      "severity": "info",
-      "titleZh": "高中危机：尽管政府宣布，愤怒并未平息",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 24 octobre: Interpellation violente par des policiers à St…",
-      "source": "20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU1hic0I1NGptVzUxRkxNcXNGLUVlWUJJU2o2eU9peE95ZFFLTkNGVjFVcU9CWDc5U0NjM2NKZWZMVTFVclN4QmE2SzRPd05tZnpqMVlpZ3JjMzFhd1pqcWZLZDlmTUdKYkpVXzZGWllRRm93S0ZNS3ZIcGRrckZfa1NLM29xMzZGWGxOT1kyQlpwRnNVMEY5X0t3QURidVdocHhGLXlvNTVCSDJ2bjdteG1mTEgtbEpQTWtKVUhUYzZSb184a3k0MUowcF9FUFc3MVZIT01ucXBkYndpODh5Vk1mMERHMFJvSWJUaS1vcmtsbjFxaG1scmpnNFNZbU0?oc=5",
-      "publishedAt": "2026-10-27T11:11:00.000Z",
-      "severity": "medium",
-      "titleZh": "10月24日示威：圣保罗市警察暴力逮捕",
-      "content": null
-    },
-    {
-      "title": "Rififi à la commission d'enquête sur le 17 octobre, ces nouveaux contrôles de police anti-émeutes",
-      "source": "L'Express",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaE9CLVhybkhlNG1CRmM1RE5YblJHQ3IySmQzZHl5TlA4SHI0NmpOWUpIODF2b1ZXOUVTSzU2NHRHblJZQjMyS1VkQm5lZnJMU3RmcTJBaDJFSk9wbXA0VWtjWWo3TWd3Ni13X0xfNUtXLW03THZOSzFWZWRlMUJRY1lhQVVoRG5Hako3dkUwVkVkV282dkxucVZrYk1TNVdCSThZQ1FBMUtHZlg0bC1YWXVIelE2SG0zelNTRmJXNDlzWGFSTmZWU1V1ZUNGazBVWE1VU0NzSU1GMEwyNGhmcENYSVNvLXpCbFg5SVVSNmVpbWNm?oc=5",
-      "publishedAt": "2026-10-27T11:00:00.000Z",
-      "severity": "info",
-      "titleZh": "Rififi在10月17日的调查委员会中，这些新的防暴警察控制",
-      "content": null
-    },
-    {
-      "title": "Photographer ‘Almost Died’ After Police Hit Him With Grenade While Covering Paris Protests",
-      "source": "PetaPixel",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVUpJdXpHaktWdzdjYTlGNTctTEdHQUZlbjhvWnFVbzB0S2YzSDdISEhYcVA3Z0l5QjJLWmxjUmJ0NXZHeVhWTHBwaGRsblQ2VWdFdUdRcGpYSVlOWm8tdDZmcmNuZnh0LXdESjhRcmhkaWtSb3RGQ1dqUG9GQmdpNWVkRDI0b2JjalJaMzVXaVNSaHhQYnZ3UXBvT0Q4d1R1by0zLVVUTzIzTnJsQWNueXBUMmpyZDViVU1veGpvOA?oc=5",
-      "publishedAt": "2026-10-27T10:34:58.000Z",
-      "severity": "medium",
-      "titleZh": "摄影师在报道巴黎抗议活动时被警察用手榴弹击中后“差点丧命”",
-      "content": null
-    },
-    {
-      "title": "Après la manifestation historique le 24 octobre, tous.tes en grève le 5 novembre !",
-      "source": "94.snuipp.fr",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3ZyUF9ZT1Y1UE5kVmQ1dVBLYlBhR2VNLUdIYzFtVk9qQVR5bmRzaTg2NzJHbkZtVk1WT3JiLUd6OHZka1RJMm1GQ1ZEazdjZUJtV0M5QkQzVWVHSTlhQUtPcWlPNUwxNi03LXF2OVRsYzZXTTZBX29UaXFxSHozUlZLUHpubTFDSHlMZDFibXdZaWV1UjNwcUNzTGloaEVVbmlWLUJxUEhxaWtD?oc=5",
-      "publishedAt": "2026-10-27T10:16:19.000Z",
-      "severity": "medium",
-      "titleZh": "继10月24日历史性示威之后，11月5日大家罢工！",
-      "content": null
-    },
-    {
-      "title": "France’s youth are outnumbered. Their protests are testing who gets heard",
-      "source": "CTPost",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUoyczFHNm5udVM0ejA2OW5xXzFINXlBd1AwLUF5VlJ1c3JjMVludldPeEd3X1ZiTGdadVMyd0tVaDg4clBtWmVwMjZON2FrbUd6cDJhb050N2FlenNVTmszSndOMFlhREgxTEMtaTNHOHpuU1RKeE9ITmJpOTRWMzdEUGZ3SkRkZ2VRSk9WTm9UdHNMdE5HM254bFNzeHhlZmc?oc=5",
-      "publishedAt": "2026-10-27T10:10:19.000Z",
-      "severity": "medium",
-      "titleZh": "法国的年轻人数量处于劣势。他们的抗议正在考验谁的声音得到倾听",
-      "content": null
-    },
-    {
-      "title": "Watching Paris Burning From Hawaiʻi",
-      "source": "Honolulu Civil Beat",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYllOb3c5ODFUQ1dDb0FRWDlKOVlMUVJTd0tIY1d3WDktUEc3UlgzcU1ZZU9GY3J1REU1MjJzaVk5M3RkNVliU1NqR2FqR0piYkQtRlcweDVMZ21yd0EzbXJIU3BYS2xaY3h3bzUxaE95Ync0V0ZuZnY0Y1FOdXJBcw?oc=5",
-      "publishedAt": "2026-10-27T10:04:01.000Z",
-      "severity": "info",
-      "titleZh": "从夏威夷观看巴黎燃烧",
-      "content": null
-    },
-    {
-      "title": "Saint-Pierre-lès-Elbeuf lance trois semaines d’actions contre les violences conjugales",
-      "source": "Paris Normandie",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMXhBaHZ5ZndkVUs4WTRDRVAzSDkxSHRjclpuVUVzSlYtUVh5b29nT0dKV0VUZUVCeGpybTd0MGZoSWE5UEhLWGxMN3VYNkViS01DZ29ZY2Q5dGVzTVFsSmxFSlNDc0E4RkNlSUd6ZkhOVzM5NG1wZ0pBQ1B4NGotemRidm8zb0l4OXdtLXhYT1ZhbGxzbUM5MEZoQjZIc3ZMVWNwLTY4aVZJaEh2dzN6bzRKcUZicTJFbGplRHZHT2w5VjBsQ083bkxyUlhFZw?oc=5",
-      "publishedAt": "2026-10-27T10:02:49.000Z",
-      "severity": "high",
-      "titleZh": "圣皮埃尔莱埃尔伯夫启动为期三周的反家庭暴力行动",
-      "content": null
-    },
-    {
-      "title": "31 octobre à Paris : les Gilets jaunes déposent un parcours Bastille-Opéra-Concorde et menacent de porter plainte en cas de refus",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPNHpiSjROMUY0RVMzaHFnY1VpbUNMb21oMFRLVEEzcl8yNXBZVEtDNjNwcmVPSGp0TWZqX09GUHVTVFlaUlZOelFaZXBlRTlaS25lV2RLMHZCeEQ2c2I4dEw2d2UyM0w1VmlhSDI1OUFtU09MaktPRTlOM0dlVGNHcVdoR0Qta25obi1tMU9CMkI1bzFEZW5iWDR5UGdvMThyVnNhZ0poUDNWLUdwWHoyUWp0WXVYOFN0cDFUZ21qZnYxLWRUZmtzYW85dTBoN3hJcHZrNU1wR2kyYWlubkdVRHZrSkZJMjg1S3FtVDdhVVFkYXVDTjNRaUstbm14ZmlUWnQyQUxxQWNWQVlvempGcldHMnB6RWtiRW8yNTBsbE1MSENpc0xybWFKdGM?oc=5",
-      "publishedAt": "2026-10-27T09:50:28.000Z",
-      "severity": "info",
-      "titleZh": "10 月 31 日巴黎：“黄背心”提出巴士底狱-歌剧院-协和广场路线，并威胁如果拒绝将提出投诉",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 24 octobre à Reims : L’IGPN ouvre une enquête après la gra…",
-      "source": "20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFcyR05qTU41aGpXclZuU1RyeXNUc201ekNhcFJsMno4U0FGWkVaYnUzMThNUm9XbnZFUmp3RDNndHRIM1NyQXRhLVRoR09ILV9tS3ZXU2FVU044LUtka1dseU1UZ2hqak5vM0xGQjEtdjZKbFF1LTFsZ2ZlTFJsUXVsWi1EZHJJWGhoSER5V0Y1Wm1jcUN5QTBkWHpmNUtTSjBfMmNKck9naEp1TF8yMnRlajZnSG5WaFEyNjJVQlZvZFVua3QzOEVPSVpzbTZ0Z1BOVWFn?oc=5",
-      "publishedAt": "2026-10-27T09:28:00.000Z",
-      "severity": "medium",
-      "titleZh": "10 月 24 日在兰斯举行的示威活动：IGPN 在...后展开调查",
-      "content": null
-    },
-    {
-      "title": "News : Une date à Paris pour Saint Etienne",
-      "source": "Sound Of Violence",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeWlmamZCcGk0MWFyVU5yVFNfNmhmVE40LUtaUUhMR0tGaHliN0FBVFNXNm9fcmI1OFM5dzE3UkU0elBmZHB1Tk90czlHY3hrcGFfNWRlRmNYb29zbUF0QjhUZVdwd29adzgyVGlYMHdKdHd6M2RMbFRncmZET244LVp2dU04cEVrTEZRTm1EY185dw?oc=5",
-      "publishedAt": "2026-10-27T09:27:40.000Z",
-      "severity": "info",
-      "titleZh": "新闻：圣艾蒂安在巴黎的约会",
-      "content": null
-    },
-    {
-      "title": "AI image falsely shared as authentic depiction of Paris during protests",
-      "source": "AFP Fact Check",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xR2dwekVibnU1N1otOXBfQ1JFbHpSQjBsTGFvTHNFQm9hTDNsWGYweU1DaDctRE5GU3ZhZjVEWERvQzhudnJPcmFIbW10UXdhMDM5SWdnSXU?oc=5",
-      "publishedAt": "2026-10-27T09:25:08.000Z",
-      "severity": "medium",
-      "titleZh": "抗议期间人工智能图像被错误地分享为巴黎的真实描绘",
-      "content": null
-    },
-    {
-      "title": "Couvre-feu à Paris : les stations de métro et de RER fermées dès 22h ce 26 octobre 2026",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTUlwYzNZc2VuQVZKLUJ5X1dCNHc2UVp1ZzZrRmRNTThtMlo5aFppNFJNbmkySVdxdm5WS1liak5samVMQkpNU09kdkVFS3RoOWtyQlk0eVZaSG41MWdtNURCTFIzSS1JTTM0S3QzUFJFQU00M3BIQ016S3oxMXcwVUt5OV9sYkcteVJqdzJzSmFQOGRpZ3VLMFRkdldsSmtaZ05zbHVLYWZUVlRqWXpleGtlQ0tTV0pMaFh4U0d0RnI5Q1EtQ0hHdHEzSDNON1BmX21tVy0zbmFMVUdzakVJZlJscw?oc=5",
-      "publishedAt": "2026-10-27T09:13:35.000Z",
-      "severity": "info",
-      "titleZh": "巴黎宵禁：地铁和 RER 车站从晚上 10 点起关闭今年 2026 年 10 月 26 日",
-      "content": null
-    },
-    {
-      "title": "France’s Permanent State of Emergency",
-      "source": "The Nation",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zWS04dExnRmluc3hROUozZEdYN1JvbW1WWk53b2ZKR1N6WWpVYmJqYnR4WjdITk81V1ZZc3EwSy1Dc0ZaeTRvMHIxbDQyUzJRay11RHQ1RDRNSWM2T2FoOXZFTdIBmgFBVV95cUxQUHNtS2xDYlU5NzZyQkgwVUk3bWtwbHFodVJlTmRCOGE0OXBocXFKVWlYa0hhYTJYa1hPWkdHVndZVTdFc0t3VzhRWU9ud2Zzam12cmNoQ0xPcUMydTRmRWpzdk5mVkJoN0ZRMG1mWVBqUW1Dc1JSaDFVRkVkVngwTUpMaUVGUTZXNURaNHZTaGRTMk1sTno4MG1n?oc=5",
-      "publishedAt": "2026-10-27T09:08:38.000Z",
-      "severity": "info",
-      "titleZh": "法国永久进入紧急状态",
-      "content": null
-    },
-    {
-      "title": "Riot Police Charge Paris Crowd Protesting Death Of MMA Fighter Killed In Suspected Racist Shooting",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVmotM0xqMllLVWtmQk1PWE93WWlLMnNPbG9wRmJpUkMtYjBIVDZfQ2YzQlJudHdnOUMwdVAzQU5ob1d3SWxOTFFsNjVTRG1abTAwZjZOajBtWFdyeVFSekhQcDFQcE15aFI4dVFMNXpObkJ5aUh3Nlg3b1pKMENiYnEyOVJ1dGMtNWd0M3NubUlVRHpCd3RLZFJVUDY2UjQzY0ppT2dFN0U0ZWpVdUtXejd5NC1CZUNfejlKZWVuV1NRRnhLeHhDN1A4bVNrVmF1UTN0R0VxNDA1WDRDZGRxTEFTVFB0Tzd1cEg1RHNudThiOXJ1MndMVkJvdGlwUlFRM0YtTm4yZ3dJOTg?oc=5",
-      "publishedAt": "2026-10-27T09:05:00.000Z",
-      "severity": "medium",
-      "titleZh": "防暴警察指控巴黎人群抗议在涉嫌种族主义枪击事件中丧生的综合格斗选手",
-      "content": null
-    },
-    {
-      "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
-      "publishedAt": "2026-10-27T09:03:47.000Z",
-      "severity": "info",
-      "titleZh": "预计 2026 年在巴黎和法兰西岛举行的��幕活动和重大活动：今年的议程",
-      "content": null
-    },
-    {
-      "title": "\"Casserolades\" des Gilets jaunes à Paris le 30 octobre : à quoi faut-il s'attendre ?",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVS1oS2tSS0c4T1Jtemp1YzMwZFhfNzhuSUxPVEFFME1lUE13UFJaeDlnblE0eFQ1YTZGYWRISHR5OGc0TWdDYi1fejZOYWNrWjZnUGdaWEtjYXhpM1UzRmZPdXlxQmVTOFBDQ1RldWlfM08zeGF3eWtlSENTMkpEV0NHTXljXzZoS2FkQlRFQWRkVmRvRDBqTldadUtZXzVxNnZzS3FORHJHellLRkJUVFpESW82T0Y3R19Xa0hUT3lzTWdQWmpHSWxDMG9rMzItSDc0dVVEZmdyQQ?oc=5",
-      "publishedAt": "2026-10-27T08:50:47.000Z",
-      "severity": "info",
-      "titleZh": "10 月 30 日巴黎黄背心的“Casserolades”：您应该期待什么？",
-      "content": null
-    },
-    {
-      "title": "“Pot-and-pan protests” by the Yellow Vests in Paris on October 30: what should we expect?",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeDZEQ3lNV2RCcE1mSlZpZDhQQ3hfYWtqc0R6M0dTaUR3NGptSS05dFc1dlkyTjlaT294VUh1ekZGVEptY3U0ZnBFdlhZTWFSU3dJNzdOOHN4dnZkS1ZGLUxfa2wtYVJ1aGNFVHd5aFNQc2dLV1N0eXJ5MngwbngxSEh0ZFdCNTB1eVFMMnlqdmxDM2xfZEhGTkxkNVp4WWE4U0J0dEEwY19VTnpadUIxNEVwWGJMYXdRbUxHQW1CYTJoRFNKWVNmQXhVaHdaNUk2ZUg4QzZR?oc=5",
-      "publishedAt": "2026-10-27T08:50:47.000Z",
-      "severity": "medium",
-      "titleZh": "10 月 30 日巴黎黄背心的“全面抗议”：我们应该期待什么？",
-      "content": null
-    },
-    {
-      "title": "French consumer confidence hits a 2013 low in October amid protests",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUU5lTjItazhkMENWeGlZWkl5SEdxZzdjYlE2V3g1S0FnMHpXeGVnWFBWaXJBcWRtR1E4VXFGQk5Zd29iVkRXd2hLYU1reWJ2LXRpY3pMd3BLWUtyeGl1RV9jNEJyMnpiZThPV3NyUV9tVjRDSDBRNDM1ODJtRF9iR1NnNTItbGh2WldydnpUdXUtc3g4TUV1MktudXVrc0VwTS1TQW5uZXZSRmc?oc=5",
-      "publishedAt": "2026-10-27T08:36:46.000Z",
-      "severity": "medium",
-      "titleZh": "法国10月消费者信心因抗议活动跌至2013年低点",
-      "content": null
-    },
-    {
-      "title": "Le guide des courses à pied solidaires en 2026 à Paris et en Île-de-France",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWVp3ZnlDREM5ajFNMmFwNVZEX1NaV3lhcmZaVk15UnUwVlJIYkZibjlqTUY4RFU2cUthTjhEeFFtR0tqZW4xVl9HUDNmUFZ0WWh6Ym12UEhydjY5ZU54NGdWWmVkeDdRTVBnTWItc0ZOekdiR2duWGJHa1Ftem05NlFIRmFPLXlBS05VNjdMNEc1b1hpZ21zd0dlUFNmc05KSC16bUk5U3VlY3JuQ0tzUjJycXF0bW1VZm5yelR5bUctb2hVQWhKRVUzOA?oc=5",
-      "publishedAt": "2026-10-27T08:30:01.000Z",
-      "severity": "info",
-      "titleZh": "2026 年巴黎和法兰西岛团结跑比赛指南",
-      "content": null
-    },
-    {
-      "title": "Couvre-feu à Paris : va-t-il encore être reconduit ce mardi 27 octobre ?",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTkNPaWxqbWxpMjdSc3VJZ2NKWDg5Z2RYbkwwMm03TDIzT0daTmR2Z3c2bmpZd3d5WHQ3NHB1SDFVUHBnUS1SRXJwYjJEMkVtZ2dXOHdveW5pYkZJbFZMVm9pMmJQQzBOckRoTlpDQU5NbzhCLTJVa0J1OTJsUm0tOHl1c25MR0Y1ZGh3WUZiQl9fam5hcTZUVDlLWmxWaU1vb1dPcW9ncTZ4MjlLTTRINHE5bndPWHlMQUU5c2xtNkJ1T2hUREdBZGpCMnM?oc=5",
-      "publishedAt": "2026-10-27T08:15:00.000Z",
-      "severity": "info",
-      "titleZh": "巴黎宵禁：10月27日星期二会再次延长吗？",
-      "content": null
-    },
-    {
-      "title": "17 octobre : témoignage d’un ami Parisien...",
-      "source": "AgoraVox le média citoyen",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZzd5UEpCajYzc0RiN2NpeE1iZmF3a1VZYS1TemZ0UG1xNUdaU1Nwdi05Zkx3aW8yZG0zYkhCR0g0VzhCTzB5MzdTZW0wTEhJcG9JUkd1M1BrQUs3cTNQZDhxYTVwODlzeTkyeE1jdGw4OUFIU3hkcUJCOXQxN1EyOGdYclBXWGNnT0JR0gGLAUFVX3lxTE9teXVKNk14Zlo5QWJYQ3M5TVAySkFtNVBkMno0U3dhSFFTc3RtUXRJSWV5TzV5ZjNFWjJqRzhOY21KN19lcE5uN2hKWk1BTDF1dlpPR3BIcFdHalpUN0tfanY0eFFwNngwdnVTVlQxRThqMll2NmlILUtlWjNncUxmeWw0Vmlic3ZVOFE?oc=5",
-      "publishedAt": "2026-10-27T08:14:04.000Z",
-      "severity": "info",
-      "titleZh": "10 月 17 日：一位巴黎朋友的证词......",
-      "content": null
-    },
-    {
-      "title": "Rassemblement contre le racisme à Paris : Emmanuel Grégoire hué pendant son discours",
-      "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOelBsdFN4OXQwMnAydHJnUFdCVHJkYXY4VHlGLTVYU2ZUYzdkbzVIZGsyNV92OG0tMFNfTmdKWW40VnpNODNHZ3BWUXZoR2xiUEdJLU9ZMlNTc0R0U1A0TVNqaXVDeE80LXpUdkdteThNMlZyRWx3ZTZMMVlkU0MzWlMxeHBzdjdkakFFTnVmM25SdHR4bldtNTNUNUtMR0cxTHJGaG9ZczdWdlhnTE92YnFibHNkU1JBMFZ5MnFPUWllQ2FORXF3cUxla085WVZwNERXcg?oc=5",
-      "publishedAt": "2026-10-27T08:07:27.000Z",
-      "severity": "info",
-      "titleZh": "巴黎反对种族主义集会：伊曼纽尔·格雷瓜尔在演讲中遭到嘘声",
-      "content": null
-    },
-    {
-      "title": "Grande soirée débats, club de la presse indé et concert !",
-      "source": "Au Poste",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSm1fODgwVElsM1RHOGwwNEp4ckRXOGxwWG5mdHdxWWN6NXFBVF9JTFM4QS0xRXBzckM0N29TYjBnR3FkRTlzZmxSMXpLbjd2MXRZTXJwcUlsalcwVFE3dWZKQ1lNYlRfekpIQ0NoM1Jjb19WX1hSR3BSV0xZNWN4XzNXTWk3QWFqdUR1MVl5RXpsZ1B3eVlUam1zN3o5cW5QcGc?oc=5",
-      "publishedAt": "2026-10-27T08:06:10.000Z",
-      "severity": "info",
-      "titleZh": "辩论、独立新闻俱乐部和音乐会的美好夜晚！",
-      "content": null
-    },
-    {
-      "title": "Résister à la tentation de l'Ordre",
-      "source": "Les Echos",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUEFpYkdWLUpIZ2tyTm8zWjRpNFJsbE5nRzJQa2RqYWxoQzU0TnYzU3A3SnhJTjA4UVN4UlRCZmdCLW0yRG9qeEFLeGY3eVRCWVVUUHJidTkzNVdtaGNTekJ5bDRqV1RmdFhSUURJdVI4eXR0bi1VOW1TUWJ5VXNwYl9tMHpmRXotYWl1QmxlcEIwbnU3VUN5UzRn?oc=5",
-      "publishedAt": "2026-10-27T08:00:33.000Z",
-      "severity": "info",
-      "titleZh": "抵制教团的诱惑",
-      "content": null
-    },
-    {
-      "title": "Manifestant mort à Paris : prudence journalistique ou suivisme préfectoral ?",
-      "source": "Acrimed",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93dUVMb0Q2R0lHay1aTWpZSGo3R0xBakhUQmFRM2xVNWtCemRsQXJDTnZrR0Q3QjdJZWhKNmJiajdzQURiWk1WdVdLZWxKejlXNGp2cmhkNVEzNERiSlZXZjl1ZmFXeFp2UUVxMk1qcGtIT054YzNVQ1hGVk0?oc=5",
-      "publishedAt": "2026-10-27T07:51:24.000Z",
-      "severity": "info",
-      "titleZh": "巴黎抗议者死亡：新闻谨慎还是地方当局跟进？",
-      "content": null
-    },
-    {
-      "title": "Is it safe to travel to Paris right now? What travellers should know about the protests in France",
-      "source": "Condé Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRExyTVlMdTNjSENPSGpzdVpWQ3FtaTF4cURDV1VIdUNHcXFiS1pkY0FLNjh5TG9IMFBQNEh2Nndta3REam9jMmJKSXNvTnBjZ0xqbVFUN3Nfc2lLSDdjUFlRVWoySExlVzY2STNSbnk1SWZIRnRtQmpTMFltLWhlRVBhNTVySDk1UUxoX2x4ZjdLQ3BtQWxiLU9zMkdSTFVhYTdxSmJnMjIyN3NITGphanlQMFZTd0lUN1ZfREdDNnRqMVNKMjg0XzN2Q18?oc=5",
-      "publishedAt": "2026-10-27T07:49:11.000Z",
-      "severity": "medium",
-      "titleZh": "现在去 巴黎 旅行安全吗？关于法国的抗议活动，旅行者应该了解什么",
-      "content": null
-    },
-    {
-      "title": "Hommage aux victimes de l'attentat de Trappes à Paris : BFM TV et CNews ciblés aux cris de \"assassins\" pa...",
-      "source": "Jean-Marc Morandini",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPMEN5ZVFCS1lwZ0JkY3FCbGtaNzVQcEtiWGhkU0JtZC05d0lvcjNZV3lmUXpOa2tOZlk2ckRPX2hkX2gtaTZHMjYtV1UtSURIU1NTalV1anI3Ymlib19QalJlNWtTR3gtWl9fallaU0E2SkNIR1hJY0tHTUFodWJRcWF4eHNlZTJlVnRHc1VjNE9QNXBjVTFWM09KRzF5dzhKeV9oMWM4bllmWnBLR1VtTmpQX2tBWm5YRG5kYURZa3NRS05ZRjNkd05KUkw3WndiWHZLNmtWLUx4Q2pLbEVQY05sb1ZIZkliSDJ0eHZLelZpUGR2SGJiQWtNMmdaX0dBYmdUbXExRVhTZ2ZKcV93cXZQWUZQYkl6Q2twMDM5RmFtWVg5U0djT3UwS0ZiRmQ2WkNwWXVzTkt2M0szcmREel9FQTVRc1BEakVjT2VJaEVuVVBjb2fSAdsCQVVfeXFMTnUxTDhsRXhSMTlqbjZrNmtBMjFweEtKTGdKbFJfVEQybzVUN0pYMVVBVy02aWY3QWFqdk1OUG1GUk9mM0txUjlMMjltUXYwdTNSTUx1VEl5TjZ0QWZtSnY5WGgzVkgxU2VsZkdvOWpZZ09aTHBKV0l0LU80ekxZWk1lZ2N2WXptY2haX0w2d1dtc3BGam54SF9pcFdWWUplVDRicVhmbDhZUnFzQVpQYkM5bEU1YW9HeEhHakpZNWRyTzhwaVpXa2NPUHoycEpKSXBCZ2ctT01YVFd4cElrcWx3dnhSMjg0Z0RtT2NhQzBWX25jd1B5ZC1zTDQybEFFckhkU0J5T1ZiM2oweWZvMGQtZlBjZkdXZDYtdFBjYlBYb0JCVXFScjJ5SE1ndWUtVExYdGNxem5wNHdTVS04T2EzNm91QmIxVUJ5alp1Rmk2dTJaTmluM1JnMFU?oc=5",
-      "publishedAt": "2026-10-27T06:49:37.000Z",
-      "severity": "info",
-      "titleZh": "向巴黎特拉普袭击事件的受害者致敬：BFM TV 和 CNews 成为“刺客”呼声的目标",
-      "content": null
-    },
-    {
-      "title": "October 31 protest: what to expect in Paris? The details",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVDd5bV9QS1BYWWpSc3Utbzl2QVVLMWZCNjdnalNxSUhmQk5WRDlEVXJEbWZoelVYWnNkX1lRVW5JOTdCN3k3SzZNUFZJVllvZVpGVTNxejd2TFJsWGxETkZZSGNseE95LWg0ekdORFNTY0w2M1ZLajVaUFFFZzVMUkRLcmppdEVnY0dSaUhNYmlsTTdfeGlWLVlwU2NjT3NvdWxpVWRCSG5ZRHpndm0wTDN6WWJXUnplNnUyM0xnUQ?oc=5",
-      "publishedAt": "2026-10-27T06:46:37.000Z",
-      "severity": "medium",
-      "titleZh": "10 月 31 日抗议：巴黎会发生什么？详细内容",
-      "content": null
-    },
-    {
-      "title": "Après des heurts samedi, des comparutions immédiates",
-      "source": "www.lamarseillaise.fr",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOem1iLXprOWZ6U0phd2MzOXAyQnlBMkxfWUFscjhxYkNjeHBqVTBhRDhBTDJlMldNR2xmenRxRnRlSUFxcDRvTng4NjhfdlhKalowdUI1dWtkY1UyeUpucDdZWUd4QkdVMHNqWTRXVzNKRWtORkVJamtsOFQwTmpxMU5JT3JacDN5MDVZWDNlU0hkVUs3V0JpTlJHd1p5ZG5QUGc?oc=5",
-      "publishedAt": "2026-10-27T06:33:00.000Z",
-      "severity": "high",
-      "titleZh": "周六发生冲突后，立即出场",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 31 octobre, à quoi s’attendre à Paris ? Les infos",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXdabmo0SWNJa0FZTVhjRExkdG5zelE3NUNTTzc4SGdMNG9qZDdkajdsekpaNFlPNXR1THdJdDZSVTBZRmczVklnOVoxSUlrYWluUTJPVkhGcmVJdHRCb0hBLXJWNlJpaXN1enNsZXJ5TFRMb0t2T2pXby1BSWcteUpBcV9FUEF3QmhfWTJETmVsQWRpeGcyOTRwNm5uLWhOMlJZSXItYUJIUEpIX2s0TmRkcnNDSFB5MDFZclI1ZEk1bXl5VFE?oc=5",
-      "publishedAt": "2026-10-27T06:17:00.000Z",
-      "severity": "medium",
-      "titleZh": "10 月 31 日示威，巴黎会发生什么？信息",
-      "content": null
-    },
-    {
-      "title": "112 publications appelant à la violence supprimées après des signalements du gouvernement",
-      "source": "RMC",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLVdLYThkTlNDT0FxWXRhdkxtWFhJaTM4MnFzNS1mWkpQcDFuWkZyVkFtOU1UUDFZMDUwZjFXWTh2X2xZeDZ4T0JCWWE4YzBsTWRfVm9CVzhqTFV0UTNlbldhUkk3WUhPbExLVFZSWE9hcXM0OHg1X1JOWWVQVU0xQzNlZGppejFsQ1lMRUdnT3MyUUxHTHJ6cXZySmJhSVNYQzB2V244NVkwMHlzenN3TnhxZGU0c0tKX0gyV1FNVjFubzA1REhCT1FPZGd5Wm1WWXhROC11S1R4S2JCdWZkazRXWGpFTlc4WHBkaFBn?oc=5",
-      "publishedAt": "2026-10-27T06:14:00.000Z",
-      "severity": "high",
-      "titleZh": "政府报告后删除了 112 条呼吁暴力的帖子",
-      "content": null
-    },
-    {
-      "title": "\"Ils posent beaucoup de questions\": après les manifestations à Paris, comment aborder le sujet avec les enfants ?",
-      "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPci1qa3JvbzVSa1NxZ21xV25lMVBqbnBuaUs2ZnRpbVFTeW1JN09iN3IwYXBRN0w0S05YUlpHb0dmdXIxRVE3ci1vYVE3RHBndk9INjZkVExVQ1dWQXhYOUNVSUpjLTMzX2Zoa2tEMHgzdWVHZkFBcm00TEx6OXJ6NklMeFkycGozYWF5VFJFUU5BMWZPRmcwOTNlR3FRY2YwemlfY1Vqd0xPQ2JQSjhOWE9BSDdETHZIU2hsTTFIa1VjSmR2QjFmSDA3OTNpVV9WeklSaWt1T0ppNTZfd2Z0SVd6aXpxMmxScDVDVk9qOHIzNlhIbVE?oc=5",
-      "publishedAt": "2026-10-27T06:04:02.000Z",
-      "severity": "medium",
-      "titleZh": "“他们提出了很多问题”：巴黎示威之后，如何与孩子们探讨这个话题？",
-      "content": null
-    },
-    {
-      "title": "Paris : des centaines de manifestants rassemblés contre le racisme",
-      "source": "Orange Actualités",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVVpYTy1xbWFSVk1BX0tuNlBGTVFMRVVvdTRoaElXb3d6dFhGRThsYjJjUjNKenJDbmYyNml2TEt1TWstalBZbTRuaUFKS3FTU243a2tPQ08yaXdmWUR0REFVb0djQWJBeXN4R3d0NEg5QjJ5XzFNRGhoSF9KRGoxOVJFa2hpeUd1TGNORjI1YjN5YzZYNDA5UlktMndkajY2LXRBa0o5MWRjalJSSy1EcTNhLXZQQnJwNmJWMzY1aHRrUQ?oc=5",
-      "publishedAt": "2026-10-27T06:00:21.000Z",
-      "severity": "info",
-      "titleZh": "巴黎：数百名示威者聚集反对种族主义",
       "content": null
     }
   ]
