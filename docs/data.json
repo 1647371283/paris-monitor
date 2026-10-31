@@ -1,297 +1,163 @@
 {
   "success": true,
   "today": "2026-10-31",
-  "updatedAt": "2026-10-31T07:28:43.606Z",
+  "updatedAt": "2026-10-31T13:51:26.353Z",
   "events": [
-    {
-      "date": "2026-11-07",
-      "articles": [
-        {
-          "title": "Nouvel imbroglio sur la manif de ce samedi à Paris, voici le parcours validé par le Conseil d’État",
-          "source": "Le HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYTFGT1NOMXBJOVFfeEV2NE1NVi15ajZfTndxQk0yd2xNTnNST2hrUkNSN2FTUkNCV0xrb2Zva0VBbzVILWRtLVhQSEh6cWpkRUN1cUVUeElNeGR4TUJDdU4tUWZDX1BidDhfMzNXLXZRZVRXbTBuVklGVDMxaF9Yb05MMU5oTjNja0FScEl5WU1BajZuaW40TFhQN0VzU1U2d1pVdkYtNmluNFFwaHUtWmRRZE9JMTF4LTVoSTBiNFlVMUZZSGhzVjFkR0xoM2xRcFZRcFMtRGUzWVYwWEE2QzBlVGxQVFliRlgtMzR6WWpHYmp2bU5j?oc=5",
-          "publishedAt": "2026-10-31T06:39:58.000Z",
-          "severity": "info",
-          "titleZh": "本周六在巴黎举行的示威活动出现了新的纠纷，这是国务委员会批准的路线",
-          "content": null
-        },
-        {
-          "title": "Manifestation à Paris ce samedi : la justice interdit finalement le parcours Bastille-Nation, voici le nouveau trajet",
-          "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNb0p4dl9mNG95NDFVRlFkdnBGdGRTYTl1RjVLTkNxVzROTWpGSnkybGpteERkVnQ0UG9RNWdMVFJ4MHMzckh0UXVTdEE2ajEwaHEwNXlpUDYwR2FkNTFmLWtQbm02NzM5VVkzYU1pTnRqc3hZOWppbDlCMUVnaU8xLWJXS3JzWENnUTdMOUw2d1ZRdEFIQ2hEN1ZkcHBzTFdkRTRYY01nUkRTQTItRWlDNFpNekFPUWZxZG50eTFBVGE0RlM4YWR1YWdCMExBWkdRX2hXZjZCQ2h6cUxxM0EwT2xkNUdDTVRUWWpnMWJnNGtaYVBTc2FHeWZUWTFiVU0?oc=5",
-          "publishedAt": "2026-10-31T06:34:08.000Z",
-          "severity": "medium",
-          "titleZh": "本周六巴黎示威：正义最终禁止巴士底狱至民族路线，这是新路线",
-          "content": null
-        }
-      ],
-      "places": [
-        "巴士底 Bastille",
-        "民族广场 Nation"
-      ],
-      "districts": [
-        4,
-        11,
-        12
-      ],
-      "articleCount": 2,
-      "clashCount": 0,
-      "status": "recent"
-    },
     {
       "date": "2027-10-17",
       "articles": [
         {
-          "title": "Manifestation à Paris : commerces barricadés, sécurité renforcée… les autorités redoutent un nouveau 17 octobre",
-          "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVl9OWW1xYXBReENrVU1tRC1YYmlldC1JalgxSzBWTHJaR21jMW1WU3M1NThLOE9jdElRcXI1S2Q3blF1cjJPWkxBUjNkZmpBcURnOFlVMHVjcWN1VDVDdEViMVVUWmNINmdKNGN3SUh1dVhuMGhJU2dLemtrVFF4eTVoX3pGSWt5MU5nQ1NNSHlTb3BjVUFhRnh5Rzhwb1dmbFltMUJaVUpGa1JHSEs4Y1dKdjdpakxNWG5uV0xXOUZyUG5HcG9ZVExTOFdkUUpHd3pYUzFpWGstOVM0Q0d1Xy1CRUJKcXotVG94M3N4Nm9LdTV5eHc?oc=5",
-          "publishedAt": "2026-10-31T07:17:30.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎示威：封锁企业、加强安全……当局担心又一个10月17日",
+          "title": "«Le moment où la grenade explose et où je vois le sang partout est gravé dans ma mémoire» : rencontre avec Ahmed Benmezroua, 25 ans, grièvement blessé le 17 octobre",
+          "source": "Libération",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNSkx1UTJNdE9QdlFrUXVkMnFzczBVdzZ0aV9vWWd3UmtJaUx0WVlSMTRqdDhRM0YzX3R5d3k1U1pjeWRlSjRCMUR2YkN3U0RmeDI4RUhTRTFIcW12bE5TNnBLT3VhUHNqWXFtbVpEczFvQkxfMkU5VFRPbERHM2lBQmxPVnJ6NHBRMGN6UWNFT1RaS3N0U2xja3N3OEZHY0t0dDNMYzJHY05OS0pqakxJUnJWSFNwM2ozT3Z4cFAweW03ZlZiaDdvdHlldUxHTk04OEc2NGIxZEtHbGlVUWtDeHFRalpZS09MVS1Ic0xzQXl1R29MN1lzZEtudEluNVV2RkxmSmZGZnM0ZkZsRHMxU000T3lQdmFOUTNwZVZZYXp4XzZjTk43bUFwQ1ZsMEtiOFdrSVYtclhjbXRrN0VEMDRvTjRKSzhNVVNndVpYUDdvMWhQYVBwSGd4ZGlpZW1CNmc?oc=5",
+          "publishedAt": "2026-10-31T13:34:18.000Z",
+          "severity": "info",
+          "titleZh": "“手榴弹爆炸、到处都是血的那一刻铭刻在我的记忆中”：10 月 17 日与受重伤的 25 岁艾哈迈德·本梅兹鲁阿 (Ahmed Benmezroua) 会面",
+          "content": null
+        },
+        {
+          "title": "Tourisme à Paris : les annulations s'accumulent après les violences du 17 octobre, les professionnels s'inquiètent",
+          "source": "Linternaute.com",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWm42Unpja1BXSjBfdnZlZWkzYUhwOEdjMzQtOFZrYTJkYnZDaXlLQlRqZlJLNjFYMFpQeHRkazZacjR3aUtWei15NV84bFBZN0NsSk0tNWk1dzNDcmpLTm9sUTRNVnUySnRIOGEzVkwzYWZ1bGNKVFlTZWVoS1BTclBleWI1TFROaTdHbG0yY3FUT1VaZk5tNGVBSGJjMDNldG9tRTJpWmVWcm0zRnRXX09hbGpCT2lSQ2RtWExxYTljcVZadXZScWxqZTMxcjdCSlZVMWdOelBQeUszRDFINkdrbHBWMWd3?oc=5",
+          "publishedAt": "2026-10-31T11:58:19.000Z",
+          "severity": "high",
+          "titleZh": "巴黎旅游业：10月17日暴力事件后取消航班增多，专业人士感到担忧",
           "content": null
         }
       ],
       "places": [],
       "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
+      "articleCount": 2,
+      "clashCount": 1,
       "status": "recent"
     },
     {
       "date": "2027-10-31",
       "articles": [
         {
-          "title": "Manifestation du 31 octobre : le parcours Bastille – Nation finalement interdit à Paris, le Conseil d’État annule la décision du tribunal administratif",
-          "source": "L'Union",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZTlXdGxyZVM4Y1daT2JkNHZiekNyWFV3WG05OTFOYmVVMG4yNzhoM1JKeTdVRWNPb2pseTh5aFNFV2hHRkc0bVVOTm1QemdYZXNtX2V6NlJTTlJER05uMEwzcjJpNjc0ZEhrVGluNGc4ZUpTYUl1Y1NVVnMyYkhIZTV2Q0p4ZnZPcVltcEs2YjY3RV9IMjNrcFFseGFrZU5LRnc3czdDT2lsN21SZlVXYXBBZW9ER1NKYk1kTDhIa1NONTg?oc=5",
-          "publishedAt": "2026-10-31T07:13:19.000Z",
-          "severity": "medium",
-          "titleZh": "10月31日示威：巴士底狱-民族路线最终在巴黎被禁，国务委员会撤销行政法院的决定",
+          "title": "Mobilisation du 31 octobre à Paris : \"Je déplore le choix du tracé\", assure sur LCI le maire de Charenton-le-Pont",
+          "source": "TF1 Info",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNEVJS1pjZ0Izdk1JUjVuUVdFR2ttZ2dPR1V1bkUtV2VPeWMzTEthbXNfbFdMelVES2s1aUtFSU9zVlA5ZndCYmowYlo0Vld4bGhNZXltQVFzcDlYRFVPcHRfRFptLTVwdU1XWElqc2lRTWNWcGVXdmpRcnAtOWZzc09lQWtQY2VMRm1HbGJHaHZ4MC1CN2VEdV9ZQm1NU196ZVUwbFNqalBLMzhEbjJfeTE1WHF0TDJnc0ZrYnZWWWZPWkdndEJNSm9JSmMyQkZpLWRERi1JemlneVNNYTFRQzhoRm9WNmZ2ZG1HUUI0cUw4UQ?oc=5",
+          "publishedAt": "2026-10-31T13:45:51.000Z",
+          "severity": "info",
+          "titleZh": "10 月 31 日巴黎动员：夏朗东勒蓬市长 LCI 保证“我对路线的选择感到遗憾”",
           "content": null
         },
         {
-          "title": "RATP. Manifestation à Paris : 40 stations de métro fermées ce samedi 31 octobre, voici la liste et les horaires",
-          "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRDZ6MXJockRENHN3ODdQUy1udElfNDMxZmdyZU9mVm44UjZCVWxoNFJNR2lEZkM4M3NBTXBIVjNHQXFPNU1ZSmZ0VHhxblFSZWJnc0pNZW5RcWRxb2JFUnJhNW84amtYLTY1dzBsZXNnZjZoOWV5MHlBZzcwbW90c0hSMGo0QTVLQjh1ckNhallNa2JqSlltLU9ITFpEeU13MXE1cVpYTHBIUDZ4M3NiRXBNM1c4WmpBdTVRZnh2QW5hVEtYZG5HYXZwUXRsOUY0ZlVCU0pOR1AzR1R2bDljWWMwX0VXVVMxSk9XSXdFMEZVTFZub1BJ?oc=5",
-          "publishedAt": "2026-10-31T07:02:24.000Z",
+          "title": "Manifestations du 31 octobre : pas de défilé entre Bastille et Nation à Paris, tranche le Conseil d’État après un bref bras de fer judiciaire dans la nuit",
+          "source": "Centre Presse Aveyron",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPYzU4ZmdqZkc4dkVIQzZyUFZnRURvSDFaMEN3ZmxzM2pCT21MU1JtY0RiLTdpMFZ0cVBGUWtQU2xWaVpzQWk1Q0s3T3I0bjNJWHYtSlVXMEo5Q1ZFLTFzVzNxTGxKMXkyRFVtczZOYmJGemxEUkppSG1ielEwQWR6NHFxX3hlNlF6aVRYLTRHTmpfWmFRalQ0alFYWXY1c3pKbmR1cC10eHBYc1d3V3MxdzB2dTZLMjdxa0xabnpCNUVrQ1RQTlQzMGhBLUNOTWFCVUE5NFkxbjFVUEhlMHhVb1ZzWlhLYlVwYS1IV2tuLW9iRlNwOGZMam9rQjJrVUIzNUlLcjkwNEc1NnFHSUZ1NUdyMlplSkk3andubjkyQndhNDFMbUZXZVFvRnRoTWFKVFkw?oc=5",
+          "publishedAt": "2026-10-31T13:30:00.000Z",
           "severity": "medium",
-          "titleZh": "RATP。巴黎示威：10月31日本周六关闭40个地铁站，以下是列表和时间表",
+          "titleZh": "10 月 31 日的示威活动：在夜间短暂的法律对峙后，国务委员会决定巴士底狱和巴黎国家之间不再举行游行",
           "content": null
         },
         {
-          "title": "Manifestations du 31 octobre : le parcours Bastille-Nation déposé par la CGT finalement interdit à Paris",
+          "title": "Manifestation du 31 octobre à Paris : plus de 40 stations de métro fermées",
           "source": "Corse Matin",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSEZkU1VXR0x1dnlBNURXYjQzR0IzT1pSazU5Zi01ODBVS2pBNEZwQUVoaXZrNllEd1BZUWdqRm5ZZWFWVjFtQkg1eVEyUUVrNEVhTWU4N1lFa3RpOWZFMlB5cl9CTUJ0MEVGLVlsZTF3Z1dNaGRhZjdBV2tVcTFaV2h4a1FWbTBmVmh5dldKVFBuWUxhWWNpME9sVko3WU9PVjBNSy16c2tnSl80dGtlNGI2eWx4Y2ZjeVV4WWhjV3ZpWnRfdEQyX2UzQjBfcHFnQVBCRDh4dWd2eFZvczlXLXY1QzU2WmdkekUzVllKMUhlNlcyLUpJ?oc=5",
-          "publishedAt": "2026-10-31T06:44:27.000Z",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOVViUGNJM1IzUElhMjVScjlBeTJVZDNpZGhiWHV0dk9uWnRtc21QMVhzalFsMXBWVFZqYWdETDNwandiY2hvaUstb2g4OUV4c0lVdzB3RTNwVGxVX0FIc1ZvcjNUdDNvNGdMSFR6S2lVby1iR2JEeVFwMTR2d3ZURTJ5eG9RaHVBNWpCUFBIODMzUXlFVE1lUmZfWXVuUjR0bGJmWHNIc3VoMWJ5Tm04SlJ5UEFKemZqdTctazl5bVNMVlMyZ0t6X3VKendXV3NNTVE?oc=5",
+          "publishedAt": "2026-10-31T13:28:48.000Z",
           "severity": "medium",
-          "titleZh": "10月31日示威：CGT提交的巴士底狱至民族路线最终在巴黎被禁止",
+          "titleZh": "10月31日巴黎示威：40多个地铁站关闭",
           "content": null
         },
         {
-          "title": "Manifestation du 31 octobre : le Conseil d'État annule la décision du tribunal administratif de Paris, le parcours Bastille/Nation est interdit",
-          "source": "Le Figaro",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQdW9QVlN1Zm1GbHk3eTFPWG1wZEhSUUs2VnBQS09TYlM3R3czcWtMOENtWU1GTElpNDBwUTRBUFlZSUpHS0MyT3E4UTdCRk9QQTU0U0pZSzRnRFY2QVhWWktZMGVhczRQRVp0WWh4UG40Y0VMSHZkUGRBWU5qaXlqT1drTHVwNDhzTWpzTHhtQ0UyNWU4NENhRDIyTEN1OFJRcGVDRWk5ajFNdmpya3hickt1M1k5aXAxaFJqX3p6RjMxdnkyeXpRZGE3Y3NDcEtfaXZPZmY2VVFGWW1Xc2N1NWJTMGJ0N0FlM3oxakZaTjlHeFZnQ0FRbmFGYnEtLVVvWUY1OXRhSW5GdFc2YVNBWHVjY2hMaWZWWkE?oc=5",
-          "publishedAt": "2026-10-31T06:43:53.000Z",
+          "title": "Manifestation du 31 octobre : tracé confirmé, dispositif de sécurité… Suivez en direct la mobilisation",
+          "source": "Paris Normandie",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFd5anhxV1p6djVvQmlNbzJPbWF3QlNCV2NnQXBvVzJySVlUVUtZN2FRREVCN0ZZX2ZoN2xlNlZYZENoMHlNMWlwUG5ZUnJiMXdMRUMza3hnNXQ0Vm5IT29NdXFYZl9Sbk1ZX0VBYTRoTVBxOHJXZnl5VUxOUTloaFVkY2RjVE9JOTV4Z2kwWHlISnlXb0MybXR3bTNSbHd0WXJsbUVnWFJUZlJWalAybkVlY05tcmFsa1JrWDcxYVF2TE1ZdjNEZ0J2clNSLTA?oc=5",
+          "publishedAt": "2026-10-31T12:49:34.000Z",
           "severity": "medium",
-          "titleZh": "10月31日示威：国务委员会撤销巴黎行政法院判决，禁止巴士底/民族路线",
+          "titleZh": "10月31日示威：确认路线、安全系统……跟随动员直播",
           "content": null
         },
         {
-          "title": "Manifestation du 31 octobre à Paris : Bastille–Nation débloqué par la justice, quels secteurs concernés",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRmNEbE1ob2twVkRScmpnNjlqQzZRNGRDazVqMUNsSVBhU1pVRWJZb2pVQUFxX25TNUd0Z2YyRlNyazliVk45dUc0d201SnQ4Y0k4V3NIdUY2eHloTTRWNTRtNWJlMEZUdU1RX3YwVV9rS3JmTlRvbGwxcGJtbjZaTVE0WEtoc2NHS2ZWN2pLajhKQklMSDNsajg3VUVKanZZQVdrd21vSHNsSTJqeVB1Z0pGRGVUMnJudXBjVHJ2ckduTXM2QUUwZmtLMDJmaF9OaGRXUGEtQ3l6d1Npc0lWbEdNNWthQ3VkaUFTNTVISWh2bmhqbUtn?oc=5",
-          "publishedAt": "2026-10-31T06:43:35.000Z",
+          "title": "Manifestation du 31 octobre : près de 120 personnes défilent à Châteaubriant",
+          "source": "Ouest-France",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVUdXc0hTdTRVV21UTVh1WFRNQUJjcHM4cXZmdXhFRXpramdXLXY0X0JuUXZGRW9pWHZuRUlfN3dXd0NFNXR4WC1OcC1LN3RxS1FKaHRaMGJYUEVmUC1uaDNtQ096eFR5aEpOLXM1YUZXQ2x2cUVZSFNDTWxsSjB6VWx1elUwSnV1VTJKYlZXV09VRGVVSzJ0WjFZVmJEWE02WE1XX2pJcTRNMVUzUVNJN2JPbDB1LUZKVDVZOGNpSmtaQTBGTmRVbl90dHFTMGxOTUI4UTkyMU5JWF92eU5GWUlBZ2YyU2JzRUdHaVg5T3YyR3M?oc=5",
+          "publishedAt": "2026-10-31T12:27:32.000Z",
           "severity": "medium",
-          "titleZh": "10月31日巴黎示威：巴士底狱——民族被司法畅通，相关部门",
+          "titleZh": "10月31日示威：近120人在夏托布里昂游行",
           "content": null
         },
         {
-          "title": "Manifestation du 31 octobre à Paris: \"Le Conseil d'État valide la stratégie de désorganisation du ministère de l'Intérieur\", dénonce Adèle Tellez, co-secrétaire de la CGT Paris",
-          "source": "BFM",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQVUVGMjdfQ2JkUGJ2T1JKOTRxWVpXN0puRmhNT1BQS0U4WWVJVDVwLWI2VmlrTkN2RTd4bXQ0MEx5ZVE1LTZCU281Q01kUFBZR1RoOWhZU2xOZ3l1Sk5saUs3aWRLeWE0dmh3a0xOR2JlRFd0X0ZwUlRUUVAzRnZJeGdFZEVXemhFeWRaRjhaQjBqdW0yXy1uTi0zZzFMbzByZzFZSlVQakpIc3FIcnFPYVBjYXd6cVlRczBSNTlHV3BXRUZ3bEhRZGhrRVNrVFoxZlpnbV9UM0VFOW1TOE1HdHRkTHVIckN2Rk1YZWZGRlF4bm1ReW95Z0NuZEMtVEU4UUswblpNT3h6Nmxsd2RNRHk2MVhHU2E2WHR3ZzhfMy1oTmJMZUplcWpaVU1URzlzdk5RZHE0b0lneFZWbjlGX1Fvem1MQzd1R0pfdDR3R01ZRktRaEZ0WkQ1SXJacDdI?oc=5",
-          "publishedAt": "2026-10-31T06:40:18.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎 10 月 31 日的示威活动：“国务委员会批准了解散内政部的战略”，巴黎总工会联合秘书阿黛尔·泰莱兹 (Adèle Tellez) 谴责道",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 31 octobre : le Conseil d'État annule la décision du tribunal administratif, le cortège à Paris ira de Bagnolet à Charenton",
-          "source": "RTL",
-          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTm1LbmNXLXh5OGdKcW4tX1BrRmZBR3FueTluNlN4MnhDQmRmeW9JTjhHb3BGVE1NUmlpZ2V0aktVN3dZVW42N3k1bkIweWdhUHJUdm5GRjk0QWRjUTBxS0N1RWJ4YU5MdmhVZUJZUkdmQkxkZE5DRWxpYmJ4TlNvZFBBOTEwZVBjRktfX1VkTkxnQmtnWFpBWklIQjRJalJqNGJjME5WdFNTOFVCVFFyZTlrbXdoSmlBR3BWeGhXYTdjWkdNOEcyNDRFSnRuUnZvcG1DeFlCU2dCeWdsallEbE96ZlJoTUNLY3VRd2ZRdGdmdDhwekxQcDdfTGwwY21oWTB5VA?oc=5",
-          "publishedAt": "2026-10-31T06:36:00.000Z",
-          "severity": "medium",
-          "titleZh": "10月31日示威：国务委员会撤销行政法院的决定，巴黎游行将从巴涅奥莱前往夏朗通",
-          "content": null
-        },
-        {
-          "title": "Paris, samedi 31 octobre : manifestation, stations fermées et RER B perturbé",
-          "source": "MisterTravel",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTlMODF6dk5zUHpWTm15cnpCaUFRb1hxVVRfZUxNUXZNWV9lZDhqNnpyY0F5X2VPNXphSUFfcGpRVm9NT2RvcXZwZElzU3VwM2JhVEVzQzh5cEt4RVlxekJyQlFGa1FaQXVtQjdyTDZhMng3SlRoMC1vOGVpc0hDWWttYnNvMU1JS3FIc2pDeEFLZDFRTWhlNDdHMTMwTUdMbDBOV2FNRlVibktXV05v?oc=5",
-          "publishedAt": "2026-10-31T06:30:00.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎，10 月 31 日星期六：示威、车站关闭和 RER B 线中断",
-          "content": null
-        },
-        {
-          "title": "En direct - Mobilisation du 31 octobre : à Paris, le Conseil d'État valide le parcours du gouvernement entre les portes de Bagnolet et de Charenton",
-          "source": "Europe 1",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVmI2NXVTaFFOdU1GeEdZSzZxa1hmODR6MGhoY0sxejN1bDJ0RUt5Z1Vna3RqVXNXLXl5SmlHRU0xaWJKRXQ1NHl1OEJRNzVoZUxSZC0teXhwQXppWlk2NlFWbFRQYzJYa0tuSzFsaWdmRFNQeGw3N3NOaE11OEhoN0UwZTNqNDJLMFZhMXZVVFRWa1I2Y2JhUTJrSW5pUUU1RnN6bnF2bDRCTVFzelZHdTdJVjNpSi1BSG9Cb0tzRWxRUnNxVXVHbHctVXZsdGhJM0IyZWg2VGhXbHVRcVcyeEFVbTJOcjJONWRBcndVUGFmblNOUmF6YWVhanJ5ZWJEblBfSm5PY1lySjZW0gGSAkFVX3lxTE9peW5zMGVCTTEtZUVwdlNKRFJfdUgwa0xwX0JWUVlUTXdrREZ2OXRadTZTajVRdWV5alYxOVBrekhiQk5CTl9KZ25KSUhwQ3I3Smt3R3lDc0VYXzNnQ1dicjZWQzVpN3BycHNMU0FrblVlSDVzMWtzcGNXMjdlYWJLd1g4UnFNQkRhaWw0WHBxcUdxbHJkSjQxMHh5ZHVDc3VJWE9qaWpEQUN4MXp4S0dpd1FmZEpyMi0xc09tOEJoOEZ2WE5LWVhNNnA4Sm5Ib25wN3NrSmxWRGZiMmtvbFdNOElmWWpZenNuakNBODR1RGIzWGJxbjBSWXQ5clJOT0NfMlQ4X1ZncDNLdWF1c1FvUkE?oc=5",
-          "publishedAt": "2026-10-31T06:25:45.000Z",
-          "severity": "info",
-          "titleZh": "现场直播 - 10 月 31 日动员：在巴黎，国务委员会验证了政府在巴涅奥莱 (Bagnolet) 和夏朗通 (Charenton) 大门之间的路线",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 31 octobre : le parcours final, Bastille-Nation annulé par le Conseil d'État",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOFdEQno5UWVkRXF1SGRQcFB4cDhQRkRET1Y0a0UxWnNKNEZsWXpoZS1GRDFkNklYbjV5cW9jQUk1WkhEbnV0eFVsMWMwVjIzekRkaWtwTHFzazZyN19pMzlSc0E3TktheXdRY0VkM29Ta3RpUEY1djZ0ZE5wUExSUUo3NTFfclhyM2RBRF9hdGFaTDJKS2l0aF9Fc2t2bGtZVWtkZURMZFZlOHVHUi1PWFFZZ1Iwdjd6TFNpMFFyR1NiN3NXNlRlb3RvZWg3SGJDMm4xVFZUcXBvaEQzRkdCZEkxZFN5OWsxVUE?oc=5",
-          "publishedAt": "2026-10-31T06:25:20.000Z",
-          "severity": "medium",
-          "titleZh": "10 月 31 日示威：国务委员会取消最后一条巴士底狱-民族路线",
-          "content": null
-        },
-        {
-          "title": "Couvre-feu à Paris pour Halloween : les stations de métro fermées dès 9h et 20h le 31 octobre",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWDk5Y2tjQ2QyMXNoVndZUGZaazVodGJiZDdWNU9YOVBxSVJsdnVvZnBKZGRsb25BSmpkelpwbi1RZGpSZUZyelY4TnNtV2s1TENnNjlySHA0S0NZczBtb1FpMmE0eUlERkdJS0l3MG11MjhXNVp4ZjVUWlVSOGFWeTlBMmZneTl1ZGtKVXp2RGxoZXR5bnZPUVJrdGlCdFBaUU13bi16bElDVGRYTFpEcFNSQUJObktkS2xWNVB4ME9oVlZ2ck1QNWhxWER6TlBMYzRjbTFfRDNpVXZLZXF0QnliX0pwVTlfQ3Mw?oc=5",
-          "publishedAt": "2026-10-31T06:23:30.000Z",
-          "severity": "info",
-          "titleZh": "巴黎万圣节宵禁：地铁站上午 9 点和晚上 8 点关闭10月31日",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 31 octobre : le Conseil d’État tranche en faveur du gouvernement à Paris, 70 000 forces de l’ordre mobilisées sur le territoire",
-          "source": "Orange Actualités",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQcS1ZQUs3NmppNm1xak9pUHdWYnVKeGFsRFY4V1NVNTR1U0RjUnB3MTNiaTFpV3B1aTZxVnc1OFBGeFJfcXMtQ292eXdHUm5TSDJyeFpST0JTa09NYjlGT0NzaEc1UkppTTRieHAyc29qV2xUNnNxLTlkWjBFZVQ0bGdVbmFwXzlNQXlxVzdoZFg1bW5ndDMzS1N6YTVIdGs4dFd2YnZyV3dKcEpiam5xcXU0LUdOODhxVnF0WDd4d0hQd1ZlbjdCZWdldjlxb19ldTVfcXJpaDN6dEwzYVJMcUdNNTZTU0JKWm5lUTZXUzBaeTlrUHF3WVRScGhtYUxtUlNfUVdKZFJKYjZVSVhyZHBvZWh4MUFFZlNFU0w5UlVWZjRTb1FsakNwZ2piQnJFUDZMTldJdXo?oc=5",
-          "publishedAt": "2026-10-31T06:23:21.000Z",
-          "severity": "medium",
-          "titleZh": "10月31日示威：国务委员会决定支持巴黎政府，在该地区动员7万名警察",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 31 octobre à Paris : métro, parcours encore modifié, ce qu'il faut savoir",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZjZyZXJXNm4yLVZiLWpfcklDTlU3NGxpd0tDemtfQ0IxQTdXelZEOWdCMExjQk1TbXJEY29DeldTdDh4OTBGRV95MXozalE0azlvZlhuMFV3aVRwODlFMk5sRjJfRkZzYWZzd0ZrWTg3OUFyZXBIYVI0TWd0Z0FlVXgwUU5hMjNfc3NfOW4tUGZ5ZjIyY1JKbjl4eW1PNzA4ZVBXN0MtT0lCbWVqczVITlRNU3NySC1FVXc0RUxwcC0xanQ5bnBlTWd6Ql9kM01oTVUtUWkyWkJUQjhTM21jamlxbTM?oc=5",
-          "publishedAt": "2026-10-31T06:16:46.000Z",
-          "severity": "medium",
-          "titleZh": "10月31日巴黎示威：地铁、路线仍在修改，你需要知道什么",
-          "content": null
-        },
-        {
-          "title": "Manifestations du 31 octobre: les commerces barricadés sur le parcours du cortège à Paris",
-          "source": "BFM",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlIxWFQ0MlF0TDdxSXVCNk5MZnpNczVZT3VSSUZEcFdKRkRRZWdvTUtnc1NZVUhfdGpKWF9oTXVoMjZaYkFoTklZVEkzX1F6MzEzTnVYN1dfVGpqMVBLeUFhQ1MtOUdPSHFaSmdZdWpmZU9KMWVJR3JrWG1qQnNydjdZM0lhNU5GNTU1UE14ckJ2VTBOci1nQ19jVnQxbG9YX1hfVEh1SWNJX2JOLWJkSU5tT04xdjFOQ1pleUVnX1BHNW1sTTUzazVXYklCUkRSREo3TDVMNk5jVEZjZkFNLUZGWW5kcUVaRTlRQU04ZzhjQQ?oc=5",
-          "publishedAt": "2026-10-31T06:04:13.000Z",
-          "severity": "medium",
-          "titleZh": "10 月 31 日的示威活动：巴黎游行路线沿线的企业被设置路障",
-          "content": null
-        },
-        {
-          "title": "Gilets jaunes : la carte des manifestations du samedi 31 octobre partout en France",
-          "source": "La République des Pyrénées",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUXJmbmhPZXNpbmdsbHN2RmFFYjlQTWRNbUdWWWN3XzluQ3k2NUxHYW5PV2FaSjdYQThHcDVULUJ2enIzQUpBcXAtcloxc3MxZko4aGRSdS1tQ21Yc05aZmxYU3NWTEl3SjEyN084ZWUzWGxueFlnTXV5SmdGVXJKdlVqRFNjdHZmeVh2bVc3OER5WWxSUTJYUkJoZHdfemRTUlRJQmtpQ1pROUhZV1N2VTlzSDJRR3RhZXA4RjkwVWlwcU1SUktkV0l2WmxPQzJhYWVLLTNvZjNzT3hpSWZNRjdCYVd1Zl9lTjJkZXJHZ1VOVUJnTEtwWlBHcWNPVnotRWlLcHBsTkNjUQ?oc=5",
-          "publishedAt": "2026-10-31T06:01:48.000Z",
-          "severity": "medium",
-          "titleZh": "黄背心：10 月 31 日星期六法国各地示威活动地图",
-          "content": null
-        },
-        {
-          "title": "DIRECT. Mobilisation du 31 octobre : le Conseil d'Etat valide le parcours de la manifestation voulu par la Préfecture de police de Paris",
-          "source": "franceinfo",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQV0NYR1dxNXBiRENnSHZnLU5FaE5XVE9haUtKQk5xYklqRklpQ0lTaG9QcXhQRGd1ZEpBWUdaVjAxSXhBN3AyOFpsaVRZcnVBUWFLSl9VRHZmNjJRQnNHLUllM1VxVm00QkMyeFRibENwWW16UGtUWmd6dDh2YXFBeGJEVXR5ZUhiTnJBbXJYYVF0YUJULVdmeDNXYWg2aXNYbjB0R0pzTlpPRjR0VHNwOWczektuM3d4b0FRSm5NS1V3VmxGdElVdVI1NHV6NmpyTFdaOURyVngzdEdRVHlpQVNwWkNOSkdaRzFNNFVQSkNWR3NBWHBZN1k1QjZnMXRCbi1jSkJyZHB2c2F3S0FaWUEwSERxZzZkc083a09JR3kwTzBmTEdVOW13aXJaSERZb28wRUZNb0g?oc=5",
-          "publishedAt": "2026-10-31T05:55:35.000Z",
-          "severity": "medium",
-          "titleZh": "直接的。 10 月 31 日动员：国务委员会批准巴黎警察局希望的示威路线",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 31 octobre à Paris : parcours autorisés, métro, couvre-feux, ce qu'il faut savoir",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWTVqczNKdzhoMW5zTU5oa2RHT3duRFZ1SXVGTUJfS2NYbGVfUlZMV1F3dklwQ0pLRWVrdGxGT3BRZ2p3dV9UTlV2aGVERVJsd0lON1hmUEZkTzNLOXE0M2tvb2JuTEppVFVBeERsT2U0UUNKZDVoeTlQOGlmS0tielJjY3ZMMXpLdzdnc1VRMllPc000amY2WWdRQ2RfTGs3dV9XUzdEbGh2NFIxakNRbWZmSlQ1RDJzbTF4bUJIMlc4TmRYVWx3OVNOUFZJaWdranh1aUFtMV9tbWRFN0FfS3BWdnA2cFl6dmh2aktB?oc=5",
-          "publishedAt": "2026-10-31T05:55:10.000Z",
-          "severity": "medium",
-          "titleZh": "10月31日巴黎示威：授权路线、地铁、宵禁，你需要知道的",
-          "content": null
-        },
-        {
-          "title": "Mobilisation du 31 octobre : quel parcours pour la manifestation à Paris ?",
+          "title": "Mobilisation du 31 octobre : 300 à 600 militants d'ultragauche attendus à Paris",
           "source": "CNews",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlVRWEVrS1hEdnRvMk4xTWM0WHU4M0RLY2lDdW90aDZTaktmZzBsaVpsR002QlVoeTROdG1HakkyaEtTTTBBSWFqTG9xVkpZb3BJcnFaQzhvYlYzeU8wOXFMOTRaUTg3ZGMwMzVFdkRjUFNyQ2pCTWJnSjh4enNrbHpUUWhQQ1pqTXBXd0t4WkROYm5sLWo5cGZfQTlZeFhfQ2ZFOU54ZXZYUkRvWnB4eWstWDhKd9IBuwFBVV95cUxOelVCSDRzQjloX011eDBfaDFjd3JtVktrNjZxWUxESlRlcWVtelFiLTJyRkxseWMxTVk1UEYzT2ZKcXBPMVNKY2drWEtIVG1FN1NtaHRENnZqTlVDNjdaSnIweGkwdHdzZDhOUVVLNUVYSlB5OG1UVng0YVByUVYwZVE5VzZDeUNOWDhDSk10andHVnY0d3c3ZGlVU3l5SjBacGJRcWpLenpHZnVBbzdYNVJNVk84YTZWSkxv?oc=5",
-          "publishedAt": "2026-10-31T05:54:55.000Z",
-          "severity": "medium",
-          "titleZh": "10月31日动员：巴黎示威的路线是什么？",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdVh5cVZJOV8ybTdFaGhkWFJwYnc3enNRdlhNb2J3MWtHRXowZVBzbmJ6dUxGa0ZqT1ZBMmZZOUNybWhHdHBTTkEwMXRzanN6RzJ4TU1GSEpwdnBNcjJ2Tm4xUU5UZlB0NkZqRmFfMXhGRlk1RzRkMGUwZTdkcDJjdmhub1EtU3pjUHRqMlZjSW5IN1VtdlFscDFOQUdVMFpDa05abWxIT2RTUUlrZGVreUdjdmJLWlJLbVI40gHAAUFVX3lxTE1PeC1OVWw1djJ0ZDNTSHRFVTdoZFByRTVtckNYMW9pdmJuMEppU3FQMW5BVWY3ZmxyUnlDMnNzb0FkWWpKNmRMTGhOMXZBRGkwNUNXSEM2OXFaRnZjQ1hoLWJqQWpjYl9HOWVmTW85TEJFMkRFakNOVVgwbWRQRER3NXhpcXBUZjB1M0lkU1VWc1AzSUZCa1dtSVAtVUVPczFwOHhTbDI0QnhEYWQxaTNUZnZ1R1I3YkxHYzBiTmJoUA?oc=5",
+          "publishedAt": "2026-10-31T12:09:45.000Z",
+          "severity": "info",
+          "titleZh": "10 月 31 日动员：巴黎预计将有 300 至 600 名极左活动分子",
           "content": null
         },
         {
-          "title": "Manifestation du 31 octobre: le parcours à Paris allant de Bagnolet à Charenton finalement autorisé",
-          "source": "BFM",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRnhpODl6NzRlcmoxMEhDUjJYMWdKLTVkYk0zLVAtWHVuS3FENmR5MldfdnowTXdLZlMtSzRWOGRROHNyUTFFcjRrY0Y4UU8zV3BhVVFzenJpc2FKSXB6S21wdjFHSzhuazBXSjRIZnpIRDNkbzdNaUdiVXJISVpVREI2S2Y2OE5ic25MNXd2UW9ncDlJakN2WmFrbDdPRlFSOF8wMmVWazJrdEpPSjJzM2ZIeG9tQi1yTFdRSGh0Uks0M1JtMnBKQ0dULWV4SnJZLVQyTXJpRXFfTUNLSFFkbWFfX2VrZkJnSFhvQlZtY1pfb2tt?oc=5",
-          "publishedAt": "2026-10-31T05:37:59.000Z",
+          "title": "Manifestation du 31 octobre à Paris : parcours modifié par le Conseil d’État, quels secteurs concernés",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRGJJbTlpaFMzb1FsNlN0Mi1nVFRKeFBLODZMa2syMEE2NUdzUXVocDdoQzUxYmtOb0N5YXhGa0R2QS1HN0djTUw0cTJlam5aVXpaS1c1Y0xUOG90a1JRN1VYdlhNZHFrTWpSbW91cEtFTkprejJ3VE85ZEJFeml0SGxuTmNsaTlweVpNVVJlRzBMOHBhLWJfaGJsVTA5VExZcDI4cW8wbzF2UkJLTnpsWXJMQW9IV0FtYlNra0NLV25vRDJsVGNfTTBZcUY3TXM3Y2VkWnhjME1Cblh2SDZVOHAwRWNYVGdVNDZNUTRIcUhsYUt2RWc?oc=5",
+          "publishedAt": "2026-10-31T12:01:35.000Z",
           "severity": "medium",
-          "titleZh": "10月31日示威：巴黎巴涅奥莱至夏朗通航线终于获批",
+          "titleZh": "10月31日巴黎示威：国务委员会修改路线，相关部门",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 31 octobre à Paris: 300 à 600 militants d'ultra gauche attendus à Paris",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTEJ1RU9UUGlVMjhGWkMyMG9mSHl6YzZPX24zaUptZTRBQWtpbE5Ea0hDbkZ4c0xDVzJxaXZDYWQ3WUhNbTFVUDNYNTU4RzNjRlZuNE1XTDZPWDN3Tm85N0JDNzdCbE5YQ213U2Z0U1daQm9LZ0k4UWsxbkUyenhnbWduSm43eVZwR0xpd3dMUUI4Rmg0YzlweDh4N2pQemhROGJjTGoxTG5XclFKc1M0LU5PdGVMNDFFcGN1SG5qSDNGNFVWQ3JQaXBLZURBQkRqbDJUNGtLaWh3NGZvVV9qZl8zMXpfQQ?oc=5",
+          "publishedAt": "2026-10-31T11:48:28.000Z",
+          "severity": "medium",
+          "titleZh": "10月31日巴黎示威：巴黎预计有300至600名极左活动分子",
+          "content": null
+        },
+        {
+          "title": "Mobilisation du 31 octobre : le port de masques d'Halloween pendant les manifestations entrainera des sanctions",
+          "source": "CNews",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1dGUk5LMzBqSVpIbVNwOEVic1paMDRMZXl5akVoYWYzMnkxMGZET2pMSU5YREx3S3FUa29iNkZwMlFwN180V2dVTm11UTNhTF9SMlFkUjFUMDFJdGNmaEtVOXFmZHFNb0hYdVdaVF9tcTRZYTNpWmMyZHRNeGZhZVNmVkcwajNZQ1ZwV1p0dXpmQUtDOE9rbVRHSFhxR1FISDlGS0FoOUxra1XSAbABQVVfeXFMUDhtb0FReWpiRHFhSDN2d19YMjctSW5WY1pZU2J4NXhqSmQ2MHBhenZscjlSdW5ZaFFkT0x4Wno5XzNxeVAzRllZZXVyUjFmV0xuc3llczFldm1tcjJ4UmlVYjVKWXpEVUxlblVjb1had1RDdlRPTm9nOVl4YkpWRlNOOGtfLWZTVFAtUXlBMEtnR2lDaXUyUzJjVzJvN29UN2p1dzMxY0txRFd4SlhEM1M?oc=5",
+          "publishedAt": "2026-10-31T11:41:22.000Z",
+          "severity": "medium",
+          "titleZh": "10月31日动员：示威期间戴万圣节口罩将遭制裁",
           "content": null
         },
         {
           "title": "Manifestations du samedi 31 octobre 2026 : la carte des gilets jaunes, parcours, interdictions et horaires",
           "source": "Les Voitures",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdHVNbXE1bFdYcWliNWJkSE0yR0RKYmJNRXQ1cDVWZmNvT1JLUlpDUVp5U2xIV3hiWlpHRjN1cXRScEdjMzZrV3dlVzFjX0ZUZnJNMjYtN0NRaVZK?oc=5",
-          "publishedAt": "2026-10-31T05:36:49.000Z",
+          "publishedAt": "2026-10-31T11:38:45.000Z",
           "severity": "medium",
           "titleZh": "2026 年 10 月 31 日星期六的示威活动：黄背心地图、路线、禁令和时间表",
           "content": null
         },
         {
-          "title": "Couvre-feu à Paris : de nouveau reconduit ce week-end d'Halloween des 31 octobre et 1er novembre",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQU01WEQwZmR1Ymd1R3o5WTNMUk5TLTdnTUlTcGZEeUhzV1FtZUlhdzdnblBXWF9DcjJybmFKak8tVHBoNVFUeFZpcUVDLXJQSjd0bUp0Q25PQTBGY21QMG9pbFN6V2hfcjQycTNXaEVsTE81bkx3MERabVlGdmxPWUhmbHlLbTdENFlqbnZQamtOb0lzZlNUTFkwUWpicGVnUUZIUHp2NHJoN3E3bkR2MVYzZ2RHZFdkTkk2Z0xyN0hYOG5HMjNCR2d0WEZDNC1admNHTzUxS29LME9qUjQ5dE4xQkVZSzdHM3E4MjdWSQ?oc=5",
-          "publishedAt": "2026-10-31T05:06:55.000Z",
-          "severity": "info",
-          "titleZh": "巴黎宵禁：10月31日和11月1日万圣节周末再次延长",
+          "title": "INFO BFMTV. Envahissement du périphérique, lieux de pouvoir ciblés... La note de la police sur ce que redoutent les autorités lors de la manifestation ce samedi 31 octobre à Paris",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPRDBrM0lGRGZkNWlpd0ZaM1h5NDBZYnNuRUN3cWUtT1Z0SEhoNU45MXpZS0tBWnh3V0YwUzFTbmpjdEdoemJ3UlNzX2pzcWFsMDQwUHppeEVzdW5CMzI5VkxybGhfdVV5SnVfVEV4TWktMEdrSTNXaTdvdHJUMnFkektmZ2pCYS1nZzZ1OHdMR0NKa2hwRFVLQzZybTR3bDc0TlZPb0NWWlpnY0ZuNjJZTWFpM3BadXQxVzhkNjZtUHRwSG1LeEFIZXdHUmtBV3A3azBzMkV2aXpMaF9JS2U2NU1GWnUzZXFKckNYWmkybUZnNkpNcFd0N1VoVHdKaUxOTjVKYmVYVC1DMi1aUkNLUWQwTGY5N3NrTHBNZjg0bHR3LVpQemhZUHBwWGM1OHBFN1JxSkducTNNSFRmaVBUSWNHNFRBUEFrd0RMRUFqS1ppUQ?oc=5",
+          "publishedAt": "2026-10-31T11:30:32.000Z",
+          "severity": "medium",
+          "titleZh": "信息 BFMTV。入侵环路、针对权力场所……警方记录了 10 月 31 日星期六在巴黎举行的示威活动中当局担心的事情",
           "content": null
         },
         {
-          "title": "Gilets jaunes : voici la carte des manifestations du 31 octobre prévues partout en France",
-          "source": "CNews",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRGFNa0NmanA1S1VPT2lLVGJZem1OcGZQNUVtZV96dWpsdGs0bThDWHpMdGd2WGV4Q2tOY0RCNXh2UTNPLTNPdldzeThOT2gtN0ZRREpuTU9ieV9sNG9ENHdYc0pqV3hlOEdBQzNXM0F5bnpoeWU4ZkdtQ0RQWmh0S1JOajdLR3JfNFRfZW5RZWg4UUg5THVoTTFRZk5yZWIweDRqeUhvbDhlQkN1aTJZQXBhSUJKckoxR3dR0gHAAUFVX3lxTE1jX0g1ZzVwTU80MnQ0QmQxYXRNejlFZG9yNVQxVjBUNEVsSE5EWVJPU2hWdGFscHhOOVpoYTFKTV9ORVFfdnZLV2hYV2ZqaHNVb0d0SzNYZlFXTnpBc3g3N3FYamljMTJqbVFRQ2VsRWlTV2haWFlrQ2lTT3V1d0RkSzZ3MlFMUGUxRy1FVk5GalVtQ01JNDh2TzM3SFZuVjVERVlVaU5LalZUb3pTMUVsSWl3cngzdHpRUTFMdURxbQ?oc=5",
-          "publishedAt": "2026-10-31T05:05:00.000Z",
+          "title": "Manifestations du 31 octobre à Paris : quel est le parcours autorisé pour le cortège dans la capitale ?",
+          "source": "Le Monde.fr",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPXzB5Z1pGNTlvd1lkT05RSDdaR09SUnM3YnlfdW1kb3VpN0M0cmMtTnJSY1pEcHh1XzVGQU9kSVZjQ3BXS3B4RDRtZzVsUFVpYjh6Q1NVa0FpelhtcUlVcDRVeUZ0enhnNHpyM3RYa1l3dXFZdklmd0lhV2RTZDd6U1FZVWpBcEw2TW5Lbm5LRGVFTW9HV0dYajFzVVZEOVp4d0VKREhSOGZtZm11aHpjbTh6YmRmcERFZ09SMUxySHNBQkMyYWYyT1B5aDRNZXdXV1ZmTVNfQlZBdVNIN2hJV19hajcxVjV0VFpZZm14WnFqMzhJLTdFQzdQUUp2bHox?oc=5",
+          "publishedAt": "2026-10-31T11:16:06.000Z",
           "severity": "medium",
-          "titleZh": "黄背心：这是 10 月 31 日计划在法国各地举行示威活动的地图",
-          "content": null
-        },
-        {
-          "title": "\"Ça peut tourner au vinaigre\", craint le maire de Charenton avant la manifestation parisienne du 31 octobre",
-          "source": "Marianne",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbmJZQlM4TGt5Q1gzaU13S0xpTTh6RFFXQkFXRnVuSzJZNEZCUU9wQTBaRk5QOTV3bjY3N3BoSDlnTHZ5NDlZekI1NDNNVDBPN0FrMDRlRG14aUoxQTVVZkZXaFVKenJQVVpQVHdmU0RONG9MV0kzSXF5b3BLUjVjUk9nY1VWdDBJN1lKTWpjSW4wdTZiVVJfT2x1TC12YVhOc1Q2aFhBNDJHaDVfc1hBUGZ0MkJiaHBXOWswRXFNTmdxSXdNTzlTWGU3bHp0NE1vT1RV?oc=5",
-          "publishedAt": "2026-10-31T05:00:05.000Z",
-          "severity": "medium",
-          "titleZh": "10 月 31 日巴黎示威前，沙朗顿市长担心“事情可能会变糟”",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 31 octobre à Paris : plus de 40 stations de métro et RER fermées",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQaTg4WFl3dlY5MXZqYUw2aktMRUw5SlRUaE9pYURqWUsxeFRoRmxYMjNVSTg5b2FDS0hXdk1fNU1QR0FNZ0FEamVOaHF3ekY4VFZ2dFprWG03blpMeDNEY2VPUEk5V05EZWdERGxsa1FuREU2VDd6TU9GVVRmUDdRRUg0cm5sNGZxWGpxX0NwVDAzVHJLd2dGQUZhd2ZwRXJ4YllzZXBEUmRvaEt4d3R3VmJIbFhCQ1RhZFlKNnByNldaYjdaRE4xbk1ocGhscmlIMXYxay1WUXdxTWtQTDFhOXgtTG5md0NvS0FOSlpqaVYzQWRrR29OZHBwSzhrVmFFNTlKRlBkZTZtMlEyX2tHUUUzRldzM28?oc=5",
-          "publishedAt": "2026-10-31T05:00:00.000Z",
-          "severity": "medium",
-          "titleZh": "10月31日巴黎示威：40多个地铁和RER车站关闭",
+          "titleZh": "10月31日巴黎示威：首都游行的授权路线是什么？",
           "content": null
         },
         {
           "title": "Manifestations du 31 octobre",
           "source": "Ville de Paris",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlBFcTlXdXNkalllbTl6bnM4bl9jZ0VOLUVTN3JWY0c2U084eGdoTllQbkVaVEJBalFhUW00eVRmQ0hrVV9rR2NFNmVMc05aTDNGZ0RIekNucklHb3pxWW5tWHpvWk9BNGgzUmtoRzdaV1ZfdnM0UXlqLTZmbmdlZ3AycG5LQlZWemZIWVhlNmNMRGtJZjhsdG1iZXpodFZKa2hRTmNiWFNWOXlKWmN5a3oxY0h4M05kZ2VReXhHNEI2WVJiMzg0?oc=5",
-          "publishedAt": "2026-10-31T04:40:59.000Z",
+          "publishedAt": "2026-10-31T10:43:59.000Z",
           "severity": "medium",
           "titleZh": "10月31日示威",
           "content": null
         },
         {
-          "title": "Que faire ce samedi 31 octobre 2026 à Paris ? Les sorties à ne pas manquer",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeENCQmNfcVdPS25sc0VsWWp3QjFqVFpnbVI5YWFvRW1JeWg1TklfRExSU3JoS1loWkJ0RC13cTRKWG5JUGRadG5INm5YZmVkSG1XN241Zl91aW12U3pLYUdYbzh5NVRrSkJnWDJVZklCa1E2WjNoVGFzb05fLVpjaDVDbkIwRTJ0c0xZSDlkSUtvX2lrQVVTYVdLV2gwOERfd2hVVDIwWGFadklmNEZHUDJCOVA5ZnBXS2JnREtpdHpTSFdYRUxrNGhZSzhZWlE?oc=5",
-          "publishedAt": "2026-10-31T04:00:00.000Z",
-          "severity": "info",
-          "titleZh": "2026 年 10 月 31 日星期六在巴黎可以做什么？外出游玩不可错过",
+          "title": "Manifestation du 31 octobre à Paris : la CGT appelle au respect du parcours autorisé pour des « cortèges sécurisés »",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNYmtfamJKYWcxN3QwOVFWNU9vZnhXNHg2d0U3VnBrOUs2X2k2R1djYmg0TU1DNElBeXkxS0NmTWxONTRiZy15NXkzNjdzdWdnX3FQLVNTOUhpMEdSRWhFZlYzRklySFJ5LXJXNGg5UThLc1NUMUN6NTdGbDlDVGpnYlZhd2dEb0xRcnRPY0t2dFpPbldud3o4X2ZmQU12UE1JNEMtdHdpNkhQRHZuSF9oeDNWX3dVNTBzc2xLUjdpajV5eWdTb2lrTWhULTd1YUh1Rl94eS1ZVDZ3eC1EQlNGWGJERlZkZUpXeXNucGE1V1Z1QnVqNUlLbkp6WENpX0ZYMjBWSjBSVQ?oc=5",
+          "publishedAt": "2026-10-31T10:33:26.000Z",
+          "severity": "medium",
+          "titleZh": "10月31日巴黎示威：总工会呼吁尊重“安全游行”的授权路线",
           "content": null
         }
       ],
@@ -300,12 +166,11 @@
         "民族广场 Nation"
       ],
       "districts": [
-        1,
         4,
         11,
         12
       ],
-      "articleCount": 26,
+      "articleCount": 14,
       "clashCount": 0,
       "status": "recent"
     },
@@ -313,478 +178,588 @@
       "date": "unknown",
       "articles": [
         {
-          "title": "October 31 protest: final route, Bastille–Nation march canceled by the Council of State",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVmY2OERvc3FOcVRmT0NmUW9SVjFjSF9TeDBDb0Fud0ZQQm9hU2lxamFYdVVxNGdEcEFwWTI1amN2QjN6YmxyT1pVMVZXTGRaRlB2X21LZEE2X3JjNFdxUVJjMzV1eHRHc2VHZ3pyMHZWY0VjeWxuRmFGSWgyb1Z6S2lMSkZGaUZwbElsMU91SkVKNFFpRzg4NVp6RmRza01oZkhTRl92Mm5RaVBWRG45dWVwcDk0U3YyaWtRWS1WOVNJOXppSldJX29pdHUwTVlI?oc=5",
-          "publishedAt": "2026-10-31T06:48:42.000Z",
+          "title": "« Ça tirait de partout » : de pompier de Paris à street medic, il risque sa vie en manifestation pour sauver celle des autres",
+          "source": "Le Dauphiné Libéré",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOV1BybGVIejZybVdzUG5yazlFUjBJQnp4SmZyclBDNDRFUnFoNVU5dnpLS0NXWFFuWExORHJoOEZoRXdQT1FEeWlXYlhsUm43d0ZSc2hoUlEyTTBqc1ZXWk9jNXF5VFFjekFiRk9Tb0VCVmJpSHI5U0RvRjdnR2M4VUJ2VkVJR045Rm00elV3a0RqMFJPRERlWWFjS0ZXeTcyUFZ3MmFYWUxrbFlCbnlyWEdsdUQyWjJIWGJLWDZhY3k0WkNLUzBLZGFzbFVpY21yeUNhVm1YXzFhSGNRZVoyMTBndmROV2pBc0EyYmVCWi1iYTBudWVsNkhqZ1c4MWJYMlNjMm5ZX3I?oc=5",
+          "publishedAt": "2026-10-31T13:44:53.000Z",
           "severity": "medium",
-          "titleZh": "10 月 31 日抗议：国务委员会取消巴士底狱民族游行的最后路线",
+          "titleZh": "“到处都是枪声”：从巴黎消防员到街头医生，他冒着生命危险参加示威活动以拯救他人",
           "content": null
         },
         {
-          "title": "TIMELINE – How France’s student protests grew into nationwide unrest",
-          "source": "Anadolu Ajansı",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDQyQWEwUURxUW9lRVFYcDFpSHEwWFdNb0VGcHcwTlIyUnhoRzJERE9NNHllQUpfT19GSThZdXRHRUlHTHBLQ2czWFZZWkVSbUtuZ3Y2WmcyRlFtcTRZMDNpYlhiVldIZXlvS1AzQ2ZJZzVjQ0ZKRS1uRFYxSDhqQ25lcEhmU3JWb2N3cFdXMHVVejAyVzFSQnFGUHd5UlNsYmhSVnIzclRndw?oc=5",
-          "publishedAt": "2026-10-31T06:44:52.000Z",
-          "severity": "medium",
-          "titleZh": "时间表——法国学生抗议如何演变成全国性骚乱",
-          "content": null
-        },
-        {
-          "title": "October 31 demonstration in Paris: Metro, route changed again—what you need to know",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOGhaSHFKZkgwTEkzTFFwX1FYZEd1UDhtUEpuZGc2RHJocTJUUXJyWUZlbWU4RlZBSHZ2VG5Pd3NUV19zc3hsbWlRN0RaRFd0UzR6dEhiMmpDcjBHVTlOQ290VXMwNmlGbjl6eEVibHdwOGJ1T1JKWUpNVmFYdW5NN0xDZTJyZ1c0MHo2Y2JLcFU1TkpZdDMxR0ZMMmlMcmpZQTJqMDc2c2h6TVVaSnV1SmUyS2dNZkN1YkVCc2RTR3lmTFVKYkJqZ1k1UWt5ZHotU2xIR0JtNm51elU?oc=5",
-          "publishedAt": "2026-10-31T06:41:41.000Z",
-          "severity": "medium",
-          "titleZh": "10月31日巴黎示威：地铁路线再次改变——你需要知道的事",
-          "content": null
-        },
-        {
-          "title": "Ces étudiants français qui sèment le chaos indignent une Genevoise fière de sa patrie d'adoption",
-          "source": "Tribune de Genève",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZjRYTjA3eE5TZEppd2REaHRNZkMwbUx2NXJfMUpUWHVXVDhuRmZJamotXzFPaWRpTDFvN0Q1XzhoTkJVS0U5bXN3S1N5Zk5TUy1Gd0Y4RXZkY3V0Rm5sdV84N3Rjb3BuRE82aVhsNHN2N19pZ1FyZjg2MzcwelNKbUNWVDlrWlVsUVcxY0EzRTBQNGd2?oc=5",
-          "publishedAt": "2026-10-31T06:15:00.000Z",
+          "title": "Paris : une fillette de 6 ans assiste à l'agression au couteau de sa mère",
+          "source": "Linfo.re",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWx0d2VqT0dKWjIwYXdzV1ZqV252SDQ3YUh1SkxDVDBGX3M5RUg0bi1IT1hxNFRoczNNT0I1SlBtYk9FcHh5V25GM1pVYWxmV0JYc2VDMDdCYkYxTXRXSmRRdXFPQWJjWHFGZmxTVHF2MWNUVEtDby1PZURDNGFVcllmSWVRSkNBUnd5bll5V2JCVVU1TTBfUnN6Wnpxamd6ZmxLMVhGNGhTVHNuWVZMMGF3?oc=5",
+          "publishedAt": "2026-10-31T13:29:00.000Z",
           "severity": "info",
-          "titleZh": "这些制造混乱的法国学生激怒了为自己的祖国感到自豪的日内瓦人",
+          "titleZh": "巴黎：一名6岁女孩目睹母亲被刺伤",
           "content": null
         },
         {
-          "title": "France heads into third weekend of protests as youth-led rallies sweep Europe",
-          "source": "WKMG",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM29CeUhjRGNZLThVUS0xREZia1VCTEJXbXhrVmx3OGJBR0VUcGtLV09UWjgxVDdvX1pwWktMUnRlSkQwWnUxY3FMaHUxRndHWHd6UkllZjNKS3U2eGJfazlpNWpzcGxQNzE3RGgwWUV1MWNTcHFvY081THp5ckxJejROem1Qck1XTG9HUnUxb3ZSUXdrVWh6bEtTbkczSEo0M1pUajRpRW0zUlQzU1phakxlOGU3b3B5YklHV2R0NmZDZGVNT3R4MQ?oc=5",
-          "publishedAt": "2026-10-31T06:08:07.000Z",
+          "title": "La France se prépare à une manifestation \"à risque très élevé\", le gouvernement promet la fermeté",
+          "source": "Boursier.com",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYmtfbkxlMWpaOGFidXVLLW45d0NEc1JVcHFkUGR2eVhhaTlHNzFuQm54cHdqOTl6YW5aUlI3cTlrV05GdnlnOWk2RTMzS2FvMTZqcWhtZ0x0WXVZd25mczdNWEVRRUZkTHh5LWg5bHRhejRpSm9adFdSZHZNVzRGLWNXUi1VQnpVTkN3amVDRGhEQnpLUmVXRE5vQ0sxa0lJSWNvMkl4MjVlNXdkbUc3UkdLdy1scDFtVkNuVG1hYV80S0MtcTJma0hxZXdXYVI3eGpRQ3ZXb1ZNdlFxcnhuWnEwVnM?oc=5",
+          "publishedAt": "2026-10-31T13:24:05.000Z",
           "severity": "medium",
-          "titleZh": "青年领导的集会席卷欧洲，法国抗议活动进入第三个周末",
+          "titleZh": "法国准备“极高风险”示威 政府承诺坚定",
           "content": null
         },
         {
-          "title": "« Les manifs, c’est compliqué » : avec la Fonctionnelle, « service d’élite » de la propreté qui remet Paris sur pied",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONEpSRlN2RGRCOHNFZVlzNkxoQUhqeksta2pTYnMzMVNUcGtLV3ExOWQ1S1ZVOGdNSkRKOW1KVEExM0xSRTdiXzVYT09JTlRkdE1WaHZ6YXNYcFdrekp4WGVuVndDUlJhZE40ZUVScXlBNEJWWTFIZWszcENCeGRlc0RjR0s3SmZLWllBWUM3MzRhcXVaZVphQXA4dzhuT2tOcVMwRmRkQ2luOXpyeWgzNVd4MHprYnFudkR4Ynk2TUJPNGNRdkpORGhBSDJob1N5dG9sQm5CcmpLdWdENzV5LTJQTDZ6QjZmeG5uNDJNZ0tlTWZta2RNdHlxVVQ3blcwN3FMUm41cExfbnc?oc=5",
-          "publishedAt": "2026-10-31T05:50:00.000Z",
-          "severity": "info",
-          "titleZh": "“示范很复杂”：Functionelle 的清洁“精英服务”让巴黎重新站起来",
-          "content": null
-        },
-        {
-          "title": "France’s Top Administrative Court Rejects Bastille–Nation Route for Paris October 31 Protest",
-          "source": "cedarnews.net",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSTBRajdnaFRzc3kyaWlzSHhsT1U0M3BhOEVwT2hvM20tVlVNNDFpRVpaZzFjcEkwYUwzYVpqN05WTFNWS3RDWUxxaF9wU1lGR2VkUDRNN0hsZVhVbk5YdE5SOUpRc1V2cVRJVkhmT0JLYklrcjYwNlluZ2dHU1g2Tjl0MGJaNGhKS0RtZHpSQWlocERUM09SWnA3aDZtZW5FT1I2V191cnpVS09zdnZDQjNaNGpDRmtGdk1zX3FEVF9DbFAtbW43UE9VWC0?oc=5",
-          "publishedAt": "2026-10-31T05:17:49.000Z",
+          "title": "A Paris, des commerces barricadent leurs vitrines avant la manifestation",
+          "source": "Orange Actualités",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSzhEQmpQTVJQWm9NeVE1R2c4RHJicnUwYnpIVnhPZ2p1bDdpcXllQlBUNnRTM2FscG5fSU4xSlBBUkl1bWU1Z3owT2g1b014dFRacW1SWFBQQjZ2azRTdVI5OElOVG1jU3E4Yi1nTGx1OFkzS0lESGo4dnk3dEt0UVIxdE1BdWprNm15UGdpdGExWGJpTjFmUERzRlNxQ1VWSGlXWFkxcjNGRkFEODFzRUhOeUlyWE5rTmgxUTdFSjdQMzI3cHZr?oc=5",
+          "publishedAt": "2026-10-31T13:08:31.000Z",
           "severity": "medium",
-          "titleZh": "法国最高行政法院驳回巴黎 10 月 31 日抗议活动的巴士底狱至国家路线",
+          "titleZh": "在巴黎，企业在示威前封锁了窗户",
+          "content": null
+        },
+        {
+          "title": "France Expects Hundreds of Thousands at New Protests",
+          "source": "blue News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRG16alFuWGUtQ01mbFc3UVhGMXFHVmdZYS1XVlVRR1dLXzltc1lGQTN0dU40UXFIZWdYdzFpMV9KMjVtcXhvN29Cb0NqSDA0dzg2QnB6YlFMSHQtV2EyaVVHQkpoNTB0N1RUY0xqME1YZC1zVlBYTmhwY0s4VS1uQVNPeXh0dnhSLXNBZUJPZWJIZVlOWVV5WEpn?oc=5",
+          "publishedAt": "2026-10-31T13:01:50.000Z",
+          "severity": "medium",
+          "titleZh": "法国预计将有数十万人参加新的抗议活动",
           "content": null
         },
         {
           "title": "Manifestations: La France redoute un Halloween des colères sociales",
           "source": "Blick",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORTZBR1ljYUpPSVRtNmpWUWU5SHRyRE02ck4yZnhTUG1ETnE5bENJV3RvWHpfbGx5dXp4MW96VE5IakF1NVVnNWFQU29CbDhTYXRTb1psOVBZa2FwWUpybVJVN09ya2pqcGZieXIzY1pFSFZuajFxY0VtbTdZRG1aTUQ2SjdlRVpfQ2FZUW9sYXFHRXJEVDhpY203M28xSUFXREN2ZVhrMTZvZnJ0UmlSUg?oc=5",
-          "publishedAt": "2026-10-31T05:16:59.000Z",
+          "publishedAt": "2026-10-31T12:57:27.000Z",
           "severity": "medium",
           "titleZh": "示威活动：法国担心万圣节会引发社会愤怒",
           "content": null
         },
         {
-          "title": "Éditorial. La République, pas la violence",
-          "source": "Ouest-France",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYWZZbThHeUJ1azZiSUtmWGZqSGREQzZWajlXeFpZZnJEamxESDFTVV9LWDVOQzQ1bTc5eTRpZjJJZ0ZFRHFwaHFKdkVtRXpqVkhRZ1NRMzNFWFpUdzZMX2JDZVRnblVhRHU2dDc2cWhmLXZ3eXVZNDlHby10Y0hBLVJaam5GbHN3aHNsQktaVkMwN1pmMUdpY0pNd0thSWh1VEhiM1FvOEZscFh1a3lqbWs0RVpPQWRQdTVrTHN4WElFdw?oc=5",
-          "publishedAt": "2026-10-31T05:00:14.000Z",
-          "severity": "high",
-          "titleZh": "社论。共和，而非暴力",
+          "title": "Manifestations contre la vie chère : en direct des cortèges à Paris et à Lyon",
+          "source": "Paris Match",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0xqVWIyVXFER2xnVzBxQURRZnFadUU5Nm9hS1FXSjYzeWtSLWw4bnh2RG5WZXdxQzdwOWZUa2xXX1lkN0xGZndnVlF6dkplQUViNXEwZjJOc2ZWLW80VVRZWlY4dXBuTVEwU1NWUjFhdXZoc0ZCcVFBeW4xY1V6SkYtN1JjemVDeGNBQk1DZ1hLNHkta2ZtNFZpV1o3RDBkRXVnRjNoVmUwRG5kc0VoeA?oc=5",
+          "publishedAt": "2026-10-31T12:40:38.000Z",
+          "severity": "medium",
+          "titleZh": "反对高生活成本的示威活动：巴黎和里昂的游行活动",
           "content": null
         },
         {
-          "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
-          "publishedAt": "2026-10-31T04:20:46.000Z",
+          "title": "The State Council relegates the protest of students and unions to the outskirts of Paris",
+          "source": "Demócrata",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOenJIZHQ5UzI4dE9YMS1yVjFmdVpUbm1US1RvcmlzNGdORzB5czBPOFFzNWlzR1l6OERDMmhvbWh6QmctN0pZR3huZ0VZa080eGlteVN1T0xIZUF5OGd3T1JvYVhXNk1KeUZmbUl0X1J5V3BnTFllcU55aXRpYnhYMHpETGNKODdVb1FUNWl0aU0wc0lkRVQyRWQ0S2tNVC05TUllaXFHNnBjWmpGLTRVWjNzbWJNU2V0YW9ZOVdFc0VGUGV4ODEtLWRtVdIB0AFBVV95cUxPTTRzdmFjQ1ZmRnRWYWZnNVpneDBOUW9KUnNiZFhyT3dEeHRJRlZLMTdtOC04WjZUU3NnVDM5NFlMQ1MzOEFrQ2xzc2hUREtSZElLVlFEWnBPcHl1bVc4eVFnQjJLWWZBNVZ5REFCSTBGWXNiLWNycXBKQTNYOS1XeDQ0d3ZTbWtqTXczVWZZcGtVWi1UdWNvTWtfZ2ZVdE9ULXNrdlpwSzVqWURKNk01TW80RlR6TmVtUHhGRG9yY05kem9QZk13US1hUjRxNmNt?oc=5",
+          "publishedAt": "2026-10-31T12:38:30.000Z",
+          "severity": "medium",
+          "titleZh": "国务院将学生和工会的抗议活动转移到巴黎郊区",
+          "content": null
+        },
+        {
+          "title": "France braces for more unrest amid fresh protests",
+          "source": "RTE.ie",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lVWcyLTBHNC0xWDc3WDYweGQ3R3BmYWJ0dWV6WHdEcWdvRE1KSzExb0JIcWJUcTR1eHp0dGY4UTNqNndqU0NrNlJYR29BaGVSTVliNFRpLWE2NFp6eDVDbDQyczVad2F2YzdMa2o3TU5RUQ?oc=5",
+          "publishedAt": "2026-10-31T12:32:54.000Z",
+          "severity": "medium",
+          "titleZh": "法国在新的抗议活动中准备迎接更多骚乱",
+          "content": null
+        },
+        {
+          "title": "France braces for 3rd weekend of discord as youth-led protests spread across Europe",
+          "source": "CBC",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50Yk1VZVJadDg5aXZYVWhiRThmZlBBOHFIWW5YM2tZVjBQWWw3RVpFcFFrNTVoU0dVaU9qTmdwRDJpU2FtTjJxMWNISkJXMzRGQUxZbnVsNDc0bG12a0RYeWlScWRLUWZ6MVpXbXJJaGpQRXlqeW9CNUNn?oc=5",
+          "publishedAt": "2026-10-31T12:27:39.000Z",
+          "severity": "medium",
+          "titleZh": "随着年轻人领导的抗议活动在欧洲蔓延，法国准备迎接第三个周末的不和谐",
+          "content": null
+        },
+        {
+          "title": "Cost-of-living protests set to spread to Germany on Halloween as France braces for fresh unrest",
+          "source": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOFhCM1JCcUdQbW4wWl9QdXZIS3ZQbzdlRGNaenlpQnNuZGpYb3c0ZzdxNi1yd0NCYTlZZjhnUlFUMFZHa3htVy12U0NZTS1ISW5MTm1wNERkSGlnVmpDMlJYMV8xbU5wY2JmbHpUZ193Z3lhdFdaSDVGZW9aYlk0MnFB?oc=5",
+          "publishedAt": "2026-10-31T12:21:12.000Z",
+          "severity": "medium",
+          "titleZh": "随着法国准备迎接新的骚乱，生活费抗议活动将于万圣节蔓延至德国",
+          "content": null
+        },
+        {
+          "title": "Halloween masks are banned and 70,000 cops deployed in France ahead of protests",
+          "source": "The Irish Sun",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DTTgxY19hYzNGMW5sMk1vbTB6SXNVb2ZyS2xEYzR2YWV3SnNVTGRkTmZ4Q0llSk90M1AwZjZFa2FoSlNDeFY5V0dGRnQ5cThjRWNYa1JkeV9XRUZTR0o3S1NXYjJFYlRvLUFCRHpVM2g5ZnRLcDV3LTZB?oc=5",
+          "publishedAt": "2026-10-31T12:20:24.000Z",
+          "severity": "medium",
+          "titleZh": "万圣节前夕法国禁止戴口罩，7万警察出动",
+          "content": null
+        },
+        {
+          "title": "Parcours de la manifestation à Paris: \"Nous considérons que c'est une atteinte disproportionnée à la liberté de manifester\", déplore David Libeskin, avocat et porte-parole des Gilets jaunes",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPRU5MaEhQS0NtSENoRnZzSjcxd0dVSEpXZXB6REhDUThmM3E2RnctMGdxS2hmT2tKMEgxYW9EZjh6ZGd0T2lxaUlhZFFtSXpjMlFCN21Kd2JZNHJnVVREMFE5ZXlRLUtXOXd1Z2FNU2hid3Y4dkxwNGpVblExUUVwdDh6aEl3WjVXRDlFMGZfRVdvWDk5Sm1VWjYxQlpQYWVQaU1sbXJlRWVoMk95a2RLRzZvSHBCRUZzNFIyZkRKUVVVTHo0cG9QZG1WR0NMa3RLRi1TTzltamJJcmZNai1BaHVpb2NKQWRHZnY3MnJ4RFZUeFI0Rkx3R1NQOEVKWGlJN1c5dTVjVm9odEJYd1hxOHg3Y08tU0Flazc4dmJuRG5tQVYyOHFrOGVwSWNFZ1RxSzhGbldCNXA5T0syZk9GSzIyTDNBRV8weThaazFRb3Z4Y0tpeGYtRk52VUxyb0J6MEN2VzFLQkpQNzFXZUREdGh3?oc=5",
+          "publishedAt": "2026-10-31T12:16:36.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎示威路线：“我们认为这是对示威自由的过度攻击”，黄背心律师兼发言人戴维·利伯斯金 (David Libeskin) 表示谴责",
+          "content": null
+        },
+        {
+          "title": "Manifestations à Paris: un couvre-feu instauré ce week-end",
+          "source": "سانا",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15Q3pmUGFuUnNsVjljSWh3aHhwTjYyb1RTVHdZY2Q3N2xCdUwyUGVaU2RabTdyaVllSU5IUU1mN0w4TWY0V1pfS01xSTJHYWRickN3?oc=5",
+          "publishedAt": "2026-10-31T11:58:15.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎示威：本周末实行宵禁",
+          "content": null
+        },
+        {
+          "title": "The British student who sparked outrage in France by mocking shopkeeper victims of Paris riots on TV chat show - as she calls for UK youth to 'revolt'",
+          "source": "Daily Mail",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ2c3TjQ4UExYS1NqVXdOVUVLTDZscmRyQzB6Y1k0bXhXUzFKMVVpMk5hR2ppWHVqb1c1WVBWREdtbnltZUkxWjNDRW5PbHE1bUFOSF9ydE9WUkZxdTZZc1VDb3RyVWJ4dG1raHNLVElqWk1GVjJRTGtPZFR4RVdwci1JOWJNMEVHcW9VeHJwLXRKZWpVRlg3Zk0zM2hHUFUyQTdiQVdrZ0lsZ1hFOWRNR21WNHVmSzdvRnpwdWZsWdIBxAFBVV95cUxNTnFzaU9adTliYXU0bk1yS2VNWTAtcWVDYzZhR3JIalFwZ1VMaGVpQm03eEgydXNPV2E0Qk02TDQybmdaVDRMNXExeDEzdU9hM3lBSTZFUzdKQ2JmOVpDRmZvdWNpT29zNGxpcUJxTkEzZnp2OXU1NllJUTBsZkxfamw0cXRCOE5OVzBRbUZmcXZVbnZJbjlCRGxKeHhTaC1WWW9QRmV1TVN2RzNoVldaaXY1LWFqN1Y0UTYxelc4Y0dlMGVh?oc=5",
+          "publishedAt": "2026-10-31T11:31:15.000Z",
           "severity": "info",
-          "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
+          "titleZh": "这位英国学生在电视访谈节目中嘲笑巴黎骚乱中的店主受害者，引发了法国的愤怒，她呼吁英国年轻人“反抗”",
           "content": null
         },
         {
-          "title": "France braces for fresh street violence at Halloween protests",
-          "source": "Kuwait Times",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjk1ZlhqSWpVY1VLamFHTHJ6S0ctY2MtS3psSGlTQkZwekIwanVDdUhfV3p0NGhQVW9UNEVHUkZjajdLWFZBZjd6Sm5WYkgydklPeG9qQ0NLZVptVnhWVjU1Mk1QM3hFNG5wY1VsX0RLU00wNEsyenI1S3dNa3dqRURnWUUtbkctVTJSd2ZtMkczNjU5UnhIaFNUSF9JZ09PWlA1bk92eFdQd9IBrgFBVV95cUxPZ3FXZGloWVZ1OVRlRlN0NExwWE41SlRNNkJmajZpZDhWX1VJTzVCVE1VY3VJYzRyN2JZVW5rZEdyS29kNVM1UUdvUkhBR3FaQzVVR2xRREhkdE1mTExzWnJfdUx5MURPakdub0F1dldFX1B6aHJieUxYSUM0XzNVaUYzekVOMGhkLVByRlpDM3ViQk4wVHk5ZFViZV9QczltZktmc0cyUmlIanEwTnc?oc=5",
-          "publishedAt": "2026-10-31T04:12:32.000Z",
+          "title": "Paris, le son du piano et de la poésie résonne encore.",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PQW95dHFMMDJPM2hkQThaVERiY3ZKdkh1YU1IQUpKZzUxRWlId1B2WEw3UnBUU2VkUnhOelp1YzZBVS1wZE5oTWk5UnlrS2NJeWdsUWNQMjNFQlVmNDBVY1NGaXB5aDlSc0gyaDNQZmY1Nm1CNnllaDNIOA?oc=5",
+          "publishedAt": "2026-10-31T11:26:05.000Z",
+          "severity": "info",
+          "titleZh": "巴黎，琴声与诗声依然回响。",
+          "content": null
+        },
+        {
+          "title": "How social media has shaped France's protest movement",
+          "source": "Le Monde.fr",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNS1xOGNDYU9nQ2xrNVZjVGFocE1TdkRhVjQwcGRNdEczMHFCSjRjR2hsLVVXaDhRUFpkVHR4bEZkOXJQMVYtYVBlU1NmLWtyMG5RMVpiWWJLN3o5ZVdtZ2VuWUJGb1RSMkxZa0pMQ0h4SklxZ0xsOXQzX2VQU25rRDVqcE90WkxkbnhkLWYwemtFd21fdzQ1M2I5dWRoMXlQRkN6MTVWZ3ljYVpWREYzVFhyX0hZUnY0a2hpUA?oc=5",
+          "publishedAt": "2026-10-31T11:21:23.000Z",
+          "severity": "medium",
+          "titleZh": "社交媒体如何塑造法国的抗议运动",
+          "content": null
+        },
+        {
+          "title": "Manifestations et grèves en Europe : de Paris à Rome, les revendications et les réponses des gouvernements",
+          "source": "Tunisie Numérique",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdGZfMU5lUzVnd1EzZ21JWV85R1pkQjVTVEJ5b1JXRzVuSjZZZTJZdXRaR24wWDNiVHZ3NUtWTlVIMzk5ZElJa3RHdnJONVFTVmRzTEo2YW9CTXBVUXRFNWhTR29lZHh3dmx3NDdlTHhnZThCRkZFd3RVQnd1ZUxWRUlMdWhKWnBINUdGNTBRNmtiU0szeFhaU3RZUmM4U05qRFBFMTBJRTU0WGFjczFIVFZBYXN1Zw?oc=5",
+          "publishedAt": "2026-10-31T11:12:55.000Z",
+          "severity": "medium",
+          "titleZh": "欧洲的示威和罢工：从巴黎到罗马，各国政府的要求和回应",
+          "content": null
+        },
+        {
+          "title": "Third weekend of protests in France",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90YU82RjdfamxUbWl2dndLd3BYQXNtZERWelR3cHR3WnFidGtNMl91a2JoWm8xWVFQZVhiWVJoZF9DdzZLeElCamhSSUcxQnhBOEtIYW1sMG9fSl9GRF9lRVRnQ0FOMVF5X1psR294ZzM?oc=5",
+          "publishedAt": "2026-10-31T11:09:43.000Z",
+          "severity": "medium",
+          "titleZh": "法国抗议活动第三个周末",
+          "content": null
+        },
+        {
+          "title": "France's Nunez warns of high risk during protests",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmN1a2Q5ZER5bldDMXg2TzlqTmhsTTdnMnZrWDJsajNOWVc3VHVoUnkxMGI1NWRkMkoyeDlWeng1U013MzMzUDlTNW5rTThhTzdmZjhsZjZ5RHp2YXhRdU1Vc1E1NGhHWXBpZ095N2QzWEViVWlYQTJFbVZQWXVOUmxKZw?oc=5",
+          "publishedAt": "2026-10-31T11:06:53.000Z",
+          "severity": "medium",
+          "titleZh": "法国努涅斯警告抗议期间存在高风险",
+          "content": null
+        },
+        {
+          "title": "La France n'a pas perdu la capicité de se rassembler",
+          "source": "Watson",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVgtX2hsZ0RVT2pNdTB1VndCeEhTaGQyR3ZCVDlWd1NjUnhoc0txck82clU5emRsbzhMYjNVR3E4ZDd1M1JoY1gyekdWWjF3QVBlSmpES2dhZDZEM09FVUZnWjkwR1lPNjhSLUs2ZmV2eng5SnUxbXAyY1UxMUNvQ3hESTllODNNcDZfX194VkJqX1lTVlNRSWxmTXFHVTQya2sxZEUwM2g5MnFjckxjZzFOTGFtR2VK?oc=5",
+          "publishedAt": "2026-10-31T10:57:44.000Z",
+          "severity": "info",
+          "titleZh": "法国并没有失去团结的能力",
+          "content": null
+        },
+        {
+          "title": "Police and army patrol Paris streets, ahead of further protests",
+          "source": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT1ZrMmh2dkxOYWFXQnRLZVZNeXJ6UnhkVjFlSG1SWE9ieGRjcV9kb2lLVWZ0RGFWZmZqZjdERnc1UVh1ZmpHSG9IdTlKMzlBSDlwbFNWSnRraHFnRklHTFVKTlg3RVk1UF9INmJEWkg0NmlDY3kwQWFZaElqd2ZDekRBblExbkZF?oc=5",
+          "publishedAt": "2026-10-31T10:47:48.000Z",
+          "severity": "medium",
+          "titleZh": "在进一步抗议之前，警察和军队在巴黎街道巡逻",
+          "content": null
+        },
+        {
+          "title": "France heads into third weekend of protests as youth-led rallies sweep Europe",
+          "source": "Arab News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTnEyNDh5ZGdoS21ycV9ObDVRNkxvZGNYcktYd1BvMWtLNlo0elNxZXk2WmY3VFlPdUo5Z1ZxM3pLZUllSXlXYTZaUFRjSEFveVlmYnI4X1FxYnM2SGt2eDNBeTM3Zk0zZk9Nc1dWejRqeFg5bzE0M05MblNUcWpSRVJOMDQ3X1l5Yk1RaXBQZDdoSnZSWkgtYWtudUZYU3lGblN2cGd2ZXZxRWY2OTNXMjdjYmpKakU?oc=5",
+          "publishedAt": "2026-10-31T10:46:24.000Z",
+          "severity": "medium",
+          "titleZh": "青年领导的集会席卷欧洲，法国抗议活动进入第三个周末",
+          "content": null
+        },
+        {
+          "title": "France on alert as Halloween protests raise risk of violence",
+          "source": "Dhaka Tribune",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmV6am0yMmdKNmw1X25rMGhaWkpUblUxajBaSTdTOGlqLUcxTFYwbE0tbWViVG94RTkwOU9yZ0pFbkVaMmx2UVZ2MnNaYWR6REhNTHlMTUpDbzVuR3hDb2lIQm5jTXBodUtqRzBzQVZ6T1dTYl9nRUppRmdBcjVjWm5UVmRCeEZkcHQtcWR5LU9CTkctdGVLaG9HdWxDVmxKa0ZB0gGjAUFVX3lxTFBCZXpqbTIyZ0o2bDVfbmswaFpaSlRuVTFqMFpJN1M4aWotRzFMVjBsTS1tZWJUb3hFOTA5T3JnSkVuRVoybHZRVnYyc1phZHpESE1MeUxNSkNvNW5HeENvaUhCbmNNcGh1S2pHMHNBVnpPV1NiX2dFSmlGZ0FyNWNablRWZEJ4RmRwdC1xZHktT0JORy10ZUtob0d1bENWbEprRkE?oc=5",
+          "publishedAt": "2026-10-31T10:30:48.000Z",
           "severity": "high",
-          "titleZh": "法国为万圣节抗议活动中新的街头暴力做好准备",
+          "titleZh": "万圣节抗议活动增加暴力风险 法国保持警惕",
           "content": null
         }
       ],
-      "places": [
-        "巴士底 Bastille",
-        "民族广场 Nation"
-      ],
-      "districts": [
-        4,
-        11,
-        12
-      ],
-      "articleCount": 11,
-      "clashCount": 2,
+      "places": [],
+      "districts": [],
+      "articleCount": 24,
+      "clashCount": 1,
       "status": "unknown"
     }
   ],
   "latest": [
     {
-      "title": "Manifestation à Paris : commerces barricadés, sécurité renforcée… les autorités redoutent un nouveau 17 octobre",
-      "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVl9OWW1xYXBReENrVU1tRC1YYmlldC1JalgxSzBWTHJaR21jMW1WU3M1NThLOE9jdElRcXI1S2Q3blF1cjJPWkxBUjNkZmpBcURnOFlVMHVjcWN1VDVDdEViMVVUWmNINmdKNGN3SUh1dVhuMGhJU2dLemtrVFF4eTVoX3pGSWt5MU5nQ1NNSHlTb3BjVUFhRnh5Rzhwb1dmbFltMUJaVUpGa1JHSEs4Y1dKdjdpakxNWG5uV0xXOUZyUG5HcG9ZVExTOFdkUUpHd3pYUzFpWGstOVM0Q0d1Xy1CRUJKcXotVG94M3N4Nm9LdTV5eHc?oc=5",
-      "publishedAt": "2026-10-31T07:17:30.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎示威：封锁企业、加强安全……当局担心又一个10月17日",
+      "title": "Mobilisation du 31 octobre à Paris : \"Je déplore le choix du tracé\", assure sur LCI le maire de Charenton-le-Pont",
+      "source": "TF1 Info",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNEVJS1pjZ0Izdk1JUjVuUVdFR2ttZ2dPR1V1bkUtV2VPeWMzTEthbXNfbFdMelVES2s1aUtFSU9zVlA5ZndCYmowYlo0Vld4bGhNZXltQVFzcDlYRFVPcHRfRFptLTVwdU1XWElqc2lRTWNWcGVXdmpRcnAtOWZzc09lQWtQY2VMRm1HbGJHaHZ4MC1CN2VEdV9ZQm1NU196ZVUwbFNqalBLMzhEbjJfeTE1WHF0TDJnc0ZrYnZWWWZPWkdndEJNSm9JSmMyQkZpLWRERi1JemlneVNNYTFRQzhoRm9WNmZ2ZG1HUUI0cUw4UQ?oc=5",
+      "publishedAt": "2026-10-31T13:45:51.000Z",
+      "severity": "info",
+      "titleZh": "10 月 31 日巴黎动员：夏朗东勒蓬市长 LCI 保证“我对路线的选择感到遗憾”",
       "content": null
     },
     {
-      "title": "Manifestation du 31 octobre : le parcours Bastille – Nation finalement interdit à Paris, le Conseil d’État annule la décision du tribunal administratif",
-      "source": "L'Union",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZTlXdGxyZVM4Y1daT2JkNHZiekNyWFV3WG05OTFOYmVVMG4yNzhoM1JKeTdVRWNPb2pseTh5aFNFV2hHRkc0bVVOTm1QemdYZXNtX2V6NlJTTlJER05uMEwzcjJpNjc0ZEhrVGluNGc4ZUpTYUl1Y1NVVnMyYkhIZTV2Q0p4ZnZPcVltcEs2YjY3RV9IMjNrcFFseGFrZU5LRnc3czdDT2lsN21SZlVXYXBBZW9ER1NKYk1kTDhIa1NONTg?oc=5",
-      "publishedAt": "2026-10-31T07:13:19.000Z",
+      "title": "« Ça tirait de partout » : de pompier de Paris à street medic, il risque sa vie en manifestation pour sauver celle des autres",
+      "source": "Le Dauphiné Libéré",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOV1BybGVIejZybVdzUG5yazlFUjBJQnp4SmZyclBDNDRFUnFoNVU5dnpLS0NXWFFuWExORHJoOEZoRXdQT1FEeWlXYlhsUm43d0ZSc2hoUlEyTTBqc1ZXWk9jNXF5VFFjekFiRk9Tb0VCVmJpSHI5U0RvRjdnR2M4VUJ2VkVJR045Rm00elV3a0RqMFJPRERlWWFjS0ZXeTcyUFZ3MmFYWUxrbFlCbnlyWEdsdUQyWjJIWGJLWDZhY3k0WkNLUzBLZGFzbFVpY21yeUNhVm1YXzFhSGNRZVoyMTBndmROV2pBc0EyYmVCWi1iYTBudWVsNkhqZ1c4MWJYMlNjMm5ZX3I?oc=5",
+      "publishedAt": "2026-10-31T13:44:53.000Z",
       "severity": "medium",
-      "titleZh": "10月31日示威：巴士底狱-民族路线最终在巴黎被禁，国务委员会撤销行政法院的决定",
+      "titleZh": "“到处都是枪声”：从巴黎消防员到街头医生，他冒着生命危险参加示威活动以拯救他人",
       "content": null
     },
     {
-      "title": "RATP. Manifestation à Paris : 40 stations de métro fermées ce samedi 31 octobre, voici la liste et les horaires",
-      "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRDZ6MXJockRENHN3ODdQUy1udElfNDMxZmdyZU9mVm44UjZCVWxoNFJNR2lEZkM4M3NBTXBIVjNHQXFPNU1ZSmZ0VHhxblFSZWJnc0pNZW5RcWRxb2JFUnJhNW84amtYLTY1dzBsZXNnZjZoOWV5MHlBZzcwbW90c0hSMGo0QTVLQjh1ckNhallNa2JqSlltLU9ITFpEeU13MXE1cVpYTHBIUDZ4M3NiRXBNM1c4WmpBdTVRZnh2QW5hVEtYZG5HYXZwUXRsOUY0ZlVCU0pOR1AzR1R2bDljWWMwX0VXVVMxSk9XSXdFMEZVTFZub1BJ?oc=5",
-      "publishedAt": "2026-10-31T07:02:24.000Z",
-      "severity": "medium",
-      "titleZh": "RATP。巴黎示威：10月31日本周六关闭40个地铁站，以下是列表和时间表",
+      "title": "«Le moment où la grenade explose et où je vois le sang partout est gravé dans ma mémoire» : rencontre avec Ahmed Benmezroua, 25 ans, grièvement blessé le 17 octobre",
+      "source": "Libération",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNSkx1UTJNdE9QdlFrUXVkMnFzczBVdzZ0aV9vWWd3UmtJaUx0WVlSMTRqdDhRM0YzX3R5d3k1U1pjeWRlSjRCMUR2YkN3U0RmeDI4RUhTRTFIcW12bE5TNnBLT3VhUHNqWXFtbVpEczFvQkxfMkU5VFRPbERHM2lBQmxPVnJ6NHBRMGN6UWNFT1RaS3N0U2xja3N3OEZHY0t0dDNMYzJHY05OS0pqakxJUnJWSFNwM2ozT3Z4cFAweW03ZlZiaDdvdHlldUxHTk04OEc2NGIxZEtHbGlVUWtDeHFRalpZS09MVS1Ic0xzQXl1R29MN1lzZEtudEluNVV2RkxmSmZGZnM0ZkZsRHMxU000T3lQdmFOUTNwZVZZYXp4XzZjTk43bUFwQ1ZsMEtiOFdrSVYtclhjbXRrN0VEMDRvTjRKSzhNVVNndVpYUDdvMWhQYVBwSGd4ZGlpZW1CNmc?oc=5",
+      "publishedAt": "2026-10-31T13:34:18.000Z",
+      "severity": "info",
+      "titleZh": "“手榴弹爆炸、到处都是血的那一刻铭刻在我的记忆中”：10 月 17 日与受重伤的 25 岁艾哈迈德·本梅兹鲁阿 (Ahmed Benmezroua) 会面",
       "content": null
     },
     {
-      "title": "October 31 protest: final route, Bastille–Nation march canceled by the Council of State",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVmY2OERvc3FOcVRmT0NmUW9SVjFjSF9TeDBDb0Fud0ZQQm9hU2lxamFYdVVxNGdEcEFwWTI1amN2QjN6YmxyT1pVMVZXTGRaRlB2X21LZEE2X3JjNFdxUVJjMzV1eHRHc2VHZ3pyMHZWY0VjeWxuRmFGSWgyb1Z6S2lMSkZGaUZwbElsMU91SkVKNFFpRzg4NVp6RmRza01oZkhTRl92Mm5RaVBWRG45dWVwcDk0U3YyaWtRWS1WOVNJOXppSldJX29pdHUwTVlI?oc=5",
-      "publishedAt": "2026-10-31T06:48:42.000Z",
+      "title": "Manifestations du 31 octobre : pas de défilé entre Bastille et Nation à Paris, tranche le Conseil d’État après un bref bras de fer judiciaire dans la nuit",
+      "source": "Centre Presse Aveyron",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPYzU4ZmdqZkc4dkVIQzZyUFZnRURvSDFaMEN3ZmxzM2pCT21MU1JtY0RiLTdpMFZ0cVBGUWtQU2xWaVpzQWk1Q0s3T3I0bjNJWHYtSlVXMEo5Q1ZFLTFzVzNxTGxKMXkyRFVtczZOYmJGemxEUkppSG1ielEwQWR6NHFxX3hlNlF6aVRYLTRHTmpfWmFRalQ0alFYWXY1c3pKbmR1cC10eHBYc1d3V3MxdzB2dTZLMjdxa0xabnpCNUVrQ1RQTlQzMGhBLUNOTWFCVUE5NFkxbjFVUEhlMHhVb1ZzWlhLYlVwYS1IV2tuLW9iRlNwOGZMam9rQjJrVUIzNUlLcjkwNEc1NnFHSUZ1NUdyMlplSkk3andubjkyQndhNDFMbUZXZVFvRnRoTWFKVFkw?oc=5",
+      "publishedAt": "2026-10-31T13:30:00.000Z",
       "severity": "medium",
-      "titleZh": "10 月 31 日抗议：国务委员会取消巴士底狱民族游行的最后路线",
+      "titleZh": "10 月 31 日的示威活动：在夜间短暂的法律对峙后，国务委员会决定巴士底狱和巴黎国家之间不再举行游行",
       "content": null
     },
     {
-      "title": "TIMELINE – How France’s student protests grew into nationwide unrest",
-      "source": "Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDQyQWEwUURxUW9lRVFYcDFpSHEwWFdNb0VGcHcwTlIyUnhoRzJERE9NNHllQUpfT19GSThZdXRHRUlHTHBLQ2czWFZZWkVSbUtuZ3Y2WmcyRlFtcTRZMDNpYlhiVldIZXlvS1AzQ2ZJZzVjQ0ZKRS1uRFYxSDhqQ25lcEhmU3JWb2N3cFdXMHVVejAyVzFSQnFGUHd5UlNsYmhSVnIzclRndw?oc=5",
-      "publishedAt": "2026-10-31T06:44:52.000Z",
-      "severity": "medium",
-      "titleZh": "时间表——法国学生抗议如何演变成全国性骚乱",
+      "title": "Paris : une fillette de 6 ans assiste à l'agression au couteau de sa mère",
+      "source": "Linfo.re",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWx0d2VqT0dKWjIwYXdzV1ZqV252SDQ3YUh1SkxDVDBGX3M5RUg0bi1IT1hxNFRoczNNT0I1SlBtYk9FcHh5V25GM1pVYWxmV0JYc2VDMDdCYkYxTXRXSmRRdXFPQWJjWHFGZmxTVHF2MWNUVEtDby1PZURDNGFVcllmSWVRSkNBUnd5bll5V2JCVVU1TTBfUnN6Wnpxamd6ZmxLMVhGNGhTVHNuWVZMMGF3?oc=5",
+      "publishedAt": "2026-10-31T13:29:00.000Z",
+      "severity": "info",
+      "titleZh": "巴黎：一名6岁女孩目睹母亲被刺伤",
       "content": null
     },
     {
-      "title": "Manifestations du 31 octobre : le parcours Bastille-Nation déposé par la CGT finalement interdit à Paris",
+      "title": "Manifestation du 31 octobre à Paris : plus de 40 stations de métro fermées",
       "source": "Corse Matin",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSEZkU1VXR0x1dnlBNURXYjQzR0IzT1pSazU5Zi01ODBVS2pBNEZwQUVoaXZrNllEd1BZUWdqRm5ZZWFWVjFtQkg1eVEyUUVrNEVhTWU4N1lFa3RpOWZFMlB5cl9CTUJ0MEVGLVlsZTF3Z1dNaGRhZjdBV2tVcTFaV2h4a1FWbTBmVmh5dldKVFBuWUxhWWNpME9sVko3WU9PVjBNSy16c2tnSl80dGtlNGI2eWx4Y2ZjeVV4WWhjV3ZpWnRfdEQyX2UzQjBfcHFnQVBCRDh4dWd2eFZvczlXLXY1QzU2WmdkekUzVllKMUhlNlcyLUpJ?oc=5",
-      "publishedAt": "2026-10-31T06:44:27.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOVViUGNJM1IzUElhMjVScjlBeTJVZDNpZGhiWHV0dk9uWnRtc21QMVhzalFsMXBWVFZqYWdETDNwandiY2hvaUstb2g4OUV4c0lVdzB3RTNwVGxVX0FIc1ZvcjNUdDNvNGdMSFR6S2lVby1iR2JEeVFwMTR2d3ZURTJ5eG9RaHVBNWpCUFBIODMzUXlFVE1lUmZfWXVuUjR0bGJmWHNIc3VoMWJ5Tm04SlJ5UEFKemZqdTctazl5bVNMVlMyZ0t6X3VKendXV3NNTVE?oc=5",
+      "publishedAt": "2026-10-31T13:28:48.000Z",
       "severity": "medium",
-      "titleZh": "10月31日示威：CGT提交的巴士底狱至民族路线最终在巴黎被禁止",
+      "titleZh": "10月31日巴黎示威：40多个地铁站关闭",
       "content": null
     },
     {
-      "title": "Manifestation du 31 octobre : le Conseil d'État annule la décision du tribunal administratif de Paris, le parcours Bastille/Nation est interdit",
-      "source": "Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQdW9QVlN1Zm1GbHk3eTFPWG1wZEhSUUs2VnBQS09TYlM3R3czcWtMOENtWU1GTElpNDBwUTRBUFlZSUpHS0MyT3E4UTdCRk9QQTU0U0pZSzRnRFY2QVhWWktZMGVhczRQRVp0WWh4UG40Y0VMSHZkUGRBWU5qaXlqT1drTHVwNDhzTWpzTHhtQ0UyNWU4NENhRDIyTEN1OFJRcGVDRWk5ajFNdmpya3hickt1M1k5aXAxaFJqX3p6RjMxdnkyeXpRZGE3Y3NDcEtfaXZPZmY2VVFGWW1Xc2N1NWJTMGJ0N0FlM3oxakZaTjlHeFZnQ0FRbmFGYnEtLVVvWUY1OXRhSW5GdFc2YVNBWHVjY2hMaWZWWkE?oc=5",
-      "publishedAt": "2026-10-31T06:43:53.000Z",
+      "title": "La France se prépare à une manifestation \"à risque très élevé\", le gouvernement promet la fermeté",
+      "source": "Boursier.com",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYmtfbkxlMWpaOGFidXVLLW45d0NEc1JVcHFkUGR2eVhhaTlHNzFuQm54cHdqOTl6YW5aUlI3cTlrV05GdnlnOWk2RTMzS2FvMTZqcWhtZ0x0WXVZd25mczdNWEVRRUZkTHh5LWg5bHRhejRpSm9adFdSZHZNVzRGLWNXUi1VQnpVTkN3amVDRGhEQnpLUmVXRE5vQ0sxa0lJSWNvMkl4MjVlNXdkbUc3UkdLdy1scDFtVkNuVG1hYV80S0MtcTJma0hxZXdXYVI3eGpRQ3ZXb1ZNdlFxcnhuWnEwVnM?oc=5",
+      "publishedAt": "2026-10-31T13:24:05.000Z",
       "severity": "medium",
-      "titleZh": "10月31日示威：国务委员会撤销巴黎行政法院判决，禁止巴士底/民族路线",
+      "titleZh": "法国准备“极高风险”示威 政府承诺坚定",
       "content": null
     },
     {
-      "title": "Manifestation du 31 octobre à Paris : Bastille–Nation débloqué par la justice, quels secteurs concernés",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRmNEbE1ob2twVkRScmpnNjlqQzZRNGRDazVqMUNsSVBhU1pVRWJZb2pVQUFxX25TNUd0Z2YyRlNyazliVk45dUc0d201SnQ4Y0k4V3NIdUY2eHloTTRWNTRtNWJlMEZUdU1RX3YwVV9rS3JmTlRvbGwxcGJtbjZaTVE0WEtoc2NHS2ZWN2pLajhKQklMSDNsajg3VUVKanZZQVdrd21vSHNsSTJqeVB1Z0pGRGVUMnJudXBjVHJ2ckduTXM2QUUwZmtLMDJmaF9OaGRXUGEtQ3l6d1Npc0lWbEdNNWthQ3VkaUFTNTVISWh2bmhqbUtn?oc=5",
-      "publishedAt": "2026-10-31T06:43:35.000Z",
-      "severity": "medium",
-      "titleZh": "10月31日巴黎示威：巴士底狱——民族被司法畅通，相关部门",
-      "content": null
-    },
-    {
-      "title": "October 31 demonstration in Paris: Metro, route changed again—what you need to know",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOGhaSHFKZkgwTEkzTFFwX1FYZEd1UDhtUEpuZGc2RHJocTJUUXJyWUZlbWU4RlZBSHZ2VG5Pd3NUV19zc3hsbWlRN0RaRFd0UzR6dEhiMmpDcjBHVTlOQ290VXMwNmlGbjl6eEVibHdwOGJ1T1JKWUpNVmFYdW5NN0xDZTJyZ1c0MHo2Y2JLcFU1TkpZdDMxR0ZMMmlMcmpZQTJqMDc2c2h6TVVaSnV1SmUyS2dNZkN1YkVCc2RTR3lmTFVKYkJqZ1k1UWt5ZHotU2xIR0JtNm51elU?oc=5",
-      "publishedAt": "2026-10-31T06:41:41.000Z",
-      "severity": "medium",
-      "titleZh": "10月31日巴黎示威：地铁路线再次改变——你需要知道的事",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 31 octobre à Paris: \"Le Conseil d'État valide la stratégie de désorganisation du ministère de l'Intérieur\", dénonce Adèle Tellez, co-secrétaire de la CGT Paris",
-      "source": "BFM",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQVUVGMjdfQ2JkUGJ2T1JKOTRxWVpXN0puRmhNT1BQS0U4WWVJVDVwLWI2VmlrTkN2RTd4bXQ0MEx5ZVE1LTZCU281Q01kUFBZR1RoOWhZU2xOZ3l1Sk5saUs3aWRLeWE0dmh3a0xOR2JlRFd0X0ZwUlRUUVAzRnZJeGdFZEVXemhFeWRaRjhaQjBqdW0yXy1uTi0zZzFMbzByZzFZSlVQakpIc3FIcnFPYVBjYXd6cVlRczBSNTlHV3BXRUZ3bEhRZGhrRVNrVFoxZlpnbV9UM0VFOW1TOE1HdHRkTHVIckN2Rk1YZWZGRlF4bm1ReW95Z0NuZEMtVEU4UUswblpNT3h6Nmxsd2RNRHk2MVhHU2E2WHR3ZzhfMy1oTmJMZUplcWpaVU1URzlzdk5RZHE0b0lneFZWbjlGX1Fvem1MQzd1R0pfdDR3R01ZRktRaEZ0WkQ1SXJacDdI?oc=5",
-      "publishedAt": "2026-10-31T06:40:18.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎 10 月 31 日的示威活动：“国务委员会批准了解散内政部的战略”，巴黎总工会联合秘书阿黛尔·泰莱兹 (Adèle Tellez) 谴责道",
-      "content": null
-    },
-    {
-      "title": "Nouvel imbroglio sur la manif de ce samedi à Paris, voici le parcours validé par le Conseil d’État",
-      "source": "Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYTFGT1NOMXBJOVFfeEV2NE1NVi15ajZfTndxQk0yd2xNTnNST2hrUkNSN2FTUkNCV0xrb2Zva0VBbzVILWRtLVhQSEh6cWpkRUN1cUVUeElNeGR4TUJDdU4tUWZDX1BidDhfMzNXLXZRZVRXbTBuVklGVDMxaF9Yb05MMU5oTjNja0FScEl5WU1BajZuaW40TFhQN0VzU1U2d1pVdkYtNmluNFFwaHUtWmRRZE9JMTF4LTVoSTBiNFlVMUZZSGhzVjFkR0xoM2xRcFZRcFMtRGUzWVYwWEE2QzBlVGxQVFliRlgtMzR6WWpHYmp2bU5j?oc=5",
-      "publishedAt": "2026-10-31T06:39:58.000Z",
-      "severity": "info",
-      "titleZh": "本周六在巴黎举行的示威活动出现了新的纠纷，这是国务委员会批准的路线",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 31 octobre : le Conseil d'État annule la décision du tribunal administratif, le cortège à Paris ira de Bagnolet à Charenton",
-      "source": "RTL",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTm1LbmNXLXh5OGdKcW4tX1BrRmZBR3FueTluNlN4MnhDQmRmeW9JTjhHb3BGVE1NUmlpZ2V0aktVN3dZVW42N3k1bkIweWdhUHJUdm5GRjk0QWRjUTBxS0N1RWJ4YU5MdmhVZUJZUkdmQkxkZE5DRWxpYmJ4TlNvZFBBOTEwZVBjRktfX1VkTkxnQmtnWFpBWklIQjRJalJqNGJjME5WdFNTOFVCVFFyZTlrbXdoSmlBR3BWeGhXYTdjWkdNOEcyNDRFSnRuUnZvcG1DeFlCU2dCeWdsallEbE96ZlJoTUNLY3VRd2ZRdGdmdDhwekxQcDdfTGwwY21oWTB5VA?oc=5",
-      "publishedAt": "2026-10-31T06:36:00.000Z",
-      "severity": "medium",
-      "titleZh": "10月31日示威：国务委员会撤销行政法院的决定，巴黎游行将从巴涅奥莱前往夏朗通",
-      "content": null
-    },
-    {
-      "title": "Manifestation à Paris ce samedi : la justice interdit finalement le parcours Bastille-Nation, voici le nouveau trajet",
-      "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNb0p4dl9mNG95NDFVRlFkdnBGdGRTYTl1RjVLTkNxVzROTWpGSnkybGpteERkVnQ0UG9RNWdMVFJ4MHMzckh0UXVTdEE2ajEwaHEwNXlpUDYwR2FkNTFmLWtQbm02NzM5VVkzYU1pTnRqc3hZOWppbDlCMUVnaU8xLWJXS3JzWENnUTdMOUw2d1ZRdEFIQ2hEN1ZkcHBzTFdkRTRYY01nUkRTQTItRWlDNFpNekFPUWZxZG50eTFBVGE0RlM4YWR1YWdCMExBWkdRX2hXZjZCQ2h6cUxxM0EwT2xkNUdDTVRUWWpnMWJnNGtaYVBTc2FHeWZUWTFiVU0?oc=5",
-      "publishedAt": "2026-10-31T06:34:08.000Z",
-      "severity": "medium",
-      "titleZh": "本周六巴黎示威：正义最终禁止巴士底狱至民族路线，这是新路线",
-      "content": null
-    },
-    {
-      "title": "Paris, samedi 31 octobre : manifestation, stations fermées et RER B perturbé",
-      "source": "MisterTravel",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTlMODF6dk5zUHpWTm15cnpCaUFRb1hxVVRfZUxNUXZNWV9lZDhqNnpyY0F5X2VPNXphSUFfcGpRVm9NT2RvcXZwZElzU3VwM2JhVEVzQzh5cEt4RVlxekJyQlFGa1FaQXVtQjdyTDZhMng3SlRoMC1vOGVpc0hDWWttYnNvMU1JS3FIc2pDeEFLZDFRTWhlNDdHMTMwTUdMbDBOV2FNRlVibktXV05v?oc=5",
-      "publishedAt": "2026-10-31T06:30:00.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎，10 月 31 日星期六：示威、车站关闭和 RER B 线中断",
-      "content": null
-    },
-    {
-      "title": "En direct - Mobilisation du 31 octobre : à Paris, le Conseil d'État valide le parcours du gouvernement entre les portes de Bagnolet et de Charenton",
-      "source": "Europe 1",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVmI2NXVTaFFOdU1GeEdZSzZxa1hmODR6MGhoY0sxejN1bDJ0RUt5Z1Vna3RqVXNXLXl5SmlHRU0xaWJKRXQ1NHl1OEJRNzVoZUxSZC0teXhwQXppWlk2NlFWbFRQYzJYa0tuSzFsaWdmRFNQeGw3N3NOaE11OEhoN0UwZTNqNDJLMFZhMXZVVFRWa1I2Y2JhUTJrSW5pUUU1RnN6bnF2bDRCTVFzelZHdTdJVjNpSi1BSG9Cb0tzRWxRUnNxVXVHbHctVXZsdGhJM0IyZWg2VGhXbHVRcVcyeEFVbTJOcjJONWRBcndVUGFmblNOUmF6YWVhanJ5ZWJEblBfSm5PY1lySjZW0gGSAkFVX3lxTE9peW5zMGVCTTEtZUVwdlNKRFJfdUgwa0xwX0JWUVlUTXdrREZ2OXRadTZTajVRdWV5alYxOVBrekhiQk5CTl9KZ25KSUhwQ3I3Smt3R3lDc0VYXzNnQ1dicjZWQzVpN3BycHNMU0FrblVlSDVzMWtzcGNXMjdlYWJLd1g4UnFNQkRhaWw0WHBxcUdxbHJkSjQxMHh5ZHVDc3VJWE9qaWpEQUN4MXp4S0dpd1FmZEpyMi0xc09tOEJoOEZ2WE5LWVhNNnA4Sm5Ib25wN3NrSmxWRGZiMmtvbFdNOElmWWpZenNuakNBODR1RGIzWGJxbjBSWXQ5clJOT0NfMlQ4X1ZncDNLdWF1c1FvUkE?oc=5",
-      "publishedAt": "2026-10-31T06:25:45.000Z",
-      "severity": "info",
-      "titleZh": "现场直播 - 10 月 31 日动员：在巴黎，国务委员会验证了政府在巴涅奥莱 (Bagnolet) 和夏朗通 (Charenton) 大门之间的路线",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 31 octobre : le parcours final, Bastille-Nation annulé par le Conseil d'État",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOFdEQno5UWVkRXF1SGRQcFB4cDhQRkRET1Y0a0UxWnNKNEZsWXpoZS1GRDFkNklYbjV5cW9jQUk1WkhEbnV0eFVsMWMwVjIzekRkaWtwTHFzazZyN19pMzlSc0E3TktheXdRY0VkM29Ta3RpUEY1djZ0ZE5wUExSUUo3NTFfclhyM2RBRF9hdGFaTDJKS2l0aF9Fc2t2bGtZVWtkZURMZFZlOHVHUi1PWFFZZ1Iwdjd6TFNpMFFyR1NiN3NXNlRlb3RvZWg3SGJDMm4xVFZUcXBvaEQzRkdCZEkxZFN5OWsxVUE?oc=5",
-      "publishedAt": "2026-10-31T06:25:20.000Z",
-      "severity": "medium",
-      "titleZh": "10 月 31 日示威：国务委员会取消最后一条巴士底狱-民族路线",
-      "content": null
-    },
-    {
-      "title": "Couvre-feu à Paris pour Halloween : les stations de métro fermées dès 9h et 20h le 31 octobre",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWDk5Y2tjQ2QyMXNoVndZUGZaazVodGJiZDdWNU9YOVBxSVJsdnVvZnBKZGRsb25BSmpkelpwbi1RZGpSZUZyelY4TnNtV2s1TENnNjlySHA0S0NZczBtb1FpMmE0eUlERkdJS0l3MG11MjhXNVp4ZjVUWlVSOGFWeTlBMmZneTl1ZGtKVXp2RGxoZXR5bnZPUVJrdGlCdFBaUU13bi16bElDVGRYTFpEcFNSQUJObktkS2xWNVB4ME9oVlZ2ck1QNWhxWER6TlBMYzRjbTFfRDNpVXZLZXF0QnliX0pwVTlfQ3Mw?oc=5",
-      "publishedAt": "2026-10-31T06:23:30.000Z",
-      "severity": "info",
-      "titleZh": "巴黎万圣节宵禁：地铁站上午 9 点和晚上 8 点关闭10月31日",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 31 octobre : le Conseil d’État tranche en faveur du gouvernement à Paris, 70 000 forces de l’ordre mobilisées sur le territoire",
+      "title": "A Paris, des commerces barricadent leurs vitrines avant la manifestation",
       "source": "Orange Actualités",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQcS1ZQUs3NmppNm1xak9pUHdWYnVKeGFsRFY4V1NVNTR1U0RjUnB3MTNiaTFpV3B1aTZxVnc1OFBGeFJfcXMtQ292eXdHUm5TSDJyeFpST0JTa09NYjlGT0NzaEc1UkppTTRieHAyc29qV2xUNnNxLTlkWjBFZVQ0bGdVbmFwXzlNQXlxVzdoZFg1bW5ndDMzS1N6YTVIdGs4dFd2YnZyV3dKcEpiam5xcXU0LUdOODhxVnF0WDd4d0hQd1ZlbjdCZWdldjlxb19ldTVfcXJpaDN6dEwzYVJMcUdNNTZTU0JKWm5lUTZXUzBaeTlrUHF3WVRScGhtYUxtUlNfUVdKZFJKYjZVSVhyZHBvZWh4MUFFZlNFU0w5UlVWZjRTb1FsakNwZ2piQnJFUDZMTldJdXo?oc=5",
-      "publishedAt": "2026-10-31T06:23:21.000Z",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSzhEQmpQTVJQWm9NeVE1R2c4RHJicnUwYnpIVnhPZ2p1bDdpcXllQlBUNnRTM2FscG5fSU4xSlBBUkl1bWU1Z3owT2g1b014dFRacW1SWFBQQjZ2azRTdVI5OElOVG1jU3E4Yi1nTGx1OFkzS0lESGo4dnk3dEt0UVIxdE1BdWprNm15UGdpdGExWGJpTjFmUERzRlNxQ1VWSGlXWFkxcjNGRkFEODFzRUhOeUlyWE5rTmgxUTdFSjdQMzI3cHZr?oc=5",
+      "publishedAt": "2026-10-31T13:08:31.000Z",
       "severity": "medium",
-      "titleZh": "10月31日示威：国务委员会决定支持巴黎政府，在该地区动员7万名警察",
+      "titleZh": "在巴黎，企业在示威前封锁了窗户",
       "content": null
     },
     {
-      "title": "Manifestation du 31 octobre à Paris : métro, parcours encore modifié, ce qu'il faut savoir",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZjZyZXJXNm4yLVZiLWpfcklDTlU3NGxpd0tDemtfQ0IxQTdXelZEOWdCMExjQk1TbXJEY29DeldTdDh4OTBGRV95MXozalE0azlvZlhuMFV3aVRwODlFMk5sRjJfRkZzYWZzd0ZrWTg3OUFyZXBIYVI0TWd0Z0FlVXgwUU5hMjNfc3NfOW4tUGZ5ZjIyY1JKbjl4eW1PNzA4ZVBXN0MtT0lCbWVqczVITlRNU3NySC1FVXc0RUxwcC0xanQ5bnBlTWd6Ql9kM01oTVUtUWkyWkJUQjhTM21jamlxbTM?oc=5",
-      "publishedAt": "2026-10-31T06:16:46.000Z",
+      "title": "France Expects Hundreds of Thousands at New Protests",
+      "source": "blue News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRG16alFuWGUtQ01mbFc3UVhGMXFHVmdZYS1XVlVRR1dLXzltc1lGQTN0dU40UXFIZWdYdzFpMV9KMjVtcXhvN29Cb0NqSDA0dzg2QnB6YlFMSHQtV2EyaVVHQkpoNTB0N1RUY0xqME1YZC1zVlBYTmhwY0s4VS1uQVNPeXh0dnhSLXNBZUJPZWJIZVlOWVV5WEpn?oc=5",
+      "publishedAt": "2026-10-31T13:01:50.000Z",
       "severity": "medium",
-      "titleZh": "10月31日巴黎示威：地铁、路线仍在修改，你需要知道什么",
-      "content": null
-    },
-    {
-      "title": "Ces étudiants français qui sèment le chaos indignent une Genevoise fière de sa patrie d'adoption",
-      "source": "Tribune de Genève",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZjRYTjA3eE5TZEppd2REaHRNZkMwbUx2NXJfMUpUWHVXVDhuRmZJamotXzFPaWRpTDFvN0Q1XzhoTkJVS0U5bXN3S1N5Zk5TUy1Gd0Y4RXZkY3V0Rm5sdV84N3Rjb3BuRE82aVhsNHN2N19pZ1FyZjg2MzcwelNKbUNWVDlrWlVsUVcxY0EzRTBQNGd2?oc=5",
-      "publishedAt": "2026-10-31T06:15:00.000Z",
-      "severity": "info",
-      "titleZh": "这些制造混乱的法国学生激怒了为自己的祖国感到自豪的日内瓦人",
-      "content": null
-    },
-    {
-      "title": "France heads into third weekend of protests as youth-led rallies sweep Europe",
-      "source": "WKMG",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM29CeUhjRGNZLThVUS0xREZia1VCTEJXbXhrVmx3OGJBR0VUcGtLV09UWjgxVDdvX1pwWktMUnRlSkQwWnUxY3FMaHUxRndHWHd6UkllZjNKS3U2eGJfazlpNWpzcGxQNzE3RGgwWUV1MWNTcHFvY081THp5ckxJejROem1Qck1XTG9HUnUxb3ZSUXdrVWh6bEtTbkczSEo0M1pUajRpRW0zUlQzU1phakxlOGU3b3B5YklHV2R0NmZDZGVNT3R4MQ?oc=5",
-      "publishedAt": "2026-10-31T06:08:07.000Z",
-      "severity": "medium",
-      "titleZh": "青年领导的集会席卷欧洲，法国抗议活动进入第三个周末",
-      "content": null
-    },
-    {
-      "title": "Manifestations du 31 octobre: les commerces barricadés sur le parcours du cortège à Paris",
-      "source": "BFM",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlIxWFQ0MlF0TDdxSXVCNk5MZnpNczVZT3VSSUZEcFdKRkRRZWdvTUtnc1NZVUhfdGpKWF9oTXVoMjZaYkFoTklZVEkzX1F6MzEzTnVYN1dfVGpqMVBLeUFhQ1MtOUdPSHFaSmdZdWpmZU9KMWVJR3JrWG1qQnNydjdZM0lhNU5GNTU1UE14ckJ2VTBOci1nQ19jVnQxbG9YX1hfVEh1SWNJX2JOLWJkSU5tT04xdjFOQ1pleUVnX1BHNW1sTTUzazVXYklCUkRSREo3TDVMNk5jVEZjZkFNLUZGWW5kcUVaRTlRQU04ZzhjQQ?oc=5",
-      "publishedAt": "2026-10-31T06:04:13.000Z",
-      "severity": "medium",
-      "titleZh": "10 月 31 日的示威活动：巴黎游行路线沿线的企业被设置路障",
-      "content": null
-    },
-    {
-      "title": "Gilets jaunes : la carte des manifestations du samedi 31 octobre partout en France",
-      "source": "La République des Pyrénées",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUXJmbmhPZXNpbmdsbHN2RmFFYjlQTWRNbUdWWWN3XzluQ3k2NUxHYW5PV2FaSjdYQThHcDVULUJ2enIzQUpBcXAtcloxc3MxZko4aGRSdS1tQ21Yc05aZmxYU3NWTEl3SjEyN084ZWUzWGxueFlnTXV5SmdGVXJKdlVqRFNjdHZmeVh2bVc3OER5WWxSUTJYUkJoZHdfemRTUlRJQmtpQ1pROUhZV1N2VTlzSDJRR3RhZXA4RjkwVWlwcU1SUktkV0l2WmxPQzJhYWVLLTNvZjNzT3hpSWZNRjdCYVd1Zl9lTjJkZXJHZ1VOVUJnTEtwWlBHcWNPVnotRWlLcHBsTkNjUQ?oc=5",
-      "publishedAt": "2026-10-31T06:01:48.000Z",
-      "severity": "medium",
-      "titleZh": "黄背心：10 月 31 日星期六法国各地示威活动地图",
-      "content": null
-    },
-    {
-      "title": "DIRECT. Mobilisation du 31 octobre : le Conseil d'Etat valide le parcours de la manifestation voulu par la Préfecture de police de Paris",
-      "source": "franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQV0NYR1dxNXBiRENnSHZnLU5FaE5XVE9haUtKQk5xYklqRklpQ0lTaG9QcXhQRGd1ZEpBWUdaVjAxSXhBN3AyOFpsaVRZcnVBUWFLSl9VRHZmNjJRQnNHLUllM1VxVm00QkMyeFRibENwWW16UGtUWmd6dDh2YXFBeGJEVXR5ZUhiTnJBbXJYYVF0YUJULVdmeDNXYWg2aXNYbjB0R0pzTlpPRjR0VHNwOWczektuM3d4b0FRSm5NS1V3VmxGdElVdVI1NHV6NmpyTFdaOURyVngzdEdRVHlpQVNwWkNOSkdaRzFNNFVQSkNWR3NBWHBZN1k1QjZnMXRCbi1jSkJyZHB2c2F3S0FaWUEwSERxZzZkc083a09JR3kwTzBmTEdVOW13aXJaSERZb28wRUZNb0g?oc=5",
-      "publishedAt": "2026-10-31T05:55:35.000Z",
-      "severity": "medium",
-      "titleZh": "直接的。 10 月 31 日动员：国务委员会批准巴黎警察局希望的示威路线",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 31 octobre à Paris : parcours autorisés, métro, couvre-feux, ce qu'il faut savoir",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWTVqczNKdzhoMW5zTU5oa2RHT3duRFZ1SXVGTUJfS2NYbGVfUlZMV1F3dklwQ0pLRWVrdGxGT3BRZ2p3dV9UTlV2aGVERVJsd0lON1hmUEZkTzNLOXE0M2tvb2JuTEppVFVBeERsT2U0UUNKZDVoeTlQOGlmS0tielJjY3ZMMXpLdzdnc1VRMllPc000amY2WWdRQ2RfTGs3dV9XUzdEbGh2NFIxakNRbWZmSlQ1RDJzbTF4bUJIMlc4TmRYVWx3OVNOUFZJaWdranh1aUFtMV9tbWRFN0FfS3BWdnA2cFl6dmh2aktB?oc=5",
-      "publishedAt": "2026-10-31T05:55:10.000Z",
-      "severity": "medium",
-      "titleZh": "10月31日巴黎示威：授权路线、地铁、宵禁，你需要知道的",
-      "content": null
-    },
-    {
-      "title": "Mobilisation du 31 octobre : quel parcours pour la manifestation à Paris ?",
-      "source": "CNews",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlVRWEVrS1hEdnRvMk4xTWM0WHU4M0RLY2lDdW90aDZTaktmZzBsaVpsR002QlVoeTROdG1HakkyaEtTTTBBSWFqTG9xVkpZb3BJcnFaQzhvYlYzeU8wOXFMOTRaUTg3ZGMwMzVFdkRjUFNyQ2pCTWJnSjh4enNrbHpUUWhQQ1pqTXBXd0t4WkROYm5sLWo5cGZfQTlZeFhfQ2ZFOU54ZXZYUkRvWnB4eWstWDhKd9IBuwFBVV95cUxOelVCSDRzQjloX011eDBfaDFjd3JtVktrNjZxWUxESlRlcWVtelFiLTJyRkxseWMxTVk1UEYzT2ZKcXBPMVNKY2drWEtIVG1FN1NtaHRENnZqTlVDNjdaSnIweGkwdHdzZDhOUVVLNUVYSlB5OG1UVng0YVByUVYwZVE5VzZDeUNOWDhDSk10andHVnY0d3c3ZGlVU3l5SjBacGJRcWpLenpHZnVBbzdYNVJNVk84YTZWSkxv?oc=5",
-      "publishedAt": "2026-10-31T05:54:55.000Z",
-      "severity": "medium",
-      "titleZh": "10月31日动员：巴黎示威的路线是什么？",
-      "content": null
-    },
-    {
-      "title": "« Les manifs, c’est compliqué » : avec la Fonctionnelle, « service d’élite » de la propreté qui remet Paris sur pied",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONEpSRlN2RGRCOHNFZVlzNkxoQUhqeksta2pTYnMzMVNUcGtLV3ExOWQ1S1ZVOGdNSkRKOW1KVEExM0xSRTdiXzVYT09JTlRkdE1WaHZ6YXNYcFdrekp4WGVuVndDUlJhZE40ZUVScXlBNEJWWTFIZWszcENCeGRlc0RjR0s3SmZLWllBWUM3MzRhcXVaZVphQXA4dzhuT2tOcVMwRmRkQ2luOXpyeWgzNVd4MHprYnFudkR4Ynk2TUJPNGNRdkpORGhBSDJob1N5dG9sQm5CcmpLdWdENzV5LTJQTDZ6QjZmeG5uNDJNZ0tlTWZta2RNdHlxVVQ3blcwN3FMUm41cExfbnc?oc=5",
-      "publishedAt": "2026-10-31T05:50:00.000Z",
-      "severity": "info",
-      "titleZh": "“示范很复杂”：Functionelle 的清洁“精英服务”让巴黎重新站起来",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 31 octobre: le parcours à Paris allant de Bagnolet à Charenton finalement autorisé",
-      "source": "BFM",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRnhpODl6NzRlcmoxMEhDUjJYMWdKLTVkYk0zLVAtWHVuS3FENmR5MldfdnowTXdLZlMtSzRWOGRROHNyUTFFcjRrY0Y4UU8zV3BhVVFzenJpc2FKSXB6S21wdjFHSzhuazBXSjRIZnpIRDNkbzdNaUdiVXJISVpVREI2S2Y2OE5ic25MNXd2UW9ncDlJakN2WmFrbDdPRlFSOF8wMmVWazJrdEpPSjJzM2ZIeG9tQi1yTFdRSGh0Uks0M1JtMnBKQ0dULWV4SnJZLVQyTXJpRXFfTUNLSFFkbWFfX2VrZkJnSFhvQlZtY1pfb2tt?oc=5",
-      "publishedAt": "2026-10-31T05:37:59.000Z",
-      "severity": "medium",
-      "titleZh": "10月31日示威：巴黎巴涅奥莱至夏朗通航线终于获批",
-      "content": null
-    },
-    {
-      "title": "Manifestations du samedi 31 octobre 2026 : la carte des gilets jaunes, parcours, interdictions et horaires",
-      "source": "Les Voitures",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdHVNbXE1bFdYcWliNWJkSE0yR0RKYmJNRXQ1cDVWZmNvT1JLUlpDUVp5U2xIV3hiWlpHRjN1cXRScEdjMzZrV3dlVzFjX0ZUZnJNMjYtN0NRaVZK?oc=5",
-      "publishedAt": "2026-10-31T05:36:49.000Z",
-      "severity": "medium",
-      "titleZh": "2026 年 10 月 31 日星期六的示威活动：黄背心地图、路线、禁令和时间表",
-      "content": null
-    },
-    {
-      "title": "France’s Top Administrative Court Rejects Bastille–Nation Route for Paris October 31 Protest",
-      "source": "cedarnews.net",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSTBRajdnaFRzc3kyaWlzSHhsT1U0M3BhOEVwT2hvM20tVlVNNDFpRVpaZzFjcEkwYUwzYVpqN05WTFNWS3RDWUxxaF9wU1lGR2VkUDRNN0hsZVhVbk5YdE5SOUpRc1V2cVRJVkhmT0JLYklrcjYwNlluZ2dHU1g2Tjl0MGJaNGhKS0RtZHpSQWlocERUM09SWnA3aDZtZW5FT1I2V191cnpVS09zdnZDQjNaNGpDRmtGdk1zX3FEVF9DbFAtbW43UE9VWC0?oc=5",
-      "publishedAt": "2026-10-31T05:17:49.000Z",
-      "severity": "medium",
-      "titleZh": "法国最高行政法院驳回巴黎 10 月 31 日抗议活动的巴士底狱至国家路线",
+      "titleZh": "法国预计将有数十万人参加新的抗议活动",
       "content": null
     },
     {
       "title": "Manifestations: La France redoute un Halloween des colères sociales",
       "source": "Blick",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORTZBR1ljYUpPSVRtNmpWUWU5SHRyRE02ck4yZnhTUG1ETnE5bENJV3RvWHpfbGx5dXp4MW96VE5IakF1NVVnNWFQU29CbDhTYXRTb1psOVBZa2FwWUpybVJVN09ya2pqcGZieXIzY1pFSFZuajFxY0VtbTdZRG1aTUQ2SjdlRVpfQ2FZUW9sYXFHRXJEVDhpY203M28xSUFXREN2ZVhrMTZvZnJ0UmlSUg?oc=5",
-      "publishedAt": "2026-10-31T05:16:59.000Z",
+      "publishedAt": "2026-10-31T12:57:27.000Z",
       "severity": "medium",
       "titleZh": "示威活动：法国担心万圣节会引发社会愤怒",
       "content": null
     },
     {
-      "title": "Couvre-feu à Paris : de nouveau reconduit ce week-end d'Halloween des 31 octobre et 1er novembre",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQU01WEQwZmR1Ymd1R3o5WTNMUk5TLTdnTUlTcGZEeUhzV1FtZUlhdzdnblBXWF9DcjJybmFKak8tVHBoNVFUeFZpcUVDLXJQSjd0bUp0Q25PQTBGY21QMG9pbFN6V2hfcjQycTNXaEVsTE81bkx3MERabVlGdmxPWUhmbHlLbTdENFlqbnZQamtOb0lzZlNUTFkwUWpicGVnUUZIUHp2NHJoN3E3bkR2MVYzZ2RHZFdkTkk2Z0xyN0hYOG5HMjNCR2d0WEZDNC1admNHTzUxS29LME9qUjQ5dE4xQkVZSzdHM3E4MjdWSQ?oc=5",
-      "publishedAt": "2026-10-31T05:06:55.000Z",
-      "severity": "info",
-      "titleZh": "巴黎宵禁：10月31日和11月1日万圣节周末再次延长",
-      "content": null
-    },
-    {
-      "title": "Gilets jaunes : voici la carte des manifestations du 31 octobre prévues partout en France",
-      "source": "CNews",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRGFNa0NmanA1S1VPT2lLVGJZem1OcGZQNUVtZV96dWpsdGs0bThDWHpMdGd2WGV4Q2tOY0RCNXh2UTNPLTNPdldzeThOT2gtN0ZRREpuTU9ieV9sNG9ENHdYc0pqV3hlOEdBQzNXM0F5bnpoeWU4ZkdtQ0RQWmh0S1JOajdLR3JfNFRfZW5RZWg4UUg5THVoTTFRZk5yZWIweDRqeUhvbDhlQkN1aTJZQXBhSUJKckoxR3dR0gHAAUFVX3lxTE1jX0g1ZzVwTU80MnQ0QmQxYXRNejlFZG9yNVQxVjBUNEVsSE5EWVJPU2hWdGFscHhOOVpoYTFKTV9ORVFfdnZLV2hYV2ZqaHNVb0d0SzNYZlFXTnpBc3g3N3FYamljMTJqbVFRQ2VsRWlTV2haWFlrQ2lTT3V1d0RkSzZ3MlFMUGUxRy1FVk5GalVtQ01JNDh2TzM3SFZuVjVERVlVaU5LalZUb3pTMUVsSWl3cngzdHpRUTFMdURxbQ?oc=5",
-      "publishedAt": "2026-10-31T05:05:00.000Z",
+      "title": "Manifestation du 31 octobre : tracé confirmé, dispositif de sécurité… Suivez en direct la mobilisation",
+      "source": "Paris Normandie",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFd5anhxV1p6djVvQmlNbzJPbWF3QlNCV2NnQXBvVzJySVlUVUtZN2FRREVCN0ZZX2ZoN2xlNlZYZENoMHlNMWlwUG5ZUnJiMXdMRUMza3hnNXQ0Vm5IT29NdXFYZl9Sbk1ZX0VBYTRoTVBxOHJXZnl5VUxOUTloaFVkY2RjVE9JOTV4Z2kwWHlISnlXb0MybXR3bTNSbHd0WXJsbUVnWFJUZlJWalAybkVlY05tcmFsa1JrWDcxYVF2TE1ZdjNEZ0J2clNSLTA?oc=5",
+      "publishedAt": "2026-10-31T12:49:34.000Z",
       "severity": "medium",
-      "titleZh": "黄背心：这是 10 月 31 日计划在法国各地举行示威活动的地图",
+      "titleZh": "10月31日示威：确认路线、安全系统……跟随动员直播",
       "content": null
     },
     {
-      "title": "Éditorial. La République, pas la violence",
+      "title": "Manifestations contre la vie chère : en direct des cortèges à Paris et à Lyon",
+      "source": "Paris Match",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0xqVWIyVXFER2xnVzBxQURRZnFadUU5Nm9hS1FXSjYzeWtSLWw4bnh2RG5WZXdxQzdwOWZUa2xXX1lkN0xGZndnVlF6dkplQUViNXEwZjJOc2ZWLW80VVRZWlY4dXBuTVEwU1NWUjFhdXZoc0ZCcVFBeW4xY1V6SkYtN1JjemVDeGNBQk1DZ1hLNHkta2ZtNFZpV1o3RDBkRXVnRjNoVmUwRG5kc0VoeA?oc=5",
+      "publishedAt": "2026-10-31T12:40:38.000Z",
+      "severity": "medium",
+      "titleZh": "反对高生活成本的示威活动：巴黎和里昂的游行活动",
+      "content": null
+    },
+    {
+      "title": "The State Council relegates the protest of students and unions to the outskirts of Paris",
+      "source": "Demócrata",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOenJIZHQ5UzI4dE9YMS1yVjFmdVpUbm1US1RvcmlzNGdORzB5czBPOFFzNWlzR1l6OERDMmhvbWh6QmctN0pZR3huZ0VZa080eGlteVN1T0xIZUF5OGd3T1JvYVhXNk1KeUZmbUl0X1J5V3BnTFllcU55aXRpYnhYMHpETGNKODdVb1FUNWl0aU0wc0lkRVQyRWQ0S2tNVC05TUllaXFHNnBjWmpGLTRVWjNzbWJNU2V0YW9ZOVdFc0VGUGV4ODEtLWRtVdIB0AFBVV95cUxPTTRzdmFjQ1ZmRnRWYWZnNVpneDBOUW9KUnNiZFhyT3dEeHRJRlZLMTdtOC04WjZUU3NnVDM5NFlMQ1MzOEFrQ2xzc2hUREtSZElLVlFEWnBPcHl1bVc4eVFnQjJLWWZBNVZ5REFCSTBGWXNiLWNycXBKQTNYOS1XeDQ0d3ZTbWtqTXczVWZZcGtVWi1UdWNvTWtfZ2ZVdE9ULXNrdlpwSzVqWURKNk01TW80RlR6TmVtUHhGRG9yY05kem9QZk13US1hUjRxNmNt?oc=5",
+      "publishedAt": "2026-10-31T12:38:30.000Z",
+      "severity": "medium",
+      "titleZh": "国务院将学生和工会的抗议活动转移到巴黎郊区",
+      "content": null
+    },
+    {
+      "title": "France braces for more unrest amid fresh protests",
+      "source": "RTE.ie",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lVWcyLTBHNC0xWDc3WDYweGQ3R3BmYWJ0dWV6WHdEcWdvRE1KSzExb0JIcWJUcTR1eHp0dGY4UTNqNndqU0NrNlJYR29BaGVSTVliNFRpLWE2NFp6eDVDbDQyczVad2F2YzdMa2o3TU5RUQ?oc=5",
+      "publishedAt": "2026-10-31T12:32:54.000Z",
+      "severity": "medium",
+      "titleZh": "法国在新的抗议活动中准备迎接更多骚乱",
+      "content": null
+    },
+    {
+      "title": "France braces for 3rd weekend of discord as youth-led protests spread across Europe",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50Yk1VZVJadDg5aXZYVWhiRThmZlBBOHFIWW5YM2tZVjBQWWw3RVpFcFFrNTVoU0dVaU9qTmdwRDJpU2FtTjJxMWNISkJXMzRGQUxZbnVsNDc0bG12a0RYeWlScWRLUWZ6MVpXbXJJaGpQRXlqeW9CNUNn?oc=5",
+      "publishedAt": "2026-10-31T12:27:39.000Z",
+      "severity": "medium",
+      "titleZh": "随着年轻人领导的抗议活动在欧洲蔓延，法国准备迎接第三个周末的不和谐",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 31 octobre : près de 120 personnes défilent à Châteaubriant",
       "source": "Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYWZZbThHeUJ1azZiSUtmWGZqSGREQzZWajlXeFpZZnJEamxESDFTVV9LWDVOQzQ1bTc5eTRpZjJJZ0ZFRHFwaHFKdkVtRXpqVkhRZ1NRMzNFWFpUdzZMX2JDZVRnblVhRHU2dDc2cWhmLXZ3eXVZNDlHby10Y0hBLVJaam5GbHN3aHNsQktaVkMwN1pmMUdpY0pNd0thSWh1VEhiM1FvOEZscFh1a3lqbWs0RVpPQWRQdTVrTHN4WElFdw?oc=5",
-      "publishedAt": "2026-10-31T05:00:14.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVUdXc0hTdTRVV21UTVh1WFRNQUJjcHM4cXZmdXhFRXpramdXLXY0X0JuUXZGRW9pWHZuRUlfN3dXd0NFNXR4WC1OcC1LN3RxS1FKaHRaMGJYUEVmUC1uaDNtQ096eFR5aEpOLXM1YUZXQ2x2cUVZSFNDTWxsSjB6VWx1elUwSnV1VTJKYlZXV09VRGVVSzJ0WjFZVmJEWE02WE1XX2pJcTRNMVUzUVNJN2JPbDB1LUZKVDVZOGNpSmtaQTBGTmRVbl90dHFTMGxOTUI4UTkyMU5JWF92eU5GWUlBZ2YyU2JzRUdHaVg5T3YyR3M?oc=5",
+      "publishedAt": "2026-10-31T12:27:32.000Z",
+      "severity": "medium",
+      "titleZh": "10月31日示威：近120人在夏托布里昂游行",
+      "content": null
+    },
+    {
+      "title": "Cost-of-living protests set to spread to Germany on Halloween as France braces for fresh unrest",
+      "source": "CNN",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOFhCM1JCcUdQbW4wWl9QdXZIS3ZQbzdlRGNaenlpQnNuZGpYb3c0ZzdxNi1yd0NCYTlZZjhnUlFUMFZHa3htVy12U0NZTS1ISW5MTm1wNERkSGlnVmpDMlJYMV8xbU5wY2JmbHpUZ193Z3lhdFdaSDVGZW9aYlk0MnFB?oc=5",
+      "publishedAt": "2026-10-31T12:21:12.000Z",
+      "severity": "medium",
+      "titleZh": "随着法国准备迎接新的骚乱，生活费抗议活动将于万圣节蔓延至德国",
+      "content": null
+    },
+    {
+      "title": "Halloween masks are banned and 70,000 cops deployed in France ahead of protests",
+      "source": "The Irish Sun",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DTTgxY19hYzNGMW5sMk1vbTB6SXNVb2ZyS2xEYzR2YWV3SnNVTGRkTmZ4Q0llSk90M1AwZjZFa2FoSlNDeFY5V0dGRnQ5cThjRWNYa1JkeV9XRUZTR0o3S1NXYjJFYlRvLUFCRHpVM2g5ZnRLcDV3LTZB?oc=5",
+      "publishedAt": "2026-10-31T12:20:24.000Z",
+      "severity": "medium",
+      "titleZh": "万圣节前夕法国禁止戴口罩，7万警察出动",
+      "content": null
+    },
+    {
+      "title": "Parcours de la manifestation à Paris: \"Nous considérons que c'est une atteinte disproportionnée à la liberté de manifester\", déplore David Libeskin, avocat et porte-parole des Gilets jaunes",
+      "source": "BFM",
+      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPRU5MaEhQS0NtSENoRnZzSjcxd0dVSEpXZXB6REhDUThmM3E2RnctMGdxS2hmT2tKMEgxYW9EZjh6ZGd0T2lxaUlhZFFtSXpjMlFCN21Kd2JZNHJnVVREMFE5ZXlRLUtXOXd1Z2FNU2hid3Y4dkxwNGpVblExUUVwdDh6aEl3WjVXRDlFMGZfRVdvWDk5Sm1VWjYxQlpQYWVQaU1sbXJlRWVoMk95a2RLRzZvSHBCRUZzNFIyZkRKUVVVTHo0cG9QZG1WR0NMa3RLRi1TTzltamJJcmZNai1BaHVpb2NKQWRHZnY3MnJ4RFZUeFI0Rkx3R1NQOEVKWGlJN1c5dTVjVm9odEJYd1hxOHg3Y08tU0Flazc4dmJuRG5tQVYyOHFrOGVwSWNFZ1RxSzhGbldCNXA5T0syZk9GSzIyTDNBRV8weThaazFRb3Z4Y0tpeGYtRk52VUxyb0J6MEN2VzFLQkpQNzFXZUREdGh3?oc=5",
+      "publishedAt": "2026-10-31T12:16:36.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎示威路线：“我们认为这是对示威自由的过度攻击”，黄背心律师兼发言人戴维·利伯斯金 (David Libeskin) 表示谴责",
+      "content": null
+    },
+    {
+      "title": "Mobilisation du 31 octobre : 300 à 600 militants d'ultragauche attendus à Paris",
+      "source": "CNews",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdVh5cVZJOV8ybTdFaGhkWFJwYnc3enNRdlhNb2J3MWtHRXowZVBzbmJ6dUxGa0ZqT1ZBMmZZOUNybWhHdHBTTkEwMXRzanN6RzJ4TU1GSEpwdnBNcjJ2Tm4xUU5UZlB0NkZqRmFfMXhGRlk1RzRkMGUwZTdkcDJjdmhub1EtU3pjUHRqMlZjSW5IN1VtdlFscDFOQUdVMFpDa05abWxIT2RTUUlrZGVreUdjdmJLWlJLbVI40gHAAUFVX3lxTE1PeC1OVWw1djJ0ZDNTSHRFVTdoZFByRTVtckNYMW9pdmJuMEppU3FQMW5BVWY3ZmxyUnlDMnNzb0FkWWpKNmRMTGhOMXZBRGkwNUNXSEM2OXFaRnZjQ1hoLWJqQWpjYl9HOWVmTW85TEJFMkRFakNOVVgwbWRQRER3NXhpcXBUZjB1M0lkU1VWc1AzSUZCa1dtSVAtVUVPczFwOHhTbDI0QnhEYWQxaTNUZnZ1R1I3YkxHYzBiTmJoUA?oc=5",
+      "publishedAt": "2026-10-31T12:09:45.000Z",
+      "severity": "info",
+      "titleZh": "10 月 31 日动员：巴黎预计将有 300 至 600 名极左活动分子",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 31 octobre à Paris : parcours modifié par le Conseil d’État, quels secteurs concernés",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRGJJbTlpaFMzb1FsNlN0Mi1nVFRKeFBLODZMa2syMEE2NUdzUXVocDdoQzUxYmtOb0N5YXhGa0R2QS1HN0djTUw0cTJlam5aVXpaS1c1Y0xUOG90a1JRN1VYdlhNZHFrTWpSbW91cEtFTkprejJ3VE85ZEJFeml0SGxuTmNsaTlweVpNVVJlRzBMOHBhLWJfaGJsVTA5VExZcDI4cW8wbzF2UkJLTnpsWXJMQW9IV0FtYlNra0NLV25vRDJsVGNfTTBZcUY3TXM3Y2VkWnhjME1Cblh2SDZVOHAwRWNYVGdVNDZNUTRIcUhsYUt2RWc?oc=5",
+      "publishedAt": "2026-10-31T12:01:35.000Z",
+      "severity": "medium",
+      "titleZh": "10月31日巴黎示威：国务委员会修改路线，相关部门",
+      "content": null
+    },
+    {
+      "title": "Tourisme à Paris : les annulations s'accumulent après les violences du 17 octobre, les professionnels s'inquiètent",
+      "source": "Linternaute.com",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWm42Unpja1BXSjBfdnZlZWkzYUhwOEdjMzQtOFZrYTJkYnZDaXlLQlRqZlJLNjFYMFpQeHRkazZacjR3aUtWei15NV84bFBZN0NsSk0tNWk1dzNDcmpLTm9sUTRNVnUySnRIOGEzVkwzYWZ1bGNKVFlTZWVoS1BTclBleWI1TFROaTdHbG0yY3FUT1VaZk5tNGVBSGJjMDNldG9tRTJpWmVWcm0zRnRXX09hbGpCT2lSQ2RtWExxYTljcVZadXZScWxqZTMxcjdCSlZVMWdOelBQeUszRDFINkdrbHBWMWd3?oc=5",
+      "publishedAt": "2026-10-31T11:58:19.000Z",
       "severity": "high",
-      "titleZh": "社论。共和，而非暴力",
+      "titleZh": "巴黎旅游业：10月17日暴力事件后取消航班增多，专业人士感到担忧",
       "content": null
     },
     {
-      "title": "\"Ça peut tourner au vinaigre\", craint le maire de Charenton avant la manifestation parisienne du 31 octobre",
-      "source": "Marianne",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbmJZQlM4TGt5Q1gzaU13S0xpTTh6RFFXQkFXRnVuSzJZNEZCUU9wQTBaRk5QOTV3bjY3N3BoSDlnTHZ5NDlZekI1NDNNVDBPN0FrMDRlRG14aUoxQTVVZkZXaFVKenJQVVpQVHdmU0RONG9MV0kzSXF5b3BLUjVjUk9nY1VWdDBJN1lKTWpjSW4wdTZiVVJfT2x1TC12YVhOc1Q2aFhBNDJHaDVfc1hBUGZ0MkJiaHBXOWswRXFNTmdxSXdNTzlTWGU3bHp0NE1vT1RV?oc=5",
-      "publishedAt": "2026-10-31T05:00:05.000Z",
+      "title": "Manifestations à Paris: un couvre-feu instauré ce week-end",
+      "source": "سانا",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15Q3pmUGFuUnNsVjljSWh3aHhwTjYyb1RTVHdZY2Q3N2xCdUwyUGVaU2RabTdyaVllSU5IUU1mN0w4TWY0V1pfS01xSTJHYWRickN3?oc=5",
+      "publishedAt": "2026-10-31T11:58:15.000Z",
       "severity": "medium",
-      "titleZh": "10 月 31 日巴黎示威前，沙朗顿市长担心“事情可能会变糟”",
+      "titleZh": "巴黎示威：本周末实行宵禁",
       "content": null
     },
     {
-      "title": "Manifestation du 31 octobre à Paris : plus de 40 stations de métro et RER fermées",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQaTg4WFl3dlY5MXZqYUw2aktMRUw5SlRUaE9pYURqWUsxeFRoRmxYMjNVSTg5b2FDS0hXdk1fNU1QR0FNZ0FEamVOaHF3ekY4VFZ2dFprWG03blpMeDNEY2VPUEk5V05EZWdERGxsa1FuREU2VDd6TU9GVVRmUDdRRUg0cm5sNGZxWGpxX0NwVDAzVHJLd2dGQUZhd2ZwRXJ4YllzZXBEUmRvaEt4d3R3VmJIbFhCQ1RhZFlKNnByNldaYjdaRE4xbk1ocGhscmlIMXYxay1WUXdxTWtQTDFhOXgtTG5md0NvS0FOSlpqaVYzQWRrR29OZHBwSzhrVmFFNTlKRlBkZTZtMlEyX2tHUUUzRldzM28?oc=5",
-      "publishedAt": "2026-10-31T05:00:00.000Z",
+      "title": "Manifestation du 31 octobre à Paris: 300 à 600 militants d'ultra gauche attendus à Paris",
+      "source": "BFM",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTEJ1RU9UUGlVMjhGWkMyMG9mSHl6YzZPX24zaUptZTRBQWtpbE5Ea0hDbkZ4c0xDVzJxaXZDYWQ3WUhNbTFVUDNYNTU4RzNjRlZuNE1XTDZPWDN3Tm85N0JDNzdCbE5YQ213U2Z0U1daQm9LZ0k4UWsxbkUyenhnbWduSm43eVZwR0xpd3dMUUI4Rmg0YzlweDh4N2pQemhROGJjTGoxTG5XclFKc1M0LU5PdGVMNDFFcGN1SG5qSDNGNFVWQ3JQaXBLZURBQkRqbDJUNGtLaWh3NGZvVV9qZl8zMXpfQQ?oc=5",
+      "publishedAt": "2026-10-31T11:48:28.000Z",
       "severity": "medium",
-      "titleZh": "10月31日巴黎示威：40多个地铁和RER车站关闭",
+      "titleZh": "10月31日巴黎示威：巴黎预计有300至600名极左活动分子",
+      "content": null
+    },
+    {
+      "title": "Mobilisation du 31 octobre : le port de masques d'Halloween pendant les manifestations entrainera des sanctions",
+      "source": "CNews",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1dGUk5LMzBqSVpIbVNwOEVic1paMDRMZXl5akVoYWYzMnkxMGZET2pMSU5YREx3S3FUa29iNkZwMlFwN180V2dVTm11UTNhTF9SMlFkUjFUMDFJdGNmaEtVOXFmZHFNb0hYdVdaVF9tcTRZYTNpWmMyZHRNeGZhZVNmVkcwajNZQ1ZwV1p0dXpmQUtDOE9rbVRHSFhxR1FISDlGS0FoOUxra1XSAbABQVVfeXFMUDhtb0FReWpiRHFhSDN2d19YMjctSW5WY1pZU2J4NXhqSmQ2MHBhenZscjlSdW5ZaFFkT0x4Wno5XzNxeVAzRllZZXVyUjFmV0xuc3llczFldm1tcjJ4UmlVYjVKWXpEVUxlblVjb1had1RDdlRPTm9nOVl4YkpWRlNOOGtfLWZTVFAtUXlBMEtnR2lDaXUyUzJjVzJvN29UN2p1dzMxY0txRFd4SlhEM1M?oc=5",
+      "publishedAt": "2026-10-31T11:41:22.000Z",
+      "severity": "medium",
+      "titleZh": "10月31日动员：示威期间戴万圣节口罩将遭制裁",
+      "content": null
+    },
+    {
+      "title": "Manifestations du samedi 31 octobre 2026 : la carte des gilets jaunes, parcours, interdictions et horaires",
+      "source": "Les Voitures",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdHVNbXE1bFdYcWliNWJkSE0yR0RKYmJNRXQ1cDVWZmNvT1JLUlpDUVp5U2xIV3hiWlpHRjN1cXRScEdjMzZrV3dlVzFjX0ZUZnJNMjYtN0NRaVZK?oc=5",
+      "publishedAt": "2026-10-31T11:38:45.000Z",
+      "severity": "medium",
+      "titleZh": "2026 年 10 月 31 日星期六的示威活动：黄背心地图、路线、禁令和时间表",
+      "content": null
+    },
+    {
+      "title": "The British student who sparked outrage in France by mocking shopkeeper victims of Paris riots on TV chat show - as she calls for UK youth to 'revolt'",
+      "source": "Daily Mail",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ2c3TjQ4UExYS1NqVXdOVUVLTDZscmRyQzB6Y1k0bXhXUzFKMVVpMk5hR2ppWHVqb1c1WVBWREdtbnltZUkxWjNDRW5PbHE1bUFOSF9ydE9WUkZxdTZZc1VDb3RyVWJ4dG1raHNLVElqWk1GVjJRTGtPZFR4RVdwci1JOWJNMEVHcW9VeHJwLXRKZWpVRlg3Zk0zM2hHUFUyQTdiQVdrZ0lsZ1hFOWRNR21WNHVmSzdvRnpwdWZsWdIBxAFBVV95cUxNTnFzaU9adTliYXU0bk1yS2VNWTAtcWVDYzZhR3JIalFwZ1VMaGVpQm03eEgydXNPV2E0Qk02TDQybmdaVDRMNXExeDEzdU9hM3lBSTZFUzdKQ2JmOVpDRmZvdWNpT29zNGxpcUJxTkEzZnp2OXU1NllJUTBsZkxfamw0cXRCOE5OVzBRbUZmcXZVbnZJbjlCRGxKeHhTaC1WWW9QRmV1TVN2RzNoVldaaXY1LWFqN1Y0UTYxelc4Y0dlMGVh?oc=5",
+      "publishedAt": "2026-10-31T11:31:15.000Z",
+      "severity": "info",
+      "titleZh": "这位英国学生在电视访谈节目中嘲笑巴黎骚乱中的店主受害者，引发了法国的愤怒，她呼吁英国年轻人“反抗”",
+      "content": null
+    },
+    {
+      "title": "INFO BFMTV. Envahissement du périphérique, lieux de pouvoir ciblés... La note de la police sur ce que redoutent les autorités lors de la manifestation ce samedi 31 octobre à Paris",
+      "source": "BFM",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPRDBrM0lGRGZkNWlpd0ZaM1h5NDBZYnNuRUN3cWUtT1Z0SEhoNU45MXpZS0tBWnh3V0YwUzFTbmpjdEdoemJ3UlNzX2pzcWFsMDQwUHppeEVzdW5CMzI5VkxybGhfdVV5SnVfVEV4TWktMEdrSTNXaTdvdHJUMnFkektmZ2pCYS1nZzZ1OHdMR0NKa2hwRFVLQzZybTR3bDc0TlZPb0NWWlpnY0ZuNjJZTWFpM3BadXQxVzhkNjZtUHRwSG1LeEFIZXdHUmtBV3A3azBzMkV2aXpMaF9JS2U2NU1GWnUzZXFKckNYWmkybUZnNkpNcFd0N1VoVHdKaUxOTjVKYmVYVC1DMi1aUkNLUWQwTGY5N3NrTHBNZjg0bHR3LVpQemhZUHBwWGM1OHBFN1JxSkducTNNSFRmaVBUSWNHNFRBUEFrd0RMRUFqS1ppUQ?oc=5",
+      "publishedAt": "2026-10-31T11:30:32.000Z",
+      "severity": "medium",
+      "titleZh": "信息 BFMTV。入侵环路、针对权力场所……警方记录了 10 月 31 日星期六在巴黎举行的示威活动中当局担心的事情",
+      "content": null
+    },
+    {
+      "title": "Paris, le son du piano et de la poésie résonne encore.",
+      "source": "Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PQW95dHFMMDJPM2hkQThaVERiY3ZKdkh1YU1IQUpKZzUxRWlId1B2WEw3UnBUU2VkUnhOelp1YzZBVS1wZE5oTWk5UnlrS2NJeWdsUWNQMjNFQlVmNDBVY1NGaXB5aDlSc0gyaDNQZmY1Nm1CNnllaDNIOA?oc=5",
+      "publishedAt": "2026-10-31T11:26:05.000Z",
+      "severity": "info",
+      "titleZh": "巴黎，琴声与诗声依然回响。",
+      "content": null
+    },
+    {
+      "title": "How social media has shaped France's protest movement",
+      "source": "Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNS1xOGNDYU9nQ2xrNVZjVGFocE1TdkRhVjQwcGRNdEczMHFCSjRjR2hsLVVXaDhRUFpkVHR4bEZkOXJQMVYtYVBlU1NmLWtyMG5RMVpiWWJLN3o5ZVdtZ2VuWUJGb1RSMkxZa0pMQ0h4SklxZ0xsOXQzX2VQU25rRDVqcE90WkxkbnhkLWYwemtFd21fdzQ1M2I5dWRoMXlQRkN6MTVWZ3ljYVpWREYzVFhyX0hZUnY0a2hpUA?oc=5",
+      "publishedAt": "2026-10-31T11:21:23.000Z",
+      "severity": "medium",
+      "titleZh": "社交媒体如何塑造法国的抗议运动",
+      "content": null
+    },
+    {
+      "title": "Manifestations du 31 octobre à Paris : quel est le parcours autorisé pour le cortège dans la capitale ?",
+      "source": "Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPXzB5Z1pGNTlvd1lkT05RSDdaR09SUnM3YnlfdW1kb3VpN0M0cmMtTnJSY1pEcHh1XzVGQU9kSVZjQ3BXS3B4RDRtZzVsUFVpYjh6Q1NVa0FpelhtcUlVcDRVeUZ0enhnNHpyM3RYa1l3dXFZdklmd0lhV2RTZDd6U1FZVWpBcEw2TW5Lbm5LRGVFTW9HV0dYajFzVVZEOVp4d0VKREhSOGZtZm11aHpjbTh6YmRmcERFZ09SMUxySHNBQkMyYWYyT1B5aDRNZXdXV1ZmTVNfQlZBdVNIN2hJV19hajcxVjV0VFpZZm14WnFqMzhJLTdFQzdQUUp2bHox?oc=5",
+      "publishedAt": "2026-10-31T11:16:06.000Z",
+      "severity": "medium",
+      "titleZh": "10月31日巴黎示威：首都游行的授权路线是什么？",
+      "content": null
+    },
+    {
+      "title": "Manifestations et grèves en Europe : de Paris à Rome, les revendications et les réponses des gouvernements",
+      "source": "Tunisie Numérique",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdGZfMU5lUzVnd1EzZ21JWV85R1pkQjVTVEJ5b1JXRzVuSjZZZTJZdXRaR24wWDNiVHZ3NUtWTlVIMzk5ZElJa3RHdnJONVFTVmRzTEo2YW9CTXBVUXRFNWhTR29lZHh3dmx3NDdlTHhnZThCRkZFd3RVQnd1ZUxWRUlMdWhKWnBINUdGNTBRNmtiU0szeFhaU3RZUmM4U05qRFBFMTBJRTU0WGFjczFIVFZBYXN1Zw?oc=5",
+      "publishedAt": "2026-10-31T11:12:55.000Z",
+      "severity": "medium",
+      "titleZh": "欧洲的示威和罢工：从巴黎到罗马，各国政府的要求和回应",
+      "content": null
+    },
+    {
+      "title": "Third weekend of protests in France",
+      "source": "France 24",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90YU82RjdfamxUbWl2dndLd3BYQXNtZERWelR3cHR3WnFidGtNMl91a2JoWm8xWVFQZVhiWVJoZF9DdzZLeElCamhSSUcxQnhBOEtIYW1sMG9fSl9GRF9lRVRnQ0FOMVF5X1psR294ZzM?oc=5",
+      "publishedAt": "2026-10-31T11:09:43.000Z",
+      "severity": "medium",
+      "titleZh": "法国抗议活动第三个周末",
+      "content": null
+    },
+    {
+      "title": "France's Nunez warns of high risk during protests",
+      "source": "France 24",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmN1a2Q5ZER5bldDMXg2TzlqTmhsTTdnMnZrWDJsajNOWVc3VHVoUnkxMGI1NWRkMkoyeDlWeng1U013MzMzUDlTNW5rTThhTzdmZjhsZjZ5RHp2YXhRdU1Vc1E1NGhHWXBpZ095N2QzWEViVWlYQTJFbVZQWXVOUmxKZw?oc=5",
+      "publishedAt": "2026-10-31T11:06:53.000Z",
+      "severity": "medium",
+      "titleZh": "法国努涅斯警告抗议期间存在高风险",
+      "content": null
+    },
+    {
+      "title": "La France n'a pas perdu la capicité de se rassembler",
+      "source": "Watson",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVgtX2hsZ0RVT2pNdTB1VndCeEhTaGQyR3ZCVDlWd1NjUnhoc0txck82clU5emRsbzhMYjNVR3E4ZDd1M1JoY1gyekdWWjF3QVBlSmpES2dhZDZEM09FVUZnWjkwR1lPNjhSLUs2ZmV2eng5SnUxbXAyY1UxMUNvQ3hESTllODNNcDZfX194VkJqX1lTVlNRSWxmTXFHVTQya2sxZEUwM2g5MnFjckxjZzFOTGFtR2VK?oc=5",
+      "publishedAt": "2026-10-31T10:57:44.000Z",
+      "severity": "info",
+      "titleZh": "法国并没有失去团结的能力",
+      "content": null
+    },
+    {
+      "title": "Police and army patrol Paris streets, ahead of further protests",
+      "source": "Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT1ZrMmh2dkxOYWFXQnRLZVZNeXJ6UnhkVjFlSG1SWE9ieGRjcV9kb2lLVWZ0RGFWZmZqZjdERnc1UVh1ZmpHSG9IdTlKMzlBSDlwbFNWSnRraHFnRklHTFVKTlg3RVk1UF9INmJEWkg0NmlDY3kwQWFZaElqd2ZDekRBblExbkZF?oc=5",
+      "publishedAt": "2026-10-31T10:47:48.000Z",
+      "severity": "medium",
+      "titleZh": "在进一步抗议之前，警察和军队在巴黎街道巡逻",
+      "content": null
+    },
+    {
+      "title": "France heads into third weekend of protests as youth-led rallies sweep Europe",
+      "source": "Arab News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTnEyNDh5ZGdoS21ycV9ObDVRNkxvZGNYcktYd1BvMWtLNlo0elNxZXk2WmY3VFlPdUo5Z1ZxM3pLZUllSXlXYTZaUFRjSEFveVlmYnI4X1FxYnM2SGt2eDNBeTM3Zk0zZk9Nc1dWejRqeFg5bzE0M05MblNUcWpSRVJOMDQ3X1l5Yk1RaXBQZDdoSnZSWkgtYWtudUZYU3lGblN2cGd2ZXZxRWY2OTNXMjdjYmpKakU?oc=5",
+      "publishedAt": "2026-10-31T10:46:24.000Z",
+      "severity": "medium",
+      "titleZh": "青年领导的集会席卷欧洲，法国抗议活动进入第三个周末",
       "content": null
     },
     {
       "title": "Manifestations du 31 octobre",
       "source": "Ville de Paris",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlBFcTlXdXNkalllbTl6bnM4bl9jZ0VOLUVTN3JWY0c2U084eGdoTllQbkVaVEJBalFhUW00eVRmQ0hrVV9rR2NFNmVMc05aTDNGZ0RIekNucklHb3pxWW5tWHpvWk9BNGgzUmtoRzdaV1ZfdnM0UXlqLTZmbmdlZ3AycG5LQlZWemZIWVhlNmNMRGtJZjhsdG1iZXpodFZKa2hRTmNiWFNWOXlKWmN5a3oxY0h4M05kZ2VReXhHNEI2WVJiMzg0?oc=5",
-      "publishedAt": "2026-10-31T04:40:59.000Z",
+      "publishedAt": "2026-10-31T10:43:59.000Z",
       "severity": "medium",
       "titleZh": "10月31日示威",
       "content": null
     },
     {
-      "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
-      "publishedAt": "2026-10-31T04:20:46.000Z",
-      "severity": "info",
-      "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
+      "title": "Manifestation du 31 octobre à Paris : la CGT appelle au respect du parcours autorisé pour des « cortèges sécurisés »",
+      "source": "Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNYmtfamJKYWcxN3QwOVFWNU9vZnhXNHg2d0U3VnBrOUs2X2k2R1djYmg0TU1DNElBeXkxS0NmTWxONTRiZy15NXkzNjdzdWdnX3FQLVNTOUhpMEdSRWhFZlYzRklySFJ5LXJXNGg5UThLc1NUMUN6NTdGbDlDVGpnYlZhd2dEb0xRcnRPY0t2dFpPbldud3o4X2ZmQU12UE1JNEMtdHdpNkhQRHZuSF9oeDNWX3dVNTBzc2xLUjdpajV5eWdTb2lrTWhULTd1YUh1Rl94eS1ZVDZ3eC1EQlNGWGJERlZkZUpXeXNucGE1V1Z1QnVqNUlLbkp6WENpX0ZYMjBWSjBSVQ?oc=5",
+      "publishedAt": "2026-10-31T10:33:26.000Z",
+      "severity": "medium",
+      "titleZh": "10月31日巴黎示威：总工会呼吁尊重“安全游行”的授权路线",
       "content": null
     },
     {
-      "title": "France braces for fresh street violence at Halloween protests",
-      "source": "Kuwait Times",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjk1ZlhqSWpVY1VLamFHTHJ6S0ctY2MtS3psSGlTQkZwekIwanVDdUhfV3p0NGhQVW9UNEVHUkZjajdLWFZBZjd6Sm5WYkgydklPeG9qQ0NLZVptVnhWVjU1Mk1QM3hFNG5wY1VsX0RLU00wNEsyenI1S3dNa3dqRURnWUUtbkctVTJSd2ZtMkczNjU5UnhIaFNUSF9JZ09PWlA1bk92eFdQd9IBrgFBVV95cUxPZ3FXZGloWVZ1OVRlRlN0NExwWE41SlRNNkJmajZpZDhWX1VJTzVCVE1VY3VJYzRyN2JZVW5rZEdyS29kNVM1UUdvUkhBR3FaQzVVR2xRREhkdE1mTExzWnJfdUx5MURPakdub0F1dldFX1B6aHJieUxYSUM0XzNVaUYzekVOMGhkLVByRlpDM3ViQk4wVHk5ZFViZV9QczltZktmc0cyUmlIanEwTnc?oc=5",
-      "publishedAt": "2026-10-31T04:12:32.000Z",
+      "title": "France on alert as Halloween protests raise risk of violence",
+      "source": "Dhaka Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmV6am0yMmdKNmw1X25rMGhaWkpUblUxajBaSTdTOGlqLUcxTFYwbE0tbWViVG94RTkwOU9yZ0pFbkVaMmx2UVZ2MnNaYWR6REhNTHlMTUpDbzVuR3hDb2lIQm5jTXBodUtqRzBzQVZ6T1dTYl9nRUppRmdBcjVjWm5UVmRCeEZkcHQtcWR5LU9CTkctdGVLaG9HdWxDVmxKa0ZB0gGjAUFVX3lxTFBCZXpqbTIyZ0o2bDVfbmswaFpaSlRuVTFqMFpJN1M4aWotRzFMVjBsTS1tZWJUb3hFOTA5T3JnSkVuRVoybHZRVnYyc1phZHpESE1MeUxNSkNvNW5HeENvaUhCbmNNcGh1S2pHMHNBVnpPV1NiX2dFSmlGZ0FyNWNablRWZEJ4RmRwdC1xZHktT0JORy10ZUtob0d1bENWbEprRkE?oc=5",
+      "publishedAt": "2026-10-31T10:30:48.000Z",
       "severity": "high",
-      "titleZh": "法国为万圣节抗议活动中新的街头暴力做好准备",
-      "content": null
-    },
-    {
-      "title": "Que faire ce samedi 31 octobre 2026 à Paris ? Les sorties à ne pas manquer",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeENCQmNfcVdPS25sc0VsWWp3QjFqVFpnbVI5YWFvRW1JeWg1TklfRExSU3JoS1loWkJ0RC13cTRKWG5JUGRadG5INm5YZmVkSG1XN241Zl91aW12U3pLYUdYbzh5NVRrSkJnWDJVZklCa1E2WjNoVGFzb05fLVpjaDVDbkIwRTJ0c0xZSDlkSUtvX2lrQVVTYVdLV2gwOERfd2hVVDIwWGFadklmNEZHUDJCOVA5ZnBXS2JnREtpdHpTSFdYRUxrNGhZSzhZWlE?oc=5",
-      "publishedAt": "2026-10-31T04:00:00.000Z",
-      "severity": "info",
-      "titleZh": "2026 年 10 月 31 日星期六在巴黎可以做什么？外出游玩不可错过",
+      "titleZh": "万圣节抗议活动增加暴力风险 法国保持警惕",
       "content": null
     }
   ]
