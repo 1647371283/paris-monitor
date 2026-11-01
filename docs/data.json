@@ -1,7 +1,7 @@
 {
   "success": true,
-  "today": "2026-10-31",
-  "updatedAt": "2026-10-31T21:50:54.430Z",
+  "today": "2026-11-01",
+  "updatedAt": "2026-11-01T01:01:18.388Z",
   "events": [
     {
       "date": "2026-11-05",
@@ -12,7 +12,7 @@
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmx6azJpc3VoRTNRZjJ0VW5SUFlyeG5rQ2F1LUFUZGhMSDd4NDJOX1AxZ1k3bnhlb29fdjJma0w0eTMtUjZuTFQ5WkQ4XzZXNldqZ0ZYNGZkV0g0NVJaOHg0NXF2UFBaRXBGVXFKZnJXQlIzM0RJaUxLNjJTMElaeFRjWjd1V2d3b2xNS0lSV3dPZ3M4emtKRmR1MHFxUlF2V085alM5MWFDa3lJbWJERDB1ay1zb0gxNkdwRUV6dzZaczdWaUtTSV9lWXhiSGNXUzJ3ZQ?oc=5",
           "publishedAt": "2026-10-31T21:43:03.000Z",
           "severity": "medium",
-          "titleZh": "Plus de 300 000 à Paris, une déferlante populaire prépare la grève générale le 5 novembre !",
+          "titleZh": "巴黎超过30万人，民众激增，准备11月5日大罢工！",
           "content": null
         }
       ],
@@ -26,12 +26,12 @@
       "date": "2027-02-28",
       "articles": [
         {
-          "title": "Paris police fire tear gas as more than 300,000 march across France in latest anti-government protests",
+          "title": "French police fire tear gas as more than 300,000 march across France in latest anti-government protests",
           "source": "The Independent",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkQwMnpfdjlrU2Q0d2FQOGVTTm1QOXBlbEtucXU4R0FzSHMzWnptb2JtZHdtMTNLdS1xNjFpaXlybHRwUnNHZTVZT0tWVWFpZngxUXRnbWFqTWdFTjVLMW5US09rX05ETUI2OElNc1d1S0VPeEVqLWI0MXNTYlV2ajJnMmw2VGNSeFRpLWxCZHRUVGZnS25VY3RjNS0xTnVBWjZhWnhwMjdCX3Mz?oc=5",
-          "publishedAt": "2026-10-31T19:30:00.000Z",
+          "publishedAt": "2026-10-31T23:26:00.000Z",
           "severity": "medium",
-          "titleZh": "巴黎警方发射催泪瓦斯，逾 30 万人在法国各地游行，参加最新的反政府抗议活动",
+          "titleZh": "法国警方发射催泪瓦斯，逾30万人在法国各地游行参加最新的反政府抗议活动",
           "content": null
         }
       ],
@@ -48,7 +48,7 @@
           "title": "«Le moment où la grenade explose et où je vois le sang partout est gravé dans ma mémoire» : rencontre avec Ahmed Benmezroua, 25 ans, grièvement blessé le 17 octobre",
           "source": "Libération",
           "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNSkx1UTJNdE9QdlFrUXVkMnFzczBVdzZ0aV9vWWd3UmtJaUx0WVlSMTRqdDhRM0YzX3R5d3k1U1pjeWRlSjRCMUR2YkN3U0RmeDI4RUhTRTFIcW12bE5TNnBLT3VhUHNqWXFtbVpEczFvQkxfMkU5VFRPbERHM2lBQmxPVnJ6NHBRMGN6UWNFT1RaS3N0U2xja3N3OEZHY0t0dDNMYzJHY05OS0pqakxJUnJWSFNwM2ozT3Z4cFAweW03ZlZiaDdvdHlldUxHTk04OEc2NGIxZEtHbGlVUWtDeHFRalpZS09MVS1Ic0xzQXl1R29MN1lzZEtudEluNVV2RkxmSmZGZnM0ZkZsRHMxU000T3lQdmFOUTNwZVZZYXp4XzZjTk43bUFwQ1ZsMEtiOFdrSVYtclhjbXRrN0VEMDRvTjRKSzhNVVNndVpYUDdvMWhQYVBwSGd4ZGlpZW1CNmc?oc=5",
-          "publishedAt": "2026-10-31T19:34:18.000Z",
+          "publishedAt": "2026-10-31T23:21:56.000Z",
           "severity": "info",
           "titleZh": "“手榴弹爆炸、到处都是血的那一刻铭刻在我的记忆中”：10 月 17 日与受重伤的 25 岁艾哈迈德·本梅兹鲁阿 (Ahmed Benmezroua) 会面",
           "content": null
@@ -64,87 +64,285 @@
       "date": "2027-10-31",
       "articles": [
         {
+          "title": "Manifestation du 31 octobre à Paris : métro, parcours encore modifié, ce qu'il faut savoir",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZjZyZXJXNm4yLVZiLWpfcklDTlU3NGxpd0tDemtfQ0IxQTdXelZEOWdCMExjQk1TbXJEY29DeldTdDh4OTBGRV95MXozalE0azlvZlhuMFV3aVRwODlFMk5sRjJfRkZzYWZzd0ZrWTg3OUFyZXBIYVI0TWd0Z0FlVXgwUU5hMjNfc3NfOW4tUGZ5ZjIyY1JKbjl4eW1PNzA4ZVBXN0MtT0lCbWVqczVITlRNU3NySC1FVXc0RUxwcC0xanQ5bnBlTWd6Ql9kM01oTVUtUWkyWkJUQjhTM21jamlxbTM?oc=5",
+          "publishedAt": "2026-11-01T00:34:41.000Z",
+          "severity": "medium",
+          "titleZh": "10月31日巴黎示威：地铁、路线仍在修改，你需要知道什么",
+          "content": null
+        },
+        {
           "title": "Manifestation du 31 octobre à Paris : parcours modifié par le Conseil d’État, quels secteurs concernés",
           "source": "Sortir à Paris",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRGJJbTlpaFMzb1FsNlN0Mi1nVFRKeFBLODZMa2syMEE2NUdzUXVocDdoQzUxYmtOb0N5YXhGa0R2QS1HN0djTUw0cTJlam5aVXpaS1c1Y0xUOG90a1JRN1VYdlhNZHFrTWpSbW91cEtFTkprejJ3VE85ZEJFeml0SGxuTmNsaTlweVpNVVJlRzBMOHBhLWJfaGJsVTA5VExZcDI4cW8wbzF2UkJLTnpsWXJMQW9IV0FtYlNra0NLV25vRDJsVGNfTTBZcUY3TXM3Y2VkWnhjME1Cblh2SDZVOHAwRWNYVGdVNDZNUTRIcUhsYUt2RWc?oc=5",
-          "publishedAt": "2026-10-31T21:05:51.000Z",
+          "publishedAt": "2026-11-01T00:08:36.000Z",
           "severity": "medium",
           "titleZh": "10月31日巴黎示威：国务委员会修改路线，相关部门",
           "content": null
         },
         {
-          "title": "Manifestations du 31 octobre : les cortèges se sont «bien déroulés» selon Nuñez, entre 320 000 et 500 000 personnes dans les rues en France",
-          "source": "Libération",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQblZlSy1keUpuRFZSY1VJeXBJZklZUExoZlRaaU9oZlhfd01KZHJvOUFhVzd0UmVTVVpfMmZUOWtFUTlFOWdWSjd1Y00yVjY5QTEtVzJsSUsxdWxZdERyM0NqeC1NeW1oOFZUMWhoNEdTblBvMDhQQjlrVm5JTGxxOHA3ZDZBODc3WTNaZTFIajVuRzVyYVpBVUFYSHFjLU1SOXNBWHZmaFhwYkFTZDA2ekJsTmc4NDRoY0ZnNXJETTBCNERKRWRMSk90dGV4RmFsaHg0ZVp4cWhLM1NIZFJZWEk4VEZUNVo0bFZGR2VCd3pHWnFzSk1VSS1PU19XU0lodXhYSDd3Njh6NVIzdzQ0?oc=5",
-          "publishedAt": "2026-10-31T20:36:00.000Z",
-          "severity": "medium",
-          "titleZh": "10 月 31 日的示威活动：根据努涅斯的说法，游行进行得“顺利”，法国街头有 32 万至 50 万民众",
-          "content": null
-        },
-        {
-          "title": "Un gendarme mobile victime d'un jet de cocktail molotov à Paris, à la fin de la manifestation du samedi 31 octobre",
-          "source": "franceinfo",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOOUNMc1doSVE4R01LRnhqb0hkaTkzWTNjV0wxbnBmRVdCa3VsXy1qV2lGVGZvTzdrMGY4RXBEN0pkQWJpZHh4dUNlbkQzMnV3YWg5VGluTFRIMHV5RWo1R1pMTWdWaGEwVDI5LWw2cUZobDlNU0ZIbTZoVWZfQXRHM1NFYWptWG4wVkVlSEFPX0tJSTQwMGRoNlpXcFNVd2J5enB6U1FPZExVRzVvT0pwRUpyOEZWMm0tYzBQdVdMSkhPQ1EtVjFYNG1VWkFoQmJJakFrUnRrNDZhLVR0a1pVSlRBWVAxbkJHWXBoUk1jbWFNM1lYdGNOOWtNSVZaSmZndnIzUUln?oc=5",
-          "publishedAt": "2026-10-31T20:27:42.000Z",
-          "severity": "medium",
-          "titleZh": "10 月 31 日周六，巴黎示威结束时，一名流动宪兵被投掷的燃烧弹炸死",
-          "content": null
-        },
-        {
-          "title": "Manifestations du 31 octobre : la mobilisation reste forte, la violence est toujours là",
-          "source": "Ouest-France",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPel9wSDVMcUo1WmJQeHRvOVh3UkQ4aHdvWE9sZDhaNTZkQWgwTHdZM1lWYnhPT3BSQTA1LWF0LTNmakFDVVdJb3hSUGNqMC13MjJVS3g2d1lhQm0tVUlKMWRxUy1yS08xMnJ0bnRRQ1pSb290NkNiRUhqcjBZWUR2NURZMnVnaFlmblZzWUNxYXhfU0dPYTRZMFI3QjFhTmxvOXdtN1dxVmJWcmtBNXo0ZlRWbEFBTVQ3YUZHVnZEVkFWVzhSbXd3aVkwTjhrMWZDbmhqUjVsNHlaRkR4TnkzYXoyMDFFbk9KMGE3T3pJanVaV0RqRVNYd1plR1NTZlJj?oc=5",
-          "publishedAt": "2026-10-31T19:54:23.000Z",
-          "severity": "high",
-          "titleZh": "10月31日示威活动：动员依然强劲，暴力依然存在",
-          "content": null
-        },
-        {
-          "title": "Manifestations du 31 octobre : « Une tentative de meurtre »… Ciblés par un …",
-          "source": "20 Minutes",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOalQ0VXl4ZHRsdjV4UWVaMzhBbE5WNkJBQXI1QXNrYXpNYmprdmp3RGwwNkd5OTNhbkhnbkczV3FrQjZXN1JzZUFWcGdBUEdycGNGOE1qZE0yaDhWcFRfemYxLWpBcDZJdXA2clYwNDc2Zm9EYWFRSkc5Y083MmhON0ItQnpEbFlNaXJsRWVzY0VmUVFQM2lYcWM2WTlwSTBBRzNaRFRYVHJab3R0RExWMHZUMThKdF85V2E3WWkteVNwaVF0b0ZSUERPaHB5S1Q0el9xNEVfTDdzNzJvREs1SUxGVlc?oc=5",
-          "publishedAt": "2026-10-31T19:40:00.000Z",
-          "severity": "medium",
-          "titleZh": "10 月 31 日的示威活动：“谋杀未遂”……针对……",
-          "content": null
-        },
-        {
-          "title": "Manifestations du 31 octobre : un gendarme «blessé à la cheville» après avoir été ciblé par un cocktail Molotov",
+          "title": "Manifestations du 31 octobre : une mobilisation toujours dense, minée par la «violence inouïe» des casseurs d’ultragauche",
           "source": "Le Figaro",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdnFsQWlFeml2NGdvcHdmMFBocWUtdnZCRlBkd3dsbTZqMUUwbjJuLVhqWVBBUlFXdUt5T25rcVVBMWJkZnY2dDNKLVBxWTBvU1NOYXh1S29lZ1lpSkx0bTNPWUNJWkdlcWdoSXZ3Q0FhTHBlRE9zMmpuU1VwS2h1YUotT3pzcEJiX0lydENVOUQyams5NUN0Mzh0WENQT1VTdVRjNS1TOThUWVVuMEpTWWtZNDJQYVVlbGlFYTdYM2ZWeGdTaGo5RWt3SkdnNldVZEZkWWJVRXk0SFE0WVVvN3JNbUNQOUVkZXJOUnZ3?oc=5",
-          "publishedAt": "2026-10-31T19:33:03.000Z",
-          "severity": "medium",
-          "titleZh": "10 月 31 日的示威活动：一名宪兵被燃烧弹袭击后“脚踝受伤”",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMW9INldITG8wYm1aSlJQenYyRkp5bUJyaDlOSU1PUThWMTZfRXFrTzZSaUVFLVVHTjh6ZHM2a2UzejN3clBuOUltb0pyT2N3R1ZFYl9rdWV1WkVVM3Rrb1ktTW5fMEpKUEg1ajQ3M1ZhTEpqcjBiRjl4a25MWUVTSjBlZi1hdTB6WnE2b3dCOTVVWGV3NjVLUnFVU0VfQl94ZHdwWmhGN2dLWXFzT25iOFhtRGJlY1FKSUtyeGRyczNuWElZNTRMNmltcnNES1EwTzgwOTFBRnhlWk5SakVTbTRydWtxNXo3SDdHcm9mVEx1dkdPVEdoLUx3?oc=5",
+          "publishedAt": "2026-10-31T22:55:50.000Z",
+          "severity": "high",
+          "titleZh": "10月31日的示威活动：极左暴徒“令人难以置信的暴力”破坏了仍然密集的动员",
           "content": null
         },
         {
-          "title": "Manifs du 31 octobre : de Paris à Lille en passant par Carcassonne, une foule encore dense et parée à «amplifier la mobilisation",
-          "source": "Libération",
-          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOVnp4ZWNfUEExV29WMHItX3NJS3VUU0RBV202SEdQM1hfOHpsWjdNdUljZVNIVURVSXhBZWRHRjhnaXNQeXZLVUtwLUpINzV2dC12V2xTY2lNUWZpNlBmTHFTdVdYRXhnRXA0N29sa1VOUEFBSktCUUdnSDdzXzhPV2tfUDVkWmpiMTd5Ql9UNnoxdEdEY0lQdVNWVlhQdnlYNlZoVldOSld1WS1JZHNGUmdudXd1Y1NKelBnbW5KeGN4LUlIcHFRcjVEd1NyMVd0SHZCTGZxeFh3aWdxSDI3NmFPYWNZLVNqc0NNcVpranZHR1JEOUw0TGxyZHAyY0JJSkV1dld0TERJcjNoT0hHcDRsU0dodC0yOFY5T281NA?oc=5",
-          "publishedAt": "2026-10-31T18:57:27.000Z",
-          "severity": "info",
-          "titleZh": "10 月 31 日的示威活动：从巴黎经卡尔卡松到里尔，人群仍然密集，准备“扩大动员”",
+          "title": "Manifestation du 31 octobre à Paris : « on a frôlé la catastrophe », le gendarme blessé après un jet de cocktail molotov témoigne",
+          "source": "Le Parisien",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUEpiaDRjamo2SmxETE9aUG9PNmxRbFhleGN1Z0ZCRzNzSVZSNHBpZTM3RlFFNTIwMDZwMEVFRHJjVGx4eTU1M29IcTM2WmpzYWJiTDNhMDRVem9kQkQ1UmRGTGdhQXBxRHM5NlNGX1FhMHV6QjdteXRJYjA2XzBZVVhIVk51ZV92dlBFT2VNcTFBOG5FdXlwQTJMVTFUNDBLNUJFNFh2Vkc1UF9mNGhSeVE1U2lKNHVZMjY1Wm93XzFtbFFQQlVDNTIxNWpfd0Z6YzdWZkoxWGdua3h1ZU5UNktKTTlUQlo5aFNVVjJfREhFVG1lTGxtWk1zNnhSdUkzQkhEUm9WWFFPVjE1dy1ac2k0bHN4emt3dlkwN1lqc0tRdE1DNGhKTEstdw?oc=5",
+          "publishedAt": "2026-10-31T22:05:33.000Z",
+          "severity": "medium",
+          "titleZh": "10月31日巴黎示威：“我们差一点就灾难了”，投掷燃烧弹受伤的宪兵作证",
           "content": null
         },
         {
-          "title": "31 octobre : 500 000 manifestants dans toute la France, cap vers la grève le 5 novembre et après !",
-          "source": "Revolution Permanente",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRGEzNWtBQ29hWlBGMjloVm1fSmlNbEVXRENwckRzVGNTUWN2bGpEME1rZVdJbzMzQWRPVHpYaDVtcHdRcWl0VVM3X2RPTnV6eTYtXzFDd01RSllQcGlfQ0tNRlRwTFJwX0ZNZVYxTVFxcWFlaVJDUnNYdDJDZ2E4QmpOVGtCVFVvMUN1U2tDTE9RbWloaks2ZV9pWVNfRGVUeVQybU1Ldnl5RDY2OFRwNmJzUjNPQ04zS3VxTDFWdkZfbjY2WnRuV9IB0AFBVV95cUxOYk5IaU9vYVVtQnljSmVSd0ZvNUN2TjVBc2ZfakVoMGV0by02TG1YQUJSWmVOS095WG51Yml1WDcwTERQX2hVQVZzMTNtbk9qMGtCTUtxUkZEay11aHRqZjNiQy1HeFB1S3pBVDEzSmhlTkJ3cF9INmp2LWFETUExN285QWplWUkzUGwwek5zZTNCM09WcVg1b0lRLVpwX0Z6Qk83allvUkZja2hLbDg4RHRPeUYyNGV6R0IxcUR3S0RzVHVnWGU3SUwtTVM1Y0xN?oc=5",
-          "publishedAt": "2026-10-31T18:54:33.000Z",
+          "title": "Mobilisation du 31 octobre : affluence, dégradations, arrestations... Le bilan des manifestations en France",
+          "source": "CNews",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc0xNT0EwYlRvUW93ZWY3VklKaGNJaDRiX3VBTG5wT0xzeURxWl9QdzNFWmU2czVqUEZXTXZqV0d6ZUtodnAwR2JpYzVFb0R2LXpFT3dicDJfRDlYdEtrVlVrYjRsWTdzVWZmejRCRFRMTy1tb1ZzOVhsYTZvMGNHbW15dUZ5dzBOTmlqZlhPdHlaYW9FbjRaRGNDYWpORFlIbnB5Q0dtZWJOZGJCem81SUlOMDbSAboBQVVfeXFMT05scGd6MWNjeVZ3TXJjWmlGdVJzTDFUVHJXRS11bkRkMGh3MHAzUHZGVi1pMTJyTktvVGpITktPZzJVLU1Gdl9hVi1OTFh2NXNqWFk5X3Nhc0d1OEZBTHd3bmNqNHdoV1FZdVNVMnp3Njdpc3dRVzNGQ0c2SDNMbmtsbzlreG8wZHo5cHFVSi1CMnF1U3FkRHZ4TDRVeXVBUUVNUEE5Njd3eEhaMUlaXzFwZm9zUEtIWm5R?oc=5",
+          "publishedAt": "2026-10-31T21:39:19.000Z",
+          "severity": "high",
+          "titleZh": "10月31日的动员：人群、破坏、逮捕……法国示威的结果",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 31 octobre : un gendarme visé par un cocktail Molotov à Paris",
+          "source": "Sud Ouest",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWDRUZWFRWWxoUTd2aHRYWGFqWUdyWk81eW15QUxMVlBuYm92UmdtY0RjbF9Qb0VkSHBzejdBOXVVLTZzeHdXS0dDR0V1SEZYR3o4Y1ZSZXZXMExHdENPSkR0LUVlZjRnSy10OHFqeFI1eWNGSVBzbUp5cW9zZ1daemx3dHotcTdpY2NUbU5KY2hDX3ZyX0xjM2lfcWJIZ25UbnpUYlJwYUkydHBOdW9fZFY1R0dHSjRaLUVRWGwtOURwT2tvQXFYQUEzVlhjQQ?oc=5",
+          "publishedAt": "2026-10-31T21:12:00.000Z",
           "severity": "medium",
-          "titleZh": "10 月 31 日：法国各地 50 万示威者准备在 11 月 5 日及之后举行罢工！",
+          "titleZh": "10 月 31 日示威：巴黎一名宪兵被燃烧弹袭击",
           "content": null
         }
       ],
       "places": [],
       "districts": [],
-      "articleCount": 8,
-      "clashCount": 1,
+      "articleCount": 6,
+      "clashCount": 2,
       "status": "recent"
     },
     {
       "date": "unknown",
       "articles": [
+        {
+          "title": "VIDEO: Halloween-inspired protests descend into chaos in Paris",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZU9TMnB6TUpfX1IwNWFpSVZLdU9oTFRLdE5UWjNXbXBwSC1yYkd2cGhrR2JSWmJZN1dlajRQWE12ZXYtWm5lTUlkSEZXc3o1enprb1FSX2NnZGhyTFNqQjF5c3prbDdYUFpIdGMzeWl4TjBwWHk0RWxfRHBfaHh2aXFMOXV2bC1JVGNrd2J2c3lKc1FfazdPNmNSSE1STkQ1RENjVDZfaEo?oc=5",
+          "publishedAt": "2026-11-01T00:41:54.000Z",
+          "severity": "medium",
+          "titleZh": "视频：巴黎万圣节引发的抗议活动陷入混乱",
+          "content": null
+        },
+        {
+          "title": "France sees fresh protest clashes, braces for Halloween night violence",
+          "source": "India Today",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV1NhRnFZQlhudFBuUWtvZDNqUnBPMHpxaDNSWnlDeFJWOVY4ZWhUQXRJYzBLb2dlcEdyd25BZERsMDF6aW9hYnc3XzV0cmdRQm9IcHZBOFhqamJySTFHSDVOU2pTeWE4d2l1My1KcUZsYnh6aEVPVGcyQkg4ejM1OWJyT1lLb2lNaHBQaTFFeU1PZHFoOFJsQm5paXlVWVNpcEhHQVlBb0NLdFg2eDdPRlhvTGhyZE05MUpzT19iVUdYck01NUNNbkU4QXh0ZVRNcng5cW9B0gHbAUFVX3lxTE85MURPWFVFOFJXSUxLajBqXzhZNGNDRktRUlZQNkt1ZGRiczlUcVNqM3RWTHJoV19oZjMxamlLTVZmTFI2bVNSX2tmZzAxaUlFdm5lQ3lfZFBvc1dVT1h3MHA3ak5Vb1pqR093TXc2V2xIbHRMdVFTTVZRTzFKRFFmNVpud29uUDB4MThFQ3pKU2MtV0xEell5X0lpYTBUSHZualhuTDZrbE9HQVVENVVjdHBzdGJSQzZjQTd3TzNiYmpEc1ZxMkE1OFN6dmtQRTVObXdTNXVjOFlhWQ?oc=5",
+          "publishedAt": "2026-11-01T00:32:50.000Z",
+          "severity": "high",
+          "titleZh": "法国出现新的抗议冲突，为万圣节夜间暴力做好准备",
+          "content": null
+        },
+        {
+          "title": "Manifestations à Paris : éloigner les cortèges du centre, le nouveau bras de fer",
+          "source": "lejdd.fr",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRzBpMy1hNGlBVi02MWtIdHJVdEppbWIzVEtRRUhMMEJXWVc4MUhLQmdxd0pLYjJoQ01iZkNMSnl1elZMN2VSQmNOVlJkNHQ2QjVUOGd5MHphU1NDcnN6elRxUEwxbktNRWwyZElxeHlHTWRUcnZaQ3ZWc3UzSV85STd2bU9GOHoxZTIzMTNROWVDRFNucjU3ZDQ3SUE0a0tjUm5qSFQzOVItdE1lVjE2QWZKbw?oc=5",
+          "publishedAt": "2026-11-01T00:18:53.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎示威：游行队伍远离市中心，新的对峙",
+          "content": null
+        },
+        {
+          "title": "Youth-led rallies sweep Europe amid third weekend of France protests",
+          "source": "1News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaWFzMTRqam14N3V2ZElaSEEyNkhMOWs5TE5EOHc3QVBxV2NzRzdYUWNrTGFQVEg1YThMNlJ0WURhSkhiZTdZQURwcHh1QjQ5bFNGeFpCZ1VGb19SUmZRTkkxLTlFZ0Y2WmNJX1VQWkRKQzJEOEsyS1A0MUx1b3BZdHJZZk40UTViTWhENFZfUGpISWE5UzMzR0VWUUlRVjEyZ2VoalhDZw?oc=5",
+          "publishedAt": "2026-11-01T00:18:00.000Z",
+          "severity": "medium",
+          "titleZh": "法国抗议活动第三个周末，青年领导的集会席卷欧洲",
+          "content": null
+        },
+        {
+          "title": "Manifestations : un gendarme brûlé à Paris, des violences dans plusieurs villes",
+          "source": "lejdd.fr",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS2FxVzluN3pqRnJxMHlSODQ1WDF3bTdaOUZSZE5mcE9uVmNkZnZVMDNyOUF5NENXMVZXeklBLTBfSVJ4T0hHUk1meF9xMUdTUDB0TFA4ZHlBb1dBQlRzd0FDejBaNTNWekQ0a2VzNksxRVZ1ZUpJdFY4empsdDNkcERWeEVWMDRxd1BrVENZWjVybmFFVmtKcFQtTzlpNDM1cDcwSFNIWDg5M3JSajd6c2ZR?oc=5",
+          "publishedAt": "2026-11-01T00:15:00.000Z",
+          "severity": "high",
+          "titleZh": "示威活动：巴黎一名警察被烧死，多个城市发生暴力事件",
+          "content": null
+        },
+        {
+          "title": "Paris protest over cost of living turns tense as police fire tear gas at some demonstrators",
+          "source": "Modern Ghana",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kcDl1SV8ybkNGRDdpLWFvWWEyWXlUMHU0WHZMYnJOUExULUpITzREQ3N0U2RONGpDUi1YSjg2azBVX1U1V2w1Y0lkQll1UUFEeVh5VTR0Sk5yTkV5bkJjUGxYNVU1ZHfSAVxBVV95cUxOQVI2YkQxZkJRWjcydERtaW9pZzAzX09zc3JHR0NtV2kxSENpd2x4MklpTElqWXpySXRnS3pyOEFqajVDXzV2NndjM0dOX1YwSmk1WnAwLWtGSG9OeA?oc=5",
+          "publishedAt": "2026-11-01T00:10:00.000Z",
+          "severity": "medium",
+          "titleZh": "由于警察向一些示威者发射催泪瓦斯，巴黎针对生活成本的抗议变得紧张",
+          "content": null
+        },
+        {
+          "title": "‘Revolution’: Police fire tear gas as clashes erupt",
+          "source": "Herald Sun",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeVczTy1jcDBpSE1LQmpob2hRQ1U5cmFXVXF5ZllmYTUtXzdIeWg4MHFtVFE1U20tYlA3eWFvZnFVdmFfSF9YMlQ5UGhucjFuUE84bUlDWkpFZnNOOUdaLVJfMU5IbmFaV2o2VXlNeW0tYk1nV1htbXJTOG1rMWlMekY0UGxrYlpfcUxGZERTT3VXWlRsUFg4Vk9zX2FfcVlzbHpmYkVLX3ZZQ0lGVUN1UUloYklTcktEU3ZRT243MlBHVzUtMUlTTVQtbTNxZktJdjd3VjVYazNLU0JnS1R5SmxYRVF1M3Bxemw3Q2MwcjFkbHRYU2U0Q19wUEdkU2Uz?oc=5",
+          "publishedAt": "2026-11-01T00:06:05.000Z",
+          "severity": "high",
+          "titleZh": "“革命”：冲突爆发时警察发射催泪瓦斯",
+          "content": null
+        },
+        {
+          "title": "Third weekend of protests in France as youth-led rallies sweep Europe",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnRfZVZ6RGpqX0gzbHEya000ellzaUdmSVM1ZFd3bDZxbVpHQjJncGtpcWZtMGNUeUg0NEVaMk9Na01QYnJiR1FLbm9maURQSTZUQWpyX3A3ZFJqdVM0bURRS0NIZUhLeHpuTHFiNTNNNU4tRUFMMWhvalZFVVpvZDFPaDR2ajRUcXhkLWZR?oc=5",
+          "publishedAt": "2026-10-31T23:56:15.000Z",
+          "severity": "medium",
+          "titleZh": "法国抗议活动第三个周末，青年领导的集会席卷欧洲",
+          "content": null
+        },
+        {
+          "title": "More violence in Paris as European youth protests widen",
+          "source": "AFR",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNekQxcjl1WVdWSEljbmRQMGFjcmxNbXFkMGlpY1FwV2tJb0xza0NEVkRya2FZSmpyT1pPLU12dVJSNGJJYUptWmVDYnNvekZZN3AwWjhmUlJOZkVReE5aOTRfd1l5bmlaV0FYRUcyQkVZd09DcjF2Z1U3Q01tSUJkakRBR1RYckl4N2lTc3dPRGlHM0VYZ2JNaE95Mi1CWHpfUVhmMmIxSQ?oc=5",
+          "publishedAt": "2026-10-31T23:29:00.000Z",
+          "severity": "high",
+          "titleZh": "欧洲青年抗议活动扩大，巴黎暴力事件增多",
+          "content": null
+        },
+        {
+          "title": "Des manifestations et des heurts en France",
+          "source": "Frapp",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRlRQVFlTdGJRZlBGS3B5ZjBpYTluRWdpTi13cEVkSDNFdFN1WmV4SGpxT2VoMF9vejAwSzNzSGctb3hETFhwM050NXFpZnR6M3dJOU1UOFcxTmtKVTJfQ3B6NGc1N0tNYlc4Y0xyRlRQRUcybDNMalVHY2tOVHVRdkhwWXZSZw?oc=5",
+          "publishedAt": "2026-10-31T23:28:41.000Z",
+          "severity": "high",
+          "titleZh": "Des manifestations et des heurts en France",
+          "content": null
+        },
+        {
+          "title": "French Police Fire Tear Gas, Clash With Protesters in Paris and Lyon Over Living Costs: how 16 outlets framed it",
+          "source": "NewsCord",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZnRETTBwaC1NZ25LeGFNRzNLeW5jcXdabDlLa196Y1VxSzd2TmJTTUZRUDZ1b3dVYURMMXNjUDdrRWJFSEJZNkVDNnAxRU1DZjNwSG45cnZabzl2VUtZTEdnZFVURndCQWlBRzZhajNRSWhMTFNaOGxqbzRVMEFWQ2c1NF90blRWSGVaTUVrczdtdzZ3ZnlLXzJkMFJUbUttT3llVHdsa2FVejV2cnJZRnpjaTlMNG9Odk54ekpWRl96WGlmbG9uQkJCSGpiem1keUp0LWM4czFZS0lGV2s5QVd5dWhaU1lT?oc=5",
+          "publishedAt": "2026-10-31T23:22:46.000Z",
+          "severity": "high",
+          "titleZh": "法国警察发射催泪瓦斯，与巴黎和里昂的抗议者因生活成本发生冲突：16家媒体如何报道此事",
+          "content": null
+        },
+        {
+          "title": "Youth-led protests sweep across France, Europe for a 3rd weekend",
+          "source": "CBC",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50Yk1VZVJadDg5aXZYVWhiRThmZlBBOHFIWW5YM2tZVjBQWWw3RVpFcFFrNTVoU0dVaU9qTmdwRDJpU2FtTjJxMWNISkJXMzRGQUxZbnVsNDc0bG12a0RYeWlScWRLUWZ6MVpXbXJJaGpQRXlqeW9CNUNn?oc=5",
+          "publishedAt": "2026-10-31T23:19:19.000Z",
+          "severity": "medium",
+          "titleZh": "青年领导的抗议活动连续第三个周末席卷法国和欧洲",
+          "content": null
+        },
+        {
+          "title": "French Protesters Hit with Tear Gas as Paris Police Report Molotov Cocktails and Fireworks Being Thrown at Officers",
+          "source": "People.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM2xYS2Z6dVBubHdiNFQ2elBPa2ZpVmttYXkweUVvQVM1UUpqSHgyMV9UWmtCc0g1Wi0xU0hTTFBtY3UtaWVSMGRYMjNMZTNFZjV3NW0wejljRTZRd2YwRFM3U085SXlnVWhBcXAxUjd4ZDlHai1rNzE2ME9UMGhaMHhZbmF6ZmZWZkI2aFJuNUx3WVNJbnlkVGRFOTY2NzI0VUtCX2x5dG5yN0dLU21HVDdWX2ZkNjlobEE?oc=5",
+          "publishedAt": "2026-10-31T23:15:33.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎警方报告有人向警察投掷燃烧瓶和烟花，法国抗议者遭到催泪瓦斯袭击",
+          "content": null
+        },
+        {
+          "title": "\"Une intensité inouïe\" : le gendarme blessé par un cocktail Molotov à Paris témoigne sur LCI",
+          "source": "TF1 Info",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb2pYRkFHRl9ja2psbGdaUV9JZU14X0Rnc3AxRzk3NEZITjFKSlZGZlJHRnZGaE1yRFNXbzV2QVI2TmlmQVgxZXJPWDV4WFJpUDlhX2kyMXNSekh1MXdlZmV3RVNhZjJIUUFlV04tckFJSjdibkU4M2ZybnBQSmRYdE01V1ljYldmanhqNTZmaER4X3lsZFllWnMwNUh6b0xUMHltRmNuUllNZVpOOXFFZXROS0ExRm5Pd0NUVDM2Z3hzRW9XQ183Sm9SdzUxd1ZTOTQ1SEVlV3BXY1FLLVE?oc=5",
+          "publishedAt": "2026-10-31T22:55:02.000Z",
+          "severity": "info",
+          "titleZh": "“令人难以置信的强度”：巴黎被燃烧弹炸伤的宪兵在 LCI 中作证",
+          "content": null
+        },
+        {
+          "title": "Despair and decline: the risks for Europe behind the riots",
+          "source": "SMH.com.au",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZWNUU2Nxak1CY0FuaXdIRzZPeENsbFZ0eGhjN0VYak9PMUJBQktxODgzTVBvS1hOYXJuZ2F1V1dncENLRnhsYmpnbVFoclNfUzIyUjVXZE1EWDViQm5wM0RBRXlSalpvZ1FNaGEzYTdfNnI1dWpRdW9zcjA2U2lVRzNQNzBmdkFIRDFYUVdBcktQV1BLc2VWdDdhVjUtX2MtR0lzb05od3VlNmllT2s2cHVMS2M?oc=5",
+          "publishedAt": "2026-10-31T22:51:20.000Z",
+          "severity": "info",
+          "titleZh": "绝望与衰落：骚乱背后的欧洲风险",
+          "content": null
+        },
+        {
+          "title": "Violent Paris protests draw 70K people as Molotov cocktails hurled at cops, US and Israeli flags burned",
+          "source": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQVFHMWFKX1ltWFBQay1zZ0ItczVST0s1Ny0yTE5wZnVOUmpXVVduSnpYQi1xbnNEMXljd0ZxWFlGWGR2NGdpUjdXaUpZSW1Jekp5VGcwa1k0VVBBd3hlV0hzNy1maVhXUXBfU0FtNW5TTXBPeUctNl91N25ibVNZbWpmclZVUmtEZTJXdnBzekwxQlo3YzFiYkIyeWY4cnh6b3dNWkR1R1VsQjAyZTREWTNTMl9XM3FiblJBcXlIZXFoNTFXazA0?oc=5",
+          "publishedAt": "2026-10-31T22:43:25.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎暴力抗议吸引了 7 万人，向警察投掷燃烧弹，焚烧美国和以色列国旗",
+          "content": null
+        },
+        {
+          "title": "Molotov cocktails thrown at police after another weekend of protests across Europe",
+          "source": "Nine.com.au",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMjFob2xLMlZudlozdHVsMFNvTEhvS2M3bWVkc19hdHFvbzF0ZEpMRUFvcEVjR3Npb0JpOFpmLWFMNnhlQ1lSYkNoVFFrVy10a3I3VHV5LTAzZkNIZjNfaUZyWE1UeHNsWC02Mms1OEdtRzdHRmdscElXLXhoMmZNbXpLMnJMRm5UdzVyVTd3dm1OWnlRUUNVU3NScUFHZDZlNTN6M0JSQUs?oc=5",
+          "publishedAt": "2026-10-31T22:36:46.000Z",
+          "severity": "medium",
+          "titleZh": "Molotov cocktails thrown at police after another weekend of protests across Europe",
+          "content": null
+        },
+        {
+          "title": "Sky News witnesses tear gassing and police hit by fire at Paris protest",
+          "source": "Sky News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeVdDMHRSQkZoa09DNzJPVDBEaEd0QTg2M2RfVGRwQ3F3OVBTT1R5U2tVOWx2VlZhTTBNeTF3bF9ZazZIQk12bTBDVVQ1aEVkWHlObGxjY0U5dUM5RVNmY3hRYlltWU9SYUF2QnBxUG1hLUU5N3d5eWZXeWtOOTJfUFZPeHRoS0wzTDc0Unl0SzdjbmtldjhYdmNValdHc1JSTThfdVZ0VXdfZ28?oc=5",
+          "publishedAt": "2026-10-31T22:27:48.000Z",
+          "severity": "medium",
+          "titleZh": "天空新闻目击巴黎抗议活动中催泪瓦斯和警察被火烧伤",
+          "content": null
+        },
+        {
+          "title": "Paris riot police face molotov cocktails and mortars",
+          "source": "The Australian",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR0U5UzZ2eGEtWVlQdXlyR3lqckVNVXFwSnFKbWU3R1dOZFpraEQxZUw1OVZGbDBudEp5el95NDBqdjFVejhuVjIzSEczVEctdDZfRTE3dFZ3UlYzeVRQWkI1ODBkOFUyQmVwRUZIS3pqVl9COGJxVkV4S2E0RVdCcm52WG5DWVlxY0cxWEVGNFJWOEJ2bUN3YWRRLVM4ZkNlNy1CVXFObUUwRjM1RlJmN1ZlUkFOQl9zRHdrZmtFdDFWS3FQNVVLSm9NV25sSWpYZld3RF9Hc1BCdnE2MWVta3VRMUo0Y09KcEtxdGUzRWtYQQ?oc=5",
+          "publishedAt": "2026-10-31T22:24:32.000Z",
+          "severity": "info",
+          "titleZh": "巴黎防暴警察面对燃烧弹和迫击炮",
+          "content": null
+        },
+        {
+          "title": "Manifestation à Paris : deux gendarmes mobiles touchés par un cocktail Molotov, Laurent Nuñez dénonce « une tentative de meurtre",
+          "source": "Police & Réalités",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbWFtc2k1TkxEOUE3cXAxTl9HeHMyekVIMUVEUE5VM21CQW9iU1RpcFRCMXlpTTA3QjQyR1N5UVdFUFViOWl3UkhhNEVucmpDaXhsNXZ5Z3N4N3hsdE00d1Azalc3bE9MVHc1RV9PcWxubzBMSjI1ZVRYcnJFQ1JueGFDS3FuSHpzeUNoV1ZDWmVEdnBfRjM0OVRDYklHYUl1dXRMbXRyWTRMbm9jYW1BOUV2cV9PV1lOYTZwdUNZY04tZWJqdzJROEdhXzZHV21TSDFpLUZIVXNLWU9uY3pNeE0tUVQxTDEwSnBMVmdJZUtwbUVrc3VB?oc=5",
+          "publishedAt": "2026-10-31T22:02:49.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎示威：两名流动宪兵被燃烧弹击中，洛朗·努涅斯谴责“谋杀未遂”",
+          "content": null
+        },
+        {
+          "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMFF5RkVadmlOV3ZnU3IyTmRpLU1NUXFBNkZsZHdSYndMaTE3bFJCdG9NMHY4ZkhQdTJHcFlxR3V0b0p2ZTJfbXd6V3dVUzBMNFZQSWRxZGdiUDNqNXgtcmR2MVFxM1dmMjJJY1NVWFBmSnN5aFZpUUJEZjh2ZmJYMjJB?oc=5",
+          "publishedAt": "2026-10-31T21:50:29.000Z",
+          "severity": "high",
+          "titleZh": "节日开始至抗议日后，法国再次爆发冲突",
+          "content": null
+        },
+        {
+          "title": "Costumed protesters bring Halloween flair to Paris rally",
+          "source": "The Weekly Times",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS0JDTUlUTHZocENjNTQxejJweDA2Q0c0QW04MFcwalVrS0c2Z0hlck5RQWtETFIzcXZqOGpfT1UzaElnTEdlTG50d01QN2VlVFdtNzU4YlpFdzBtdGo0T004M0R6T21BYkVWZ2JheWRMZWwtczRXTjRVbW1KUmI3TTE1SEQ3LU9kUkRrWms4TDAyNW92UXFRR2hhNFhlaF9iR091VUl5T0RQekM2eXJqemlUS2NCUkowZDhDTVA4WHQ2bTk0VlJ4ZjRTN0pPVmtGSlpOS1lia3RDWjg?oc=5",
+          "publishedAt": "2026-10-31T21:41:24.000Z",
+          "severity": "medium",
+          "titleZh": "盛装打扮的抗议者为巴黎集会带来万圣节气息",
+          "content": null
+        },
+        {
+          "title": "Clashes Erupt In France As Thousands Protest Cost Of Living, Inequality",
+          "source": "Channels Television",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOUNRNWd6UTNhOEJoSVFIU1VBZXRaNENRazg0NjBBSDZiR0dkT2YzaVRxeUFXdjlvRktYZ1oySkZGT2JwZllzZVpFSDltT3d2MGZwM2p4YjV4NG5SdXFraEdMNTJ1YW9xMjFiTHo2Mk1rdFRWSzZzbm5wODJydjRZZHk0MEN2Y3lOSDUxRlVrMHY3ODZKSDliU3lJMjVYNUJRNDVfUnJpQmFYRThhdmc?oc=5",
+          "publishedAt": "2026-10-31T21:36:40.000Z",
+          "severity": "high",
+          "titleZh": "法国爆发冲突，数千人抗议生活成本和不平等",
+          "content": null
+        },
+        {
+          "title": "Massive protests sweep Europe over cost of living and strained public services",
+          "source": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNenVfTGpZR2o3aVZmVVlIaU1fUU1TZGc0ZDhtdkN2Nkc5N2tyZFVpa05IdXB2ODVMVzB6eWd0V2piUjZISFRIeGJQM3ExRC0tWXhlcmItNVFTbGctLVVOdzk2VVFNNTYxdldqaEZRODZuRHdvd0FSNkxvbFJ5dlY0eE5yRFdUNk4xWnRDbm1EbDZ5XzVqNFctZ3VaSkY0MEVBRU8xQTJEUE0wX1UtamZGQmJyVXR1NEU?oc=5",
+          "publishedAt": "2026-10-31T21:35:55.000Z",
+          "severity": "medium",
+          "titleZh": "因生活成本和公共服务紧张而席卷欧洲的大规模抗议活动",
+          "content": null
+        },
         {
           "title": "Some 320,000 demonstrators take part in largely peaceful protests across France",
           "source": "France 24",
@@ -152,15 +350,6 @@
           "publishedAt": "2026-10-31T21:34:15.000Z",
           "severity": "medium",
           "titleZh": "法国各地约 320,000 名示威者参加了基本上和平的抗议活动",
-          "content": null
-        },
-        {
-          "title": "Violent Paris protests draw 70K people as Molotov cocktails hurled at cops, US and Israeli flags burned",
-          "source": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQVFHMWFKX1ltWFBQay1zZ0ItczVST0s1Ny0yTE5wZnVOUmpXVVduSnpYQi1xbnNEMXljd0ZxWFlGWGR2NGdpUjdXaUpZSW1Jekp5VGcwa1k0VVBBd3hlV0hzNy1maVhXUXBfU0FtNW5TTXBPeUctNl91N25ibVNZbWpmclZVUmtEZTJXdnBzekwxQlo3YzFiYkIyeWY4cnh6b3dNWkR1R1VsQjAyZTREWTNTMl9XM3FiblJBcXlIZXFoNTFXazA0?oc=5",
-          "publishedAt": "2026-10-31T21:33:45.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎暴力抗议吸引了 7 万人，向警察投掷燃烧弹，焚烧美国和以色列国旗",
           "content": null
         },
         {
@@ -173,12 +362,12 @@
           "content": null
         },
         {
-          "title": "Paris, Lyon, Rennes… fin de cortèges sous tension",
-          "source": "TF1 Info",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXVEa2xqbEctNE1TRno0ZTJFZTdyRUVzMlRFb0c4SW5BNGtBbVRWZXZHUWJ1dWpDZ0hBMDhZUnhJdF81azJ4MVY5VDdpZE1IRmwxSmRwaFZkcmRhOEd4OTEtRVc4b1VJQk54MzdmUXFsdXM0UFdIVmZDWmFLTlB4dXRUc0p6a1NTclpUTE56WVJVb1FKazQwLU5CX18tdlc3RWlCYVFNZE9NOEk2N3JwNGZER1U3eEtyb21YdHhaWQ?oc=5",
-          "publishedAt": "2026-10-31T21:25:21.000Z",
-          "severity": "info",
-          "titleZh": "巴黎、里昂、雷恩……紧张的游行结束",
+          "title": "Manifestations interdites à Paris : à Bastille, contrôles, amendes et nasses pour empêcher les cortèges",
+          "source": "Le Média",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZHpqMDZMNC1EaUNocVhTcTJRRnFIeC1sdV84Q2hhRWlkUVV1NTY3NVJ3OVNoaV9WNXlYZFdxWDY5dEloTXNTNnVuM1g4Q1J6TjZPdXE1T1dtSG94Ri1EOXdCNVBGVmxDcVE1eU5QNUoxM2FpaWEwRnFYendweWI3TTRlSzBUMmx0QWNFdE5TOGtUZ0FlREd6SlMxRXhNeEJfWTNyVzh1Qm8zdkUzUy1mbDJDdDNEZHhVNjloOFEwMlBNMGppcm1QSmVIbGtjN0lVc2dTemExb3dxSkRrRFZXMVBEdE16b2I5TEZrY1k3LU5hZWFI?oc=5",
+          "publishedAt": "2026-10-31T21:26:00.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎禁止示威：在巴士底狱，通过控制、罚款和陷阱来阻止游行",
           "content": null
         },
         {
@@ -200,15 +389,6 @@
           "content": null
         },
         {
-          "title": "Costumed protesters bring Halloween flair to Paris rally",
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUHlNSVFBMVpiWDQ2SlBTbU54QmhCamdkbXl2Q3B3dFAwUG9Jc2RBV3g3Z2l3TTVhalN4YXZTM0h0c3Y3dm1fLUNGdXJjYlZnSWlwNDRFU2gteERKUWx3RlFRNE1VbmFOc0l0Q1BlaXlzal9SM0FwVTJmWHlndEVTS2gwYmt2aklzcTh4V3pJZnFzS2pE?oc=5",
-          "publishedAt": "2026-10-31T21:18:34.000Z",
-          "severity": "medium",
-          "titleZh": "盛装打扮的抗议者为巴黎集会带来万圣节气息",
-          "content": null
-        },
-        {
           "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
           "source": "AP News",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGZ3VDBMUUphN0oxbExCLXh4eUdKSG5tMTVXMUN6bDVuN0pWSkFVUTFYN2Z2Qm9jcTh3OVFmVWR1ZzZXMHVXUjV2LXdqUndkc2piSDlNTHRTTzRRYzc4V0VyVmUtbTNadFdjMDhHSHRvclBIdlRENUp1VnBRTXhiSjRNMy1xZFFrRWJRTktCWEVIazd1aTV6eXRQelVKQnk1TUpmTw?oc=5",
@@ -218,215 +398,315 @@
           "content": null
         },
         {
-          "title": "French police clash with some protesters again as demonstrations continue in nation's cities",
-          "source": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVGhhcU0yVURuRF9Lb1R4R1VBYnFzNEpTcU01NzNrNGdXSkk0ZTNKaHVuMWFjakJPcW5UYmp1LU43d1JCYjBPeFNJWDJ3NTR1WEhsWExweVItY2ZoTXlCV0VvNzF2UzVZbHRRTF9nMXd1R29OVzgwV3JHZXo5cU5VdFZ6OVN5QVlYNHozT1dVeG54QQ?oc=5",
-          "publishedAt": "2026-10-31T21:11:55.000Z",
-          "severity": "high",
-          "titleZh": "随着法国城市示威活动的继续，法国警察再次与一些抗议者发生冲突",
-          "content": null
-        },
-        {
-          "title": "Hundreds of Thousands Join Another Round of Protests in France",
-          "source": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLVpZYzZlRmU2d3VWb1JHXzd4MThSUlRfVmt1NzVPVWhEWEcwOFN2dU9oT1hSMkFodG90UEdkdFNldU45Tkx0Q3c4N1U5U0kzWmpPRExqcEltempmN2hLUXZXUmJITHdvOVRQQU4xazFzVlp5MnZxeTRMYUVIek5aNi1pSWktUQ?oc=5",
-          "publishedAt": "2026-10-31T21:00:33.000Z",
-          "severity": "medium",
-          "titleZh": "法国数十万人参加新一轮抗议活动",
-          "content": null
-        },
-        {
-          "title": "Paris is burning",
-          "source": "Daily Kos",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLUp6ZGJ0WUxsRWE4bEpmVjExaUhxODJFRktNUzd5WEZzTXk4VmhrN3hLdWxabUNzUENnVmNlNHAyeGVLekttN0pGZllkR3ZuN2VmTEFCSnFKTkZqTHRfUGdBU0dmM1RWdlM0SkZjSUZiTmozbnY0N2lwZ0V5eHVKRGxB?oc=5",
-          "publishedAt": "2026-10-31T21:00:00.000Z",
-          "severity": "info",
-          "titleZh": "巴黎正在燃烧",
-          "content": null
-        },
-        {
-          "title": "Défilés calmes, dispersions tendues et nuit vigilante : l’Acte III s’est déroulé sous haute surveillance",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdjRWTHJpcHJtaGd1SFdnU1hUS01rYlZJcENWMzB6YmZMay1HbHd1eGlsYmNlTVRnSUYyUXFCUmVUR2pxMUtpVFlpbU9EN0syRWxhR3o4MEs2cURPN0loRVRFME16S2haNGtnTUxScW5KN3d4RmZaZENzMElnNm5xdEFVUDdraWtvUUZPUWJTSHp5QW9JQXlIVXZLY2ZvYkJ2ZFRSVHFIYXVZeUJiaXk4MllQeDg4cW9uVUQ4dEJ6RVdzN25yUEd1QmFoLXhTM0RZOHJlZnVFUnY4ckhtcW5mWWNOUERjUGpJUzltelk5VUl4b2RvNG9zNm9ua3UzajZ0WWV1OEVn?oc=5",
-          "publishedAt": "2026-10-31T20:51:48.000Z",
-          "severity": "info",
-          "titleZh": "平静的游行、紧张的驱散和警惕的夜晚：第三幕在严密监视下进行",
-          "content": null
-        },
-        {
-          "title": "Hundreds of thousands march across France as clashes erupt amid cost-of-living protests",
-          "source": "News24",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOHVmdHZPX0hFeUhya3lwVUZYVGIyU212SU5yVHByVkhoTFJvYmlnM1FzaUNVMlpaaFVFN0tWR2ZDLTR5c1Fxd3dkdW5weHZyRnhmU2N5QXJrQnpnN0MzeUJJdnRMek1pTW5hV3pPS0FHd1o3RWlpak1MQ2NSUG5leGJIWTZsWHpqRWFlMWxEOTBqNXRNbWJjM19CTnUwcXhFTmNrNXFfSm80dFo5Q204STBPb1FiYjJzVnNMc1MxSHVERXNmdURTZU13?oc=5",
-          "publishedAt": "2026-10-31T20:28:20.000Z",
-          "severity": "high",
-          "titleZh": "数十万人在法国各地游行，因生活费用抗议活动爆发冲突",
-          "content": null
-        },
-        {
-          "title": "Hundreds of thousands demonstrated across France, clashes erupted after dark in several cities",
-          "source": "Le Monde.fr",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUlNoTV9YbmtZNXhkVWlQWlFhRE1GVFdXdlpIQ1FyZ1FPREFJU2J3MXpkam5RSGp4X2IyWHhSSWtKMVo4RE16VHFZWTdvUXJVVVlOVW85aU9mN2FuLTMxWGRUTGg2djI0SjFzQ3lSZ0dzeG1nc3RSOXk0a3M2a1pDa3p6a050TG0wSmNLMnZiWEExdUJjcWlFME0zN1hvd2dSUmkwanJBbWZuRTdUQ08za0J2T2VIOUI3Z1Y0TndzZ0hRU0FXYkN0WGRBcTF6SlBCQnBYcno3YmlSS2w1UEhrZS1paUljTTlJOVQwc05EWXJmVXdudEhNZHpEcENHLTg?oc=5",
-          "publishedAt": "2026-10-31T20:24:02.000Z",
-          "severity": "high",
-          "titleZh": "法国数十万人示威，多个城市天黑后爆发冲突",
-          "content": null
-        },
-        {
-          "title": "Tear gas used in Paris and Lyon as French protests turn violent",
-          "source": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFBoTkg4ckhPQlFQZ1lNeXlSWGRoVE16LXdjRWJxVEs5UklmZTNpTWlyRktpM1VWUDh4VFJZa2dCOHBUTEE5QWpHNVJ0bHBFMWgwc2EzLXdDUVFlZV9wbDJKUEtUajk3c0lmSHhOUmJsRUMtZDU5VmwzVEI5T0pLRnJQeUdjaEhr?oc=5",
-          "publishedAt": "2026-10-31T20:18:46.000Z",
-          "severity": "medium",
-          "titleZh": "法国抗议活动演变成暴力，巴黎和里昂使用催泪瓦斯",
-          "content": null
-        },
-        {
-          "title": "Clashes break out as hundreds of thousands protest in France",
-          "source": "The Australian",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeGVEUlA5djRNRDdyMURsVE1ZN29sVmNVWXdxcjhFWGYtYzQ3bFBkWXpaRmdIV0VFbThySDZROVA1SzNZWkJqOXV4OVlfRFNwbUlNTFFRQWltdm1hTjEzamlDcktvUVdVSVBJWEhTdUJSTm11RkdLeUdmX0VBMHZhTlBRbEt3dWhjWHpHWEdhekQzQ1hURGdWZERNU09aTEdfWWFFam0yWnVGeS1jME9ZaUJmOThNQk5FOFRVWEtock9Ua0xOenBMU181V21SNU1Td0pDeThnbGNBelM5YkU5d1RQX1U5UzRHU1E?oc=5",
-          "publishedAt": "2026-10-31T20:11:16.000Z",
-          "severity": "high",
-          "titleZh": "法国数十万人抗议爆发冲突",
-          "content": null
-        },
-        {
-          "title": "More than 300,000 French people demonstrate against the cost of living and the protest expands to Germany",
-          "source": "Diari ARA",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQThrMDJyZUtSQzRWTXJDOUs1U09WNk9jSlNfNlJUcXhGOUwxbGFBb0dSdDJNRDRES2p6NFRhUDZkV3M1dTlPQVNmb1FwV1hBN3pFdWtRNHl5dVIzYXR2cjBxMzI4QnZyakotLVVkYlczZERvbkdPeWJ1TEVnVVFDTVFSZWx2REM1MS1YODh5dWcxMHNOV3lHNWFlYTJ5N2hEOUpST2IzbXI2bkVJQkE3TW9CVVctZHZmMTVUcEh2Mm4ybFdhcVNhM1ZuWnhWOUwxYWhNTS1zOUp3aU9MNjhJY1lTcGxvbU1i?oc=5",
-          "publishedAt": "2026-10-31T19:51:40.000Z",
-          "severity": "medium",
-          "titleZh": "逾30万法国民众示威反对生活成本 抗议活动扩大至德国",
-          "content": null
-        },
-        {
-          "title": "🇫🇷 Protesters in Paris are now firing fireworks straight at the police Hooded guys are lighting them up in the middle of the street while tear gas hangs over the whole area. At this point, Paris looks more like a war movie than a protest. Writer: Daniyal https://t.co/",
-          "source": "X",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4taEUxdmtDUlJhbURyc19LQkpXOWN2TjZJOGZXbmNncnVEWUR1bGFwUU9TdWxiRHA2OHF2aWcwWk5mUzA2aG5vTW9BcXVUWnVXdFY1TEpaa3I4dW04bHliNUtNYW1NZWlzUGgwcA?oc=5",
-          "publishedAt": "2026-10-31T19:50:00.000Z",
-          "severity": "medium",
-          "titleZh": "🇫🇷巴黎的抗议者现在直接向警察发射烟花，蒙面人在街道中央点燃烟花，催泪瓦斯笼罩着整个地区。此时此刻，巴黎看起来更像是一部战争电影，而不是一场抗议活动。作者：丹尼尔 https://t.co/",
-          "content": null
-        },
-        {
-          "title": "Police clash masked rioters as France: Explained",
-          "source": "JournalArta",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS2ZndnRaU0hxMm9aekhTbHpIc25MWm5EeEtrRmJMZWlyV1diQkcwRTh0M3AxcVdqRVVtVWJETEdldWcwNmhkQ05kUWJtYl9kc1Q2R1ZsWUhHTjQybjIxdHRGdGx1YTc2cXpmamFaUmNfZzhKbHFKamY1NjJXWUF5QnVfWUk2Zlh0YXc?oc=5",
-          "publishedAt": "2026-10-31T19:41:51.000Z",
-          "severity": "high",
-          "titleZh": "法国警察与蒙面暴徒发生冲突：解释",
-          "content": null
-        },
-        {
           "title": "France Braces for More Protests: What to Know",
           "source": "The New York Times",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
-          "publishedAt": "2026-10-31T19:39:35.000Z",
+          "publishedAt": "2026-10-31T21:09:35.000Z",
           "severity": "medium",
           "titleZh": "法国准备迎接更多抗议活动：需要了解什么",
-          "content": null
-        },
-        {
-          "title": "Acte III de la colère sociale en France : les cortèges « se sont bien déroulés » malgré la « violence inouïe » de certains casseurs",
-          "source": "RTL Info",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU0NoSW9UZEFvSUlOc3YwUUhuenBmN2tWVGpUeVhsbGpyb3hONWlXalp0Sm1CdUl6N25TRF9HZDJjdk84VmREVzRONDBvRzBwNVZwTWIxdkY3bk1JUlotQlFBSngzVU9ub2JRdEN6ZmZFV0YxOFdodlhxSkpkd0o0UWxoVFdGYVlCNWlLV3RYMGt5RXhSWGRnYTdpS1J5OHhKR0ZXNnNscUxVNDdFWWVUUFMwY1Jyd3hzbzBRT2k3X3pFRm1QSUxEd2t3el9ZV1BCZmVB?oc=5",
-          "publishedAt": "2026-10-31T19:38:39.000Z",
-          "severity": "high",
-          "titleZh": "法国社会愤怒第三幕：尽管某些暴徒实施了“令人难以置信的暴力”，但游行“进展顺利”",
-          "content": null
-        },
-        {
-          "title": "Clashes erupt between police and protesters in Paris",
-          "source": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1icHVUalZYWHp4TWdiWUlzbHhmTndaVU9jc0NYeGhBak5HMDFVOWF4aTdzb2ktUU5sUXRVbWM5QkFvWUFCc0lmbzA0V21vVVRFcmZLUUZGNGJoSFE?oc=5",
-          "publishedAt": "2026-10-31T19:37:43.000Z",
-          "severity": "high",
-          "titleZh": "巴黎警察与抗议者爆发冲突",
-          "content": null
-        },
-        {
-          "title": "France seethes again as youth-led protests sweep Europe",
-          "source": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmc3UlZ3X0pZMHVrbldoOWdrUUdyVmEySjRzelV6WnBhRmcwQ09ULTlBMEgwNndNaFpJNVlvV084WWlGZjVKY0pKVUNqQmI0d1lKeFJwNW5heHdwdjdiLWZXTGNLc3FVYXljajNIeVBud3pod2s3RzZZVVFvWk5zeDJUOHNHSDF4VEUzWUNpamx6LV9HQ3NYdW1SRi1jd1E?oc=5",
-          "publishedAt": "2026-10-31T19:30:19.000Z",
-          "severity": "medium",
-          "titleZh": "年轻人领导的抗议活动席卷欧洲，法国再次沸腾",
-          "content": null
-        },
-        {
-          "title": "Les manifestations en direct. Entre 320 000 et 500 000 manifestants en France",
-          "source": "Mediapart",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc25yY19kRnhjZTd2SDRra1d1QlZlQllsMDB0TjJadUlUY0dLRDd2dnJOOEpGRnpmcElJQWxPdGtZRFhnYkF6WEhobHY0bXJfT01IMU1MVmt3WGtwc3Y5OXBKREFPQmxhNTRLS01TT2Yza0ZZWEhEdFA0bGU2TS1oRDRBWk5JcWJtUGthRXJ1Ny0tTkJ5dDFvNEd1TFQ0SFdpUE1OcEk3U2JjRDlnNDlvR1NZaVpBV3Q0b3hQakZrX1Q?oc=5",
-          "publishedAt": "2026-10-31T19:28:19.000Z",
-          "severity": "medium",
-          "titleZh": "现场示威。法国有32万至50万示威者",
-          "content": null
-        },
-        {
-          "title": "Manifestation à Paris: un \"jet de projectile incendiaire en direction des forces de l'ordre\"",
-          "source": "BFM",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPd2E0dDZsMFZKbzBVRzNkQ3FlemVTU3NwSDZIWmZTX1F6UFJrcExuZ1ZROHBQX1V1Vl85M3NDcUIwcnozb21xbF9TXzNJZmpzRnQ4SU90UlBJQ0xZdVhYTVBrT0p4YVhlc2JMakRZbzZIMW41MVJ3YjVwWmFhQ0RVR2pDSjh3ZEhGVVU1NVJFTG9kZC0tcHNHbFVoeUtFY0V0dlNYbWFTVkNLYWlWcnpGc2h5Smt4dUplanJ5SVlYSl9GR01ZajI0WmRnZlo3cXVaN2JEOHlyRHVmTVNNTFlkdzU3VW1ZeWZzZlVCb3J3YWFQaWs?oc=5",
-          "publishedAt": "2026-10-31T19:06:18.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎示威：“向警察投掷燃烧弹”",
-          "content": null
-        },
-        {
-          "title": "Mobilisation sociale : \"les cortèges se sont bien déroulés\" malgré la \"violence inouïe\" de groupes de casseurs",
-          "source": "Maritima",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRlhJVmdNZGZNMENyeVpVVGFWQXdNVHkzOW9xeGtZa0RpZ1gzdWg3MTVQTVJEcFFSVk96eU5VNTRhanpxUW1jU09GRWxVTjRZdmJWNlo0QVZIdjV2RlNsSkJwbnRLTWpheEZra1JXUjY4ci12dGRiNzJmWXhUbkNveW84WEZlRXFteXpod3FhcjJUR1RzX29JX3pLNTVLRTVaQ2U1ZGhMVlI5VTNlQ2UzNlpLLTBNLWh1V1ZoOTdlaWxFX0I5NURSV3h2b3c1RHotYUhQZWJoSGtmX25LNGp6SF9udmVZcDQ3TFN3?oc=5",
-          "publishedAt": "2026-10-31T19:00:20.000Z",
-          "severity": "high",
-          "titleZh": "社会动员：尽管暴徒群体实施了“令人难以置信的暴力行为”，但“游行进展顺利”",
-          "content": null
-        },
-        {
-          "title": "Video | Police clash with protesters in Paris | RTÉ",
-          "source": "RTE.ie",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55MUxTQkFUV0tVazh3X0I4X1M3TVZ6a1p4OFJMUHFHdG9CbmE2b2hFUVlzSmVQQkdnMWNTQTkwaUtDYVFHUmNnSg?oc=5",
-          "publishedAt": "2026-10-31T18:56:37.000Z",
-          "severity": "high",
-          "titleZh": "视频 |巴黎警察与抗议者发生冲突RTE",
-          "content": null
-        },
-        {
-          "title": "France protests: Clashes reported as 320,000 take to the streets",
-          "source": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdTczb0l5cFVucGg3VEFOZXNyVXVxRklDX24tSDVtenYzcHRaYXFEZGhrT241eUJLYW95M0pGQW83bmkyT2FJVDJnYUMzdEJNT2JzRVZIOEFIeGJjV3lmRDVSamNIdHRsTkw2c285dElDdlNINDhfRmNuRDZ1aDJsZ2J3akdoX1lfU3p4em5DblNyMzZDRGdNcnlRRzNyRG1pLTJoZ3RR?oc=5",
-          "publishedAt": "2026-10-31T18:56:15.000Z",
-          "severity": "high",
-          "titleZh": "法国抗议活动：据报道有 32 万人走上街头发生冲突",
-          "content": null
-        },
-        {
-          "title": "Isolated incidents at the end of protest marches in France",
-          "source": "Serbian News Media",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZ1lWTmEwUGRjSGY5WUtjSmt6Y1lpc19vQjZ6UzJ5c3o3MWZQTC00emJLTkk2V01SVmVUT0ZNbU5XczF3bGVVMWVGYmxHNUxQb3Q1RFM3Njk3TTlSU1lvTjJab01CVHhtbzY0R2tjSTdKTy1QRGMxLW5KNk1CQzg?oc=5",
-          "publishedAt": "2026-10-31T18:50:30.000Z",
-          "severity": "medium",
-          "titleZh": "法国抗议游行结束时发生的孤立事件",
           "content": null
         }
       ],
       "places": [
-        "民族广场 Nation"
+        "巴士底 Bastille"
       ],
       "districts": [
+        4,
         11,
         12
       ],
-      "articleCount": 29,
-      "clashCount": 11,
+      "articleCount": 31,
+      "clashCount": 9,
       "status": "unknown"
     }
   ],
   "latest": [
+    {
+      "title": "VIDEO: Halloween-inspired protests descend into chaos in Paris",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZU9TMnB6TUpfX1IwNWFpSVZLdU9oTFRLdE5UWjNXbXBwSC1yYkd2cGhrR2JSWmJZN1dlajRQWE12ZXYtWm5lTUlkSEZXc3o1enprb1FSX2NnZGhyTFNqQjF5c3prbDdYUFpIdGMzeWl4TjBwWHk0RWxfRHBfaHh2aXFMOXV2bC1JVGNrd2J2c3lKc1FfazdPNmNSSE1STkQ1RENjVDZfaEo?oc=5",
+      "publishedAt": "2026-11-01T00:41:54.000Z",
+      "severity": "medium",
+      "titleZh": "视频：巴黎万圣节引发的抗议活动陷入混乱",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 31 octobre à Paris : métro, parcours encore modifié, ce qu'il faut savoir",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZjZyZXJXNm4yLVZiLWpfcklDTlU3NGxpd0tDemtfQ0IxQTdXelZEOWdCMExjQk1TbXJEY29DeldTdDh4OTBGRV95MXozalE0azlvZlhuMFV3aVRwODlFMk5sRjJfRkZzYWZzd0ZrWTg3OUFyZXBIYVI0TWd0Z0FlVXgwUU5hMjNfc3NfOW4tUGZ5ZjIyY1JKbjl4eW1PNzA4ZVBXN0MtT0lCbWVqczVITlRNU3NySC1FVXc0RUxwcC0xanQ5bnBlTWd6Ql9kM01oTVUtUWkyWkJUQjhTM21jamlxbTM?oc=5",
+      "publishedAt": "2026-11-01T00:34:41.000Z",
+      "severity": "medium",
+      "titleZh": "10月31日巴黎示威：地铁、路线仍在修改，你需要知道什么",
+      "content": null
+    },
+    {
+      "title": "France sees fresh protest clashes, braces for Halloween night violence",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV1NhRnFZQlhudFBuUWtvZDNqUnBPMHpxaDNSWnlDeFJWOVY4ZWhUQXRJYzBLb2dlcEdyd25BZERsMDF6aW9hYnc3XzV0cmdRQm9IcHZBOFhqamJySTFHSDVOU2pTeWE4d2l1My1KcUZsYnh6aEVPVGcyQkg4ejM1OWJyT1lLb2lNaHBQaTFFeU1PZHFoOFJsQm5paXlVWVNpcEhHQVlBb0NLdFg2eDdPRlhvTGhyZE05MUpzT19iVUdYck01NUNNbkU4QXh0ZVRNcng5cW9B0gHbAUFVX3lxTE85MURPWFVFOFJXSUxLajBqXzhZNGNDRktRUlZQNkt1ZGRiczlUcVNqM3RWTHJoV19oZjMxamlLTVZmTFI2bVNSX2tmZzAxaUlFdm5lQ3lfZFBvc1dVT1h3MHA3ak5Vb1pqR093TXc2V2xIbHRMdVFTTVZRTzFKRFFmNVpud29uUDB4MThFQ3pKU2MtV0xEell5X0lpYTBUSHZualhuTDZrbE9HQVVENVVjdHBzdGJSQzZjQTd3TzNiYmpEc1ZxMkE1OFN6dmtQRTVObXdTNXVjOFlhWQ?oc=5",
+      "publishedAt": "2026-11-01T00:32:50.000Z",
+      "severity": "high",
+      "titleZh": "法国出现新的抗议冲突，为万圣节夜间暴力做好准备",
+      "content": null
+    },
+    {
+      "title": "Manifestations à Paris : éloigner les cortèges du centre, le nouveau bras de fer",
+      "source": "lejdd.fr",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRzBpMy1hNGlBVi02MWtIdHJVdEppbWIzVEtRRUhMMEJXWVc4MUhLQmdxd0pLYjJoQ01iZkNMSnl1elZMN2VSQmNOVlJkNHQ2QjVUOGd5MHphU1NDcnN6elRxUEwxbktNRWwyZElxeHlHTWRUcnZaQ3ZWc3UzSV85STd2bU9GOHoxZTIzMTNROWVDRFNucjU3ZDQ3SUE0a0tjUm5qSFQzOVItdE1lVjE2QWZKbw?oc=5",
+      "publishedAt": "2026-11-01T00:18:53.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎示威：游行队伍远离市中心，新的对峙",
+      "content": null
+    },
+    {
+      "title": "Youth-led rallies sweep Europe amid third weekend of France protests",
+      "source": "1News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaWFzMTRqam14N3V2ZElaSEEyNkhMOWs5TE5EOHc3QVBxV2NzRzdYUWNrTGFQVEg1YThMNlJ0WURhSkhiZTdZQURwcHh1QjQ5bFNGeFpCZ1VGb19SUmZRTkkxLTlFZ0Y2WmNJX1VQWkRKQzJEOEsyS1A0MUx1b3BZdHJZZk40UTViTWhENFZfUGpISWE5UzMzR0VWUUlRVjEyZ2VoalhDZw?oc=5",
+      "publishedAt": "2026-11-01T00:18:00.000Z",
+      "severity": "medium",
+      "titleZh": "法国抗议活动第三个周末，青年领导的集会席卷欧洲",
+      "content": null
+    },
+    {
+      "title": "Manifestations : un gendarme brûlé à Paris, des violences dans plusieurs villes",
+      "source": "lejdd.fr",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS2FxVzluN3pqRnJxMHlSODQ1WDF3bTdaOUZSZE5mcE9uVmNkZnZVMDNyOUF5NENXMVZXeklBLTBfSVJ4T0hHUk1meF9xMUdTUDB0TFA4ZHlBb1dBQlRzd0FDejBaNTNWekQ0a2VzNksxRVZ1ZUpJdFY4empsdDNkcERWeEVWMDRxd1BrVENZWjVybmFFVmtKcFQtTzlpNDM1cDcwSFNIWDg5M3JSajd6c2ZR?oc=5",
+      "publishedAt": "2026-11-01T00:15:00.000Z",
+      "severity": "high",
+      "titleZh": "示威活动：巴黎一名警察被烧死，多个城市发生暴力事件",
+      "content": null
+    },
+    {
+      "title": "Paris protest over cost of living turns tense as police fire tear gas at some demonstrators",
+      "source": "Modern Ghana",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kcDl1SV8ybkNGRDdpLWFvWWEyWXlUMHU0WHZMYnJOUExULUpITzREQ3N0U2RONGpDUi1YSjg2azBVX1U1V2w1Y0lkQll1UUFEeVh5VTR0Sk5yTkV5bkJjUGxYNVU1ZHfSAVxBVV95cUxOQVI2YkQxZkJRWjcydERtaW9pZzAzX09zc3JHR0NtV2kxSENpd2x4MklpTElqWXpySXRnS3pyOEFqajVDXzV2NndjM0dOX1YwSmk1WnAwLWtGSG9OeA?oc=5",
+      "publishedAt": "2026-11-01T00:10:00.000Z",
+      "severity": "medium",
+      "titleZh": "由于警察向一些示威者发射催泪瓦斯，巴黎针对生活成本的抗议变得紧张",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 31 octobre à Paris : parcours modifié par le Conseil d’État, quels secteurs concernés",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRGJJbTlpaFMzb1FsNlN0Mi1nVFRKeFBLODZMa2syMEE2NUdzUXVocDdoQzUxYmtOb0N5YXhGa0R2QS1HN0djTUw0cTJlam5aVXpaS1c1Y0xUOG90a1JRN1VYdlhNZHFrTWpSbW91cEtFTkprejJ3VE85ZEJFeml0SGxuTmNsaTlweVpNVVJlRzBMOHBhLWJfaGJsVTA5VExZcDI4cW8wbzF2UkJLTnpsWXJMQW9IV0FtYlNra0NLV25vRDJsVGNfTTBZcUY3TXM3Y2VkWnhjME1Cblh2SDZVOHAwRWNYVGdVNDZNUTRIcUhsYUt2RWc?oc=5",
+      "publishedAt": "2026-11-01T00:08:36.000Z",
+      "severity": "medium",
+      "titleZh": "10月31日巴黎示威：国务委员会修改路线，相关部门",
+      "content": null
+    },
+    {
+      "title": "‘Revolution’: Police fire tear gas as clashes erupt",
+      "source": "Herald Sun",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeVczTy1jcDBpSE1LQmpob2hRQ1U5cmFXVXF5ZllmYTUtXzdIeWg4MHFtVFE1U20tYlA3eWFvZnFVdmFfSF9YMlQ5UGhucjFuUE84bUlDWkpFZnNOOUdaLVJfMU5IbmFaV2o2VXlNeW0tYk1nV1htbXJTOG1rMWlMekY0UGxrYlpfcUxGZERTT3VXWlRsUFg4Vk9zX2FfcVlzbHpmYkVLX3ZZQ0lGVUN1UUloYklTcktEU3ZRT243MlBHVzUtMUlTTVQtbTNxZktJdjd3VjVYazNLU0JnS1R5SmxYRVF1M3Bxemw3Q2MwcjFkbHRYU2U0Q19wUEdkU2Uz?oc=5",
+      "publishedAt": "2026-11-01T00:06:05.000Z",
+      "severity": "high",
+      "titleZh": "“革命”：冲突爆发时警察发射催泪瓦斯",
+      "content": null
+    },
+    {
+      "title": "Third weekend of protests in France as youth-led rallies sweep Europe",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnRfZVZ6RGpqX0gzbHEya000ellzaUdmSVM1ZFd3bDZxbVpHQjJncGtpcWZtMGNUeUg0NEVaMk9Na01QYnJiR1FLbm9maURQSTZUQWpyX3A3ZFJqdVM0bURRS0NIZUhLeHpuTHFiNTNNNU4tRUFMMWhvalZFVVpvZDFPaDR2ajRUcXhkLWZR?oc=5",
+      "publishedAt": "2026-10-31T23:56:15.000Z",
+      "severity": "medium",
+      "titleZh": "法国抗议活动第三个周末，青年领导的集会席卷欧洲",
+      "content": null
+    },
+    {
+      "title": "More violence in Paris as European youth protests widen",
+      "source": "AFR",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNekQxcjl1WVdWSEljbmRQMGFjcmxNbXFkMGlpY1FwV2tJb0xza0NEVkRya2FZSmpyT1pPLU12dVJSNGJJYUptWmVDYnNvekZZN3AwWjhmUlJOZkVReE5aOTRfd1l5bmlaV0FYRUcyQkVZd09DcjF2Z1U3Q01tSUJkakRBR1RYckl4N2lTc3dPRGlHM0VYZ2JNaE95Mi1CWHpfUVhmMmIxSQ?oc=5",
+      "publishedAt": "2026-10-31T23:29:00.000Z",
+      "severity": "high",
+      "titleZh": "欧洲青年抗议活动扩大，巴黎暴力事件增多",
+      "content": null
+    },
+    {
+      "title": "Des manifestations et des heurts en France",
+      "source": "Frapp",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRlRQVFlTdGJRZlBGS3B5ZjBpYTluRWdpTi13cEVkSDNFdFN1WmV4SGpxT2VoMF9vejAwSzNzSGctb3hETFhwM050NXFpZnR6M3dJOU1UOFcxTmtKVTJfQ3B6NGc1N0tNYlc4Y0xyRlRQRUcybDNMalVHY2tOVHVRdkhwWXZSZw?oc=5",
+      "publishedAt": "2026-10-31T23:28:41.000Z",
+      "severity": "high",
+      "titleZh": "Des manifestations et des heurts en France",
+      "content": null
+    },
+    {
+      "title": "French police fire tear gas as more than 300,000 march across France in latest anti-government protests",
+      "source": "The Independent",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkQwMnpfdjlrU2Q0d2FQOGVTTm1QOXBlbEtucXU4R0FzSHMzWnptb2JtZHdtMTNLdS1xNjFpaXlybHRwUnNHZTVZT0tWVWFpZngxUXRnbWFqTWdFTjVLMW5US09rX05ETUI2OElNc1d1S0VPeEVqLWI0MXNTYlV2ajJnMmw2VGNSeFRpLWxCZHRUVGZnS25VY3RjNS0xTnVBWjZhWnhwMjdCX3Mz?oc=5",
+      "publishedAt": "2026-10-31T23:26:00.000Z",
+      "severity": "medium",
+      "titleZh": "法国警方发射催泪瓦斯，逾30万人在法国各地游行参加最新的反政府抗议活动",
+      "content": null
+    },
+    {
+      "title": "French Police Fire Tear Gas, Clash With Protesters in Paris and Lyon Over Living Costs: how 16 outlets framed it",
+      "source": "NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZnRETTBwaC1NZ25LeGFNRzNLeW5jcXdabDlLa196Y1VxSzd2TmJTTUZRUDZ1b3dVYURMMXNjUDdrRWJFSEJZNkVDNnAxRU1DZjNwSG45cnZabzl2VUtZTEdnZFVURndCQWlBRzZhajNRSWhMTFNaOGxqbzRVMEFWQ2c1NF90blRWSGVaTUVrczdtdzZ3ZnlLXzJkMFJUbUttT3llVHdsa2FVejV2cnJZRnpjaTlMNG9Odk54ekpWRl96WGlmbG9uQkJCSGpiem1keUp0LWM4czFZS0lGV2s5QVd5dWhaU1lT?oc=5",
+      "publishedAt": "2026-10-31T23:22:46.000Z",
+      "severity": "high",
+      "titleZh": "法国警察发射催泪瓦斯，与巴黎和里昂的抗议者因生活成本发生冲突：16家媒体如何报道此事",
+      "content": null
+    },
+    {
+      "title": "«Le moment où la grenade explose et où je vois le sang partout est gravé dans ma mémoire» : rencontre avec Ahmed Benmezroua, 25 ans, grièvement blessé le 17 octobre",
+      "source": "Libération",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNSkx1UTJNdE9QdlFrUXVkMnFzczBVdzZ0aV9vWWd3UmtJaUx0WVlSMTRqdDhRM0YzX3R5d3k1U1pjeWRlSjRCMUR2YkN3U0RmeDI4RUhTRTFIcW12bE5TNnBLT3VhUHNqWXFtbVpEczFvQkxfMkU5VFRPbERHM2lBQmxPVnJ6NHBRMGN6UWNFT1RaS3N0U2xja3N3OEZHY0t0dDNMYzJHY05OS0pqakxJUnJWSFNwM2ozT3Z4cFAweW03ZlZiaDdvdHlldUxHTk04OEc2NGIxZEtHbGlVUWtDeHFRalpZS09MVS1Ic0xzQXl1R29MN1lzZEtudEluNVV2RkxmSmZGZnM0ZkZsRHMxU000T3lQdmFOUTNwZVZZYXp4XzZjTk43bUFwQ1ZsMEtiOFdrSVYtclhjbXRrN0VEMDRvTjRKSzhNVVNndVpYUDdvMWhQYVBwSGd4ZGlpZW1CNmc?oc=5",
+      "publishedAt": "2026-10-31T23:21:56.000Z",
+      "severity": "info",
+      "titleZh": "“手榴弹爆炸、到处都是血的那一刻铭刻在我的记忆中”：10 月 17 日与受重伤的 25 岁艾哈迈德·本梅兹鲁阿 (Ahmed Benmezroua) 会面",
+      "content": null
+    },
+    {
+      "title": "Youth-led protests sweep across France, Europe for a 3rd weekend",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50Yk1VZVJadDg5aXZYVWhiRThmZlBBOHFIWW5YM2tZVjBQWWw3RVpFcFFrNTVoU0dVaU9qTmdwRDJpU2FtTjJxMWNISkJXMzRGQUxZbnVsNDc0bG12a0RYeWlScWRLUWZ6MVpXbXJJaGpQRXlqeW9CNUNn?oc=5",
+      "publishedAt": "2026-10-31T23:19:19.000Z",
+      "severity": "medium",
+      "titleZh": "青年领导的抗议活动连续第三个周末席卷法国和欧洲",
+      "content": null
+    },
+    {
+      "title": "French Protesters Hit with Tear Gas as Paris Police Report Molotov Cocktails and Fireworks Being Thrown at Officers",
+      "source": "People.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM2xYS2Z6dVBubHdiNFQ2elBPa2ZpVmttYXkweUVvQVM1UUpqSHgyMV9UWmtCc0g1Wi0xU0hTTFBtY3UtaWVSMGRYMjNMZTNFZjV3NW0wejljRTZRd2YwRFM3U085SXlnVWhBcXAxUjd4ZDlHai1rNzE2ME9UMGhaMHhZbmF6ZmZWZkI2aFJuNUx3WVNJbnlkVGRFOTY2NzI0VUtCX2x5dG5yN0dLU21HVDdWX2ZkNjlobEE?oc=5",
+      "publishedAt": "2026-10-31T23:15:33.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎警方报告有人向警察投掷燃烧瓶和烟花，法国抗议者遭到催泪瓦斯袭击",
+      "content": null
+    },
+    {
+      "title": "Manifestations du 31 octobre : une mobilisation toujours dense, minée par la «violence inouïe» des casseurs d’ultragauche",
+      "source": "Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMW9INldITG8wYm1aSlJQenYyRkp5bUJyaDlOSU1PUThWMTZfRXFrTzZSaUVFLVVHTjh6ZHM2a2UzejN3clBuOUltb0pyT2N3R1ZFYl9rdWV1WkVVM3Rrb1ktTW5fMEpKUEg1ajQ3M1ZhTEpqcjBiRjl4a25MWUVTSjBlZi1hdTB6WnE2b3dCOTVVWGV3NjVLUnFVU0VfQl94ZHdwWmhGN2dLWXFzT25iOFhtRGJlY1FKSUtyeGRyczNuWElZNTRMNmltcnNES1EwTzgwOTFBRnhlWk5SakVTbTRydWtxNXo3SDdHcm9mVEx1dkdPVEdoLUx3?oc=5",
+      "publishedAt": "2026-10-31T22:55:50.000Z",
+      "severity": "high",
+      "titleZh": "10月31日的示威活动：极左暴徒“令人难以置信的暴力”破坏了仍然密集的动员",
+      "content": null
+    },
+    {
+      "title": "\"Une intensité inouïe\" : le gendarme blessé par un cocktail Molotov à Paris témoigne sur LCI",
+      "source": "TF1 Info",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb2pYRkFHRl9ja2psbGdaUV9JZU14X0Rnc3AxRzk3NEZITjFKSlZGZlJHRnZGaE1yRFNXbzV2QVI2TmlmQVgxZXJPWDV4WFJpUDlhX2kyMXNSekh1MXdlZmV3RVNhZjJIUUFlV04tckFJSjdibkU4M2ZybnBQSmRYdE01V1ljYldmanhqNTZmaER4X3lsZFllWnMwNUh6b0xUMHltRmNuUllNZVpOOXFFZXROS0ExRm5Pd0NUVDM2Z3hzRW9XQ183Sm9SdzUxd1ZTOTQ1SEVlV3BXY1FLLVE?oc=5",
+      "publishedAt": "2026-10-31T22:55:02.000Z",
+      "severity": "info",
+      "titleZh": "“令人难以置信的强度”：巴黎被燃烧弹炸伤的宪兵在 LCI 中作证",
+      "content": null
+    },
+    {
+      "title": "Despair and decline: the risks for Europe behind the riots",
+      "source": "SMH.com.au",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZWNUU2Nxak1CY0FuaXdIRzZPeENsbFZ0eGhjN0VYak9PMUJBQktxODgzTVBvS1hOYXJuZ2F1V1dncENLRnhsYmpnbVFoclNfUzIyUjVXZE1EWDViQm5wM0RBRXlSalpvZ1FNaGEzYTdfNnI1dWpRdW9zcjA2U2lVRzNQNzBmdkFIRDFYUVdBcktQV1BLc2VWdDdhVjUtX2MtR0lzb05od3VlNmllT2s2cHVMS2M?oc=5",
+      "publishedAt": "2026-10-31T22:51:20.000Z",
+      "severity": "info",
+      "titleZh": "绝望与衰落：骚乱背后的欧洲风险",
+      "content": null
+    },
+    {
+      "title": "Violent Paris protests draw 70K people as Molotov cocktails hurled at cops, US and Israeli flags burned",
+      "source": "New York Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQVFHMWFKX1ltWFBQay1zZ0ItczVST0s1Ny0yTE5wZnVOUmpXVVduSnpYQi1xbnNEMXljd0ZxWFlGWGR2NGdpUjdXaUpZSW1Jekp5VGcwa1k0VVBBd3hlV0hzNy1maVhXUXBfU0FtNW5TTXBPeUctNl91N25ibVNZbWpmclZVUmtEZTJXdnBzekwxQlo3YzFiYkIyeWY4cnh6b3dNWkR1R1VsQjAyZTREWTNTMl9XM3FiblJBcXlIZXFoNTFXazA0?oc=5",
+      "publishedAt": "2026-10-31T22:43:25.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎暴力抗议吸引了 7 万人，向警察投掷燃烧弹，焚烧美国和以色列国旗",
+      "content": null
+    },
+    {
+      "title": "Molotov cocktails thrown at police after another weekend of protests across Europe",
+      "source": "Nine.com.au",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMjFob2xLMlZudlozdHVsMFNvTEhvS2M3bWVkc19hdHFvbzF0ZEpMRUFvcEVjR3Npb0JpOFpmLWFMNnhlQ1lSYkNoVFFrVy10a3I3VHV5LTAzZkNIZjNfaUZyWE1UeHNsWC02Mms1OEdtRzdHRmdscElXLXhoMmZNbXpLMnJMRm5UdzVyVTd3dm1OWnlRUUNVU3NScUFHZDZlNTN6M0JSQUs?oc=5",
+      "publishedAt": "2026-10-31T22:36:46.000Z",
+      "severity": "medium",
+      "titleZh": "Molotov cocktails thrown at police after another weekend of protests across Europe",
+      "content": null
+    },
+    {
+      "title": "Sky News witnesses tear gassing and police hit by fire at Paris protest",
+      "source": "Sky News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeVdDMHRSQkZoa09DNzJPVDBEaEd0QTg2M2RfVGRwQ3F3OVBTT1R5U2tVOWx2VlZhTTBNeTF3bF9ZazZIQk12bTBDVVQ1aEVkWHlObGxjY0U5dUM5RVNmY3hRYlltWU9SYUF2QnBxUG1hLUU5N3d5eWZXeWtOOTJfUFZPeHRoS0wzTDc0Unl0SzdjbmtldjhYdmNValdHc1JSTThfdVZ0VXdfZ28?oc=5",
+      "publishedAt": "2026-10-31T22:27:48.000Z",
+      "severity": "medium",
+      "titleZh": "天空新闻目击巴黎抗议活动中催泪瓦斯和警察被火烧伤",
+      "content": null
+    },
+    {
+      "title": "Paris riot police face molotov cocktails and mortars",
+      "source": "The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR0U5UzZ2eGEtWVlQdXlyR3lqckVNVXFwSnFKbWU3R1dOZFpraEQxZUw1OVZGbDBudEp5el95NDBqdjFVejhuVjIzSEczVEctdDZfRTE3dFZ3UlYzeVRQWkI1ODBkOFUyQmVwRUZIS3pqVl9COGJxVkV4S2E0RVdCcm52WG5DWVlxY0cxWEVGNFJWOEJ2bUN3YWRRLVM4ZkNlNy1CVXFObUUwRjM1RlJmN1ZlUkFOQl9zRHdrZmtFdDFWS3FQNVVLSm9NV25sSWpYZld3RF9Hc1BCdnE2MWVta3VRMUo0Y09KcEtxdGUzRWtYQQ?oc=5",
+      "publishedAt": "2026-10-31T22:24:32.000Z",
+      "severity": "info",
+      "titleZh": "巴黎防暴警察面对燃烧弹和迫击炮",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 31 octobre à Paris : « on a frôlé la catastrophe », le gendarme blessé après un jet de cocktail molotov témoigne",
+      "source": "Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUEpiaDRjamo2SmxETE9aUG9PNmxRbFhleGN1Z0ZCRzNzSVZSNHBpZTM3RlFFNTIwMDZwMEVFRHJjVGx4eTU1M29IcTM2WmpzYWJiTDNhMDRVem9kQkQ1UmRGTGdhQXBxRHM5NlNGX1FhMHV6QjdteXRJYjA2XzBZVVhIVk51ZV92dlBFT2VNcTFBOG5FdXlwQTJMVTFUNDBLNUJFNFh2Vkc1UF9mNGhSeVE1U2lKNHVZMjY1Wm93XzFtbFFQQlVDNTIxNWpfd0Z6YzdWZkoxWGdua3h1ZU5UNktKTTlUQlo5aFNVVjJfREhFVG1lTGxtWk1zNnhSdUkzQkhEUm9WWFFPVjE1dy1ac2k0bHN4emt3dlkwN1lqc0tRdE1DNGhKTEstdw?oc=5",
+      "publishedAt": "2026-10-31T22:05:33.000Z",
+      "severity": "medium",
+      "titleZh": "10月31日巴黎示威：“我们差一点就灾难了”，投掷燃烧弹受伤的宪兵作证",
+      "content": null
+    },
+    {
+      "title": "Manifestation à Paris : deux gendarmes mobiles touchés par un cocktail Molotov, Laurent Nuñez dénonce « une tentative de meurtre",
+      "source": "Police & Réalités",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbWFtc2k1TkxEOUE3cXAxTl9HeHMyekVIMUVEUE5VM21CQW9iU1RpcFRCMXlpTTA3QjQyR1N5UVdFUFViOWl3UkhhNEVucmpDaXhsNXZ5Z3N4N3hsdE00d1Azalc3bE9MVHc1RV9PcWxubzBMSjI1ZVRYcnJFQ1JueGFDS3FuSHpzeUNoV1ZDWmVEdnBfRjM0OVRDYklHYUl1dXRMbXRyWTRMbm9jYW1BOUV2cV9PV1lOYTZwdUNZY04tZWJqdzJROEdhXzZHV21TSDFpLUZIVXNLWU9uY3pNeE0tUVQxTDEwSnBMVmdJZUtwbUVrc3VB?oc=5",
+      "publishedAt": "2026-10-31T22:02:49.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎示威：两名流动宪兵被燃烧弹击中，洛朗·努涅斯谴责“谋杀未遂”",
+      "content": null
+    },
+    {
+      "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMFF5RkVadmlOV3ZnU3IyTmRpLU1NUXFBNkZsZHdSYndMaTE3bFJCdG9NMHY4ZkhQdTJHcFlxR3V0b0p2ZTJfbXd6V3dVUzBMNFZQSWRxZGdiUDNqNXgtcmR2MVFxM1dmMjJJY1NVWFBmSnN5aFZpUUJEZjh2ZmJYMjJB?oc=5",
+      "publishedAt": "2026-10-31T21:50:29.000Z",
+      "severity": "high",
+      "titleZh": "节日开始至抗议日后，法国再次爆发冲突",
+      "content": null
+    },
     {
       "title": "Plus de 300 000 à Paris, une déferlante populaire prépare la grève générale le 5 novembre !",
       "source": "- INITIATIVE COMMUNISTE",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmx6azJpc3VoRTNRZjJ0VW5SUFlyeG5rQ2F1LUFUZGhMSDd4NDJOX1AxZ1k3bnhlb29fdjJma0w0eTMtUjZuTFQ5WkQ4XzZXNldqZ0ZYNGZkV0g0NVJaOHg0NXF2UFBaRXBGVXFKZnJXQlIzM0RJaUxLNjJTMElaeFRjWjd1V2d3b2xNS0lSV3dPZ3M4emtKRmR1MHFxUlF2V085alM5MWFDa3lJbWJERDB1ay1zb0gxNkdwRUV6dzZaczdWaUtTSV9lWXhiSGNXUzJ3ZQ?oc=5",
       "publishedAt": "2026-10-31T21:43:03.000Z",
       "severity": "medium",
-      "titleZh": "Plus de 300 000 à Paris, une déferlante populaire prépare la grève générale le 5 novembre !",
+      "titleZh": "巴黎超过30万人，民众激增，准备11月5日大罢工！",
+      "content": null
+    },
+    {
+      "title": "Costumed protesters bring Halloween flair to Paris rally",
+      "source": "The Weekly Times",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS0JDTUlUTHZocENjNTQxejJweDA2Q0c0QW04MFcwalVrS0c2Z0hlck5RQWtETFIzcXZqOGpfT1UzaElnTEdlTG50d01QN2VlVFdtNzU4YlpFdzBtdGo0T004M0R6T21BYkVWZ2JheWRMZWwtczRXTjRVbW1KUmI3TTE1SEQ3LU9kUkRrWms4TDAyNW92UXFRR2hhNFhlaF9iR091VUl5T0RQekM2eXJqemlUS2NCUkowZDhDTVA4WHQ2bTk0VlJ4ZjRTN0pPVmtGSlpOS1lia3RDWjg?oc=5",
+      "publishedAt": "2026-10-31T21:41:24.000Z",
+      "severity": "medium",
+      "titleZh": "盛装打扮的抗议者为巴黎集会带来万圣节气息",
+      "content": null
+    },
+    {
+      "title": "Mobilisation du 31 octobre : affluence, dégradations, arrestations... Le bilan des manifestations en France",
+      "source": "CNews",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc0xNT0EwYlRvUW93ZWY3VklKaGNJaDRiX3VBTG5wT0xzeURxWl9QdzNFWmU2czVqUEZXTXZqV0d6ZUtodnAwR2JpYzVFb0R2LXpFT3dicDJfRDlYdEtrVlVrYjRsWTdzVWZmejRCRFRMTy1tb1ZzOVhsYTZvMGNHbW15dUZ5dzBOTmlqZlhPdHlaYW9FbjRaRGNDYWpORFlIbnB5Q0dtZWJOZGJCem81SUlOMDbSAboBQVVfeXFMT05scGd6MWNjeVZ3TXJjWmlGdVJzTDFUVHJXRS11bkRkMGh3MHAzUHZGVi1pMTJyTktvVGpITktPZzJVLU1Gdl9hVi1OTFh2NXNqWFk5X3Nhc0d1OEZBTHd3bmNqNHdoV1FZdVNVMnp3Njdpc3dRVzNGQ0c2SDNMbmtsbzlreG8wZHo5cHFVSi1CMnF1U3FkRHZ4TDRVeXVBUUVNUEE5Njd3eEhaMUlaXzFwZm9zUEtIWm5R?oc=5",
+      "publishedAt": "2026-10-31T21:39:19.000Z",
+      "severity": "high",
+      "titleZh": "10月31日的动员：人群、破坏、逮捕……法国示威的结果",
+      "content": null
+    },
+    {
+      "title": "Clashes Erupt In France As Thousands Protest Cost Of Living, Inequality",
+      "source": "Channels Television",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOUNRNWd6UTNhOEJoSVFIU1VBZXRaNENRazg0NjBBSDZiR0dkT2YzaVRxeUFXdjlvRktYZ1oySkZGT2JwZllzZVpFSDltT3d2MGZwM2p4YjV4NG5SdXFraEdMNTJ1YW9xMjFiTHo2Mk1rdFRWSzZzbm5wODJydjRZZHk0MEN2Y3lOSDUxRlVrMHY3ODZKSDliU3lJMjVYNUJRNDVfUnJpQmFYRThhdmc?oc=5",
+      "publishedAt": "2026-10-31T21:36:40.000Z",
+      "severity": "high",
+      "titleZh": "法国爆发冲突，数千人抗议生活成本和不平等",
+      "content": null
+    },
+    {
+      "title": "Massive protests sweep Europe over cost of living and strained public services",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNenVfTGpZR2o3aVZmVVlIaU1fUU1TZGc0ZDhtdkN2Nkc5N2tyZFVpa05IdXB2ODVMVzB6eWd0V2piUjZISFRIeGJQM3ExRC0tWXhlcmItNVFTbGctLVVOdzk2VVFNNTYxdldqaEZRODZuRHdvd0FSNkxvbFJ5dlY0eE5yRFdUNk4xWnRDbm1EbDZ5XzVqNFctZ3VaSkY0MEVBRU8xQTJEUE0wX1UtamZGQmJyVXR1NEU?oc=5",
+      "publishedAt": "2026-10-31T21:35:55.000Z",
+      "severity": "medium",
+      "titleZh": "因生活成本和公共服务紧张而席卷欧洲的大规模抗议活动",
       "content": null
     },
     {
@@ -439,15 +719,6 @@
       "content": null
     },
     {
-      "title": "Violent Paris protests draw 70K people as Molotov cocktails hurled at cops, US and Israeli flags burned",
-      "source": "New York Post",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQVFHMWFKX1ltWFBQay1zZ0ItczVST0s1Ny0yTE5wZnVOUmpXVVduSnpYQi1xbnNEMXljd0ZxWFlGWGR2NGdpUjdXaUpZSW1Jekp5VGcwa1k0VVBBd3hlV0hzNy1maVhXUXBfU0FtNW5TTXBPeUctNl91N25ibVNZbWpmclZVUmtEZTJXdnBzekwxQlo3YzFiYkIyeWY4cnh6b3dNWkR1R1VsQjAyZTREWTNTMl9XM3FiblJBcXlIZXFoNTFXazA0?oc=5",
-      "publishedAt": "2026-10-31T21:33:45.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎暴力抗议吸引了 7 万人，向警察投掷燃烧弹，焚烧美国和以色列国旗",
-      "content": null
-    },
-    {
       "title": "Police clash with masked rioters after largely peaceful protests across France",
       "source": "The Guardian",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVZIZm5SMFU2SHpmSm5HYWhaNmt3NWpvS0JsRmViVFVzVTVMU1VNZ2VLcmJvcEh5ZDN6SlF6LUJHM1VBS1I5Yk1FYUxGc1ZxR0xJZENtX2JQVC1zVzBMVG4xR0pfRUlRVkJ3T01PdXI4MzJPTmRFSTZ6ZW5DSXJyY1VJN011MGpxa0RqS1ZqaWlDNnpRTnhuN00tbWxibUdZaWFYQThMaUFmU21aVG9LekNB?oc=5",
@@ -457,12 +728,12 @@
       "content": null
     },
     {
-      "title": "Paris, Lyon, Rennes… fin de cortèges sous tension",
-      "source": "TF1 Info",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbXVEa2xqbEctNE1TRno0ZTJFZTdyRUVzMlRFb0c4SW5BNGtBbVRWZXZHUWJ1dWpDZ0hBMDhZUnhJdF81azJ4MVY5VDdpZE1IRmwxSmRwaFZkcmRhOEd4OTEtRVc4b1VJQk54MzdmUXFsdXM0UFdIVmZDWmFLTlB4dXRUc0p6a1NTclpUTE56WVJVb1FKazQwLU5CX18tdlc3RWlCYVFNZE9NOEk2N3JwNGZER1U3eEtyb21YdHhaWQ?oc=5",
-      "publishedAt": "2026-10-31T21:25:21.000Z",
-      "severity": "info",
-      "titleZh": "巴黎、里昂、雷恩……紧张的游行结束",
+      "title": "Manifestations interdites à Paris : à Bastille, contrôles, amendes et nasses pour empêcher les cortèges",
+      "source": "Le Média",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZHpqMDZMNC1EaUNocVhTcTJRRnFIeC1sdV84Q2hhRWlkUVV1NTY3NVJ3OVNoaV9WNXlYZFdxWDY5dEloTXNTNnVuM1g4Q1J6TjZPdXE1T1dtSG94Ri1EOXdCNVBGVmxDcVE1eU5QNUoxM2FpaWEwRnFYendweWI3TTRlSzBUMmx0QWNFdE5TOGtUZ0FlREd6SlMxRXhNeEJfWTNyVzh1Qm8zdkUzUy1mbDJDdDNEZHhVNjloOFEwMlBNMGppcm1QSmVIbGtjN0lVc2dTemExb3dxSkRrRFZXMVBEdE16b2I5TEZrY1k3LU5hZWFI?oc=5",
+      "publishedAt": "2026-10-31T21:26:00.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎禁止示威：在巴士底狱，通过控制、罚款和陷阱来阻止游行",
       "content": null
     },
     {
@@ -484,15 +755,6 @@
       "content": null
     },
     {
-      "title": "Costumed protesters bring Halloween flair to Paris rally",
-      "source": "Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUHlNSVFBMVpiWDQ2SlBTbU54QmhCamdkbXl2Q3B3dFAwUG9Jc2RBV3g3Z2l3TTVhalN4YXZTM0h0c3Y3dm1fLUNGdXJjYlZnSWlwNDRFU2gteERKUWx3RlFRNE1VbmFOc0l0Q1BlaXlzal9SM0FwVTJmWHlndEVTS2gwYmt2aklzcTh4V3pJZnFzS2pE?oc=5",
-      "publishedAt": "2026-10-31T21:18:34.000Z",
-      "severity": "medium",
-      "titleZh": "盛装打扮的抗议者为巴黎集会带来万圣节气息",
-      "content": null
-    },
-    {
       "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
       "source": "AP News",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGZ3VDBMUUphN0oxbExCLXh4eUdKSG5tMTVXMUN6bDVuN0pWSkFVUTFYN2Z2Qm9jcTh3OVFmVWR1ZzZXMHVXUjV2LXdqUndkc2piSDlNTHRTTzRRYzc4V0VyVmUtbTNadFdjMDhHSHRvclBIdlRENUp1VnBRTXhiSjRNMy1xZFFrRWJRTktCWEVIazd1aTV6eXRQelVKQnk1TUpmTw?oc=5",
@@ -502,282 +764,21 @@
       "content": null
     },
     {
-      "title": "French police clash with some protesters again as demonstrations continue in nation's cities",
-      "source": "CBS News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVGhhcU0yVURuRF9Lb1R4R1VBYnFzNEpTcU01NzNrNGdXSkk0ZTNKaHVuMWFjakJPcW5UYmp1LU43d1JCYjBPeFNJWDJ3NTR1WEhsWExweVItY2ZoTXlCV0VvNzF2UzVZbHRRTF9nMXd1R29OVzgwV3JHZXo5cU5VdFZ6OVN5QVlYNHozT1dVeG54QQ?oc=5",
-      "publishedAt": "2026-10-31T21:11:55.000Z",
-      "severity": "high",
-      "titleZh": "随着法国城市示威活动的继续，法国警察再次与一些抗议者发生冲突",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 31 octobre à Paris : parcours modifié par le Conseil d’État, quels secteurs concernés",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRGJJbTlpaFMzb1FsNlN0Mi1nVFRKeFBLODZMa2syMEE2NUdzUXVocDdoQzUxYmtOb0N5YXhGa0R2QS1HN0djTUw0cTJlam5aVXpaS1c1Y0xUOG90a1JRN1VYdlhNZHFrTWpSbW91cEtFTkprejJ3VE85ZEJFeml0SGxuTmNsaTlweVpNVVJlRzBMOHBhLWJfaGJsVTA5VExZcDI4cW8wbzF2UkJLTnpsWXJMQW9IV0FtYlNra0NLV25vRDJsVGNfTTBZcUY3TXM3Y2VkWnhjME1Cblh2SDZVOHAwRWNYVGdVNDZNUTRIcUhsYUt2RWc?oc=5",
-      "publishedAt": "2026-10-31T21:05:51.000Z",
+      "title": "Manifestation du 31 octobre : un gendarme visé par un cocktail Molotov à Paris",
+      "source": "Sud Ouest",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWDRUZWFRWWxoUTd2aHRYWGFqWUdyWk81eW15QUxMVlBuYm92UmdtY0RjbF9Qb0VkSHBzejdBOXVVLTZzeHdXS0dDR0V1SEZYR3o4Y1ZSZXZXMExHdENPSkR0LUVlZjRnSy10OHFqeFI1eWNGSVBzbUp5cW9zZ1daemx3dHotcTdpY2NUbU5KY2hDX3ZyX0xjM2lfcWJIZ25UbnpUYlJwYUkydHBOdW9fZFY1R0dHSjRaLUVRWGwtOURwT2tvQXFYQUEzVlhjQQ?oc=5",
+      "publishedAt": "2026-10-31T21:12:00.000Z",
       "severity": "medium",
-      "titleZh": "10月31日巴黎示威：国务委员会修改路线，相关部门",
-      "content": null
-    },
-    {
-      "title": "Hundreds of Thousands Join Another Round of Protests in France",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLVpZYzZlRmU2d3VWb1JHXzd4MThSUlRfVmt1NzVPVWhEWEcwOFN2dU9oT1hSMkFodG90UEdkdFNldU45Tkx0Q3c4N1U5U0kzWmpPRExqcEltempmN2hLUXZXUmJITHdvOVRQQU4xazFzVlp5MnZxeTRMYUVIek5aNi1pSWktUQ?oc=5",
-      "publishedAt": "2026-10-31T21:00:33.000Z",
-      "severity": "medium",
-      "titleZh": "法国数十万人参加新一轮抗议活动",
-      "content": null
-    },
-    {
-      "title": "Paris is burning",
-      "source": "Daily Kos",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLUp6ZGJ0WUxsRWE4bEpmVjExaUhxODJFRktNUzd5WEZzTXk4VmhrN3hLdWxabUNzUENnVmNlNHAyeGVLekttN0pGZllkR3ZuN2VmTEFCSnFKTkZqTHRfUGdBU0dmM1RWdlM0SkZjSUZiTmozbnY0N2lwZ0V5eHVKRGxB?oc=5",
-      "publishedAt": "2026-10-31T21:00:00.000Z",
-      "severity": "info",
-      "titleZh": "巴黎正在燃烧",
-      "content": null
-    },
-    {
-      "title": "Défilés calmes, dispersions tendues et nuit vigilante : l’Acte III s’est déroulé sous haute surveillance",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdjRWTHJpcHJtaGd1SFdnU1hUS01rYlZJcENWMzB6YmZMay1HbHd1eGlsYmNlTVRnSUYyUXFCUmVUR2pxMUtpVFlpbU9EN0syRWxhR3o4MEs2cURPN0loRVRFME16S2haNGtnTUxScW5KN3d4RmZaZENzMElnNm5xdEFVUDdraWtvUUZPUWJTSHp5QW9JQXlIVXZLY2ZvYkJ2ZFRSVHFIYXVZeUJiaXk4MllQeDg4cW9uVUQ4dEJ6RVdzN25yUEd1QmFoLXhTM0RZOHJlZnVFUnY4ckhtcW5mWWNOUERjUGpJUzltelk5VUl4b2RvNG9zNm9ua3UzajZ0WWV1OEVn?oc=5",
-      "publishedAt": "2026-10-31T20:51:48.000Z",
-      "severity": "info",
-      "titleZh": "平静的游行、紧张的驱散和警惕的夜晚：第三幕在严密监视下进行",
-      "content": null
-    },
-    {
-      "title": "Manifestations du 31 octobre : les cortèges se sont «bien déroulés» selon Nuñez, entre 320 000 et 500 000 personnes dans les rues en France",
-      "source": "Libération",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQblZlSy1keUpuRFZSY1VJeXBJZklZUExoZlRaaU9oZlhfd01KZHJvOUFhVzd0UmVTVVpfMmZUOWtFUTlFOWdWSjd1Y00yVjY5QTEtVzJsSUsxdWxZdERyM0NqeC1NeW1oOFZUMWhoNEdTblBvMDhQQjlrVm5JTGxxOHA3ZDZBODc3WTNaZTFIajVuRzVyYVpBVUFYSHFjLU1SOXNBWHZmaFhwYkFTZDA2ekJsTmc4NDRoY0ZnNXJETTBCNERKRWRMSk90dGV4RmFsaHg0ZVp4cWhLM1NIZFJZWEk4VEZUNVo0bFZGR2VCd3pHWnFzSk1VSS1PU19XU0lodXhYSDd3Njh6NVIzdzQ0?oc=5",
-      "publishedAt": "2026-10-31T20:36:00.000Z",
-      "severity": "medium",
-      "titleZh": "10 月 31 日的示威活动：根据努涅斯的说法，游行进行得“顺利”，法国街头有 32 万至 50 万民众",
-      "content": null
-    },
-    {
-      "title": "Hundreds of thousands march across France as clashes erupt amid cost-of-living protests",
-      "source": "News24",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOHVmdHZPX0hFeUhya3lwVUZYVGIyU212SU5yVHByVkhoTFJvYmlnM1FzaUNVMlpaaFVFN0tWR2ZDLTR5c1Fxd3dkdW5weHZyRnhmU2N5QXJrQnpnN0MzeUJJdnRMek1pTW5hV3pPS0FHd1o3RWlpak1MQ2NSUG5leGJIWTZsWHpqRWFlMWxEOTBqNXRNbWJjM19CTnUwcXhFTmNrNXFfSm80dFo5Q204STBPb1FiYjJzVnNMc1MxSHVERXNmdURTZU13?oc=5",
-      "publishedAt": "2026-10-31T20:28:20.000Z",
-      "severity": "high",
-      "titleZh": "数十万人在法国各地游行，因生活费用抗议活动爆发冲突",
-      "content": null
-    },
-    {
-      "title": "Un gendarme mobile victime d'un jet de cocktail molotov à Paris, à la fin de la manifestation du samedi 31 octobre",
-      "source": "franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOOUNMc1doSVE4R01LRnhqb0hkaTkzWTNjV0wxbnBmRVdCa3VsXy1qV2lGVGZvTzdrMGY4RXBEN0pkQWJpZHh4dUNlbkQzMnV3YWg5VGluTFRIMHV5RWo1R1pMTWdWaGEwVDI5LWw2cUZobDlNU0ZIbTZoVWZfQXRHM1NFYWptWG4wVkVlSEFPX0tJSTQwMGRoNlpXcFNVd2J5enB6U1FPZExVRzVvT0pwRUpyOEZWMm0tYzBQdVdMSkhPQ1EtVjFYNG1VWkFoQmJJakFrUnRrNDZhLVR0a1pVSlRBWVAxbkJHWXBoUk1jbWFNM1lYdGNOOWtNSVZaSmZndnIzUUln?oc=5",
-      "publishedAt": "2026-10-31T20:27:42.000Z",
-      "severity": "medium",
-      "titleZh": "10 月 31 日周六，巴黎示威结束时，一名流动宪兵被投掷的燃烧弹炸死",
-      "content": null
-    },
-    {
-      "title": "Hundreds of thousands demonstrated across France, clashes erupted after dark in several cities",
-      "source": "Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUlNoTV9YbmtZNXhkVWlQWlFhRE1GVFdXdlpIQ1FyZ1FPREFJU2J3MXpkam5RSGp4X2IyWHhSSWtKMVo4RE16VHFZWTdvUXJVVVlOVW85aU9mN2FuLTMxWGRUTGg2djI0SjFzQ3lSZ0dzeG1nc3RSOXk0a3M2a1pDa3p6a050TG0wSmNLMnZiWEExdUJjcWlFME0zN1hvd2dSUmkwanJBbWZuRTdUQ08za0J2T2VIOUI3Z1Y0TndzZ0hRU0FXYkN0WGRBcTF6SlBCQnBYcno3YmlSS2w1UEhrZS1paUljTTlJOVQwc05EWXJmVXdudEhNZHpEcENHLTg?oc=5",
-      "publishedAt": "2026-10-31T20:24:02.000Z",
-      "severity": "high",
-      "titleZh": "法国数十万人示威，多个城市天黑后爆发冲突",
-      "content": null
-    },
-    {
-      "title": "Tear gas used in Paris and Lyon as French protests turn violent",
-      "source": "Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFBoTkg4ckhPQlFQZ1lNeXlSWGRoVE16LXdjRWJxVEs5UklmZTNpTWlyRktpM1VWUDh4VFJZa2dCOHBUTEE5QWpHNVJ0bHBFMWgwc2EzLXdDUVFlZV9wbDJKUEtUajk3c0lmSHhOUmJsRUMtZDU5VmwzVEI5T0pLRnJQeUdjaEhr?oc=5",
-      "publishedAt": "2026-10-31T20:18:46.000Z",
-      "severity": "medium",
-      "titleZh": "法国抗议活动演变成暴力，巴黎和里昂使用催泪瓦斯",
-      "content": null
-    },
-    {
-      "title": "Clashes break out as hundreds of thousands protest in France",
-      "source": "The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeGVEUlA5djRNRDdyMURsVE1ZN29sVmNVWXdxcjhFWGYtYzQ3bFBkWXpaRmdIV0VFbThySDZROVA1SzNZWkJqOXV4OVlfRFNwbUlNTFFRQWltdm1hTjEzamlDcktvUVdVSVBJWEhTdUJSTm11RkdLeUdmX0VBMHZhTlBRbEt3dWhjWHpHWEdhekQzQ1hURGdWZERNU09aTEdfWWFFam0yWnVGeS1jME9ZaUJmOThNQk5FOFRVWEtock9Ua0xOenBMU181V21SNU1Td0pDeThnbGNBelM5YkU5d1RQX1U5UzRHU1E?oc=5",
-      "publishedAt": "2026-10-31T20:11:16.000Z",
-      "severity": "high",
-      "titleZh": "法国数十万人抗议爆发冲突",
-      "content": null
-    },
-    {
-      "title": "Manifestations du 31 octobre : la mobilisation reste forte, la violence est toujours là",
-      "source": "Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPel9wSDVMcUo1WmJQeHRvOVh3UkQ4aHdvWE9sZDhaNTZkQWgwTHdZM1lWYnhPT3BSQTA1LWF0LTNmakFDVVdJb3hSUGNqMC13MjJVS3g2d1lhQm0tVUlKMWRxUy1yS08xMnJ0bnRRQ1pSb290NkNiRUhqcjBZWUR2NURZMnVnaFlmblZzWUNxYXhfU0dPYTRZMFI3QjFhTmxvOXdtN1dxVmJWcmtBNXo0ZlRWbEFBTVQ3YUZHVnZEVkFWVzhSbXd3aVkwTjhrMWZDbmhqUjVsNHlaRkR4TnkzYXoyMDFFbk9KMGE3T3pJanVaV0RqRVNYd1plR1NTZlJj?oc=5",
-      "publishedAt": "2026-10-31T19:54:23.000Z",
-      "severity": "high",
-      "titleZh": "10月31日示威活动：动员依然强劲，暴力依然存在",
-      "content": null
-    },
-    {
-      "title": "More than 300,000 French people demonstrate against the cost of living and the protest expands to Germany",
-      "source": "Diari ARA",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQThrMDJyZUtSQzRWTXJDOUs1U09WNk9jSlNfNlJUcXhGOUwxbGFBb0dSdDJNRDRES2p6NFRhUDZkV3M1dTlPQVNmb1FwV1hBN3pFdWtRNHl5dVIzYXR2cjBxMzI4QnZyakotLVVkYlczZERvbkdPeWJ1TEVnVVFDTVFSZWx2REM1MS1YODh5dWcxMHNOV3lHNWFlYTJ5N2hEOUpST2IzbXI2bkVJQkE3TW9CVVctZHZmMTVUcEh2Mm4ybFdhcVNhM1ZuWnhWOUwxYWhNTS1zOUp3aU9MNjhJY1lTcGxvbU1i?oc=5",
-      "publishedAt": "2026-10-31T19:51:40.000Z",
-      "severity": "medium",
-      "titleZh": "逾30万法国民众示威反对生活成本 抗议活动扩大至德国",
-      "content": null
-    },
-    {
-      "title": "🇫🇷 Protesters in Paris are now firing fireworks straight at the police Hooded guys are lighting them up in the middle of the street while tear gas hangs over the whole area. At this point, Paris looks more like a war movie than a protest. Writer: Daniyal https://t.co/",
-      "source": "X",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4taEUxdmtDUlJhbURyc19LQkpXOWN2TjZJOGZXbmNncnVEWUR1bGFwUU9TdWxiRHA2OHF2aWcwWk5mUzA2aG5vTW9BcXVUWnVXdFY1TEpaa3I4dW04bHliNUtNYW1NZWlzUGgwcA?oc=5",
-      "publishedAt": "2026-10-31T19:50:00.000Z",
-      "severity": "medium",
-      "titleZh": "🇫🇷巴黎的抗议者现在直接向警察发射烟花，蒙面人在街道中央点燃烟花，催泪瓦斯笼罩着整个地区。此时此刻，巴黎看起来更像是一部战争电影，而不是一场抗议活动。作者：丹尼尔 https://t.co/",
-      "content": null
-    },
-    {
-      "title": "Police clash masked rioters as France: Explained",
-      "source": "JournalArta",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS2ZndnRaU0hxMm9aekhTbHpIc25MWm5EeEtrRmJMZWlyV1diQkcwRTh0M3AxcVdqRVVtVWJETEdldWcwNmhkQ05kUWJtYl9kc1Q2R1ZsWUhHTjQybjIxdHRGdGx1YTc2cXpmamFaUmNfZzhKbHFKamY1NjJXWUF5QnVfWUk2Zlh0YXc?oc=5",
-      "publishedAt": "2026-10-31T19:41:51.000Z",
-      "severity": "high",
-      "titleZh": "法国警察与蒙面暴徒发生冲突：解释",
-      "content": null
-    },
-    {
-      "title": "Manifestations du 31 octobre : « Une tentative de meurtre »… Ciblés par un …",
-      "source": "20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOalQ0VXl4ZHRsdjV4UWVaMzhBbE5WNkJBQXI1QXNrYXpNYmprdmp3RGwwNkd5OTNhbkhnbkczV3FrQjZXN1JzZUFWcGdBUEdycGNGOE1qZE0yaDhWcFRfemYxLWpBcDZJdXA2clYwNDc2Zm9EYWFRSkc5Y083MmhON0ItQnpEbFlNaXJsRWVzY0VmUVFQM2lYcWM2WTlwSTBBRzNaRFRYVHJab3R0RExWMHZUMThKdF85V2E3WWkteVNwaVF0b0ZSUERPaHB5S1Q0el9xNEVfTDdzNzJvREs1SUxGVlc?oc=5",
-      "publishedAt": "2026-10-31T19:40:00.000Z",
-      "severity": "medium",
-      "titleZh": "10 月 31 日的示威活动：“谋杀未遂”……针对……",
+      "titleZh": "10 月 31 日示威：巴黎一名宪兵被燃烧弹袭击",
       "content": null
     },
     {
       "title": "France Braces for More Protests: What to Know",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
-      "publishedAt": "2026-10-31T19:39:35.000Z",
+      "publishedAt": "2026-10-31T21:09:35.000Z",
       "severity": "medium",
       "titleZh": "法国准备迎接更多抗议活动：需要了解什么",
-      "content": null
-    },
-    {
-      "title": "Acte III de la colère sociale en France : les cortèges « se sont bien déroulés » malgré la « violence inouïe » de certains casseurs",
-      "source": "RTL Info",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU0NoSW9UZEFvSUlOc3YwUUhuenBmN2tWVGpUeVhsbGpyb3hONWlXalp0Sm1CdUl6N25TRF9HZDJjdk84VmREVzRONDBvRzBwNVZwTWIxdkY3bk1JUlotQlFBSngzVU9ub2JRdEN6ZmZFV0YxOFdodlhxSkpkd0o0UWxoVFdGYVlCNWlLV3RYMGt5RXhSWGRnYTdpS1J5OHhKR0ZXNnNscUxVNDdFWWVUUFMwY1Jyd3hzbzBRT2k3X3pFRm1QSUxEd2t3el9ZV1BCZmVB?oc=5",
-      "publishedAt": "2026-10-31T19:38:39.000Z",
-      "severity": "high",
-      "titleZh": "法国社会愤怒第三幕：尽管某些暴徒实施了“令人难以置信的暴力”，但游行“进展顺利”",
-      "content": null
-    },
-    {
-      "title": "Clashes erupt between police and protesters in Paris",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1icHVUalZYWHp4TWdiWUlzbHhmTndaVU9jc0NYeGhBak5HMDFVOWF4aTdzb2ktUU5sUXRVbWM5QkFvWUFCc0lmbzA0V21vVVRFcmZLUUZGNGJoSFE?oc=5",
-      "publishedAt": "2026-10-31T19:37:43.000Z",
-      "severity": "high",
-      "titleZh": "巴黎警察与抗议者爆发冲突",
-      "content": null
-    },
-    {
-      "title": "«Le moment où la grenade explose et où je vois le sang partout est gravé dans ma mémoire» : rencontre avec Ahmed Benmezroua, 25 ans, grièvement blessé le 17 octobre",
-      "source": "Libération",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNSkx1UTJNdE9QdlFrUXVkMnFzczBVdzZ0aV9vWWd3UmtJaUx0WVlSMTRqdDhRM0YzX3R5d3k1U1pjeWRlSjRCMUR2YkN3U0RmeDI4RUhTRTFIcW12bE5TNnBLT3VhUHNqWXFtbVpEczFvQkxfMkU5VFRPbERHM2lBQmxPVnJ6NHBRMGN6UWNFT1RaS3N0U2xja3N3OEZHY0t0dDNMYzJHY05OS0pqakxJUnJWSFNwM2ozT3Z4cFAweW03ZlZiaDdvdHlldUxHTk04OEc2NGIxZEtHbGlVUWtDeHFRalpZS09MVS1Ic0xzQXl1R29MN1lzZEtudEluNVV2RkxmSmZGZnM0ZkZsRHMxU000T3lQdmFOUTNwZVZZYXp4XzZjTk43bUFwQ1ZsMEtiOFdrSVYtclhjbXRrN0VEMDRvTjRKSzhNVVNndVpYUDdvMWhQYVBwSGd4ZGlpZW1CNmc?oc=5",
-      "publishedAt": "2026-10-31T19:34:18.000Z",
-      "severity": "info",
-      "titleZh": "“手榴弹爆炸、到处都是血的那一刻铭刻在我的记忆中”：10 月 17 日与受重伤的 25 岁艾哈迈德·本梅兹鲁阿 (Ahmed Benmezroua) 会面",
-      "content": null
-    },
-    {
-      "title": "Manifestations du 31 octobre : un gendarme «blessé à la cheville» après avoir été ciblé par un cocktail Molotov",
-      "source": "Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdnFsQWlFeml2NGdvcHdmMFBocWUtdnZCRlBkd3dsbTZqMUUwbjJuLVhqWVBBUlFXdUt5T25rcVVBMWJkZnY2dDNKLVBxWTBvU1NOYXh1S29lZ1lpSkx0bTNPWUNJWkdlcWdoSXZ3Q0FhTHBlRE9zMmpuU1VwS2h1YUotT3pzcEJiX0lydENVOUQyams5NUN0Mzh0WENQT1VTdVRjNS1TOThUWVVuMEpTWWtZNDJQYVVlbGlFYTdYM2ZWeGdTaGo5RWt3SkdnNldVZEZkWWJVRXk0SFE0WVVvN3JNbUNQOUVkZXJOUnZ3?oc=5",
-      "publishedAt": "2026-10-31T19:33:03.000Z",
-      "severity": "medium",
-      "titleZh": "10 月 31 日的示威活动：一名宪兵被燃烧弹袭击后“脚踝受伤”",
-      "content": null
-    },
-    {
-      "title": "France seethes again as youth-led protests sweep Europe",
-      "source": "NPR",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmc3UlZ3X0pZMHVrbldoOWdrUUdyVmEySjRzelV6WnBhRmcwQ09ULTlBMEgwNndNaFpJNVlvV084WWlGZjVKY0pKVUNqQmI0d1lKeFJwNW5heHdwdjdiLWZXTGNLc3FVYXljajNIeVBud3pod2s3RzZZVVFvWk5zeDJUOHNHSDF4VEUzWUNpamx6LV9HQ3NYdW1SRi1jd1E?oc=5",
-      "publishedAt": "2026-10-31T19:30:19.000Z",
-      "severity": "medium",
-      "titleZh": "年轻人领导的抗议活动席卷欧洲，法国再次沸腾",
-      "content": null
-    },
-    {
-      "title": "Paris police fire tear gas as more than 300,000 march across France in latest anti-government protests",
-      "source": "The Independent",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkQwMnpfdjlrU2Q0d2FQOGVTTm1QOXBlbEtucXU4R0FzSHMzWnptb2JtZHdtMTNLdS1xNjFpaXlybHRwUnNHZTVZT0tWVWFpZngxUXRnbWFqTWdFTjVLMW5US09rX05ETUI2OElNc1d1S0VPeEVqLWI0MXNTYlV2ajJnMmw2VGNSeFRpLWxCZHRUVGZnS25VY3RjNS0xTnVBWjZhWnhwMjdCX3Mz?oc=5",
-      "publishedAt": "2026-10-31T19:30:00.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎警方发射催泪瓦斯，逾 30 万人在法国各地游行，参加最新的反政府抗议活动",
-      "content": null
-    },
-    {
-      "title": "Les manifestations en direct. Entre 320 000 et 500 000 manifestants en France",
-      "source": "Mediapart",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc25yY19kRnhjZTd2SDRra1d1QlZlQllsMDB0TjJadUlUY0dLRDd2dnJOOEpGRnpmcElJQWxPdGtZRFhnYkF6WEhobHY0bXJfT01IMU1MVmt3WGtwc3Y5OXBKREFPQmxhNTRLS01TT2Yza0ZZWEhEdFA0bGU2TS1oRDRBWk5JcWJtUGthRXJ1Ny0tTkJ5dDFvNEd1TFQ0SFdpUE1OcEk3U2JjRDlnNDlvR1NZaVpBV3Q0b3hQakZrX1Q?oc=5",
-      "publishedAt": "2026-10-31T19:28:19.000Z",
-      "severity": "medium",
-      "titleZh": "现场示威。法国有32万至50万示威者",
-      "content": null
-    },
-    {
-      "title": "Manifestation à Paris: un \"jet de projectile incendiaire en direction des forces de l'ordre\"",
-      "source": "BFM",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPd2E0dDZsMFZKbzBVRzNkQ3FlemVTU3NwSDZIWmZTX1F6UFJrcExuZ1ZROHBQX1V1Vl85M3NDcUIwcnozb21xbF9TXzNJZmpzRnQ4SU90UlBJQ0xZdVhYTVBrT0p4YVhlc2JMakRZbzZIMW41MVJ3YjVwWmFhQ0RVR2pDSjh3ZEhGVVU1NVJFTG9kZC0tcHNHbFVoeUtFY0V0dlNYbWFTVkNLYWlWcnpGc2h5Smt4dUplanJ5SVlYSl9GR01ZajI0WmRnZlo3cXVaN2JEOHlyRHVmTVNNTFlkdzU3VW1ZeWZzZlVCb3J3YWFQaWs?oc=5",
-      "publishedAt": "2026-10-31T19:06:18.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎示威：“向警察投掷燃烧弹”",
-      "content": null
-    },
-    {
-      "title": "Mobilisation sociale : \"les cortèges se sont bien déroulés\" malgré la \"violence inouïe\" de groupes de casseurs",
-      "source": "Maritima",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRlhJVmdNZGZNMENyeVpVVGFWQXdNVHkzOW9xeGtZa0RpZ1gzdWg3MTVQTVJEcFFSVk96eU5VNTRhanpxUW1jU09GRWxVTjRZdmJWNlo0QVZIdjV2RlNsSkJwbnRLTWpheEZra1JXUjY4ci12dGRiNzJmWXhUbkNveW84WEZlRXFteXpod3FhcjJUR1RzX29JX3pLNTVLRTVaQ2U1ZGhMVlI5VTNlQ2UzNlpLLTBNLWh1V1ZoOTdlaWxFX0I5NURSV3h2b3c1RHotYUhQZWJoSGtmX25LNGp6SF9udmVZcDQ3TFN3?oc=5",
-      "publishedAt": "2026-10-31T19:00:20.000Z",
-      "severity": "high",
-      "titleZh": "社会动员：尽管暴徒群体实施了“令人难以置信的暴力行为”，但“游行进展顺利”",
-      "content": null
-    },
-    {
-      "title": "Manifs du 31 octobre : de Paris à Lille en passant par Carcassonne, une foule encore dense et parée à «amplifier la mobilisation",
-      "source": "Libération",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOVnp4ZWNfUEExV29WMHItX3NJS3VUU0RBV202SEdQM1hfOHpsWjdNdUljZVNIVURVSXhBZWRHRjhnaXNQeXZLVUtwLUpINzV2dC12V2xTY2lNUWZpNlBmTHFTdVdYRXhnRXA0N29sa1VOUEFBSktCUUdnSDdzXzhPV2tfUDVkWmpiMTd5Ql9UNnoxdEdEY0lQdVNWVlhQdnlYNlZoVldOSld1WS1JZHNGUmdudXd1Y1NKelBnbW5KeGN4LUlIcHFRcjVEd1NyMVd0SHZCTGZxeFh3aWdxSDI3NmFPYWNZLVNqc0NNcVpranZHR1JEOUw0TGxyZHAyY0JJSkV1dld0TERJcjNoT0hHcDRsU0dodC0yOFY5T281NA?oc=5",
-      "publishedAt": "2026-10-31T18:57:27.000Z",
-      "severity": "info",
-      "titleZh": "10 月 31 日的示威活动：从巴黎经卡尔卡松到里尔，人群仍然密集，准备“扩大动员”",
-      "content": null
-    },
-    {
-      "title": "Video | Police clash with protesters in Paris | RTÉ",
-      "source": "RTE.ie",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55MUxTQkFUV0tVazh3X0I4X1M3TVZ6a1p4OFJMUHFHdG9CbmE2b2hFUVlzSmVQQkdnMWNTQTkwaUtDYVFHUmNnSg?oc=5",
-      "publishedAt": "2026-10-31T18:56:37.000Z",
-      "severity": "high",
-      "titleZh": "视频 |巴黎警察与抗议者发生冲突RTE",
-      "content": null
-    },
-    {
-      "title": "France protests: Clashes reported as 320,000 take to the streets",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdTczb0l5cFVucGg3VEFOZXNyVXVxRklDX24tSDVtenYzcHRaYXFEZGhrT241eUJLYW95M0pGQW83bmkyT2FJVDJnYUMzdEJNT2JzRVZIOEFIeGJjV3lmRDVSamNIdHRsTkw2c285dElDdlNINDhfRmNuRDZ1aDJsZ2J3akdoX1lfU3p4em5DblNyMzZDRGdNcnlRRzNyRG1pLTJoZ3RR?oc=5",
-      "publishedAt": "2026-10-31T18:56:15.000Z",
-      "severity": "high",
-      "titleZh": "法国抗议活动：据报道有 32 万人走上街头发生冲突",
-      "content": null
-    },
-    {
-      "title": "31 octobre : 500 000 manifestants dans toute la France, cap vers la grève le 5 novembre et après !",
-      "source": "Revolution Permanente",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRGEzNWtBQ29hWlBGMjloVm1fSmlNbEVXRENwckRzVGNTUWN2bGpEME1rZVdJbzMzQWRPVHpYaDVtcHdRcWl0VVM3X2RPTnV6eTYtXzFDd01RSllQcGlfQ0tNRlRwTFJwX0ZNZVYxTVFxcWFlaVJDUnNYdDJDZ2E4QmpOVGtCVFVvMUN1U2tDTE9RbWloaks2ZV9pWVNfRGVUeVQybU1Ldnl5RDY2OFRwNmJzUjNPQ04zS3VxTDFWdkZfbjY2WnRuV9IB0AFBVV95cUxOYk5IaU9vYVVtQnljSmVSd0ZvNUN2TjVBc2ZfakVoMGV0by02TG1YQUJSWmVOS095WG51Yml1WDcwTERQX2hVQVZzMTNtbk9qMGtCTUtxUkZEay11aHRqZjNiQy1HeFB1S3pBVDEzSmhlTkJ3cF9INmp2LWFETUExN285QWplWUkzUGwwek5zZTNCM09WcVg1b0lRLVpwX0Z6Qk83allvUkZja2hLbDg4RHRPeUYyNGV6R0IxcUR3S0RzVHVnWGU3SUwtTVM1Y0xN?oc=5",
-      "publishedAt": "2026-10-31T18:54:33.000Z",
-      "severity": "medium",
-      "titleZh": "10 月 31 日：法国各地 50 万示威者准备在 11 月 5 日及之后举行罢工！",
-      "content": null
-    },
-    {
-      "title": "Isolated incidents at the end of protest marches in France",
-      "source": "Serbian News Media",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZ1lWTmEwUGRjSGY5WUtjSmt6Y1lpc19vQjZ6UzJ5c3o3MWZQTC00emJLTkk2V01SVmVUT0ZNbU5XczF3bGVVMWVGYmxHNUxQb3Q1RFM3Njk3TTlSU1lvTjJab01CVHhtbzY0R2tjSTdKTy1QRGMxLW5KNk1CQzg?oc=5",
-      "publishedAt": "2026-10-31T18:50:30.000Z",
-      "severity": "medium",
-      "titleZh": "法国抗议游行结束时发生的孤立事件",
       "content": null
     }
   ]
