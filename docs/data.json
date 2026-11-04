@@ -1,274 +1,315 @@
 {
   "success": true,
   "today": "2026-11-04",
-  "updatedAt": "2026-11-04T14:24:45.618Z",
+  "updatedAt": "2026-11-04T20:55:45.552Z",
   "events": [
     {
       "date": "2026-11-05",
       "articles": [
         {
-          "title": "Tensions pour la Manifestation du 5 Novembre à Paris",
-          "source": "Mobilicites.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEdHdkEwZC01c2JSZVhvZUp6eEIyUVQxVUJka3ZGRUpROEN2cFNVbDY0LXc2YWRsLW1VTk1Zbmw5WlphUGNQMTlMaFRlakIyTW5Rbzg4OUxpRF9TWlNxSi1qaHNNZ1FRMlRWNE14VjFkUE5vUFVNWmtHbU9xS185cGJPd2hlb25MdTJyb291aG1FQXd0SkhWT1kwNE94NElDN2hDcVJKcWJOSkVHQlRUT04zcTQtdkI1QndtUTRDNno?oc=5",
-          "publishedAt": "2026-11-04T13:42:00.000Z",
+          "title": "Grève du 5 novembre à Paris : voici le parcours de la manifestation République-Nation proposé par la préfecture",
+          "source": "Le Parisien",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNc3RmNkhSWk5KSDE5dFRqR3lQbktzeHF4MElLVy04d2F3TlEzdUZIcUJwZjNuU2RDdUNaeWV1MTl3VFhHb0RUUHBWMDZhMmlqRWt4eTB4ZWhWbm1Pd3M3cE5uQUZ6VWQwU1Vvd1ZDT3lxZjZOMmpsRlpVdnpZeVRyRUlDYjQxZ2RaaHdjUENCbE9EM01GMmlyTlhUTnRQZFVxQzR5U2IxODZ4cjdNRUR1czg0QVVsUUI2Y05SaXQ4U1J2SzBfTG9LMEFzRUNnNlhwV1dvZ1p0RjdpYWlvLWx6WVkxaWN5MFpCY1RqWXJUeHBjNjljQk9hVGtwYWVFV09nT0pfbkxDeUhxcDgtbFNWdXg2emU?oc=5",
+          "publishedAt": "2026-11-04T20:39:15.000Z",
           "severity": "medium",
-          "titleZh": "11 月 5 日巴黎示威造成的紧张局势",
+          "titleZh": "11 月 5 日巴黎罢工：这是该省提议的共和民族示威路线",
           "content": null
         },
         {
-          "title": "Grève et manifestation du 5 novembre à Paris : transports, écoles, parcours, le point",
+          "title": "Grève SNCF du 5 novembre 2026 : RER et Transilien, les prévisions ligne par ligne",
           "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM3dvVGQyS21henhmZWRud0d2Q0gwUEY3RkFpcnMtNW90SDBnX3VKZFdfcEgyak1vRjVPZXJ2ODAwdWNYUklWcV94NjFRTDhzeWV6bi1wLUhwTVNkN0pDdVBCbndZWDV5anUtZC1vRy02Qld0Ml90bFRQMDNQMkJBaHA5cl81N3puR2tIVW4xb0NjOWtEbldlMW90QVRkTmVPd0tNZDBQMVNlNU04T1I0UmE3d2FnNjlZZG1MWnRKd3M3NEZyNEY5SmM2amc3Q2hRXzA5UkRibWJNYVph?oc=5",
-          "publishedAt": "2026-11-04T13:24:19.000Z",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMW82V21PMmdTZVowYVcxY09NaHVPeTlSTE1UeWU2Y2FhQlN4V2hVbGRJWEI5ZV9FNjVLendfSGc1VUVKOWs5WHlmS2lNVFlSOU5TMDUzQV9uY2pkbFBpSFcwR0xWcUE2cUl5V09hYS1wRXIwN1p6Ml81emRGTGx5emYyTjJORUxZOGY4UEZZVXc3R05ZbENadzVKQ2dYWkFWLXo3YzJaZE9iTjlabE9hTFo3ZGE3dzhUUzFUMzRXQUJDZFZ1Nnc2aGpFSUtybE5KX0tPUDVyZ1V4dw?oc=5",
+          "publishedAt": "2026-11-04T19:29:20.000Z",
           "severity": "medium",
-          "titleZh": "11 月 5 日巴黎罢工和示威：交通、学校、路线、更新",
+          "titleZh": "SNCF 2026 年 11 月 5 日罢工：RER 和 Transilien 逐条预测",
           "content": null
         },
         {
-          "title": "Grève du 5 novembre : CFDT et CGT dénoncent les conditions d’organisation des manifestations",
-          "source": "Le Monde.fr",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcDkyUkRHMk1oWUxVV2oxMUpOVUNWNzdJV0JRak5GMjUyaUpBMklLRnduZ1I5eHpicXpaSHcwelBBbkdCSkt2M1F1SkRIMDBobTEzZ2dGODh5Y01UOUs1WW0yNHlwYmhLeDgwN3I4bnVPM2dHVFNTRzZRc1M2R3p6bmZidHFkWldDUVpmamFPZ2IwVXdIVW8zOFVkRFY0dWx2UlEyZ3hSRFAtZ0FsMlVJNk9PcWdET20xaDlCQWRBazZ4eXZyaFNVbHRWRElYaXlWcmR4dWxFRGdiUlJSMUJHOTdNeVlWREVHX1Fhck1vc25PY0hF?oc=5",
-          "publishedAt": "2026-11-04T13:13:24.000Z",
+          "title": "France : grève générale le 5 novembre après trois samedis de manifestations",
+          "source": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTI5ZUxWdnltQVRlVHQ0cmJCSnlZVjFwQ29pSXRqSmlWMVZMeERzTVNJR1dtREExWmZWd0szNVNoLUpTWHZuWWdUWmRtM3JxQzBrVXlHTEhBMVpoT084NDZjXzhGQThjWUxZTVhKWVZWaWdtMmZQajdNajdGNGQ3V2RaRko2ajBJX0Q1b2VJNkNVbGNIa256Y3ZCc0V6a1FnWHlhMEFXbTAtaTV6?oc=5",
+          "publishedAt": "2026-11-04T19:25:57.000Z",
           "severity": "medium",
-          "titleZh": "11 月 5 日罢工：CFDT 和 CGT 谴责组织示威的条件",
+          "titleZh": "法国：连续三个星期六示威后，11 月 5 日举行大罢工",
           "content": null
         },
         {
-          "title": "Grève SNCF du 5 novembre 2026 : TGV, RER et Transilien perturbés, les prévisions",
+          "title": "Grève du 5 novembre : quelles sont les revendications et à quoi faut-il s’attendre ce jeudi ?",
+          "source": "Ouest-France",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRmFyeWNWOXF1VDB2SVhZeHFXMlVreG1JcTNNRVZ1ZnozNHhaWUZNYk1CWmFSQks2OEsweXdoX21jOEtGZFZ6U21BYk0zWVRlNWlHaTF0QWNBc1Z2MlVxMEhCY2t3clU4dzJ1RVVZTFlfVDJpU1J6SUp2Zy1jTjF5UEN3dTNMUWZZeWcwcU9zSEt1Vm0waXRNcTJwbU9DQlh4WVBEaW16a0dJNVZDMS1JR080NzhUNjBxSmd0bU9rMmcxYS1qeTY5OE1vcmhUN0x5SkM1aU5fM1R3bHJXcFpkOWZTaXB5Skc3UGN4UXVsM19sT0JpcDlzODhZTjc?oc=5",
+          "publishedAt": "2026-11-04T19:20:53.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 5 日罢工：周四有什么要求以及我们应该期待什么？",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 5 novembre à Paris : 25 stations de métro fermées ce jeudi",
           "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU2RSWWZ3MjkyRHVXajdzeWJraHRwcFZWY2hLV1k2bWMteVktdDRkNEU3NHlqeUV2T282NHZjSG1uMi1SQ0tIQ3VMamp2UHZUNEhUbmFnWWE3bTQzbklFZWNOYmVVUXRHWnNrUk1RcUc5RGM2UVFQd1Q0MC12MGgzZjBkWnV5LW01bDRNa1pSWUpJdDIyOUUtd1lhUmRmdWxYbGFNUEJ5MFlUdElKcGJ2NENzalBxS1lEM3pwVWhkeDlmaUJkWko4ZDNhRWRSQjE0Qlp4UmtIZw?oc=5",
-          "publishedAt": "2026-11-04T13:12:16.000Z",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWmFDY1lQMDlpQzNfQmpKNVVhV1dURkFmdXFFTUctRUVtMjJFWWtSNElyeHUtRzJWZlMzN2FvN1hlY1EzU2ZqemhVNThGLUJsclFjNGRIbVdDVzJDRHRWdEkxVW02VUxDaHdLMW1WckZGc29LS3hFVy11QXYweTFuVGF5bE9UTi1admp0Z3Y1T0pnUHJsNVhHVjlkZDJIRTBXcmVualBCcUl2ZzJFc0ZnV2JLWkdVa09XUEFIYXVWREoxRXlmaEJoX1p6bmxfOHh6SFZR?oc=5",
+          "publishedAt": "2026-11-04T19:18:14.000Z",
           "severity": "medium",
-          "titleZh": "SNCF 2026 年 11 月 5 日罢工：TGV、RER 和 Transilien 中断，预测",
+          "titleZh": "巴黎11月5日示威：本周四25个地铁站关闭",
+          "content": null
+        },
+        {
+          "title": "La journée de mobilisation du 5 novembre \"classée à risque\" par le renseignement territorial, 70 000 policiers et gendarmes mobilisés",
+          "source": "franceinfo",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbENuS21nVGhYUTU3czlUR1l0NzcxYTBVZUxBMFJXdThsMGdrcjBSUF9LZG5GSXZzM3FFdW03U3lNaFJwQ2dEYkpnZ0NVVElVaXJ5N3Z1VEllN0pNdzl3cTRDMmpRNTdyUlhBdTM2YWNuX2U4bjFjM1M5ZjBIendVcTVYM19lUVRIRzUtYVYxY0N1M2xYemRKUDFZWl82bXF2N1Q0UnBVNm9ueHVubVBxaFpJaEUzcEdjejdxODdROTBnNnF6b2JyeVdOdnhvZEs3d3hXX1RNQU4xVU0zam1PS0EtRWs?oc=5",
+          "publishedAt": "2026-11-04T19:07:03.000Z",
+          "severity": "info",
+          "titleZh": "11月5日动员日被领土情报“列为危险”，出动7万名警察和宪兵",
+          "content": null
+        },
+        {
+          "title": "RATP. Grève du jeudi 5 novembre à Paris : ces 25 stations de métro seront fermées dès 11 heures",
+          "source": "Actu.fr",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcnhESXBZTHdGeE5VSHhqeGFvN1Y1ZW1za3BJZzRNRjZWOHpRM1NsZy1kblJ2ZjZYVlFtcEp4QWdiZ1BzbHg1bldrckpsY3ozenRFSVJKOW5GTXlacTlSQXdRQkZNWTNXY0ZjNHo3b2lUTDRfM2xUZkJkOGw5YjRnOVlDVjJ6TE1OZmY3dE0weUZmZHplS3BzajhfRWlFN2JEXzAwalA4STZYVksxSDN5NWNPZGhoQjBHUnlDZlJ1VXNHOExkMk41Um5WWmhQTy1yNjhFRnRiNlhNM0pXOWRScEZn?oc=5",
+          "publishedAt": "2026-11-04T18:59:51.000Z",
+          "severity": "medium",
+          "titleZh": "RATP。巴黎 11 月 5 日星期四罢工：这 25 个地铁站将从上午 11 点起关闭",
+          "content": null
+        },
+        {
+          "title": "RATP et SNCF. Grève du 5 novembre à Paris : RER, métros, trams… voici les perturbations attendues dans les transports",
+          "source": "Actu.fr",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV1I1SDdkNEw3bzRXUnMtQkxWdThPbXdadFFiZzBkWWY4a1JFT1ZsdVdzandqYUJrXzJBNlgyV3I5a01sMnBhQlNhU3hmRDd5YzRkQnppRmRzYzlYZWNUcER6WXBvQzhHMmZ6eWFucnpSNHZ2SmVnRVYyamQ4YjNtRmctTjR0VW1tMmxrMVQxZE4xSnlJdnotQXlqaWVnTFNVemhsNVZIMDdrM1hEZWRYTHNlUkVXcUdfU1FIcTR6eXFfc1ZMQURndV9mbjYybXV0dHJvN0tiM2FrTHBtYnBtV0E0Zw?oc=5",
+          "publishedAt": "2026-11-04T18:51:52.000Z",
+          "severity": "medium",
+          "titleZh": "RATP 和 SNCF。巴黎 11 月 5 日罢工：RER、地铁、有轨电车……以下是预计的交通中断",
+          "content": null
+        },
+        {
+          "title": "5 novembre : parcours des manifestations, décisions des préfectures… On fait le point des situations des grandes villes",
+          "source": "L'Humanité",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNd091cGtZX0ktN2xDTlF4Y0lGN1ZQVFlFbkdfVXQ5Q3c5MlBFcm92S1ZsMEhqc0QyNjRjRHRRdzBDcmg4MW1EQnd3MlhmTElYOTFtVEt0T1hucmNDOTJUNHAzd005ZXNYeFFlYXBnSFY0VEF0R0FWNk14ZzRjazdiTUlyUGhWLUpoQWFrT1lLdUNzcmpjM3lpNDhFNmtCTjVYaHkteE1KYnBOS3luaXhHNXdhekV6U2kyZjJyZ1ZJVFBma3A0Z3NHamsxYTViVlFHQU5qSy1PY1pfSjZtd1V2R3Z2U2RLV3MxUlYyU3lZTkZxNWdP?oc=5",
+          "publishedAt": "2026-11-04T18:32:04.000Z",
+          "severity": "medium",
+          "titleZh": "11月5日：示威路线、都道府县的决定……我们盘点大城市的情况",
           "content": null
         },
         {
           "title": "Grève du 5 novembre : manifestations, dispositif policier, transports, écoles… A quoi s’attendre jeudi",
           "source": "Libération",
           "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPdFNocDBTRzNXSzFBVkFlZ3pJblo2bEhmQTNpSy1FZDh6X3gxTkJqdVlYaUhKcTU1dXNMYVpMc3FaRFVNaEF4WlRKQXdFUVFrVEp4ZmNEanlLd25IQkdKbWZTZmVWc2wxSlNTUlR5R1VrSHNUbUlieDJFcFBvUVhrcnMwNmtUV3BDRVVrMGdLcDFBbWpBYkhRYlA3TWxWTDMyVk91X2tMZnR3YlFkU0w4ZjhESHNhM21RVkhfS2pxNzV2QUg4M1hkWmlwbURKRGtUbGFCMWU3MGhuXzFCcUxTYU43aW1GQnBpYnhMS1pwbVcwMWx0R3VUMEV0d056bExrdHFJbnZtTXlHTS1CTWVTb2ZUT3IzdmRSTHZfV3REVTNUOW5tQXZyd1JnQmQ2aUtwXzBfdXBsSENRVE9F?oc=5",
-          "publishedAt": "2026-11-04T13:05:00.000Z",
+          "publishedAt": "2026-11-04T18:15:00.000Z",
           "severity": "medium",
           "titleZh": "11 月 5 日罢工：示威、警察、交通、学校……周四会发生什么",
           "content": null
         },
         {
-          "title": "Transports, écoles… À quoi s’attendre pour la grève du 5 novembre ?",
-          "source": "20 Minutes",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeVV1TGRXMzhjVmFlY1RlWU5RQWhyMjlwb28xeEYyaTBRX0lKTXZLcWEtNG84ZVZkOFdsN1ZLQzJUUlVQSVpFNVk5UjBCN1g3YlgxMEh5TmF5QXk2SFhjdzA4alViUWF2STcyR1ctcEZ6aUZ1bS1wZC1rYnJhT0FvZm0xU1ZRbUxKSkNjeEh4N1ZIazdSTTl1VGZ4VHp2S203WFlmTWFTa0h0aDA3X201bllQTjU2T0FTcUlR?oc=5",
-          "publishedAt": "2026-11-04T12:56:00.000Z",
+          "title": "Grève du 5 novembre : à Paris, la préfecture de police change le parcours de la manifestation à cause du « contexte de menace très élevée »",
+          "source": "Sud Ouest",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQY3BNcS1IZ3dKbUtLUGhoYk1odjhvc0FsTU5Jdy02ZEhsYTR0ODhtZTNZbE4xUGJrTmNTdzBWM0lvS2FRLXpYQUluUlc4cXV3WVJJSnJ5MDNqRTdwT21oYTB4c0tLX1RPU1lxODRZVXgtcWZyVTJqTGVONExtV2RNVV9mbEpFM05VLWJpeGdsRkpuM2VEWDhCTnNYVWZsQXlUTk1acjNrb0ZZUmFVaHd5NEwzSXdhRU9YeTdHa1RWNTc1S0V4VFlBYlpJOVZOdE1QQkRzQ1pGTUJ5V1hxbFBIajdnMVgzT2UxcGhHSEc3UklOTWJYSlZIMVNaUTZHSTRfT2hqTTBqaW9fUTROaWVwVk9OeDBBWl9fNnllakZNTHpsTmhXZ0ZwWUdB?oc=5",
+          "publishedAt": "2026-11-04T18:09:09.000Z",
           "severity": "medium",
-          "titleZh": "交通、学校……11 月 5 日的罢工会发生什么？",
+          "titleZh": "11 月 5 日罢工：巴黎警察总部因“威胁极高”而改变了示威路线",
           "content": null
         },
         {
-          "title": "La journée de mobilisation du 5 novembre \"classée à risque\" par le renseignement territorial",
-          "source": "franceinfo",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbENuS21nVGhYUTU3czlUR1l0NzcxYTBVZUxBMFJXdThsMGdrcjBSUF9LZG5GSXZzM3FFdW03U3lNaFJwQ2dEYkpnZ0NVVElVaXJ5N3Z1VEllN0pNdzl3cTRDMmpRNTdyUlhBdTM2YWNuX2U4bjFjM1M5ZjBIendVcTVYM19lUVRIRzUtYVYxY0N1M2xYemRKUDFZWl82bXF2N1Q0UnBVNm9ueHVubVBxaFpJaEUzcEdjejdxODdROTBnNnF6b2JyeVdOdnhvZEs3d3hXX1RNQU4xVU0zam1PS0EtRWs?oc=5",
-          "publishedAt": "2026-11-04T11:40:24.000Z",
+          "title": "Grève du 5 novembre : trains, métro, bus, avions… À quelles perturbations faut-il s’attendre dans les transports ?",
+          "source": "Ouest-France",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOX0Y2UVliNnBjXzl2a3dXa3pDVUt1MlRsRE9pS2F3VkFHX1FQa3hmMWJXazJwWWdOWG9uNWpyMmVyVHZGVWJyaEI0LW4wRDFXa0liN01Oa2V6ZEo0SGYtOUszaHdRMm9HU0ZZZHBBYnl1RGQ0UkpNMklqcGxnYTBFWkpMRGRVRU1kMjVJOThrRC1qZFF0U3NCb3pfdWhURUZkUVBURnpkaXV6eFlnRUZPVHRfY056V2dwTmFZUW8zN1VSUzdqMXVDVmEwWUxtUHkyaXpjVEV0d0p5c0JvYVVzdmJjdUtRdVlIMHI0X2dQN0pabUtpbFRsVXA2ME52ZXdOdGdjTGZhNkpsR1ZIMTBDUGNwRQ?oc=5",
+          "publishedAt": "2026-11-04T18:02:55.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 5 日罢工：火车、地铁、公共汽车、飞机……交通运输会受到哪些干扰？",
+          "content": null
+        },
+        {
+          "title": "Grève du 5 novembre dans les aéroports : ce que prévoit la DGAC pour Roissy et Orly",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOakNSeGE4b042eHVnSl9yZWp4cjJEVWNWLWFqRDE1TE9jcXhGaUsxS2J5aWFtRlJTc2d2TGhxRW5SS1I3RDJnVjk1T1hpemVocjVXYy1LYll5anVwTWd6cXRyNTJLbEZnenNydkhVSTgxZlhaZnNLeTMwMWxfVmt1X3VGVzNzVW15bERoX2Jaend1TkNpQ0xielUyRVVwLUVZYU1ZRzFmQzVvRjNDR2JYRk0yOGxzUVAwcDRxdDBUQ0JmN1dGYjgyeFpUdEU3a2E2TFA5R1Bidnp3bmw2UVE?oc=5",
+          "publishedAt": "2026-11-04T18:00:10.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 5 日机场罢工：DGAC 对鲁瓦西和奥利机场的计划",
+          "content": null
+        },
+        {
+          "title": "Grève du 5 novembre : des syndicats renforcent leurs services d’ordre, après les attaques de militants d’extrême droite",
+          "source": "Libération",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQdkFwa25pVy1qYkpiVTR3SVNBZTNhRE1ZbFN2ZjJtZ2lGMktINklEVTV6OVZrLU5zLTBTWE1aR1VlOVVRWmRsdWZnRWZpOG1fYThfU3BqTEk3bGVwbmNWSDhqYU4tN1FFSm8yVjFrVThEaHBwVFNFaTFfTmxhTUhISTBfSmxJdkpZb29tWkR3MWU4cmp1NHVma2YtanFfMmF5V1JpNFhsNkpvT0phTGh1UEZGRVZjcDgyVWdhTUlQQ25Kd0RBamRQOXZTU0ltVUlHa0lfTE1pOWdhSnJMWDhqb25UTGNnUEprRGM4VjEzSVlrdE9BUmxCTWV3ME9HQ2c0UHEwQUZDOFU1b0JaQnJOSlkxNWFtZw?oc=5",
+          "publishedAt": "2026-11-04T17:57:00.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 5 日罢工：在极右活动分子袭击后，工会加强了安全服务",
+          "content": null
+        },
+        {
+          "title": "Grève du 5 novembre. TGV, TER Nomad : quels sont les impacts à prévoir sur le trafic SNCF en Normandie ce jeudi ?",
+          "source": "Ouest-France",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONDlnZ1lhTVo0RkxkcEpSMjVXaTFkbHRkN2NVdFk1R0k5ZGk4U1FQemJETFJ6U2JlYWZBZENNMXNNVDV0cGVEXzRtVEllejd3djZyempTWGU4MFEwaXBrNWRsNks3NWkwTnliWXpVc2pMeF81S19UU3NXcUdUVm5OWWtGeW43cnZOU3ZRTlFyQ010anVZTHZhaTQ4UHItVjVwNlg3NlJPcGphV3RqTG5RQ3VOWUlWN2p0aklhZ2tKRmg0R3ZRdm1RcENFaEFXYl92WWpkNXZ5dmF0MHozQVhqazU1Q2I5bkZfdnQ4SkxaSVV2bUN6dHhEX0xMQUs2ZU1Ea2FuOHBndzk4c2trOXZrakR1MDF2QQ?oc=5",
+          "publishedAt": "2026-11-04T17:52:57.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 5 日罢工。TGV、TER Nomad：本周四诺曼底的 SNCF 交通预计会受到什么影响？",
+          "content": null
+        },
+        {
+          "title": "Grève du 5 novembre : plus de cinq heures sans train sur la ligne Paris - Chartres, Dreux aussi touché",
+          "source": "L’Écho Républicain",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNN1A5OEJPRENhbVkxWF80cDNjOF92OUF2MjRBd2diNFltSFVpVHA3bTVrMzVzRW0tb1lfNkNnY0ZQMlZvSkJnc0dtTkdPWlNFa2pBcXluZ2JlTXVNU3hFbS1GT0NLLXJDMWdSalZxZUlHUGRZcUpXM0VmQllERjJHOFl3MkNnR21pOGVvelNuNGFoZ2pHRURKdHJaVVFROVhDcEJlY2cyNzZOVkxjUHZvaTI3YjZnQlNWTjE0bXB3U0ZDdnp5M3RrYmxQd2w4N0xuUmtpdGVRSjRteVdzUy1sY3E5WW40bHJWdEFvdDdhaV9wZVVuVjVjV1Fn?oc=5",
+          "publishedAt": "2026-11-04T17:49:00.000Z",
+          "severity": "medium",
+          "titleZh": "11月5日罢工：巴黎-沙特尔线有五个多小时没有火车，德勒也受到影响",
+          "content": null
+        },
+        {
+          "title": "Mobilisation du 5 novembre : le parcours Bastille-Concorde interdit, le cortège parisien autorisé entre République et Nation",
+          "source": "TF1 Info",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNN0VicHA3QmhIT2Y1YlhWVHk0ejUxTVJPNWM5ak1Sa195NVgtNDRvN3Q5Wkw4SDRwUVZGY1hZcW9SZTdCLURzQ0hoU1g2Z1Z5MTZXeXBiSk1NcHNsdTdKTVZTWlVSd1Y3OEF6RXJLTXl6X1J0YnhxTXpkZnJZOGI3dlUzUTJ4dGx4N1JSOUVEUUxZNVlYZWUteE1zdGZWTDQ3Z1ZvRWpoVXFwcFA4YUNMZUt0VEpRU3BYX3FkdW0yckNfaFM3N3M3b00zX1dzYjl3Q3dyZk8yckdPMlFWWGR3QlpWYzFxQ3NlSmFfTkxtRFEtT1RoOFdvLUQ1VWE3Q2JpcDZmTGx6V2E?oc=5",
+          "publishedAt": "2026-11-04T17:31:41.000Z",
           "severity": "info",
-          "titleZh": "11月5日的动员日被领土情报部门“列为危险”",
+          "titleZh": "11 月 5 日动员：巴士底狱-协和式路线被禁止，巴黎共和国和国家之间的游行被授权",
           "content": null
         },
         {
-          "title": "Grève du 5 novembre : écoles, transports, manifestations… À quoi faut-il s’attendre demain ?",
-          "source": "La Croix",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUhOWGlvM1l3UEZmS0x6Qm1qTlpZck42ZkVIbEpKYkFxMmJXQTI0WWhHX05BTUhGR2U5ZE8xa3A4WVBVU1lEcjNYR2pRM2VCWUJ6NU8yZkRQbXlDUnhWMGF3Zk1EZ1dhLUxQbmpteEdUMnRlVVJaMHpIVUllM3d5Z21ubjdpeTNlUjE1amh2dUg5ZnhQbW8zLXh4QlF5bEJxaHZpYWd6WldnS3JURGZaM252TWNMS09NY294MWVHTHpvc0t6bGR3?oc=5",
-          "publishedAt": "2026-11-04T11:40:10.000Z",
+          "title": "Trafic SNCF perturbé sur les TER et RER, écoles fermées... À quoi s'attendre pour la journée de grève et de mobilisation de jeudi 5 novembre?",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNVmdvUzh5Mzl4MVFac2hJZWlvZnhrelRqa0wtWkNLSkhSRzhEZ3IxVzQycUhDREV5YkFvY2V0MmIxbDg2X3dWX2VPbGRxZjQ5Q29aTmc2RkFPMlI3TDhIX0VzM3ZWenQ4WTRyZFpTQnJsb1pxTjd6Y0xTeG4ycTBLVnY3RVdYR2ZoalNFTnBmUzlVUmstM3JRbUNpeHRkcGFOSkdHcHg1WklhY0pZRU9NWERLa3J6THdRWGZfSEtQNkVIeDFEZ1p0QkZ4N19HNkZnbkxkVzFOel9zb0tMYVRkLU5YX3B3d200QkdaSHhFczI5Z0lWZ2dURE1neHNiaS10ckFxeEJYanNyUWYtSUhjUnJ6NWpMYVhINkRIb09XMkVuLWpJVEpYNHdwdlk?oc=5",
+          "publishedAt": "2026-11-04T17:14:24.000Z",
           "severity": "medium",
-          "titleZh": "11 月 5 日罢工：学校、交通、示威……明天我们应该期待什么？",
+          "titleZh": "SNCF TER 和 RER 交通中断，学校关闭……11 月 5 日星期四的罢工和动员日会发生什么？",
           "content": null
         },
         {
-          "title": "Grève du 5 novembre en Île-de-France : trafic \"perturbé\" sur les trains et RER, \"normal\" sur le métro",
-          "source": "ici.fr",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzhZS0ZZbmM2ZW9BN0pNNmxLZVNxRU5NM1gwZnF3ZksycDJzdW4xTnpxNFg0dnNqaFNQcms3ZWlWMzN2d01va2pSM3Z6MEw5ZlRyUlBBSWc1aXhsR3RNY25MMzJOVU92MUNmc2FHYXZhY19mVnJ5TUJ0bHUwQ2loRnRPWTlIOW9MUkQwY0dGSGtpV0xzcVJFZE83eGNrdjQwejljYkJyQnBuYzdxaEFKMHdUTEpaa0lfUkNPVjVUdDdfc1hmLVdVTVo5RGoxSUY0?oc=5",
-          "publishedAt": "2026-11-04T11:22:32.000Z",
+          "title": "Grèves du 5 novembre : perturbations sur les réseaux ferroviaires régionaux, trafic quasi normal sur les TGV et dans le métro parisien",
+          "source": "Le Monde.fr",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQnRWUzJKcUhHdWd4dzVLZG85T29FQlByOEtvbjU3anVKMV9GemVQczlNRUNHQ0ZNVWZsSHZDTGZtY1I5U2lvQUNhTUJBOEtoaU1IM3R5eU1paWJrakhsUGkxRktkSjR3TjQ0SDlaUmVzSjBaVTNIWEdyaE1VYlRJR1JIa2dsMEpsN2wxUFRqblJkMnNCeXVnQTdZb05RMU45d2tObGtpdmxUMjF4SDZfclV2ZEtJZEdPWjFYOHZZaHcxRFUzT2RKUnVLQzVzYjZNWnFHeTdCemtkcHJ0RjBOaDZEYVc5alVBcUIyZmZXaDZTcFFLS09FdnI3V3Z5c25UOWx2c1JzQmktUnlRTGNUZXQtcHp5YmxNQ00yOEkxc0RrTFhhZUVn?oc=5",
+          "publishedAt": "2026-11-04T17:04:12.000Z",
           "severity": "medium",
-          "titleZh": "11 月 5 日法兰西岛罢工：火车和 RER 交通“中断”，地铁交通“正常”",
+          "titleZh": "11 月 5 日罢工：地区铁路网络中断，TGV 和巴黎地铁交通几乎正常",
           "content": null
         },
         {
-          "title": "Grève et manifestation à Lille ce jeudi : à quelles perturbations faut-il s’attendre ?",
-          "source": "Le Bonbon",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGhnNllFOWN6Y2kxR0loLVdfNlFqdzBSODVmNGRyZU54dXRLVWpWTldxM040UVl6QTdqOUszaGE2VTlfNFhkQmFsYjVTcF9kbTB2M3c0bFhxUW05RFJqekZJMlNqMXBpUGt0TWo0eXFNRUNMYnNmSEY4VmJpR21xU3NUV3NBaE0zMm1nQTg4bEdMYUowaHFHeVVlZk1rY0lsUHYzRnByU3hRV1NlWHM1RUlmX3dKdw?oc=5",
-          "publishedAt": "2026-11-04T11:19:16.000Z",
+          "title": "Grève SNCF du 5 novembre : TGV, RER, Transilien… À quoi s’attendre ?",
+          "source": "CNews",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkwtQzd5OGdvY1d0RjZaR1VULUFRbUUzSGJaMDJoNkg2a0U0b1p3NUowY3VFX19hYjk0bmliZEVreHJTTXdpZ2xkTU0tV2FrTEExeXF6UldMSHBJTWVOZEtqcVRhczdWRzF2ckUza2RFbXB2dXZLR2lodGFmVjBLT24zYlgxdW9VUGY0X0tRbjNwc1Q5RzZuZEVZeWFVQWYzYnZiUmdtUTXSAa4BQVVfeXFMTmtFbDVpRjE5anpXVl9fYVZJdHdEWERQTDMwSTRlU3lhckNFRTdDWVRKTUE0M0NiMlFIR2hhS3o3TnpEenlwbzJOc25NMFFjNUtzSFVpRVQ4WktFd1hTSTQyMTN4Y3JpRzF4NDRzRjdZMGdXLTZ4NC1YUmFXdFFiOUhtZEhBb3UzOGYyRTFMV1N1OEFxSXJBbThkeWlsRVZUTUVKaWRVOUlwRzFjMWZ3?oc=5",
+          "publishedAt": "2026-11-04T17:03:41.000Z",
           "severity": "medium",
-          "titleZh": "本周四里尔的罢工和示威：我们应该期待什么干扰？",
+          "titleZh": "SNCF 11 月 5 日罢工：TGV、RER、Transilien...会发生什么？",
           "content": null
         },
         {
-          "title": "Manifestation du 5 novembre. Des perturbations à prévoir sur le réseau SNCF en Normandie, plusieurs lignes concernées",
-          "source": "tendanceouest.com",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY0J0UEZEZ1JyNTVHdnVickVsaF8yZXNNbGo1MXlqbTNKN2hGQ1ZZR3lEM2FhcjE1YmtSMkVYVnktdWJ0NFdHQmZoZk5OSk9VaHRKTHBoYXBBMzgwd3dZR0xNVnRZZzl0SHd5VkZMcGJheXdCaHZNUlNtczJrR1IzMVY2N0R3YTUxMVVoVF90WFBYLWtBaU9xYjNuVHliN1FaT0hmOVRPMWpOcDQzYjhSTS1LdmRLdEkxU3hTMkljZldxUWFvbkpRUFhMT2NGOHVUUU51cG05Z0VVeVJ6MlVFQ19UZXNBMmhXRmNyaTh5UHhCMktM?oc=5",
-          "publishedAt": "2026-11-04T11:05:00.000Z",
-          "severity": "medium",
-          "titleZh": "11月5日示威。诺曼底 SNCF 网络预计会出现中断，多条线路受到影响",
-          "content": null
-        },
-        {
-          "title": "CFDT et CGT dénoncent les conditions d'organisation des manifestations de jeudi",
-          "source": "France 24",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnF5MkE3LVFiV1pOMS1rcHBoWUFRb0k5VGpRNzdhQkxONGRVZUozSVQ3aWFOMmpmek1nd2tWeXZrOU94R3BvVHZHLVRCdVQtaDdhQnl5OFVBU2ZPUVNRR2xyczNQY2U2X1ZzeERpZl9jNzFncmhtNkhfczV6M1NQcVFnYnhTRWlkNGFyN1huMkswUjJ6TjVkaWlJQ2NTejZQSHd3QjFOeUNjZ0YtSjZnV3BXa2RlblFSSjNoNFZCOG9BSjh5LTNmOFUySEcxQUhNYm5RRzRBZ0JESmlHMGtocDlpUUI4OUx2?oc=5",
-          "publishedAt": "2026-11-04T11:03:58.000Z",
-          "severity": "medium",
-          "titleZh": "CFDT 和 CGT 谴责周四示威活动的组织条件",
-          "content": null
-        },
-        {
-          "title": "Manifestations du 5 novembre : à Paris et en régions des parcours contestés... Où défiler ce jeudi ?",
-          "source": "Linternaute.com",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM2swZFJnOE5BcnFPeVBrR18xdHdvQVhRTTZRQWpRTzlfSWNxU3N6QUhjRGY2Q1pkQW5iaDh2Y1ZFVXZyMDYxTmVSNVE5WDFNNkczSXNpendDZjJydUdkeHY2TWptWUQxVzdkUXhYUld0aUNqUDFDRE5WeFJsa2R2RldEaG9Id1k1UGI3QVhLTklDR0FTRjJQRXhOd195MU5Ga01VWG9HOWZCZkcxLW5ncjBGRTNUZ2ZwMEs0cFNLcF9PT2lIN2FTdVdGTnZhOGdkeUtaelRhY2hvVlQtTUlLTVUzUQ?oc=5",
-          "publishedAt": "2026-11-04T10:39:10.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 5 日的示威活动：在巴黎和有争议的路线地区......本周四在哪里游行？",
-          "content": null
-        },
-        {
-          "title": "Mouvement de grève du 5 novembre : près de la moitié des trains de la Manche supprimés",
+          "title": "Grève du 5 novembre à la SNCF : le trafic \"fortement perturbé\" dans certaines régions, les prévisions des TGV et TER",
           "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUhnWWxtZGhJWjJVQUJRX0didFFUZ0QzYWpBM2VyUXVWaFcwdTFneG1sSml1RzlRWE9WcVlSRjRVbXNkSGNkczBFam5Jdlk2Y1VoUzU5UjYzUkJDaXpuaEQzTkw3dHA4QkdrVzBsR1plTlhma2U4bEk2S1ZqbHRtdHl5OHlEUkIxYS1WVEl3MHhkYmxZalJwUmQwU3pvYlFpSkVUb2pBUTgtZjdpSExCdEdBaEdTVk5jOWs0bmkwdw?oc=5",
-          "publishedAt": "2026-11-04T10:13:46.000Z",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOUtZSFotYmNsY2xhdXlZN3RnYmNSekxZaktkVjVxSEhoZ1k2RjdIbVZ2NEVhYlU4Um54S2VILXc1c2QxRnZ1Q1BEeGh6TC1QQ3RyZkNUTmNHVUpJdXhTcEJETTdTU3pWUnd5eUpTMkhPM0VYdFNFLTZGX2pTTUJCVnZNdVVqWGxWRW1aVVJ2d3hjUXZ6ZHJEd3BRQy1mMFRIbm0tZmJBMUZNRk9yZEJ5aWxRaHZja3FjUzhrV2hnOHpuTDJvMHdvTWVfXzNtVmpDUC0tMzJYQlIzR0J2X0U1bi1lUQ?oc=5",
+          "publishedAt": "2026-11-04T16:54:36.000Z",
           "severity": "medium",
-          "titleZh": "11月5日罢工运动：几乎一半的英吉利海峡列车被取消",
+          "titleZh": "SNCF 11 月 5 日罢工：TGV 和 TER 预测某些地区的交通“严重中断”",
           "content": null
         },
         {
-          "title": "Grève du 5 novembre : à quoi faut-il s'attendre dans les transports franciliens ?",
+          "title": "Manifestation du 5 novembre à Rouen : de fortes perturbations à prévoir pour les bus, les cars et les trains",
+          "source": "Paris Normandie",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb1J3NjBRRlh5d0xyU3RRY2xVbkxNbkZPempqTVpIcXZtNWh0VkRtaDRIZ3Y3WEUwU25IVi1sdGJIUTNYSDdlMUthcDB6N0dIQjlWbTJSYlVISFRiNXRveV9vdlowdm1ZbXFFcm1oTllBaVBYa3pfbGJWUmNZeE81NlR6cThic0lFdFIwWFBuZ0NQaW43NkZ4bFlTaVl5dUtHVG81bGx2NWZEUjliOEN4Sy14ZWpHYXEyNTVyS0sxTW5oLUphTklMb09Hd2xtVWZaZm5R?oc=5",
+          "publishedAt": "2026-11-04T16:54:07.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 5 日鲁昂示威：公共汽车、长途汽车和火车预计将受到严重干扰",
+          "content": null
+        },
+        {
+          "title": "La préfecture interdit le parcours syndical de la manif du 5 novembre à Paris, mais…",
+          "source": "Le HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXZqRVU4ZWJGRTIxNFBwekNqUzl5N1ZUZE5vYnJ1WWR5MWJtX1dzY1pIMFRnbElsclFJQm1MSWlydTdrMExVaHRYMGtQRTZJeGxhc2phQW1LSDA4Y05reEp2OHd4RDh2Vko5ci1CcHFlTV9CRmZkaWNCMDVHaEtIRDFrTmktankwUXd3WEpQeWQ3eWx5WTNRV1pRV19NeGlQOHp5Qkg5TkVQMHJHbFJZVlN4VE9TMWVpTmpGN0FiOXlPd1RNREprMTVZZ2ZfR3RocG9OSks4NUlNT0p2al9qNzh6QmotUHpFczR4cnd6Rk1OQQ?oc=5",
+          "publishedAt": "2026-11-04T16:52:51.000Z",
+          "severity": "info",
+          "titleZh": "该县禁止 11 月 5 日巴黎示威游行的联合路线，但是……",
+          "content": null
+        },
+        {
+          "title": "Grève du 5 novembre : à Paris, la préfecture interdit le parcours Bastille-Concorde mais propose une manifestation entre République-Nation",
+          "source": "Libération",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNQkdYeVlycXdsTWwwaC1iMlFKOXh4RTJ1YlFTTlRqMGsza0NDWXVnTnA4RHFnRmN5ZUpWVDhCQXpXdFhQdENrVXN3dlVnU2x2RWVNVE52WFhsZEtKanhRSHhXVFYxQmJPcm93T2wtbEJBRndmdFh1R09YVHd3WHpXNDFlTkhqb20tNjFPSmEya0kxQXYwZEhVZHVmZjAtcnZTV2FVMzQ1dG5SX0c1aE1seXRvdG5xcVJpbkpIcHNQX2lMek1UUUZxOW4wMDdCeTZURXNMOXVXOFJFemp6MXNiSkZOQkpsMmRuUzh3WUZNTWdSbnJ2V0l4UENwcG0wemdPUFN4RS1HNU53SHB3N3N4NnRjNi1HSFRQendnMHdlR3ltMktHSVhxTldXZTU?oc=5",
+          "publishedAt": "2026-11-04T16:46:00.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 5 日罢工：在巴黎，该县禁止巴士底狱-协和飞机路线，但提议在共和国与国家之间举行示威",
+          "content": null
+        },
+        {
+          "title": "Grève du 5 novembre : quelles lignes de métro/RER ou stations sont impactées en Île-de-France ?",
+          "source": "Journal du Geek",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVDg5bDZFQVFQSXRhaGlFZjV2ajBvRUtZS2pOOE5sdHl2bHFsU1ZfSDJYSkJMRnVQa3E4RUxiMlZadWNtR2REOExJTHcwakpDM09tU2ZuTFdpT25mRXIza01HSGxwVXlVQXU0Vzh3dkdQWFJFdDlGMzNmVUJwWDFVMGxkMDFudnR0VnZFNjRRdVJqR3BvWFZxbkozaHZXVl9sbUk0bjBzSlRPSHRpeVZzcGJXQzB4Y3QyMElpdlIxeDU1dTMwUlNJc0RpX0tjdw?oc=5",
+          "publishedAt": "2026-11-04T16:45:48.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 5 日罢工：法兰西岛哪些地铁/RER 线路或车站受到影响？",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 5 novembre à Paris : la Préfecture de police interdit le parcours Bastille-Concorde et propose République-Nation",
+          "source": "Le Monde.fr",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNN3BoMmhlSlVKS05pOFJMNUJ2c043b3ZNUl9JQU1VcklKUTFTZXBCazNxT01VMGlQYmZwZF84Sld1VXExbGliMURXVFRKZ3hTWWFnWWxsZ3VnOFpHY09kOWJaa2k3MjNCMEtCNUNSem1VcE1CTzVNVHpKY1J4T0ZtNmJiSWhuWFVURWZWRkdqV1ZOMkRrRHdiVDNHSkdYbTRNXzQ1NXItZkRvQkNybVZPMXF5NE5RMlRzVktLd3dOSERhYm9qbFoxMWlFT090Z1ZFLUpvMm1RdHpKM0g4REFGcTlRR3BOeUJXNFA2dDlHVFNvbTZuejBoQjZBZlBweE1KNTlkOF9mTTR2akJnT0MxdnVMMUwtb2NrYlVGUmRxVXpKdWlPWVE?oc=5",
+          "publishedAt": "2026-11-04T16:41:10.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 5 日巴黎示威：警察局禁止巴士底-协和航线并提议共和国家",
+          "content": null
+        },
+        {
+          "title": "Grève 5 novembre : SNCF, aérien, RATP... quelles perturbations dans les transports ?",
+          "source": "TourMaG.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWw5anBROExzd0V6QWhLZ2ZLTXVUcDVEWi1UdWlrdzUxeEZlSV9jbDFJU0s5cjk3R2xnckRoeTRRUHg2bkRvOXlsM240QWRDOE9UdmZLTk1FM0tKMkdBQ1JaanR4bnIxRFA0U013ZU1rRllVRENBcXRhQkF5SmhpcWs4b0FaTmxjWS1RYlVEUzVwOVloRVZjRm93WFdfdWtFSmViTUNJRkF4YlBMRl9fMnh3?oc=5",
+          "publishedAt": "2026-11-04T16:26:23.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 5 日罢工：SNCF、航空、RATP...交通运输受到哪些干扰？",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 5 novembre: le parcours Bastille-Concorde interdit par la préfecture de police de Paris, République-Nation autorisé",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxObjEwMVJlRkxtUTZXWUVjWThoNlpCR2tqMWxBb3pLY3h4a3BFcGZJVXkySHM5cjhPbmNMUzE1dzZfVHgxSVJ0OUswQlRDU2RNenNyUlVYZFNFVDhpd2cxUlUyVFRHbDc1VjJCREpzRjJKcnBKcW1Gb3VvZDU2NVJZSjJhVm1xakFGY2lHZGRBZk43ckU1VlhwWmdLbWVaRlZiSHRlUlNtRFNydGhpaGMxd09fSFJIMGo3a3ZOUnVoVmJjckEtU3R3RUdUaEN1Um1XcmthWDZfcmI0U013SzRvb0JpNmdHdEFacklMSUdWTndybWlTSUM1QjNINmw1bzhxT0RITFhsRjBsWVhsYlJDOS1wRExuVFpoT1BmTWdsU2w2RThNY0pkYmln?oc=5",
+          "publishedAt": "2026-11-04T16:24:03.000Z",
+          "severity": "medium",
+          "titleZh": "11月5日示威：巴黎警察总部禁止巴士底-协和路线行驶，共和国家授权",
+          "content": null
+        },
+        {
+          "title": "Grève du 5 novembre à Paris : manifestation de République à Nation, transports, services publics, à quoi faut-il s'attendre ?",
           "source": "France 3 Régions",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYW1ETE0teVlWUmdVS0prVDNrZVRyVC1TR2psZ3pLOVIxTHpWNTBHTzMxc0w1OWc3ek9mWWVTRVdIZVBQWC1GbjEyT2poMG1uYXUwd20wQjBvWE0yOG9LQTZOQmRLaDdMSEpOYmF6MTlhdGFDb2ttRi1rU3RGV3FRZHdDU0czeGo3aDBOcTdLTTNoUVNGWDFYX1BwejlfSFhJcWpadlV1MGxiYk5EWHVDeXhNSV95aXplcmEtNmotY1pNbjB0WWdIbEhaUXd3SW5Ya1RYeUM4RHRNR0daLXFRTDJR?oc=5",
-          "publishedAt": "2026-11-04T09:18:26.000Z",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNQnBGYlVVNk1WOUxWclNURE44VHc3MmxiLWh4bTZydUc0OVNic1RWT2JHRFRLWUNFVkxBSHg2dUR5d1F5cWlqQnJsdlJWRVprODhsX1lxenVid19mMDNwNUJhVk03WlBEeFk0U3F0SXo5Z0VjS2VFNlVVU21yM1FOY0E5dUNUTnc4YkpCZEZGY3dLYjBBeE9HSGZRRVpwZkJ4UEszaDVrcVRxb1ZDSU1Ma3J1cnpZMFRjRXRQUWhYSzZORkd6WlNyM1dnY1ZMLVhMVHE0SWNwS3pnVWN6Vk1lajRRYm9ZTkZDNGsxRG9zYTBWVk9sN2VWbXhOMlN2WEVvX3VSTC1pdGZUZXJxUTg5ZGdyaFZCSE1mTU9BTnI4YzVJb0U4?oc=5",
+          "publishedAt": "2026-11-04T16:22:19.000Z",
           "severity": "medium",
-          "titleZh": "11 月 5 日罢工：法兰西岛交通运输将会发生什么？",
-          "content": null
-        },
-        {
-          "title": "Grève du 5 novembre : métro normal à Paris, RER et Transilien fortement perturbés",
-          "source": "Economie Matin",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTDNSd2taQ3habnU0Z1c3Z1k5ZmZwSktfYVR4TVZHN1g5NDhacEFMemRtbEtKLWg3dElGT0Q2eGR0WFVVZDhlR3l0QWlqR1JaN1lYZUh4dHVvTUoxejVyMkwtSDdGY0F0eU9rbmJHYjFLS2pIYzBRdnlqMXlsMjFIOWVIamhJclRpOVkzVA?oc=5",
-          "publishedAt": "2026-11-04T08:15:00.000Z",
-          "severity": "medium",
-          "titleZh": "11月5日罢工：巴黎、RER和Transilien的正常地铁严重中断",
+          "titleZh": "11 月 5 日巴黎罢工：共和国到国家示威、交通、公共服务，我们应该期待什么？",
           "content": null
         }
       ],
-      "places": [],
-      "districts": [],
-      "articleCount": 16,
+      "places": [
+        "民族广场 Nation",
+        "巴士底 Bastille",
+        "协和广场 Concorde"
+      ],
+      "districts": [
+        1,
+        4,
+        8,
+        11,
+        12
+      ],
+      "articleCount": 29,
       "clashCount": 0,
       "status": "upcoming"
-    },
-    {
-      "date": "2026-11-07",
-      "articles": [
-        {
-          "title": "Commentez sur l'article \"Actu Paris - Mobilisation du 7 novembre : la Zombie walk aura lieu… en même temps que la manifestation des Gilets jaunes à Paris\"",
-          "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObmRIUDRqN3pUVkJ4VG1PMjZIX1VKaXQ0Y0w5bHdXbEtEZ2lMNEVTalh2cnVGQW1MZG4weDg5eEd2TG9pTlpaS2M2TUdLOWJMc3ZpNUVGTjJWU0VQWklCRUFiTHR3eGRmRGNwSjN1cjB1a3k5MHk5THRDby1sSFdTbU9STUltM1V3ckZRTThhMkpoWTdkbTlTd3hfVG5nSmpKSWZDcWxJcHFIaElJYTdpTWE4OFp3WllZNDdmZEtmNzB6SHRYalo4TTJR?oc=5",
-          "publishedAt": "2026-11-04T10:33:17.000Z",
-          "severity": "medium",
-          "titleZh": "评论文章《巴黎新闻 - 11 月 7 日动员：僵尸游行将与巴黎黄背心示威同时举行》",
-          "content": null
-        },
-        {
-          "title": "Mobilisation du 7 novembre : la Zombie walk aura lieu… en même temps que la manifestation des Gilets jaunes à Paris",
-          "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQX3Q4SF8tc0ZKQVljTF9sbEZJdzJRTTJEX3VqU1JRUUpMN0NJUjJnVHJaamRsWkUzQzcyX2FKVTJoaFhTY2NhUXE3ZUJDVTFGZy1NaXBvZ2gzdjJKaml1MEctaDNRZWlneXpDckxicVdNaFdIYjlPb3VCSU10TGtRNlc5UUhTaVpGVllQR1NJcUVFczdfNGlrT0tBQWhnN3JKZXlROVpsRHlOSVdIUmxsSWtkZTdHMTFVQUtDcVhmb0tNUVlWMFdCNTgzd28zOUY0X2VpV01JZF8xSXh4T3B4aUdwaEZtS29OcTdweHVPYjlvUjFfSVBYSFVOVzQ?oc=5",
-          "publishedAt": "2026-11-04T10:19:04.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 7 日动员：僵尸游行将与巴黎黄背心示威同时举行",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 2,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
-      "date": "2026-11-08",
-      "articles": [
-        {
-          "title": "Métro, RER : les perturbations de ce week-end des 7 et 8 novembre 2026 ?",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYzJIVWVXX2Q0ZExMdWs3Sjg5UXozT0hCWGpYUXdLYWxNMDZhVWdoVThxNW1NWUNDSzlMcUpsRU16eUtCWjE3ZXQ3YndUQkx1U01qRVBKQkdOSVNJaVlDR3BuekFKWF9Oa1piZjR2Yk9zRElXdnRNSTU5a1dkRzZ6djE4dWNJZDFwdjd2OFJZelBBLTQ5MDR6cVEtelB4c092ZTBfWjJYdjYzQ2dERmpKRnBBQTFUWUVqSzZKSElvQ2tqSUp2ek5oX0s2QQ?oc=5",
-          "publishedAt": "2026-11-04T08:16:00.000Z",
-          "severity": "info",
-          "titleZh": "地铁、RER：2026 年 11 月 7 日至 8 日这个周末会出现中断吗？",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
-      "date": "2026-11-11",
-      "articles": [
-        {
-          "title": "Paris : le conducteur qui avait poignardé un cycliste en août dernier jugé ce mercredi",
-          "source": "CNews",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTdpUnBKWThHeU1PSzhPbHZrejF1NmpyODZlVnZQMUZSZjhNTUstUEU0eFlUYTk2UzczbUY3bm5DMklYOFg1NklCSnB4a0c4bEdmcXBlS1IwUGx4dlFDN3NQZ0sxVFp4QXhneWhsM25QQ2lERkZ4ZElBWVBPMmpmRlA0c2NzMGlzRkdZak5wZ1RVcTM2R0I4b244S0J2aHpHRkFNdXN5S19oMU9vX3dhZ2tYZG7SAboBQVVfeXFMTmI5allXaXBmVzAtSWNXUmJBTC1sbHZWMk4wWnlqb1k1RFl6b2hLT0k3VVlvOWNITDJkU1Z6OUVhd0J1UGJIRkZDM1FBcjdtbkhpOEU2X1JHc2I4SXhSdE9hWDNyUXV3ZEFGUXp4WkNzWWtINVN5ZUlNdk1lVjdDa1B6b1c5NWtRWXcyME1rclA2MHZSTFdkLWlvZUl1VUt2d21yYVY4M05jV014T0Fsd0NyTjdwZnBqZWN3?oc=5",
-          "publishedAt": "2026-11-04T08:02:00.000Z",
-          "severity": "info",
-          "titleZh": "巴黎：去年八月刺伤骑自行车者的司机本周三尝试",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
-      "date": "2027-10-24",
-      "articles": [
-        {
-          "title": "Pillages du 24 octobre à Barcelone : La Guardia civil enquête pour savoir si le jeune homme qui a organisé les émeutes a reçu des ordres à Paris ou s'est radicalisé seul",
-          "source": "L'Indépendant",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPYzM4d0xENnpYMmtlVDNjaGw1NTVhV1lqbUhqSVI2bXQ1czBZVnZzdmJtMUl6alNjX0Y2d29iLWE4dEZldWUzOWhDT1d1eVVMZ2pUVnNma0ZPeDU3WG1NYVQ5MW9ZTlhXWlFLeWxULXYyeldUZi0ySlMxYU1mR1VIRUd0NnJJODZpUW9MZmU1aWJpVF9OSHlqb0xrOEFSTmpTNzBIdVROSFdhMXJqSWQ0U1Y4enAxdWFLd0VjSTNtQl8zNkRwUzUtRmR3U1pVWWlldElTbUVNc00yN3NwN2cydUd3cThjQlAxM1o2b0h6YUx5YVZBYjhUOWh1ZWtaaU9pVnRXZ1I1ZTZ4RUI3YUJOZnd6S0lITl9WOG5mTWtyOFk0eDJiM1B5ag?oc=5",
-          "publishedAt": "2026-11-04T08:09:00.000Z",
-          "severity": "info",
-          "titleZh": "巴塞罗那10月24日抢劫事件：国民警卫队正在调查组织骚乱的年轻人是在巴黎受命还是独自激进",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
-      "date": "2027-11-03",
-      "articles": [
-        {
-          "title": "Que faire ce mardi 3 novembre 2026 à Paris ? Les sorties à ne pas manquer",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNkc4dS0wV3BsSnYtMGNxN0lyYWJINlFoMnNNUlpjQzAwRml5RFNQVm1RRUdRc3YzM0tlR1ZObEZIcEFMX3RRYTg5SnBHSWI0X0wyem96cGEwc3RwbV9oMjd0V1ZOcEE2aHVGRWhkZUdJWmFsX19hNkFUVEhBUnNmRHpUdkhvVVV0MjlPX3FIX0JJc0piZWxwRzY0M2RBdXVtSHIxNTczelJseWJsN25yVFVDaHRoV0wyRkhDQ0dPUTdGVkVCRVBHSUpLSGwwZw?oc=5",
-          "publishedAt": "2026-11-04T07:49:34.000Z",
-          "severity": "info",
-          "titleZh": "2026 年 11 月 3 日星期二在巴黎可以做什么？外出游玩不可错过",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
-      "status": "recent"
     },
     {
       "date": "2027-11-04",
       "articles": [
         {
+          "title": "Manifestation de jeudi, lycéens en garde à vue, Kombouaré au HAC ? Le point actu mercredi 4 novembre",
+          "source": "Paris Normandie",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVXJVQzFTdzhVelQxMEVPYzdvNGlNdS1RaGZWbGtmaWhoeG1RWUMtVDUxVmRTNG1UNDRkM2NaTURzOGU3NEQwMWxiOXpoOHRVZFBIeDV0NTh6eUN5TDhobGdNNlVjTDJJS2M4VzZXZm90MmNrdy1DODlmRDVvUGVrTVdYZmloc1VmU052amcweU1oV1UxZ3BuYm5YU3JFakVQOW9qZkNGQVJMQzI2ekxGVlV4LUdZWTZ2eXNtSktfd2hvRnhvN3RMbUxScmx5QQ?oc=5",
+          "publishedAt": "2026-11-04T18:57:00.000Z",
+          "severity": "medium",
+          "titleZh": "周四示威，高中生被警察拘留，Kombouaré 在 HAC？ 11 月 4 日星期三更新",
+          "content": null
+        },
+        {
+          "title": "Défaite de Trump aux midterms, piratage du Crédit Mutuel, manifestation à Paris… L’actu de ce mercredi 4 novembre",
+          "source": "Libération",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPTHFuQWgta01ORTFscktsTDhmRkdYR2lGRjlLaWFUVmwwMFVsRHNfOHRTSkp0cXhTV01CR2QwM2s0ZXlXTEhiV0FvRzBUQ09ocWptM2oyc1hfTWFUMFZhd2NEVjdnZE96RkE2cTFwUk5lcmZ3OUc1VGd6aG9XaW9ESFdKR3paaktOSXdYZlhXUHdYQXMyU2NTSTZVbzBDZ21Pa2tnbDNEYUNKNFZJUWRIakxMYW52SHo0anRYVm4xLWc4YTVVRkFIQW9lOVFyRzQ3MHhIWW44Z3Zlb25URlIyYlF5cGNja0wxWjJuRndoVGlaTXNTM1RJblJibEhxMGVJd2hDTXlwV3RkM1U3YklIQ1pXVkN4bFJQTGFjMU5R?oc=5",
+          "publishedAt": "2026-11-04T17:36:30.000Z",
+          "severity": "medium",
+          "titleZh": "特朗普在中期选举中失败、信用互助银行 (Crédit Mutuel) 遭到黑客攻击、巴黎示威……11 月 4 日星期三的新闻",
+          "content": null
+        },
+        {
           "title": "Les actualités et infos de ce Mercredi 4 novembre 2026 à Paris et en Ile-de-France",
           "source": "Sortir à Paris",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmltME1oYXdST0YxTkQ3R0RRV0FtZVMxTDNJREtYSkxTRXNVUmJhb1pPUjRmY2NKaXNlUW5QdUJaSVh0X3RzTUw1cF9pNDhGaldYQ3c3dnlqOHBqMDhsTFZIUHg4QkR4OHVlZy16NU52MmVVdFR3UllWZ3NQR0sxekhyOUFCdlRScmRNMmpEYlNvTDNYYVBQZkREeFpkcFpLWS1obkNwLTRPQWZVQXRBckVBYS1yUFItWUtJ?oc=5",
-          "publishedAt": "2026-11-04T12:50:14.000Z",
+          "publishedAt": "2026-11-04T17:23:44.000Z",
           "severity": "info",
           "titleZh": "2026 年 11 月 4 日星期三巴黎和法兰西岛的新闻和信息",
           "content": null
@@ -276,7 +317,7 @@
       ],
       "places": [],
       "districts": [],
-      "articleCount": 1,
+      "articleCount": 3,
       "clashCount": 0,
       "status": "recent"
     },
@@ -284,525 +325,449 @@
       "date": "unknown",
       "articles": [
         {
-          "title": "« Mitraillage », menaces de mort : des livreurs à vélo ciblés par des messages racistes",
-          "source": "Ouest-France",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTTlWcS1keE9neUtUUWF6RHBsZlZYVjJvY3o5R1FLRE1ub0drRUFkQ29sUGdpTDNtZjZQZE5KWE5tOGpiYzRKd19GOGZqSlJOVDhiS011TjBxOF85c3IzcWRWd1ZEREluaW5mSTlENXNuZHk1RWFHYXVjRklSeS1QS3Y4d2hoNmlLTWpsX05nSFlkbHRHbWxybDczNW5OaU96RlZLLVJuMFJsYVhUNDJVX003b0FjVDRiYjdJT2JPX1J4R19Pd0xueGNKN0xMbDhaakFLSjNSS0ZoTTQ1NXRScWxLeTF1YlVaRnM4b241dGVwUGd5c3pCT0F3?oc=5",
-          "publishedAt": "2026-11-04T14:07:22.000Z",
-          "severity": "info",
-          "titleZh": "“偷渡”、死亡威胁：自行车送货员成为种族主义信息的目标",
-          "content": null
-        },
-        {
-          "title": "Yannick Haenel obtient le prix Femina pour son récit sur la solitude et la violence dans l’enseignement",
-          "source": "Le Temps",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNlJBb2R5REhNRG50aV9LbUhCWlFKdE5zNERJbXBmUDkza2FMSEtCTE5BTVJGSExPUEdUY2xXX08wSGtzT3J6MEdpeDdwcmpmS1N3azl5XzZsV2lFZHh2ZFpDakFiZGUzU0R6OVpUWUowdXRJdEYtdFU4Q3gyeXBwX29qRVlvd0FkX0k0VEtlNnh0bHpreER4c1VIVGUxMzBkczNvVVZqWTFHVWFrclVzMGdyUF9ENzhLdHpaOUpjc28ySzRycWZwSkpJTDltYmI5VHhOU0ZEdmE?oc=5",
-          "publishedAt": "2026-11-04T13:54:48.000Z",
-          "severity": "high",
-          "titleZh": "雅尼克·哈内尔 (Yannick Haenel) 因其关于教学中孤独和暴力的故事而获得女性奖",
-          "content": null
-        },
-        {
-          "title": "Mort d'une jeune femme après un refus d'obtempérer à Paris en 2022 : l'appel de la famille examiné par la justice",
-          "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeVVrMjQ4TU9TUUlvZHlLQk1CZ20tTUdMUWJqdjhSZDdrN2QyYzRubFRrYkJaQVMxLWRzRlBpWW9zWWtEcTRVUGhsM25FM0JDN0FRZlg0SEkyTE4yamxfV092WWZrUGF1bWdSb25LLW12eGJvNjhNWlR1X3VFRkZTamRRZ1dwT0VXYXdhM0xCbmVUS2QtVGt5Qm5pNFBmTjNubV84Vkd2eGZqQjBmSGs3N0hjMzJyaHlhREtaeEJFdmZFRENXVHNlOWRydG5vQU11RC1QbFNuRENfMkhJTFI0UmpJOW9FYUxZU2I4M29XcFY1d2Y4VERXWVBiVQ?oc=5",
-          "publishedAt": "2026-11-04T13:33:25.000Z",
-          "severity": "info",
-          "titleZh": "2022年巴黎一名年轻女子拒绝服从后死亡：法院审理其家人的上诉",
-          "content": null
-        },
-        {
-          "title": "Présidentielle 2027 : qui sera le vainqueur de la bataille des récits ?",
-          "source": "La Vie.fr",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXFWZGlJbWpDdzdRb185MVBlTHhlcVFhdk9GLVVEblpIaHlUYV8xOXNkZ0s0UDVpWUVFdUtGNGtYN2ktVWtncmNha00tSi1DSVdvU29hM2JnSHVWSkNnMWVXUVpHdGhfbkRLN0daelVsbUhPdHpnbXY5am16b3BxUV9RWFJiUWlsVmRmOHhtQy04RXpQbmJEeF9CSm9ZMU5PdFpCa1pmSlI0QkV2UDVUSlpsaHBrY09E?oc=5",
-          "publishedAt": "2026-11-04T13:31:00.000Z",
-          "severity": "info",
-          "titleZh": "2027年总统选举：故事之战谁将获胜？",
-          "content": null
-        },
-        {
-          "title": "Why are Europe’s governments struggling to respond to growing protests?",
-          "source": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGxoYm5sNjYzQUVubGg0T0NPSUhNQjVqazlRaFhpWW9PY09PZU1pREVOMDJpcTJrR0ZKaHB4eW5yX0t5dEFMOGMzTENtMzdtUXhfSHJSMjlzTi1HeUFlRjMzMEZPNjlLb1EtbDJjSHlIS2NzbnZGbUlHX0NJNDhzdlF5LUFtWE5HZFhxc19YTDU0VWU4QUpGYnIycXNNV3hhTnI3RFRvN2ZvR2k0cUM00gG0AUFVX3lxTE9heDFPVGhHazdrMmpVQ0dDN1BSSGhVYjZwUjhBWDNkbXgySmVXR1N3Y2JWa1JGWFlib0NCRm44Ty12Y19QTVBMb2ZmU0tFMnRpTGlKQ3haMXRJaTlYaUhKVXRfLUZvb0E1Nm9mWFVxZ2UxZWRPdURWNkVDYmM3ZGFSeWJ2UXdUVFNZMkdjWGZ0V3BFanMtSU80TnpqR09ZMGRSWWJFN0dYYm9kN3BVTnNpeUZfNw?oc=5",
-          "publishedAt": "2026-11-04T13:07:12.000Z",
-          "severity": "medium",
-          "titleZh": "为什么欧洲各国政府难以应对日益增长的抗议活动？",
-          "content": null
-        },
-        {
-          "title": "Bras de fer sur les parcours des manifestations: \"Une dérive autoritaire du gouvernement\", dénonce Sophie Binet",
-          "source": "RMC",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQb0l2NDZIbnNBRV9GSEtQMkdNUTVOOElQS2F1RkVIUkhtSHBaSmUzckJ6OUp0SW9LMlVvd3BBZzJDd0YzNDB5RUNhNFBxZGx4U09YbDFkSDZIX3hQaDFHUEQwQ3ZwdGpaLVAxWW9NbFNnVmR1emNtSmc0RlJiWkFXTUZHcWlVUjdFRjdCNWNXbE5rdS1SMC1EYlN1dTNUdjg1YW9uaDBOMjA5VTNBckxqSnRQWTlNTnUtZmloQVhRakFSYmNDb1lpU1B4d2VaQm05T2pIMUMydDNld1pqQXI2ZTNWdHdNQUJEVVotRko3T2dISHJUc29lRHBKS1ltNHpn?oc=5",
-          "publishedAt": "2026-11-04T12:47:08.000Z",
-          "severity": "medium",
-          "titleZh": "示威路线上的对峙：索菲·比奈谴责“政府的独裁倾向”",
-          "content": null
-        },
-        {
-          "title": "La Commission espagnole de lutte contre la violence propose une amende de 60 001 euros et une interdiction de stade de deux ans contre le youtubeur Inaki Angulo pour des insultes homophobes visant Hector Bellerin",
-          "source": "Goal.com",
-          "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNcmZvRXdCY3ZFVmJrb0NUMjlYQkVrak12UE9QMGxaU0RXOVZnaTRjU3k4ekRWa3RoS3RJVHFaU0I0ZnZ5dDFLZnZ2Y21JMTlUZVZmU1Rob2VvWEhRZ3p1ZUpSTmluc0Z1S3YzVkpNU1JGcHZCMHpNcTNubmFsZ0RoQnJyVWctMFBEQ3pKSXNTdGhxSnBCbU11V3RPY3hUeHdiM2xZVl9RN2dsVGVYeUlyOHdqM29ib0lWbG15VTVWUV96SmZSQlg3MnU4ODBlQlNub3IxTlhNOFU0eTkwcXV3OGQ5RUdNTG5TMXhHdHRQcm9KU21RYjJvSUktbW9iazR4ZjNDa2MtUndlR3RuQjRSdHhVSmVHTFZWTGgwMFh4OUcxMjZ4Nm1sN0NmYi03a1BiTkxhdnJWbW1wbXk4Q2xoZGpZajA2TU8zcDkxc1hIdk85aXJXZklhaWVqT09HZjJ3a3RQeldUQ3BjaXhiTkpfTW50OHFraGFs?oc=5",
-          "publishedAt": "2026-11-04T12:35:44.000Z",
-          "severity": "high",
-          "titleZh": "西班牙反暴力委员会提议对 YouTuber Inaki Angulo 处以 60,001 欧元的罚款，并禁止他进入体育场两年，因为他针对赫克托·贝莱林 (Hector Bellerin) 进行了仇视同性恋的侮辱",
-          "content": null
-        },
-        {
-          "title": "La manifestation de rue : une histoire française, entre discipline collective et violence politique",
-          "source": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMjZSRzA3VzhFYmZBbkk3TnFaZTVLWWdsVEp0NWdQWkV6OHhfbkxhXzhYR1Y1ZUU5cnlhenExdmdKRFBmVXIxVmtNcERjN2syNTljaGVVSXNMaHEzOGVJMkkyUEFaaWNTSHI5SHhadzV3SVJYdVgxcmFsLU5nUV8tUVJ5QmdkaDZxWmdXaDNCbHVXazFxbDF1TTBwUGt2cXYxRVd0Z3ZUU0ZoNGVrRV9HMFROU2UxYVdKeGJYUnVkUWc5TFhOMjg4dm1Fdw?oc=5",
-          "publishedAt": "2026-11-04T11:13:01.000Z",
-          "severity": "high",
-          "titleZh": "街头示威：集体纪律与政治暴力之间的法国历史",
-          "content": null
-        },
-        {
-          "title": "Ne pas pouvoir manifester dans les centres-villes n'est \"pas acceptable\" selon Marylise Léon (CFDT)",
-          "source": "La Provence",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWWkxdW8tUGxXb0xBX1FUeXJQb0dwZi1fWFdVTk4yRkkyYlpIS0FENGJrbExnQUtUUUs3N1ZJdWE3eVZkZ2cyMTUwbHhPQWx1QWwtN01YMDB4ZHJRd1ZEcnZTbV9LNFd1aEVreUFNYmxlS3R3OE9rZWF4NlJrcHphUEhfOTlrcmpvVW9iQUNVVFh4OWVyOHk1QjN3emdWZnZ0UHJicWhralVCM2ctMGtId2xOMGZxSUtWM3dEczczbHZoM2JXRjI2RTFLQ2o1RmZnSXF5cU56QlUwNjE4aS1zTnNsUnFzcFZIaXc2bk53?oc=5",
-          "publishedAt": "2026-11-04T11:00:28.000Z",
-          "severity": "info",
-          "titleZh": "Marylise Léon (CFDT) 表示，无法在市中心示威是“不可接受的”",
-          "content": null
-        },
-        {
-          "title": "Paris Students Protest Education Cuts, Police Violence After March Ban",
-          "source": "TVC News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnZoaU9ndE1TX3E5UFpGVW43SDZhdzN0blBpdzlGeGgyZlMwV0VHZl9WNGVPaDJ6OGRCYkRWYm5zRjFCNkxQUGVzYjc0dkI1bkxhMjJhc0l1U2JURERtNDB4UVRXZVMydWRjVm44ZXZxeUJ6WkdCaTRRVmVZOWlSN0U4X2x5RkN4eEZUUFBJdjJBNXMzbWxCSg?oc=5",
-          "publishedAt": "2026-11-04T10:49:00.000Z",
-          "severity": "high",
-          "titleZh": "巴黎学生抗议三月禁令后教育削减和警察暴力",
-          "content": null
-        },
-        {
-          "title": "Guadeloupe: face aux armes à feu et à la vie chère, l'exécutif tente d'apaiser la colère",
-          "source": "France 24",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNlJoOFBQbHlCaTh2R3ZLUERlemZpRGJ1dDY3SWNtdEk4WVZrbmNIS2F5LW9aNVRLWWhEQkZ2Smgzd3JwTUlKYTlzSVFudlk5T2loOUhWbjFXSlhvRXJWUmFRSzRDMHNiaEJRTmdyNUdNVFJNc3piMU9VcWU1V3Byc01kWk5Yc2UzYXExblhvRmlvdWZ2anZBTVVHajYxSVNUTU96WU9pYmVnejhZbFhEdWRzV0FBVTdJcGpWNkNwNnUyREV4Z1Y1RWJXU0RmZzlOSFVPU3U1c055dFcwS1IyMmN3Q2dFWVc2djNfNUlfRXA0Q0lCRWY0?oc=5",
-          "publishedAt": "2026-11-04T10:35:57.000Z",
-          "severity": "info",
-          "titleZh": "瓜德罗普岛：面对枪支和高昂的生活成本，行政部门试图平息愤怒",
-          "content": null
-        },
-        {
-          "title": "Guest Commentary: French education protests seek justice through rebellion",
-          "source": "Orlando Sentinel",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR29yeVRqWWJ6ckRTQ2xwV1JlVU9pLWd0ckhVVGtqYm0xbUQ2a25BNU00OHRjcm5KR3p2RW1Ca1M3MlRiek5GR3BNeGsyMHNmRXV2S2duUFJ1YXZWNzN3U0VtdDhicng1bUhZR2QwQ1dSU1VYTlhreElYb3pjcUNPX3Zn?oc=5",
-          "publishedAt": "2026-11-04T10:31:50.000Z",
-          "severity": "medium",
-          "titleZh": "嘉宾评论：法国教育抗议通过叛乱寻求正义",
-          "content": null
-        },
-        {
-          "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN29SaWw0SEtvdVFaN0VlUzIzeHRiS3dNd1FGWE5CaC12dGtkWGdwVVJEUDlsajN4UmtySEtRUkZPbUlpS2I4T3lGRUVnTjA5ZkJqMnA4VDk0Sk9ULXFldXJUdUh4T3QyNlNJUjZtaWpxb09kTTNlMnUzWVBJZUFTdTA4NFh6VEZ4NlhUX1g4M0k3eVpEd3VaSzJBdjFtbWFXem12UjVB0gGrAUFVX3lxTE1wQWJTTFhjdGlYTWFiNlhWNmZWLXpDdjhUSWV5dFJaZXZDQ1RVYmNWWFRPcTZrSTdPSjVwREVVQWNYZjBjak5nR0Iwekw5UXYteHEtNGRmSGRKYnY3M0VLSlQ1S09vV0dtMExvZ1pVVlc1dVc4YmpFM01NQnByaGxsUEhoeGMybUhuSnZpOW80WmVnWkJkOWR6VmFGNHN3cWNwazlNYVR3V2lucw?oc=5",
-          "publishedAt": "2026-11-04T10:04:04.000Z",
-          "severity": "medium",
-          "titleZh": "法国抗议活动进入第三个周末，青年领导的集会席卷欧洲",
-          "content": null
-        },
-        {
-          "title": "A Spec reporter travelled to Paris to visit his daughter. He was met with tear gas and a curfew",
-          "source": "The Spec",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMUFXNlBGUnZseU8zS1B3WUkyVzZMWXBnRmlucEFIUXphU0w2TXhlVENQXzlPYXVZcEpQcmZLQk96S1I2Vm5uZkJxNnVtdWlxOWZzbXpNYzFPdkl5dWpNejIyS1RQSlBnenUyQ0xfcm9EcFpzWjJGTGNldE1vMDhxckVHZmFoSUp3U09CR0Z6VUM1SDc1dUgwdkR4N2NncmJURTFCVGNBNHN3UmhqcEVpSlZNZWJoM3ZDa3RUczBCQ3VHMmlPaXNsMDJrRzN6MDdBZkNOeHR4YjZHVlc0UkdzUFhEMmJSVThTTF9uMXI2dExXQQ?oc=5",
-          "publishedAt": "2026-11-04T10:00:00.000Z",
-          "severity": "info",
-          "titleZh": "一名 Spec 记者前往巴黎探望他的女儿。他遭到催泪瓦斯和宵禁",
-          "content": null
-        },
-        {
-          "title": "Censure d’État : le gouvernement veut étouffer les réseaux sociaux",
-          "source": "La Relève et La Peste",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHFNeXkzTEgzY0xOZzZxZ2FzdzgweENhNy15U0x5OWxLcEM4T1plU2lkemJNUW5ueWx1TG9tWmpPTXkzemhlMUVybU16dTdNS1U3SmRwZW5CZGRLQUxPdERjN0Z3T0l5M1IwTGhFejZWUlBoZUczVlJ0YWFHNTJQNldNQ2hjV0xVYVJQWnowaDdtOWtmVGRoeA?oc=5",
-          "publishedAt": "2026-11-04T09:34:01.000Z",
-          "severity": "info",
-          "titleZh": "国家审查制度：政府想要扼杀社交网络",
-          "content": null
-        },
-        {
-          "title": "Transports en Île-de-France: what will be disrupted on October 10 and 11",
+          "title": "November 5 protest in Paris: 25 metro stations closed this Thursday",
           "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlkwRmo3ZDhvSGZKZFYycjRRMXp5NjhsRFNBMTJ6eGxTWDJiVGdaQlNfLWxlRWkyOGNRTU5hMVBPcFlCY2NZWjFGcVpVSnNQc0JaTEFLVVZDTzRBcTdXa2tZaW5zeEppOEk2LWRNY0FNRy1KUzhCVnM2VmRmZ1ozRlVSdVphbzZnQzJFWnhmNXdVX0ZkamtNUE1PekV1dXhpMDBiNy1Ta2J0aTlZWjJ2MHNYc2pycExJNGc?oc=5",
-          "publishedAt": "2026-11-04T08:44:20.000Z",
-          "severity": "info",
-          "titleZh": "法兰西岛交通：10 月 10 日至 11 日将受到哪些干扰",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaFJsVURSblBTV2NkWmxiMzMtakhYb0I1dUVYMEY4Smc4RTluMmdtMlh1SkpaNkZMTHBYM2xEMlp6b1NOMFM4cUVGYnVwUmJoUzVJa3A0QlRiUVlacDZpUHlreXREcGk2Mk5vQlAxYlJQX0I1ekotUEdwcFMwRHZIMzFTTGhBZ3RyampmeDFJQWdZZVVrUFY1RWRQWHZ6b3FVVTA2YzVtQ3BHMDdHM2lhMm5aS0NfVk5JNm9vb2E5MVNrZEhQZlRmUXFHeTlDZm8?oc=5",
+          "publishedAt": "2026-11-04T19:18:14.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎11月5日抗议：本周四25个地铁站关闭",
           "content": null
         },
         {
-          "title": "Un policier condamné à un an de prison avec sursis pour des violences commises sur deux adolescents et racontées par un journaliste infiltré",
-          "source": "L'Humanité",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOb3EtRzdoSVBMMlRhZkllZUt4c0dIZHBad2QtWFJHSTRlQkJBTWNfdkt2eER4MFhUWnNtcE5TaDJMdGtVbnBEMnlybzktd3hvbkg4X3Zhdk5yNWlIbGZXVW5aaE5xaHFpTjVoMl9pYno4RGduczYtbWw5WmNWSXdZU3NoMUFQUWNQWnFibjVDR1hSMUh6eFBETV90UVpzcXR4TktkYTY4bnVYNnpOcHNidzh2YjkwUkJlbUdQQ0JOOU5ZMVFwMWd2eGNBbE9OT0toVm5YQ2MxeTlXblRCQmlRc3pfWVF4QmJqSE5SMFJzaE84blk5X3M3NEQ5T1JrNTZGeEdOTHc5YzVNbVZp?oc=5",
-          "publishedAt": "2026-11-04T08:00:00.000Z",
-          "severity": "high",
-          "titleZh": "一名警察因对两名青少年实施暴力而被一名卧底记者报道，被判处一年缓刑",
+          "title": "Americans warned of violent protests as major tourist destination faces shutdown threat",
+          "source": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQam5FcXdIbVgwYmc2NlhzaVBVc3lqXzhRMGVyQXJZSXNJaFNyNVpwXzI4dWIzOHJ1UEVUbzB6YWxtNHJWck4xanNGM1FPbDNBMXFuSXZMUmZfdEtPaEJxRDQ0MWVwajBVWVlWS3RsTXY0RnZabDU2QWYxZWs5N2RKbEdkdXVtcmxQQnpKYWhKam55YTg2TzlTaHliMS02THN1OGhsU0h3TUlpa2RQLVVxS3pn0gG3AUFVX3lxTFBRT3pqdVNseGYxX2Mzd1laaFJWQ0xGTFVSYTZTYXVKdlRQQm84V1ZpVWxFM0YyUzcxYnl0d2dVUDZHSXAwRzZ1QkJfU3JGdlNhOWpWcld4SGRzeW1zbk1LaDc5N3FfRWstZE5MNFQ0MnNCUXd2MWhUdVpNYUxvWHhmSWJCWVNZSmVxZmpyaTV4a0Fwc19NcE9rX0lhbzVTel8tMS1qNVNRN2pRY2FmbllrVTFQWjFPZw?oc=5",
+          "publishedAt": "2026-11-04T18:54:50.000Z",
+          "severity": "medium",
+          "titleZh": "由于主要旅游目的地面临关闭威胁，美国人警告暴力抗议",
+          "content": null
+        },
+        {
+          "title": "Manifestation à Paris : la préfecture impose République-Nation, les syndicats contestent",
+          "source": "Stéphane Larue News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVE9HN013WEgzczU1TUxkNm52YVZhdXJpc3YweEZiQ1ZYU2kzWkFrd2lITUtmcDN4dmwxZXJUM0VJUHBHQ1RQVkdIQ0lLY0dqUGR0cThCT3JhRTlMMHpEYzAwdnVvUlhINWVZQ2U4TE1ja01FYndDNXJLdkx6WDFJbkRHdTlfUUcwWDRvRmx5Uzh5SG1pT2JWTzAyUEZsV3FhT2xoNzFqVGNqeDdabkt6SHBR?oc=5",
+          "publishedAt": "2026-11-04T17:35:27.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎示威：大区实行共和国家，工会竞争",
+          "content": null
+        },
+        {
+          "title": "Chronique album : Do Nothing - Friend World",
+          "source": "Sound Of Violence",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUlLbXNFcmJCRm5GTGJrRWxlWkFPLWpVa0ZNaElQQ19XcEtJbTV5Q2YwWndwWXRUdTMwS1pRUFljQW84VlY1SUx5aW1WR3BFQjdsY2JnODgySExTdTlwSnozUnV1dEI3UmJDQzA1cTFtd0FhaEszTHJZQ0w4SGFfLUhNaWdyb2c?oc=5",
+          "publishedAt": "2026-11-04T17:06:53.000Z",
+          "severity": "info",
+          "titleZh": "编年史专辑：Do Nothing - Friend World",
+          "content": null
+        },
+        {
+          "title": "Débat du jour - Les jeunes Européens peuvent-ils s’unir?",
+          "source": "RFI",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMDlIY1RFU3NSY1ZJZVFqNUFjUlF6LVBuREFXWDZkX0pMLVo1S3hJZTd3MmxXWlVTdWsyaGdKQWI5dC05Y096Z1g2NWMxeFVSVVphMU9uc0dLVjJmTmwxQWJPREczckpEUHY3STRKUHM3NHgxNFAybFJsWmdhNkhERXZKTlNRTWxHY3pQMjNtNWYzLVM4bVlUdktOMG94dVA3VlJlVUp3?oc=5",
+          "publishedAt": "2026-11-04T17:04:24.000Z",
+          "severity": "info",
+          "titleZh": "今天的辩论 - 年轻的欧洲人能否团结起来？",
+          "content": null
+        },
+        {
+          "title": "November 5 demonstration in Paris: route imposed by the Paris police prefecture",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQemYtZWduZTZLV0xUTVZBQlZQb1luZm1fWXp5UGQ5cVNYVG9ubFEza2FXRDlOeVNTOG5Idktvelh1b0g3bzlQWUtoVldpY1hUNHRmVUpRRm5LS3E4NGRJU3QtaWlWb29TdVR2ejU4MmdZNHJhUTZLUTNrTm1HeW1vWkItTlR6M3dleVNKdGlSNHdQUW5XLXNUNzhjSnlmUUpOMHU0SENaSTBDNWJHOHdtam1EUzREOE1yWVpKOXp0bkNqUjd1NFUzQWlNb2U2MXVPT01GaUpCOTR2RUFx?oc=5",
+          "publishedAt": "2026-11-04T16:45:25.000Z",
+          "severity": "medium",
+          "titleZh": "11月5日巴黎示威：巴黎警察局强制路线",
+          "content": null
+        },
+        {
+          "title": "SNCF strike on November 5, 2026: RER and Transilien services, line-by-line forecasts",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNWZ4THJ4aGxILWo0cmRkODZwVm1yWWtLcWR4TmlkdjcyRGdPS2NzZ3VxWnQ5Xy1pNER0OVkyZHpkN3M3M0l2MUZoM1J6MTFJXzBkQk1yZm1PYW5aNVJObHRNLTNXZUJ6djV2MDdWR1B6YlhvVDlLVEZPdWNpdTBBY3FTc3llRHlwN1dzUUJROXIyMWJoeEc4V0pCWkZYUHBZSF9RenZxMTdJOGlCclk2SnJMb25JQ012aWd6Z0FuM1FOYWRRSlRHMFFUWE0wNjZPS2YtVklJT3ZtZw?oc=5",
+          "publishedAt": "2026-11-04T16:33:27.000Z",
+          "severity": "medium",
+          "titleZh": "SNCF 于 2026 年 11 月 5 日罢工：RER 和 Transilien 服务，逐条线路预测",
+          "content": null
+        },
+        {
+          "title": "November 5 protest in Paris: What is the route?",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakppYkFTN3FSbUpaZlpCRGhmWHF2NGdpTWEzVkJ6UlFrbnZKN01zOWx0MkxnTk8xRUFLNWFOaGpJUUh1aDlVSHhiTm9BaFZGUWFxbFF1MjB2UHZKTEFnYXY3dDF1OWItSDRENnlpRHVFend5TTJjcnZsSW1YVm1lNzZfUUdKV3JFSVRFem5WUjE2R0x5U2hfaWF3TE5pb1ozb1JYc3BDUG9jbTBCc19LOUJIdw?oc=5",
+          "publishedAt": "2026-11-04T16:29:25.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 5 日巴黎抗议：路线是什么？",
           "content": null
         }
       ],
-      "places": [],
-      "districts": [],
-      "articleCount": 17,
-      "clashCount": 5,
+      "places": [
+        "民族广场 Nation"
+      ],
+      "districts": [
+        11,
+        12
+      ],
+      "articleCount": 8,
+      "clashCount": 0,
       "status": "unknown"
     }
   ],
   "latest": [
     {
-      "title": "« Mitraillage », menaces de mort : des livreurs à vélo ciblés par des messages racistes",
+      "title": "Grève du 5 novembre à Paris : voici le parcours de la manifestation République-Nation proposé par la préfecture",
+      "source": "Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNc3RmNkhSWk5KSDE5dFRqR3lQbktzeHF4MElLVy04d2F3TlEzdUZIcUJwZjNuU2RDdUNaeWV1MTl3VFhHb0RUUHBWMDZhMmlqRWt4eTB4ZWhWbm1Pd3M3cE5uQUZ6VWQwU1Vvd1ZDT3lxZjZOMmpsRlpVdnpZeVRyRUlDYjQxZ2RaaHdjUENCbE9EM01GMmlyTlhUTnRQZFVxQzR5U2IxODZ4cjdNRUR1czg0QVVsUUI2Y05SaXQ4U1J2SzBfTG9LMEFzRUNnNlhwV1dvZ1p0RjdpYWlvLWx6WVkxaWN5MFpCY1RqWXJUeHBjNjljQk9hVGtwYWVFV09nT0pfbkxDeUhxcDgtbFNWdXg2emU?oc=5",
+      "publishedAt": "2026-11-04T20:39:15.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 5 日巴黎罢工：这是该省提议的共和民族示威路线",
+      "content": null
+    },
+    {
+      "title": "Grève SNCF du 5 novembre 2026 : RER et Transilien, les prévisions ligne par ligne",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMW82V21PMmdTZVowYVcxY09NaHVPeTlSTE1UeWU2Y2FhQlN4V2hVbGRJWEI5ZV9FNjVLendfSGc1VUVKOWs5WHlmS2lNVFlSOU5TMDUzQV9uY2pkbFBpSFcwR0xWcUE2cUl5V09hYS1wRXIwN1p6Ml81emRGTGx5emYyTjJORUxZOGY4UEZZVXc3R05ZbENadzVKQ2dYWkFWLXo3YzJaZE9iTjlabE9hTFo3ZGE3dzhUUzFUMzRXQUJDZFZ1Nnc2aGpFSUtybE5KX0tPUDVyZ1V4dw?oc=5",
+      "publishedAt": "2026-11-04T19:29:20.000Z",
+      "severity": "medium",
+      "titleZh": "SNCF 2026 年 11 月 5 日罢工：RER 和 Transilien 逐条预测",
+      "content": null
+    },
+    {
+      "title": "France : grève générale le 5 novembre après trois samedis de manifestations",
+      "source": "Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTI5ZUxWdnltQVRlVHQ0cmJCSnlZVjFwQ29pSXRqSmlWMVZMeERzTVNJR1dtREExWmZWd0szNVNoLUpTWHZuWWdUWmRtM3JxQzBrVXlHTEhBMVpoT084NDZjXzhGQThjWUxZTVhKWVZWaWdtMmZQajdNajdGNGQ3V2RaRko2ajBJX0Q1b2VJNkNVbGNIa256Y3ZCc0V6a1FnWHlhMEFXbTAtaTV6?oc=5",
+      "publishedAt": "2026-11-04T19:25:57.000Z",
+      "severity": "medium",
+      "titleZh": "法国：连续三个星期六示威后，11 月 5 日举行大罢工",
+      "content": null
+    },
+    {
+      "title": "Grève du 5 novembre : quelles sont les revendications et à quoi faut-il s’attendre ce jeudi ?",
       "source": "Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTTlWcS1keE9neUtUUWF6RHBsZlZYVjJvY3o5R1FLRE1ub0drRUFkQ29sUGdpTDNtZjZQZE5KWE5tOGpiYzRKd19GOGZqSlJOVDhiS011TjBxOF85c3IzcWRWd1ZEREluaW5mSTlENXNuZHk1RWFHYXVjRklSeS1QS3Y4d2hoNmlLTWpsX05nSFlkbHRHbWxybDczNW5OaU96RlZLLVJuMFJsYVhUNDJVX003b0FjVDRiYjdJT2JPX1J4R19Pd0xueGNKN0xMbDhaakFLSjNSS0ZoTTQ1NXRScWxLeTF1YlVaRnM4b241dGVwUGd5c3pCT0F3?oc=5",
-      "publishedAt": "2026-11-04T14:07:22.000Z",
-      "severity": "info",
-      "titleZh": "“偷渡”、死亡威胁：自行车送货员成为种族主义信息的目标",
-      "content": null
-    },
-    {
-      "title": "Yannick Haenel obtient le prix Femina pour son récit sur la solitude et la violence dans l’enseignement",
-      "source": "Le Temps",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNlJBb2R5REhNRG50aV9LbUhCWlFKdE5zNERJbXBmUDkza2FMSEtCTE5BTVJGSExPUEdUY2xXX08wSGtzT3J6MEdpeDdwcmpmS1N3azl5XzZsV2lFZHh2ZFpDakFiZGUzU0R6OVpUWUowdXRJdEYtdFU4Q3gyeXBwX29qRVlvd0FkX0k0VEtlNnh0bHpreER4c1VIVGUxMzBkczNvVVZqWTFHVWFrclVzMGdyUF9ENzhLdHpaOUpjc28ySzRycWZwSkpJTDltYmI5VHhOU0ZEdmE?oc=5",
-      "publishedAt": "2026-11-04T13:54:48.000Z",
-      "severity": "high",
-      "titleZh": "雅尼克·哈内尔 (Yannick Haenel) 因其关于教学中孤独和暴力的故事而获得女性奖",
-      "content": null
-    },
-    {
-      "title": "Tensions pour la Manifestation du 5 Novembre à Paris",
-      "source": "Mobilicites.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEdHdkEwZC01c2JSZVhvZUp6eEIyUVQxVUJka3ZGRUpROEN2cFNVbDY0LXc2YWRsLW1VTk1Zbmw5WlphUGNQMTlMaFRlakIyTW5Rbzg4OUxpRF9TWlNxSi1qaHNNZ1FRMlRWNE14VjFkUE5vUFVNWmtHbU9xS185cGJPd2hlb25MdTJyb291aG1FQXd0SkhWT1kwNE94NElDN2hDcVJKcWJOSkVHQlRUT04zcTQtdkI1QndtUTRDNno?oc=5",
-      "publishedAt": "2026-11-04T13:42:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRmFyeWNWOXF1VDB2SVhZeHFXMlVreG1JcTNNRVZ1ZnozNHhaWUZNYk1CWmFSQks2OEsweXdoX21jOEtGZFZ6U21BYk0zWVRlNWlHaTF0QWNBc1Z2MlVxMEhCY2t3clU4dzJ1RVVZTFlfVDJpU1J6SUp2Zy1jTjF5UEN3dTNMUWZZeWcwcU9zSEt1Vm0waXRNcTJwbU9DQlh4WVBEaW16a0dJNVZDMS1JR080NzhUNjBxSmd0bU9rMmcxYS1qeTY5OE1vcmhUN0x5SkM1aU5fM1R3bHJXcFpkOWZTaXB5Skc3UGN4UXVsM19sT0JpcDlzODhZTjc?oc=5",
+      "publishedAt": "2026-11-04T19:20:53.000Z",
       "severity": "medium",
-      "titleZh": "11 月 5 日巴黎示威造成的紧张局势",
+      "titleZh": "11 月 5 日罢工：周四有什么要求以及我们应该期待什么？",
       "content": null
     },
     {
-      "title": "Mort d'une jeune femme après un refus d'obtempérer à Paris en 2022 : l'appel de la famille examiné par la justice",
+      "title": "Manifestation du 5 novembre à Paris : 25 stations de métro fermées ce jeudi",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWmFDY1lQMDlpQzNfQmpKNVVhV1dURkFmdXFFTUctRUVtMjJFWWtSNElyeHUtRzJWZlMzN2FvN1hlY1EzU2ZqemhVNThGLUJsclFjNGRIbVdDVzJDRHRWdEkxVW02VUxDaHdLMW1WckZGc29LS3hFVy11QXYweTFuVGF5bE9UTi1admp0Z3Y1T0pnUHJsNVhHVjlkZDJIRTBXcmVualBCcUl2ZzJFc0ZnV2JLWkdVa09XUEFIYXVWREoxRXlmaEJoX1p6bmxfOHh6SFZR?oc=5",
+      "publishedAt": "2026-11-04T19:18:14.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎11月5日示威：本周四25个地铁站关闭",
+      "content": null
+    },
+    {
+      "title": "November 5 protest in Paris: 25 metro stations closed this Thursday",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaFJsVURSblBTV2NkWmxiMzMtakhYb0I1dUVYMEY4Smc4RTluMmdtMlh1SkpaNkZMTHBYM2xEMlp6b1NOMFM4cUVGYnVwUmJoUzVJa3A0QlRiUVlacDZpUHlreXREcGk2Mk5vQlAxYlJQX0I1ekotUEdwcFMwRHZIMzFTTGhBZ3RyampmeDFJQWdZZVVrUFY1RWRQWHZ6b3FVVTA2YzVtQ3BHMDdHM2lhMm5aS0NfVk5JNm9vb2E5MVNrZEhQZlRmUXFHeTlDZm8?oc=5",
+      "publishedAt": "2026-11-04T19:18:14.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎11月5日抗议：本周四25个地铁站关闭",
+      "content": null
+    },
+    {
+      "title": "La journée de mobilisation du 5 novembre \"classée à risque\" par le renseignement territorial, 70 000 policiers et gendarmes mobilisés",
+      "source": "franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbENuS21nVGhYUTU3czlUR1l0NzcxYTBVZUxBMFJXdThsMGdrcjBSUF9LZG5GSXZzM3FFdW03U3lNaFJwQ2dEYkpnZ0NVVElVaXJ5N3Z1VEllN0pNdzl3cTRDMmpRNTdyUlhBdTM2YWNuX2U4bjFjM1M5ZjBIendVcTVYM19lUVRIRzUtYVYxY0N1M2xYemRKUDFZWl82bXF2N1Q0UnBVNm9ueHVubVBxaFpJaEUzcEdjejdxODdROTBnNnF6b2JyeVdOdnhvZEs3d3hXX1RNQU4xVU0zam1PS0EtRWs?oc=5",
+      "publishedAt": "2026-11-04T19:07:03.000Z",
+      "severity": "info",
+      "titleZh": "11月5日动员日被领土情报“列为危险”，出动7万名警察和宪兵",
+      "content": null
+    },
+    {
+      "title": "RATP. Grève du jeudi 5 novembre à Paris : ces 25 stations de métro seront fermées dès 11 heures",
       "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeVVrMjQ4TU9TUUlvZHlLQk1CZ20tTUdMUWJqdjhSZDdrN2QyYzRubFRrYkJaQVMxLWRzRlBpWW9zWWtEcTRVUGhsM25FM0JDN0FRZlg0SEkyTE4yamxfV092WWZrUGF1bWdSb25LLW12eGJvNjhNWlR1X3VFRkZTamRRZ1dwT0VXYXdhM0xCbmVUS2QtVGt5Qm5pNFBmTjNubV84Vkd2eGZqQjBmSGs3N0hjMzJyaHlhREtaeEJFdmZFRENXVHNlOWRydG5vQU11RC1QbFNuRENfMkhJTFI0UmpJOW9FYUxZU2I4M29XcFY1d2Y4VERXWVBiVQ?oc=5",
-      "publishedAt": "2026-11-04T13:33:25.000Z",
-      "severity": "info",
-      "titleZh": "2022年巴黎一名年轻女子拒绝服从后死亡：法院审理其家人的上诉",
-      "content": null
-    },
-    {
-      "title": "Présidentielle 2027 : qui sera le vainqueur de la bataille des récits ?",
-      "source": "La Vie.fr",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXFWZGlJbWpDdzdRb185MVBlTHhlcVFhdk9GLVVEblpIaHlUYV8xOXNkZ0s0UDVpWUVFdUtGNGtYN2ktVWtncmNha00tSi1DSVdvU29hM2JnSHVWSkNnMWVXUVpHdGhfbkRLN0daelVsbUhPdHpnbXY5am16b3BxUV9RWFJiUWlsVmRmOHhtQy04RXpQbmJEeF9CSm9ZMU5PdFpCa1pmSlI0QkV2UDVUSlpsaHBrY09E?oc=5",
-      "publishedAt": "2026-11-04T13:31:00.000Z",
-      "severity": "info",
-      "titleZh": "2027年总统选举：故事之战谁将获胜？",
-      "content": null
-    },
-    {
-      "title": "Grève et manifestation du 5 novembre à Paris : transports, écoles, parcours, le point",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM3dvVGQyS21henhmZWRud0d2Q0gwUEY3RkFpcnMtNW90SDBnX3VKZFdfcEgyak1vRjVPZXJ2ODAwdWNYUklWcV94NjFRTDhzeWV6bi1wLUhwTVNkN0pDdVBCbndZWDV5anUtZC1vRy02Qld0Ml90bFRQMDNQMkJBaHA5cl81N3puR2tIVW4xb0NjOWtEbldlMW90QVRkTmVPd0tNZDBQMVNlNU04T1I0UmE3d2FnNjlZZG1MWnRKd3M3NEZyNEY5SmM2amc3Q2hRXzA5UkRibWJNYVph?oc=5",
-      "publishedAt": "2026-11-04T13:24:19.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcnhESXBZTHdGeE5VSHhqeGFvN1Y1ZW1za3BJZzRNRjZWOHpRM1NsZy1kblJ2ZjZYVlFtcEp4QWdiZ1BzbHg1bldrckpsY3ozenRFSVJKOW5GTXlacTlSQXdRQkZNWTNXY0ZjNHo3b2lUTDRfM2xUZkJkOGw5YjRnOVlDVjJ6TE1OZmY3dE0weUZmZHplS3BzajhfRWlFN2JEXzAwalA4STZYVksxSDN5NWNPZGhoQjBHUnlDZlJ1VXNHOExkMk41Um5WWmhQTy1yNjhFRnRiNlhNM0pXOWRScEZn?oc=5",
+      "publishedAt": "2026-11-04T18:59:51.000Z",
       "severity": "medium",
-      "titleZh": "11 月 5 日巴黎罢工和示威：交通、学校、路线、更新",
+      "titleZh": "RATP。巴黎 11 月 5 日星期四罢工：这 25 个地铁站将从上午 11 点起关闭",
       "content": null
     },
     {
-      "title": "Grève du 5 novembre : CFDT et CGT dénoncent les conditions d’organisation des manifestations",
-      "source": "Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcDkyUkRHMk1oWUxVV2oxMUpOVUNWNzdJV0JRak5GMjUyaUpBMklLRnduZ1I5eHpicXpaSHcwelBBbkdCSkt2M1F1SkRIMDBobTEzZ2dGODh5Y01UOUs1WW0yNHlwYmhLeDgwN3I4bnVPM2dHVFNTRzZRc1M2R3p6bmZidHFkWldDUVpmamFPZ2IwVXdIVW8zOFVkRFY0dWx2UlEyZ3hSRFAtZ0FsMlVJNk9PcWdET20xaDlCQWRBazZ4eXZyaFNVbHRWRElYaXlWcmR4dWxFRGdiUlJSMUJHOTdNeVlWREVHX1Fhck1vc25PY0hF?oc=5",
-      "publishedAt": "2026-11-04T13:13:24.000Z",
+      "title": "Manifestation de jeudi, lycéens en garde à vue, Kombouaré au HAC ? Le point actu mercredi 4 novembre",
+      "source": "Paris Normandie",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVXJVQzFTdzhVelQxMEVPYzdvNGlNdS1RaGZWbGtmaWhoeG1RWUMtVDUxVmRTNG1UNDRkM2NaTURzOGU3NEQwMWxiOXpoOHRVZFBIeDV0NTh6eUN5TDhobGdNNlVjTDJJS2M4VzZXZm90MmNrdy1DODlmRDVvUGVrTVdYZmloc1VmU052amcweU1oV1UxZ3BuYm5YU3JFakVQOW9qZkNGQVJMQzI2ekxGVlV4LUdZWTZ2eXNtSktfd2hvRnhvN3RMbUxScmx5QQ?oc=5",
+      "publishedAt": "2026-11-04T18:57:00.000Z",
       "severity": "medium",
-      "titleZh": "11 月 5 日罢工：CFDT 和 CGT 谴责组织示威的条件",
+      "titleZh": "周四示威，高中生被警察拘留，Kombouaré 在 HAC？ 11 月 4 日星期三更新",
       "content": null
     },
     {
-      "title": "Grève SNCF du 5 novembre 2026 : TGV, RER et Transilien perturbés, les prévisions",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU2RSWWZ3MjkyRHVXajdzeWJraHRwcFZWY2hLV1k2bWMteVktdDRkNEU3NHlqeUV2T282NHZjSG1uMi1SQ0tIQ3VMamp2UHZUNEhUbmFnWWE3bTQzbklFZWNOYmVVUXRHWnNrUk1RcUc5RGM2UVFQd1Q0MC12MGgzZjBkWnV5LW01bDRNa1pSWUpJdDIyOUUtd1lhUmRmdWxYbGFNUEJ5MFlUdElKcGJ2NENzalBxS1lEM3pwVWhkeDlmaUJkWko4ZDNhRWRSQjE0Qlp4UmtIZw?oc=5",
-      "publishedAt": "2026-11-04T13:12:16.000Z",
+      "title": "Americans warned of violent protests as major tourist destination faces shutdown threat",
+      "source": "Fox News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQam5FcXdIbVgwYmc2NlhzaVBVc3lqXzhRMGVyQXJZSXNJaFNyNVpwXzI4dWIzOHJ1UEVUbzB6YWxtNHJWck4xanNGM1FPbDNBMXFuSXZMUmZfdEtPaEJxRDQ0MWVwajBVWVlWS3RsTXY0RnZabDU2QWYxZWs5N2RKbEdkdXVtcmxQQnpKYWhKam55YTg2TzlTaHliMS02THN1OGhsU0h3TUlpa2RQLVVxS3pn0gG3AUFVX3lxTFBRT3pqdVNseGYxX2Mzd1laaFJWQ0xGTFVSYTZTYXVKdlRQQm84V1ZpVWxFM0YyUzcxYnl0d2dVUDZHSXAwRzZ1QkJfU3JGdlNhOWpWcld4SGRzeW1zbk1LaDc5N3FfRWstZE5MNFQ0MnNCUXd2MWhUdVpNYUxvWHhmSWJCWVNZSmVxZmpyaTV4a0Fwc19NcE9rX0lhbzVTel8tMS1qNVNRN2pRY2FmbllrVTFQWjFPZw?oc=5",
+      "publishedAt": "2026-11-04T18:54:50.000Z",
       "severity": "medium",
-      "titleZh": "SNCF 2026 年 11 月 5 日罢工：TGV、RER 和 Transilien 中断，预测",
+      "titleZh": "由于主要旅游目的地面临关闭威胁，美国人警告暴力抗议",
       "content": null
     },
     {
-      "title": "Why are Europe’s governments struggling to respond to growing protests?",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGxoYm5sNjYzQUVubGg0T0NPSUhNQjVqazlRaFhpWW9PY09PZU1pREVOMDJpcTJrR0ZKaHB4eW5yX0t5dEFMOGMzTENtMzdtUXhfSHJSMjlzTi1HeUFlRjMzMEZPNjlLb1EtbDJjSHlIS2NzbnZGbUlHX0NJNDhzdlF5LUFtWE5HZFhxc19YTDU0VWU4QUpGYnIycXNNV3hhTnI3RFRvN2ZvR2k0cUM00gG0AUFVX3lxTE9heDFPVGhHazdrMmpVQ0dDN1BSSGhVYjZwUjhBWDNkbXgySmVXR1N3Y2JWa1JGWFlib0NCRm44Ty12Y19QTVBMb2ZmU0tFMnRpTGlKQ3haMXRJaTlYaUhKVXRfLUZvb0E1Nm9mWFVxZ2UxZWRPdURWNkVDYmM3ZGFSeWJ2UXdUVFNZMkdjWGZ0V3BFanMtSU80TnpqR09ZMGRSWWJFN0dYYm9kN3BVTnNpeUZfNw?oc=5",
-      "publishedAt": "2026-11-04T13:07:12.000Z",
+      "title": "RATP et SNCF. Grève du 5 novembre à Paris : RER, métros, trams… voici les perturbations attendues dans les transports",
+      "source": "Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV1I1SDdkNEw3bzRXUnMtQkxWdThPbXdadFFiZzBkWWY4a1JFT1ZsdVdzandqYUJrXzJBNlgyV3I5a01sMnBhQlNhU3hmRDd5YzRkQnppRmRzYzlYZWNUcER6WXBvQzhHMmZ6eWFucnpSNHZ2SmVnRVYyamQ4YjNtRmctTjR0VW1tMmxrMVQxZE4xSnlJdnotQXlqaWVnTFNVemhsNVZIMDdrM1hEZWRYTHNlUkVXcUdfU1FIcTR6eXFfc1ZMQURndV9mbjYybXV0dHJvN0tiM2FrTHBtYnBtV0E0Zw?oc=5",
+      "publishedAt": "2026-11-04T18:51:52.000Z",
       "severity": "medium",
-      "titleZh": "为什么欧洲各国政府难以应对日益增长的抗议活动？",
+      "titleZh": "RATP 和 SNCF。巴黎 11 月 5 日罢工：RER、地铁、有轨电车……以下是预计的交通中断",
+      "content": null
+    },
+    {
+      "title": "5 novembre : parcours des manifestations, décisions des préfectures… On fait le point des situations des grandes villes",
+      "source": "L'Humanité",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNd091cGtZX0ktN2xDTlF4Y0lGN1ZQVFlFbkdfVXQ5Q3c5MlBFcm92S1ZsMEhqc0QyNjRjRHRRdzBDcmg4MW1EQnd3MlhmTElYOTFtVEt0T1hucmNDOTJUNHAzd005ZXNYeFFlYXBnSFY0VEF0R0FWNk14ZzRjazdiTUlyUGhWLUpoQWFrT1lLdUNzcmpjM3lpNDhFNmtCTjVYaHkteE1KYnBOS3luaXhHNXdhekV6U2kyZjJyZ1ZJVFBma3A0Z3NHamsxYTViVlFHQU5qSy1PY1pfSjZtd1V2R3Z2U2RLV3MxUlYyU3lZTkZxNWdP?oc=5",
+      "publishedAt": "2026-11-04T18:32:04.000Z",
+      "severity": "medium",
+      "titleZh": "11月5日：示威路线、都道府县的决定……我们盘点大城市的情况",
       "content": null
     },
     {
       "title": "Grève du 5 novembre : manifestations, dispositif policier, transports, écoles… A quoi s’attendre jeudi",
       "source": "Libération",
       "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPdFNocDBTRzNXSzFBVkFlZ3pJblo2bEhmQTNpSy1FZDh6X3gxTkJqdVlYaUhKcTU1dXNMYVpMc3FaRFVNaEF4WlRKQXdFUVFrVEp4ZmNEanlLd25IQkdKbWZTZmVWc2wxSlNTUlR5R1VrSHNUbUlieDJFcFBvUVhrcnMwNmtUV3BDRVVrMGdLcDFBbWpBYkhRYlA3TWxWTDMyVk91X2tMZnR3YlFkU0w4ZjhESHNhM21RVkhfS2pxNzV2QUg4M1hkWmlwbURKRGtUbGFCMWU3MGhuXzFCcUxTYU43aW1GQnBpYnhMS1pwbVcwMWx0R3VUMEV0d056bExrdHFJbnZtTXlHTS1CTWVTb2ZUT3IzdmRSTHZfV3REVTNUOW5tQXZyd1JnQmQ2aUtwXzBfdXBsSENRVE9F?oc=5",
-      "publishedAt": "2026-11-04T13:05:00.000Z",
+      "publishedAt": "2026-11-04T18:15:00.000Z",
       "severity": "medium",
       "titleZh": "11 月 5 日罢工：示威、警察、交通、学校……周四会发生什么",
       "content": null
     },
     {
-      "title": "Transports, écoles… À quoi s’attendre pour la grève du 5 novembre ?",
-      "source": "20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeVV1TGRXMzhjVmFlY1RlWU5RQWhyMjlwb28xeEYyaTBRX0lKTXZLcWEtNG84ZVZkOFdsN1ZLQzJUUlVQSVpFNVk5UjBCN1g3YlgxMEh5TmF5QXk2SFhjdzA4alViUWF2STcyR1ctcEZ6aUZ1bS1wZC1rYnJhT0FvZm0xU1ZRbUxKSkNjeEh4N1ZIazdSTTl1VGZ4VHp2S203WFlmTWFTa0h0aDA3X201bllQTjU2T0FTcUlR?oc=5",
-      "publishedAt": "2026-11-04T12:56:00.000Z",
+      "title": "Grève du 5 novembre : à Paris, la préfecture de police change le parcours de la manifestation à cause du « contexte de menace très élevée »",
+      "source": "Sud Ouest",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQY3BNcS1IZ3dKbUtLUGhoYk1odjhvc0FsTU5Jdy02ZEhsYTR0ODhtZTNZbE4xUGJrTmNTdzBWM0lvS2FRLXpYQUluUlc4cXV3WVJJSnJ5MDNqRTdwT21oYTB4c0tLX1RPU1lxODRZVXgtcWZyVTJqTGVONExtV2RNVV9mbEpFM05VLWJpeGdsRkpuM2VEWDhCTnNYVWZsQXlUTk1acjNrb0ZZUmFVaHd5NEwzSXdhRU9YeTdHa1RWNTc1S0V4VFlBYlpJOVZOdE1QQkRzQ1pGTUJ5V1hxbFBIajdnMVgzT2UxcGhHSEc3UklOTWJYSlZIMVNaUTZHSTRfT2hqTTBqaW9fUTROaWVwVk9OeDBBWl9fNnllakZNTHpsTmhXZ0ZwWUdB?oc=5",
+      "publishedAt": "2026-11-04T18:09:09.000Z",
       "severity": "medium",
-      "titleZh": "交通、学校……11 月 5 日的罢工会发生什么？",
+      "titleZh": "11 月 5 日罢工：巴黎警察总部因“威胁极高”而改变了示威路线",
+      "content": null
+    },
+    {
+      "title": "Grève du 5 novembre : trains, métro, bus, avions… À quelles perturbations faut-il s’attendre dans les transports ?",
+      "source": "Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOX0Y2UVliNnBjXzl2a3dXa3pDVUt1MlRsRE9pS2F3VkFHX1FQa3hmMWJXazJwWWdOWG9uNWpyMmVyVHZGVWJyaEI0LW4wRDFXa0liN01Oa2V6ZEo0SGYtOUszaHdRMm9HU0ZZZHBBYnl1RGQ0UkpNMklqcGxnYTBFWkpMRGRVRU1kMjVJOThrRC1qZFF0U3NCb3pfdWhURUZkUVBURnpkaXV6eFlnRUZPVHRfY056V2dwTmFZUW8zN1VSUzdqMXVDVmEwWUxtUHkyaXpjVEV0d0p5c0JvYVVzdmJjdUtRdVlIMHI0X2dQN0pabUtpbFRsVXA2ME52ZXdOdGdjTGZhNkpsR1ZIMTBDUGNwRQ?oc=5",
+      "publishedAt": "2026-11-04T18:02:55.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 5 日罢工：火车、地铁、公共汽车、飞机……交通运输会受到哪些干扰？",
+      "content": null
+    },
+    {
+      "title": "Grève du 5 novembre dans les aéroports : ce que prévoit la DGAC pour Roissy et Orly",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOakNSeGE4b042eHVnSl9yZWp4cjJEVWNWLWFqRDE1TE9jcXhGaUsxS2J5aWFtRlJTc2d2TGhxRW5SS1I3RDJnVjk1T1hpemVocjVXYy1LYll5anVwTWd6cXRyNTJLbEZnenNydkhVSTgxZlhaZnNLeTMwMWxfVmt1X3VGVzNzVW15bERoX2Jaend1TkNpQ0xielUyRVVwLUVZYU1ZRzFmQzVvRjNDR2JYRk0yOGxzUVAwcDRxdDBUQ0JmN1dGYjgyeFpUdEU3a2E2TFA5R1Bidnp3bmw2UVE?oc=5",
+      "publishedAt": "2026-11-04T18:00:10.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 5 日机场罢工：DGAC 对鲁瓦西和奥利机场的计划",
+      "content": null
+    },
+    {
+      "title": "Grève du 5 novembre : des syndicats renforcent leurs services d’ordre, après les attaques de militants d’extrême droite",
+      "source": "Libération",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQdkFwa25pVy1qYkpiVTR3SVNBZTNhRE1ZbFN2ZjJtZ2lGMktINklEVTV6OVZrLU5zLTBTWE1aR1VlOVVRWmRsdWZnRWZpOG1fYThfU3BqTEk3bGVwbmNWSDhqYU4tN1FFSm8yVjFrVThEaHBwVFNFaTFfTmxhTUhISTBfSmxJdkpZb29tWkR3MWU4cmp1NHVma2YtanFfMmF5V1JpNFhsNkpvT0phTGh1UEZGRVZjcDgyVWdhTUlQQ25Kd0RBamRQOXZTU0ltVUlHa0lfTE1pOWdhSnJMWDhqb25UTGNnUEprRGM4VjEzSVlrdE9BUmxCTWV3ME9HQ2c0UHEwQUZDOFU1b0JaQnJOSlkxNWFtZw?oc=5",
+      "publishedAt": "2026-11-04T17:57:00.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 5 日罢工：在极右活动分子袭击后，工会加强了安全服务",
+      "content": null
+    },
+    {
+      "title": "Grève du 5 novembre. TGV, TER Nomad : quels sont les impacts à prévoir sur le trafic SNCF en Normandie ce jeudi ?",
+      "source": "Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONDlnZ1lhTVo0RkxkcEpSMjVXaTFkbHRkN2NVdFk1R0k5ZGk4U1FQemJETFJ6U2JlYWZBZENNMXNNVDV0cGVEXzRtVEllejd3djZyempTWGU4MFEwaXBrNWRsNks3NWkwTnliWXpVc2pMeF81S19UU3NXcUdUVm5OWWtGeW43cnZOU3ZRTlFyQ010anVZTHZhaTQ4UHItVjVwNlg3NlJPcGphV3RqTG5RQ3VOWUlWN2p0aklhZ2tKRmg0R3ZRdm1RcENFaEFXYl92WWpkNXZ5dmF0MHozQVhqazU1Q2I5bkZfdnQ4SkxaSVV2bUN6dHhEX0xMQUs2ZU1Ea2FuOHBndzk4c2trOXZrakR1MDF2QQ?oc=5",
+      "publishedAt": "2026-11-04T17:52:57.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 5 日罢工。TGV、TER Nomad：本周四诺曼底的 SNCF 交通预计会受到什么影响？",
+      "content": null
+    },
+    {
+      "title": "Grève du 5 novembre : plus de cinq heures sans train sur la ligne Paris - Chartres, Dreux aussi touché",
+      "source": "L’Écho Républicain",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNN1A5OEJPRENhbVkxWF80cDNjOF92OUF2MjRBd2diNFltSFVpVHA3bTVrMzVzRW0tb1lfNkNnY0ZQMlZvSkJnc0dtTkdPWlNFa2pBcXluZ2JlTXVNU3hFbS1GT0NLLXJDMWdSalZxZUlHUGRZcUpXM0VmQllERjJHOFl3MkNnR21pOGVvelNuNGFoZ2pHRURKdHJaVVFROVhDcEJlY2cyNzZOVkxjUHZvaTI3YjZnQlNWTjE0bXB3U0ZDdnp5M3RrYmxQd2w4N0xuUmtpdGVRSjRteVdzUy1sY3E5WW40bHJWdEFvdDdhaV9wZVVuVjVjV1Fn?oc=5",
+      "publishedAt": "2026-11-04T17:49:00.000Z",
+      "severity": "medium",
+      "titleZh": "11月5日罢工：巴黎-沙特尔线有五个多小时没有火车，德勒也受到影响",
+      "content": null
+    },
+    {
+      "title": "Défaite de Trump aux midterms, piratage du Crédit Mutuel, manifestation à Paris… L’actu de ce mercredi 4 novembre",
+      "source": "Libération",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPTHFuQWgta01ORTFscktsTDhmRkdYR2lGRjlLaWFUVmwwMFVsRHNfOHRTSkp0cXhTV01CR2QwM2s0ZXlXTEhiV0FvRzBUQ09ocWptM2oyc1hfTWFUMFZhd2NEVjdnZE96RkE2cTFwUk5lcmZ3OUc1VGd6aG9XaW9ESFdKR3paaktOSXdYZlhXUHdYQXMyU2NTSTZVbzBDZ21Pa2tnbDNEYUNKNFZJUWRIakxMYW52SHo0anRYVm4xLWc4YTVVRkFIQW9lOVFyRzQ3MHhIWW44Z3Zlb25URlIyYlF5cGNja0wxWjJuRndoVGlaTXNTM1RJblJibEhxMGVJd2hDTXlwV3RkM1U3YklIQ1pXVkN4bFJQTGFjMU5R?oc=5",
+      "publishedAt": "2026-11-04T17:36:30.000Z",
+      "severity": "medium",
+      "titleZh": "特朗普在中期选举中失败、信用互助银行 (Crédit Mutuel) 遭到黑客攻击、巴黎示威……11 月 4 日星期三的新闻",
+      "content": null
+    },
+    {
+      "title": "Manifestation à Paris : la préfecture impose République-Nation, les syndicats contestent",
+      "source": "Stéphane Larue News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVE9HN013WEgzczU1TUxkNm52YVZhdXJpc3YweEZiQ1ZYU2kzWkFrd2lITUtmcDN4dmwxZXJUM0VJUHBHQ1RQVkdIQ0lLY0dqUGR0cThCT3JhRTlMMHpEYzAwdnVvUlhINWVZQ2U4TE1ja01FYndDNXJLdkx6WDFJbkRHdTlfUUcwWDRvRmx5Uzh5SG1pT2JWTzAyUEZsV3FhT2xoNzFqVGNqeDdabkt6SHBR?oc=5",
+      "publishedAt": "2026-11-04T17:35:27.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎示威：大区实行共和国家，工会竞争",
+      "content": null
+    },
+    {
+      "title": "Mobilisation du 5 novembre : le parcours Bastille-Concorde interdit, le cortège parisien autorisé entre République et Nation",
+      "source": "TF1 Info",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNN0VicHA3QmhIT2Y1YlhWVHk0ejUxTVJPNWM5ak1Sa195NVgtNDRvN3Q5Wkw4SDRwUVZGY1hZcW9SZTdCLURzQ0hoU1g2Z1Z5MTZXeXBiSk1NcHNsdTdKTVZTWlVSd1Y3OEF6RXJLTXl6X1J0YnhxTXpkZnJZOGI3dlUzUTJ4dGx4N1JSOUVEUUxZNVlYZWUteE1zdGZWTDQ3Z1ZvRWpoVXFwcFA4YUNMZUt0VEpRU3BYX3FkdW0yckNfaFM3N3M3b00zX1dzYjl3Q3dyZk8yckdPMlFWWGR3QlpWYzFxQ3NlSmFfTkxtRFEtT1RoOFdvLUQ1VWE3Q2JpcDZmTGx6V2E?oc=5",
+      "publishedAt": "2026-11-04T17:31:41.000Z",
+      "severity": "info",
+      "titleZh": "11 月 5 日动员：巴士底狱-协和式路线被禁止，巴黎共和国和国家之间的游行被授权",
       "content": null
     },
     {
       "title": "Les actualités et infos de ce Mercredi 4 novembre 2026 à Paris et en Ile-de-France",
       "source": "Sortir à Paris",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmltME1oYXdST0YxTkQ3R0RRV0FtZVMxTDNJREtYSkxTRXNVUmJhb1pPUjRmY2NKaXNlUW5QdUJaSVh0X3RzTUw1cF9pNDhGaldYQ3c3dnlqOHBqMDhsTFZIUHg4QkR4OHVlZy16NU52MmVVdFR3UllWZ3NQR0sxekhyOUFCdlRScmRNMmpEYlNvTDNYYVBQZkREeFpkcFpLWS1obkNwLTRPQWZVQXRBckVBYS1yUFItWUtJ?oc=5",
-      "publishedAt": "2026-11-04T12:50:14.000Z",
+      "publishedAt": "2026-11-04T17:23:44.000Z",
       "severity": "info",
       "titleZh": "2026 年 11 月 4 日星期三巴黎和法兰西岛的新闻和信息",
       "content": null
     },
     {
-      "title": "Bras de fer sur les parcours des manifestations: \"Une dérive autoritaire du gouvernement\", dénonce Sophie Binet",
-      "source": "RMC",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQb0l2NDZIbnNBRV9GSEtQMkdNUTVOOElQS2F1RkVIUkhtSHBaSmUzckJ6OUp0SW9LMlVvd3BBZzJDd0YzNDB5RUNhNFBxZGx4U09YbDFkSDZIX3hQaDFHUEQwQ3ZwdGpaLVAxWW9NbFNnVmR1emNtSmc0RlJiWkFXTUZHcWlVUjdFRjdCNWNXbE5rdS1SMC1EYlN1dTNUdjg1YW9uaDBOMjA5VTNBckxqSnRQWTlNTnUtZmloQVhRakFSYmNDb1lpU1B4d2VaQm05T2pIMUMydDNld1pqQXI2ZTNWdHdNQUJEVVotRko3T2dISHJUc29lRHBKS1ltNHpn?oc=5",
-      "publishedAt": "2026-11-04T12:47:08.000Z",
+      "title": "Trafic SNCF perturbé sur les TER et RER, écoles fermées... À quoi s'attendre pour la journée de grève et de mobilisation de jeudi 5 novembre?",
+      "source": "BFM",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNVmdvUzh5Mzl4MVFac2hJZWlvZnhrelRqa0wtWkNLSkhSRzhEZ3IxVzQycUhDREV5YkFvY2V0MmIxbDg2X3dWX2VPbGRxZjQ5Q29aTmc2RkFPMlI3TDhIX0VzM3ZWenQ4WTRyZFpTQnJsb1pxTjd6Y0xTeG4ycTBLVnY3RVdYR2ZoalNFTnBmUzlVUmstM3JRbUNpeHRkcGFOSkdHcHg1WklhY0pZRU9NWERLa3J6THdRWGZfSEtQNkVIeDFEZ1p0QkZ4N19HNkZnbkxkVzFOel9zb0tMYVRkLU5YX3B3d200QkdaSHhFczI5Z0lWZ2dURE1neHNiaS10ckFxeEJYanNyUWYtSUhjUnJ6NWpMYVhINkRIb09XMkVuLWpJVEpYNHdwdlk?oc=5",
+      "publishedAt": "2026-11-04T17:14:24.000Z",
       "severity": "medium",
-      "titleZh": "示威路线上的对峙：索菲·比奈谴责“政府的独裁倾向”",
+      "titleZh": "SNCF TER 和 RER 交通中断，学校关闭……11 月 5 日星期四的罢工和动员日会发生什么？",
       "content": null
     },
     {
-      "title": "La Commission espagnole de lutte contre la violence propose une amende de 60 001 euros et une interdiction de stade de deux ans contre le youtubeur Inaki Angulo pour des insultes homophobes visant Hector Bellerin",
-      "source": "Goal.com",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNcmZvRXdCY3ZFVmJrb0NUMjlYQkVrak12UE9QMGxaU0RXOVZnaTRjU3k4ekRWa3RoS3RJVHFaU0I0ZnZ5dDFLZnZ2Y21JMTlUZVZmU1Rob2VvWEhRZ3p1ZUpSTmluc0Z1S3YzVkpNU1JGcHZCMHpNcTNubmFsZ0RoQnJyVWctMFBEQ3pKSXNTdGhxSnBCbU11V3RPY3hUeHdiM2xZVl9RN2dsVGVYeUlyOHdqM29ib0lWbG15VTVWUV96SmZSQlg3MnU4ODBlQlNub3IxTlhNOFU0eTkwcXV3OGQ5RUdNTG5TMXhHdHRQcm9KU21RYjJvSUktbW9iazR4ZjNDa2MtUndlR3RuQjRSdHhVSmVHTFZWTGgwMFh4OUcxMjZ4Nm1sN0NmYi03a1BiTkxhdnJWbW1wbXk4Q2xoZGpZajA2TU8zcDkxc1hIdk85aXJXZklhaWVqT09HZjJ3a3RQeldUQ3BjaXhiTkpfTW50OHFraGFs?oc=5",
-      "publishedAt": "2026-11-04T12:35:44.000Z",
-      "severity": "high",
-      "titleZh": "西班牙反暴力委员会提议对 YouTuber Inaki Angulo 处以 60,001 欧元的罚款，并禁止他进入体育场两年，因为他针对赫克托·贝莱林 (Hector Bellerin) 进行了仇视同性恋的侮辱",
-      "content": null
-    },
-    {
-      "title": "La journée de mobilisation du 5 novembre \"classée à risque\" par le renseignement territorial",
-      "source": "franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbENuS21nVGhYUTU3czlUR1l0NzcxYTBVZUxBMFJXdThsMGdrcjBSUF9LZG5GSXZzM3FFdW03U3lNaFJwQ2dEYkpnZ0NVVElVaXJ5N3Z1VEllN0pNdzl3cTRDMmpRNTdyUlhBdTM2YWNuX2U4bjFjM1M5ZjBIendVcTVYM19lUVRIRzUtYVYxY0N1M2xYemRKUDFZWl82bXF2N1Q0UnBVNm9ueHVubVBxaFpJaEUzcEdjejdxODdROTBnNnF6b2JyeVdOdnhvZEs3d3hXX1RNQU4xVU0zam1PS0EtRWs?oc=5",
-      "publishedAt": "2026-11-04T11:40:24.000Z",
+      "title": "Chronique album : Do Nothing - Friend World",
+      "source": "Sound Of Violence",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUlLbXNFcmJCRm5GTGJrRWxlWkFPLWpVa0ZNaElQQ19XcEtJbTV5Q2YwWndwWXRUdTMwS1pRUFljQW84VlY1SUx5aW1WR3BFQjdsY2JnODgySExTdTlwSnozUnV1dEI3UmJDQzA1cTFtd0FhaEszTHJZQ0w4SGFfLUhNaWdyb2c?oc=5",
+      "publishedAt": "2026-11-04T17:06:53.000Z",
       "severity": "info",
-      "titleZh": "11月5日的动员日被领土情报部门“列为危险”",
+      "titleZh": "编年史专辑：Do Nothing - Friend World",
       "content": null
     },
     {
-      "title": "Grève du 5 novembre : écoles, transports, manifestations… À quoi faut-il s’attendre demain ?",
-      "source": "La Croix",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUhOWGlvM1l3UEZmS0x6Qm1qTlpZck42ZkVIbEpKYkFxMmJXQTI0WWhHX05BTUhGR2U5ZE8xa3A4WVBVU1lEcjNYR2pRM2VCWUJ6NU8yZkRQbXlDUnhWMGF3Zk1EZ1dhLUxQbmpteEdUMnRlVVJaMHpIVUllM3d5Z21ubjdpeTNlUjE1amh2dUg5ZnhQbW8zLXh4QlF5bEJxaHZpYWd6WldnS3JURGZaM252TWNMS09NY294MWVHTHpvc0t6bGR3?oc=5",
-      "publishedAt": "2026-11-04T11:40:10.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 5 日罢工：学校、交通、示威……明天我们应该期待什么？",
-      "content": null
-    },
-    {
-      "title": "Grève du 5 novembre en Île-de-France : trafic \"perturbé\" sur les trains et RER, \"normal\" sur le métro",
-      "source": "ici.fr",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzhZS0ZZbmM2ZW9BN0pNNmxLZVNxRU5NM1gwZnF3ZksycDJzdW4xTnpxNFg0dnNqaFNQcms3ZWlWMzN2d01va2pSM3Z6MEw5ZlRyUlBBSWc1aXhsR3RNY25MMzJOVU92MUNmc2FHYXZhY19mVnJ5TUJ0bHUwQ2loRnRPWTlIOW9MUkQwY0dGSGtpV0xzcVJFZE83eGNrdjQwejljYkJyQnBuYzdxaEFKMHdUTEpaa0lfUkNPVjVUdDdfc1hmLVdVTVo5RGoxSUY0?oc=5",
-      "publishedAt": "2026-11-04T11:22:32.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 5 日法兰西岛罢工：火车和 RER 交通“中断”，地铁交通“正常”",
-      "content": null
-    },
-    {
-      "title": "Grève et manifestation à Lille ce jeudi : à quelles perturbations faut-il s’attendre ?",
-      "source": "Le Bonbon",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGhnNllFOWN6Y2kxR0loLVdfNlFqdzBSODVmNGRyZU54dXRLVWpWTldxM040UVl6QTdqOUszaGE2VTlfNFhkQmFsYjVTcF9kbTB2M3c0bFhxUW05RFJqekZJMlNqMXBpUGt0TWo0eXFNRUNMYnNmSEY4VmJpR21xU3NUV3NBaE0zMm1nQTg4bEdMYUowaHFHeVVlZk1rY0lsUHYzRnByU3hRV1NlWHM1RUlmX3dKdw?oc=5",
-      "publishedAt": "2026-11-04T11:19:16.000Z",
-      "severity": "medium",
-      "titleZh": "本周四里尔的罢工和示威：我们应该期待什么干扰？",
-      "content": null
-    },
-    {
-      "title": "La manifestation de rue : une histoire française, entre discipline collective et violence politique",
-      "source": "The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMjZSRzA3VzhFYmZBbkk3TnFaZTVLWWdsVEp0NWdQWkV6OHhfbkxhXzhYR1Y1ZUU5cnlhenExdmdKRFBmVXIxVmtNcERjN2syNTljaGVVSXNMaHEzOGVJMkkyUEFaaWNTSHI5SHhadzV3SVJYdVgxcmFsLU5nUV8tUVJ5QmdkaDZxWmdXaDNCbHVXazFxbDF1TTBwUGt2cXYxRVd0Z3ZUU0ZoNGVrRV9HMFROU2UxYVdKeGJYUnVkUWc5TFhOMjg4dm1Fdw?oc=5",
-      "publishedAt": "2026-11-04T11:13:01.000Z",
-      "severity": "high",
-      "titleZh": "街头示威：集体纪律与政治暴力之间的法国历史",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 5 novembre. Des perturbations à prévoir sur le réseau SNCF en Normandie, plusieurs lignes concernées",
-      "source": "tendanceouest.com",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY0J0UEZEZ1JyNTVHdnVickVsaF8yZXNNbGo1MXlqbTNKN2hGQ1ZZR3lEM2FhcjE1YmtSMkVYVnktdWJ0NFdHQmZoZk5OSk9VaHRKTHBoYXBBMzgwd3dZR0xNVnRZZzl0SHd5VkZMcGJheXdCaHZNUlNtczJrR1IzMVY2N0R3YTUxMVVoVF90WFBYLWtBaU9xYjNuVHliN1FaT0hmOVRPMWpOcDQzYjhSTS1LdmRLdEkxU3hTMkljZldxUWFvbkpRUFhMT2NGOHVUUU51cG05Z0VVeVJ6MlVFQ19UZXNBMmhXRmNyaTh5UHhCMktM?oc=5",
-      "publishedAt": "2026-11-04T11:05:00.000Z",
-      "severity": "medium",
-      "titleZh": "11月5日示威。诺曼底 SNCF 网络预计会出现中断，多条线路受到影响",
-      "content": null
-    },
-    {
-      "title": "CFDT et CGT dénoncent les conditions d'organisation des manifestations de jeudi",
-      "source": "France 24",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbnF5MkE3LVFiV1pOMS1rcHBoWUFRb0k5VGpRNzdhQkxONGRVZUozSVQ3aWFOMmpmek1nd2tWeXZrOU94R3BvVHZHLVRCdVQtaDdhQnl5OFVBU2ZPUVNRR2xyczNQY2U2X1ZzeERpZl9jNzFncmhtNkhfczV6M1NQcVFnYnhTRWlkNGFyN1huMkswUjJ6TjVkaWlJQ2NTejZQSHd3QjFOeUNjZ0YtSjZnV3BXa2RlblFSSjNoNFZCOG9BSjh5LTNmOFUySEcxQUhNYm5RRzRBZ0JESmlHMGtocDlpUUI4OUx2?oc=5",
-      "publishedAt": "2026-11-04T11:03:58.000Z",
-      "severity": "medium",
-      "titleZh": "CFDT 和 CGT 谴责周四示威活动的组织条件",
-      "content": null
-    },
-    {
-      "title": "Ne pas pouvoir manifester dans les centres-villes n'est \"pas acceptable\" selon Marylise Léon (CFDT)",
-      "source": "La Provence",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWWkxdW8tUGxXb0xBX1FUeXJQb0dwZi1fWFdVTk4yRkkyYlpIS0FENGJrbExnQUtUUUs3N1ZJdWE3eVZkZ2cyMTUwbHhPQWx1QWwtN01YMDB4ZHJRd1ZEcnZTbV9LNFd1aEVreUFNYmxlS3R3OE9rZWF4NlJrcHphUEhfOTlrcmpvVW9iQUNVVFh4OWVyOHk1QjN3emdWZnZ0UHJicWhralVCM2ctMGtId2xOMGZxSUtWM3dEczczbHZoM2JXRjI2RTFLQ2o1RmZnSXF5cU56QlUwNjE4aS1zTnNsUnFzcFZIaXc2bk53?oc=5",
-      "publishedAt": "2026-11-04T11:00:28.000Z",
+      "title": "Débat du jour - Les jeunes Européens peuvent-ils s’unir?",
+      "source": "RFI",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMDlIY1RFU3NSY1ZJZVFqNUFjUlF6LVBuREFXWDZkX0pMLVo1S3hJZTd3MmxXWlVTdWsyaGdKQWI5dC05Y096Z1g2NWMxeFVSVVphMU9uc0dLVjJmTmwxQWJPREczckpEUHY3STRKUHM3NHgxNFAybFJsWmdhNkhERXZKTlNRTWxHY3pQMjNtNWYzLVM4bVlUdktOMG94dVA3VlJlVUp3?oc=5",
+      "publishedAt": "2026-11-04T17:04:24.000Z",
       "severity": "info",
-      "titleZh": "Marylise Léon (CFDT) 表示，无法在市中心示威是“不可接受的”",
+      "titleZh": "今天的辩论 - 年轻的欧洲人能否团结起来？",
       "content": null
     },
     {
-      "title": "Paris Students Protest Education Cuts, Police Violence After March Ban",
-      "source": "TVC News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnZoaU9ndE1TX3E5UFpGVW43SDZhdzN0blBpdzlGeGgyZlMwV0VHZl9WNGVPaDJ6OGRCYkRWYm5zRjFCNkxQUGVzYjc0dkI1bkxhMjJhc0l1U2JURERtNDB4UVRXZVMydWRjVm44ZXZxeUJ6WkdCaTRRVmVZOWlSN0U4X2x5RkN4eEZUUFBJdjJBNXMzbWxCSg?oc=5",
-      "publishedAt": "2026-11-04T10:49:00.000Z",
-      "severity": "high",
-      "titleZh": "巴黎学生抗议三月禁令后教育削减和警察暴力",
-      "content": null
-    },
-    {
-      "title": "Manifestations du 5 novembre : à Paris et en régions des parcours contestés... Où défiler ce jeudi ?",
-      "source": "Linternaute.com",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM2swZFJnOE5BcnFPeVBrR18xdHdvQVhRTTZRQWpRTzlfSWNxU3N6QUhjRGY2Q1pkQW5iaDh2Y1ZFVXZyMDYxTmVSNVE5WDFNNkczSXNpendDZjJydUdkeHY2TWptWUQxVzdkUXhYUld0aUNqUDFDRE5WeFJsa2R2RldEaG9Id1k1UGI3QVhLTklDR0FTRjJQRXhOd195MU5Ga01VWG9HOWZCZkcxLW5ncjBGRTNUZ2ZwMEs0cFNLcF9PT2lIN2FTdVdGTnZhOGdkeUtaelRhY2hvVlQtTUlLTVUzUQ?oc=5",
-      "publishedAt": "2026-11-04T10:39:10.000Z",
+      "title": "Grèves du 5 novembre : perturbations sur les réseaux ferroviaires régionaux, trafic quasi normal sur les TGV et dans le métro parisien",
+      "source": "Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQnRWUzJKcUhHdWd4dzVLZG85T29FQlByOEtvbjU3anVKMV9GemVQczlNRUNHQ0ZNVWZsSHZDTGZtY1I5U2lvQUNhTUJBOEtoaU1IM3R5eU1paWJrakhsUGkxRktkSjR3TjQ0SDlaUmVzSjBaVTNIWEdyaE1VYlRJR1JIa2dsMEpsN2wxUFRqblJkMnNCeXVnQTdZb05RMU45d2tObGtpdmxUMjF4SDZfclV2ZEtJZEdPWjFYOHZZaHcxRFUzT2RKUnVLQzVzYjZNWnFHeTdCemtkcHJ0RjBOaDZEYVc5alVBcUIyZmZXaDZTcFFLS09FdnI3V3Z5c25UOWx2c1JzQmktUnlRTGNUZXQtcHp5YmxNQ00yOEkxc0RrTFhhZUVn?oc=5",
+      "publishedAt": "2026-11-04T17:04:12.000Z",
       "severity": "medium",
-      "titleZh": "11 月 5 日的示威活动：在巴黎和有争议的路线地区......本周四在哪里游行？",
+      "titleZh": "11 月 5 日罢工：地区铁路网络中断，TGV 和巴黎地铁交通几乎正常",
       "content": null
     },
     {
-      "title": "Guadeloupe: face aux armes à feu et à la vie chère, l'exécutif tente d'apaiser la colère",
-      "source": "France 24",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNlJoOFBQbHlCaTh2R3ZLUERlemZpRGJ1dDY3SWNtdEk4WVZrbmNIS2F5LW9aNVRLWWhEQkZ2Smgzd3JwTUlKYTlzSVFudlk5T2loOUhWbjFXSlhvRXJWUmFRSzRDMHNiaEJRTmdyNUdNVFJNc3piMU9VcWU1V3Byc01kWk5Yc2UzYXExblhvRmlvdWZ2anZBTVVHajYxSVNUTU96WU9pYmVnejhZbFhEdWRzV0FBVTdJcGpWNkNwNnUyREV4Z1Y1RWJXU0RmZzlOSFVPU3U1c055dFcwS1IyMmN3Q2dFWVc2djNfNUlfRXA0Q0lCRWY0?oc=5",
-      "publishedAt": "2026-11-04T10:35:57.000Z",
-      "severity": "info",
-      "titleZh": "瓜德罗普岛：面对枪支和高昂的生活成本，行政部门试图平息愤怒",
-      "content": null
-    },
-    {
-      "title": "Commentez sur l'article \"Actu Paris - Mobilisation du 7 novembre : la Zombie walk aura lieu… en même temps que la manifestation des Gilets jaunes à Paris\"",
-      "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObmRIUDRqN3pUVkJ4VG1PMjZIX1VKaXQ0Y0w5bHdXbEtEZ2lMNEVTalh2cnVGQW1MZG4weDg5eEd2TG9pTlpaS2M2TUdLOWJMc3ZpNUVGTjJWU0VQWklCRUFiTHR3eGRmRGNwSjN1cjB1a3k5MHk5THRDby1sSFdTbU9STUltM1V3ckZRTThhMkpoWTdkbTlTd3hfVG5nSmpKSWZDcWxJcHFIaElJYTdpTWE4OFp3WllZNDdmZEtmNzB6SHRYalo4TTJR?oc=5",
-      "publishedAt": "2026-11-04T10:33:17.000Z",
-      "severity": "medium",
-      "titleZh": "评论文章《巴黎新闻 - 11 月 7 日动员：僵尸游行将与巴黎黄背心示威同时举行》",
-      "content": null
-    },
-    {
-      "title": "Guest Commentary: French education protests seek justice through rebellion",
-      "source": "Orlando Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR29yeVRqWWJ6ckRTQ2xwV1JlVU9pLWd0ckhVVGtqYm0xbUQ2a25BNU00OHRjcm5KR3p2RW1Ca1M3MlRiek5GR3BNeGsyMHNmRXV2S2duUFJ1YXZWNzN3U0VtdDhicng1bUhZR2QwQ1dSU1VYTlhreElYb3pjcUNPX3Zn?oc=5",
-      "publishedAt": "2026-11-04T10:31:50.000Z",
-      "severity": "medium",
-      "titleZh": "嘉宾评论：法国教育抗议通过叛乱寻求正义",
-      "content": null
-    },
-    {
-      "title": "Mobilisation du 7 novembre : la Zombie walk aura lieu… en même temps que la manifestation des Gilets jaunes à Paris",
-      "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQX3Q4SF8tc0ZKQVljTF9sbEZJdzJRTTJEX3VqU1JRUUpMN0NJUjJnVHJaamRsWkUzQzcyX2FKVTJoaFhTY2NhUXE3ZUJDVTFGZy1NaXBvZ2gzdjJKaml1MEctaDNRZWlneXpDckxicVdNaFdIYjlPb3VCSU10TGtRNlc5UUhTaVpGVllQR1NJcUVFczdfNGlrT0tBQWhnN3JKZXlROVpsRHlOSVdIUmxsSWtkZTdHMTFVQUtDcVhmb0tNUVlWMFdCNTgzd28zOUY0X2VpV01JZF8xSXh4T3B4aUdwaEZtS29OcTdweHVPYjlvUjFfSVBYSFVOVzQ?oc=5",
-      "publishedAt": "2026-11-04T10:19:04.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 7 日动员：僵尸游行将与巴黎黄背心示威同时举行",
-      "content": null
-    },
-    {
-      "title": "Mouvement de grève du 5 novembre : près de la moitié des trains de la Manche supprimés",
-      "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUhnWWxtZGhJWjJVQUJRX0didFFUZ0QzYWpBM2VyUXVWaFcwdTFneG1sSml1RzlRWE9WcVlSRjRVbXNkSGNkczBFam5Jdlk2Y1VoUzU5UjYzUkJDaXpuaEQzTkw3dHA4QkdrVzBsR1plTlhma2U4bEk2S1ZqbHRtdHl5OHlEUkIxYS1WVEl3MHhkYmxZalJwUmQwU3pvYlFpSkVUb2pBUTgtZjdpSExCdEdBaEdTVk5jOWs0bmkwdw?oc=5",
-      "publishedAt": "2026-11-04T10:13:46.000Z",
-      "severity": "medium",
-      "titleZh": "11月5日罢工运动：几乎一半的英吉利海峡列车被取消",
-      "content": null
-    },
-    {
-      "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN29SaWw0SEtvdVFaN0VlUzIzeHRiS3dNd1FGWE5CaC12dGtkWGdwVVJEUDlsajN4UmtySEtRUkZPbUlpS2I4T3lGRUVnTjA5ZkJqMnA4VDk0Sk9ULXFldXJUdUh4T3QyNlNJUjZtaWpxb09kTTNlMnUzWVBJZUFTdTA4NFh6VEZ4NlhUX1g4M0k3eVpEd3VaSzJBdjFtbWFXem12UjVB0gGrAUFVX3lxTE1wQWJTTFhjdGlYTWFiNlhWNmZWLXpDdjhUSWV5dFJaZXZDQ1RVYmNWWFRPcTZrSTdPSjVwREVVQWNYZjBjak5nR0Iwekw5UXYteHEtNGRmSGRKYnY3M0VLSlQ1S09vV0dtMExvZ1pVVlc1dVc4YmpFM01NQnByaGxsUEhoeGMybUhuSnZpOW80WmVnWkJkOWR6VmFGNHN3cWNwazlNYVR3V2lucw?oc=5",
-      "publishedAt": "2026-11-04T10:04:04.000Z",
-      "severity": "medium",
-      "titleZh": "法国抗议活动进入第三个周末，青年领导的集会席卷欧洲",
-      "content": null
-    },
-    {
-      "title": "A Spec reporter travelled to Paris to visit his daughter. He was met with tear gas and a curfew",
-      "source": "The Spec",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMUFXNlBGUnZseU8zS1B3WUkyVzZMWXBnRmlucEFIUXphU0w2TXhlVENQXzlPYXVZcEpQcmZLQk96S1I2Vm5uZkJxNnVtdWlxOWZzbXpNYzFPdkl5dWpNejIyS1RQSlBnenUyQ0xfcm9EcFpzWjJGTGNldE1vMDhxckVHZmFoSUp3U09CR0Z6VUM1SDc1dUgwdkR4N2NncmJURTFCVGNBNHN3UmhqcEVpSlZNZWJoM3ZDa3RUczBCQ3VHMmlPaXNsMDJrRzN6MDdBZkNOeHR4YjZHVlc0UkdzUFhEMmJSVThTTF9uMXI2dExXQQ?oc=5",
-      "publishedAt": "2026-11-04T10:00:00.000Z",
-      "severity": "info",
-      "titleZh": "一名 Spec 记者前往巴黎探望他的女儿。他遭到催泪瓦斯和宵禁",
-      "content": null
-    },
-    {
-      "title": "Censure d’État : le gouvernement veut étouffer les réseaux sociaux",
-      "source": "La Relève et La Peste",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHFNeXkzTEgzY0xOZzZxZ2FzdzgweENhNy15U0x5OWxLcEM4T1plU2lkemJNUW5ueWx1TG9tWmpPTXkzemhlMUVybU16dTdNS1U3SmRwZW5CZGRLQUxPdERjN0Z3T0l5M1IwTGhFejZWUlBoZUczVlJ0YWFHNTJQNldNQ2hjV0xVYVJQWnowaDdtOWtmVGRoeA?oc=5",
-      "publishedAt": "2026-11-04T09:34:01.000Z",
-      "severity": "info",
-      "titleZh": "国家审查制度：政府想要扼杀社交网络",
-      "content": null
-    },
-    {
-      "title": "Grève du 5 novembre : à quoi faut-il s'attendre dans les transports franciliens ?",
-      "source": "France 3 Régions",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYW1ETE0teVlWUmdVS0prVDNrZVRyVC1TR2psZ3pLOVIxTHpWNTBHTzMxc0w1OWc3ek9mWWVTRVdIZVBQWC1GbjEyT2poMG1uYXUwd20wQjBvWE0yOG9LQTZOQmRLaDdMSEpOYmF6MTlhdGFDb2ttRi1rU3RGV3FRZHdDU0czeGo3aDBOcTdLTTNoUVNGWDFYX1BwejlfSFhJcWpadlV1MGxiYk5EWHVDeXhNSV95aXplcmEtNmotY1pNbjB0WWdIbEhaUXd3SW5Ya1RYeUM4RHRNR0daLXFRTDJR?oc=5",
-      "publishedAt": "2026-11-04T09:18:26.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 5 日罢工：法兰西岛交通运输将会发生什么？",
-      "content": null
-    },
-    {
-      "title": "Transports en Île-de-France: what will be disrupted on October 10 and 11",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlkwRmo3ZDhvSGZKZFYycjRRMXp5NjhsRFNBMTJ6eGxTWDJiVGdaQlNfLWxlRWkyOGNRTU5hMVBPcFlCY2NZWjFGcVpVSnNQc0JaTEFLVVZDTzRBcTdXa2tZaW5zeEppOEk2LWRNY0FNRy1KUzhCVnM2VmRmZ1ozRlVSdVphbzZnQzJFWnhmNXdVX0ZkamtNUE1PekV1dXhpMDBiNy1Ta2J0aTlZWjJ2MHNYc2pycExJNGc?oc=5",
-      "publishedAt": "2026-11-04T08:44:20.000Z",
-      "severity": "info",
-      "titleZh": "法兰西岛交通：10 月 10 日至 11 日将受到哪些干扰",
-      "content": null
-    },
-    {
-      "title": "Métro, RER : les perturbations de ce week-end des 7 et 8 novembre 2026 ?",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYzJIVWVXX2Q0ZExMdWs3Sjg5UXozT0hCWGpYUXdLYWxNMDZhVWdoVThxNW1NWUNDSzlMcUpsRU16eUtCWjE3ZXQ3YndUQkx1U01qRVBKQkdOSVNJaVlDR3BuekFKWF9Oa1piZjR2Yk9zRElXdnRNSTU5a1dkRzZ6djE4dWNJZDFwdjd2OFJZelBBLTQ5MDR6cVEtelB4c092ZTBfWjJYdjYzQ2dERmpKRnBBQTFUWUVqSzZKSElvQ2tqSUp2ek5oX0s2QQ?oc=5",
-      "publishedAt": "2026-11-04T08:16:00.000Z",
-      "severity": "info",
-      "titleZh": "地铁、RER：2026 年 11 月 7 日至 8 日这个周末会出现中断吗？",
-      "content": null
-    },
-    {
-      "title": "Grève du 5 novembre : métro normal à Paris, RER et Transilien fortement perturbés",
-      "source": "Economie Matin",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTDNSd2taQ3habnU0Z1c3Z1k5ZmZwSktfYVR4TVZHN1g5NDhacEFMemRtbEtKLWg3dElGT0Q2eGR0WFVVZDhlR3l0QWlqR1JaN1lYZUh4dHVvTUoxejVyMkwtSDdGY0F0eU9rbmJHYjFLS2pIYzBRdnlqMXlsMjFIOWVIamhJclRpOVkzVA?oc=5",
-      "publishedAt": "2026-11-04T08:15:00.000Z",
-      "severity": "medium",
-      "titleZh": "11月5日罢工：巴黎、RER和Transilien的正常地铁严重中断",
-      "content": null
-    },
-    {
-      "title": "Pillages du 24 octobre à Barcelone : La Guardia civil enquête pour savoir si le jeune homme qui a organisé les émeutes a reçu des ordres à Paris ou s'est radicalisé seul",
-      "source": "L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPYzM4d0xENnpYMmtlVDNjaGw1NTVhV1lqbUhqSVI2bXQ1czBZVnZzdmJtMUl6alNjX0Y2d29iLWE4dEZldWUzOWhDT1d1eVVMZ2pUVnNma0ZPeDU3WG1NYVQ5MW9ZTlhXWlFLeWxULXYyeldUZi0ySlMxYU1mR1VIRUd0NnJJODZpUW9MZmU1aWJpVF9OSHlqb0xrOEFSTmpTNzBIdVROSFdhMXJqSWQ0U1Y4enAxdWFLd0VjSTNtQl8zNkRwUzUtRmR3U1pVWWlldElTbUVNc00yN3NwN2cydUd3cThjQlAxM1o2b0h6YUx5YVZBYjhUOWh1ZWtaaU9pVnRXZ1I1ZTZ4RUI3YUJOZnd6S0lITl9WOG5mTWtyOFk0eDJiM1B5ag?oc=5",
-      "publishedAt": "2026-11-04T08:09:00.000Z",
-      "severity": "info",
-      "titleZh": "巴塞罗那10月24日抢劫事件：国民警卫队正在调查组织骚乱的年轻人是在巴黎受命还是独自激进",
-      "content": null
-    },
-    {
-      "title": "Paris : le conducteur qui avait poignardé un cycliste en août dernier jugé ce mercredi",
+      "title": "Grève SNCF du 5 novembre : TGV, RER, Transilien… À quoi s’attendre ?",
       "source": "CNews",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTdpUnBKWThHeU1PSzhPbHZrejF1NmpyODZlVnZQMUZSZjhNTUstUEU0eFlUYTk2UzczbUY3bm5DMklYOFg1NklCSnB4a0c4bEdmcXBlS1IwUGx4dlFDN3NQZ0sxVFp4QXhneWhsM25QQ2lERkZ4ZElBWVBPMmpmRlA0c2NzMGlzRkdZak5wZ1RVcTM2R0I4b244S0J2aHpHRkFNdXN5S19oMU9vX3dhZ2tYZG7SAboBQVVfeXFMTmI5allXaXBmVzAtSWNXUmJBTC1sbHZWMk4wWnlqb1k1RFl6b2hLT0k3VVlvOWNITDJkU1Z6OUVhd0J1UGJIRkZDM1FBcjdtbkhpOEU2X1JHc2I4SXhSdE9hWDNyUXV3ZEFGUXp4WkNzWWtINVN5ZUlNdk1lVjdDa1B6b1c5NWtRWXcyME1rclA2MHZSTFdkLWlvZUl1VUt2d21yYVY4M05jV014T0Fsd0NyTjdwZnBqZWN3?oc=5",
-      "publishedAt": "2026-11-04T08:02:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkwtQzd5OGdvY1d0RjZaR1VULUFRbUUzSGJaMDJoNkg2a0U0b1p3NUowY3VFX19hYjk0bmliZEVreHJTTXdpZ2xkTU0tV2FrTEExeXF6UldMSHBJTWVOZEtqcVRhczdWRzF2ckUza2RFbXB2dXZLR2lodGFmVjBLT24zYlgxdW9VUGY0X0tRbjNwc1Q5RzZuZEVZeWFVQWYzYnZiUmdtUTXSAa4BQVVfeXFMTmtFbDVpRjE5anpXVl9fYVZJdHdEWERQTDMwSTRlU3lhckNFRTdDWVRKTUE0M0NiMlFIR2hhS3o3TnpEenlwbzJOc25NMFFjNUtzSFVpRVQ4WktFd1hTSTQyMTN4Y3JpRzF4NDRzRjdZMGdXLTZ4NC1YUmFXdFFiOUhtZEhBb3UzOGYyRTFMV1N1OEFxSXJBbThkeWlsRVZUTUVKaWRVOUlwRzFjMWZ3?oc=5",
+      "publishedAt": "2026-11-04T17:03:41.000Z",
+      "severity": "medium",
+      "titleZh": "SNCF 11 月 5 日罢工：TGV、RER、Transilien...会发生什么？",
+      "content": null
+    },
+    {
+      "title": "Grève du 5 novembre à la SNCF : le trafic \"fortement perturbé\" dans certaines régions, les prévisions des TGV et TER",
+      "source": "Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOUtZSFotYmNsY2xhdXlZN3RnYmNSekxZaktkVjVxSEhoZ1k2RjdIbVZ2NEVhYlU4Um54S2VILXc1c2QxRnZ1Q1BEeGh6TC1QQ3RyZkNUTmNHVUpJdXhTcEJETTdTU3pWUnd5eUpTMkhPM0VYdFNFLTZGX2pTTUJCVnZNdVVqWGxWRW1aVVJ2d3hjUXZ6ZHJEd3BRQy1mMFRIbm0tZmJBMUZNRk9yZEJ5aWxRaHZja3FjUzhrV2hnOHpuTDJvMHdvTWVfXzNtVmpDUC0tMzJYQlIzR0J2X0U1bi1lUQ?oc=5",
+      "publishedAt": "2026-11-04T16:54:36.000Z",
+      "severity": "medium",
+      "titleZh": "SNCF 11 月 5 日罢工：TGV 和 TER 预测某些地区的交通“严重中断”",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 5 novembre à Rouen : de fortes perturbations à prévoir pour les bus, les cars et les trains",
+      "source": "Paris Normandie",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb1J3NjBRRlh5d0xyU3RRY2xVbkxNbkZPempqTVpIcXZtNWh0VkRtaDRIZ3Y3WEUwU25IVi1sdGJIUTNYSDdlMUthcDB6N0dIQjlWbTJSYlVISFRiNXRveV9vdlowdm1ZbXFFcm1oTllBaVBYa3pfbGJWUmNZeE81NlR6cThic0lFdFIwWFBuZ0NQaW43NkZ4bFlTaVl5dUtHVG81bGx2NWZEUjliOEN4Sy14ZWpHYXEyNTVyS0sxTW5oLUphTklMb09Hd2xtVWZaZm5R?oc=5",
+      "publishedAt": "2026-11-04T16:54:07.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 5 日鲁昂示威：公共汽车、长途汽车和火车预计将受到严重干扰",
+      "content": null
+    },
+    {
+      "title": "La préfecture interdit le parcours syndical de la manif du 5 novembre à Paris, mais…",
+      "source": "Le HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXZqRVU4ZWJGRTIxNFBwekNqUzl5N1ZUZE5vYnJ1WWR5MWJtX1dzY1pIMFRnbElsclFJQm1MSWlydTdrMExVaHRYMGtQRTZJeGxhc2phQW1LSDA4Y05reEp2OHd4RDh2Vko5ci1CcHFlTV9CRmZkaWNCMDVHaEtIRDFrTmktankwUXd3WEpQeWQ3eWx5WTNRV1pRV19NeGlQOHp5Qkg5TkVQMHJHbFJZVlN4VE9TMWVpTmpGN0FiOXlPd1RNREprMTVZZ2ZfR3RocG9OSks4NUlNT0p2al9qNzh6QmotUHpFczR4cnd6Rk1OQQ?oc=5",
+      "publishedAt": "2026-11-04T16:52:51.000Z",
       "severity": "info",
-      "titleZh": "巴黎：去年八月刺伤骑自行车者的司机本周三尝试",
+      "titleZh": "该县禁止 11 月 5 日巴黎示威游行的联合路线，但是……",
       "content": null
     },
     {
-      "title": "Un policier condamné à un an de prison avec sursis pour des violences commises sur deux adolescents et racontées par un journaliste infiltré",
-      "source": "L'Humanité",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOb3EtRzdoSVBMMlRhZkllZUt4c0dIZHBad2QtWFJHSTRlQkJBTWNfdkt2eER4MFhUWnNtcE5TaDJMdGtVbnBEMnlybzktd3hvbkg4X3Zhdk5yNWlIbGZXVW5aaE5xaHFpTjVoMl9pYno4RGduczYtbWw5WmNWSXdZU3NoMUFQUWNQWnFibjVDR1hSMUh6eFBETV90UVpzcXR4TktkYTY4bnVYNnpOcHNidzh2YjkwUkJlbUdQQ0JOOU5ZMVFwMWd2eGNBbE9OT0toVm5YQ2MxeTlXblRCQmlRc3pfWVF4QmJqSE5SMFJzaE84blk5X3M3NEQ5T1JrNTZGeEdOTHc5YzVNbVZp?oc=5",
-      "publishedAt": "2026-11-04T08:00:00.000Z",
-      "severity": "high",
-      "titleZh": "一名警察因对两名青少年实施暴力而被一名卧底记者报道，被判处一年缓刑",
+      "title": "Grève du 5 novembre : à Paris, la préfecture interdit le parcours Bastille-Concorde mais propose une manifestation entre République-Nation",
+      "source": "Libération",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNQkdYeVlycXdsTWwwaC1iMlFKOXh4RTJ1YlFTTlRqMGsza0NDWXVnTnA4RHFnRmN5ZUpWVDhCQXpXdFhQdENrVXN3dlVnU2x2RWVNVE52WFhsZEtKanhRSHhXVFYxQmJPcm93T2wtbEJBRndmdFh1R09YVHd3WHpXNDFlTkhqb20tNjFPSmEya0kxQXYwZEhVZHVmZjAtcnZTV2FVMzQ1dG5SX0c1aE1seXRvdG5xcVJpbkpIcHNQX2lMek1UUUZxOW4wMDdCeTZURXNMOXVXOFJFemp6MXNiSkZOQkpsMmRuUzh3WUZNTWdSbnJ2V0l4UENwcG0wemdPUFN4RS1HNU53SHB3N3N4NnRjNi1HSFRQendnMHdlR3ltMktHSVhxTldXZTU?oc=5",
+      "publishedAt": "2026-11-04T16:46:00.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 5 日罢工：在巴黎，该县禁止巴士底狱-协和飞机路线，但提议在共和国与国家之间举行示威",
       "content": null
     },
     {
-      "title": "Que faire ce mardi 3 novembre 2026 à Paris ? Les sorties à ne pas manquer",
+      "title": "Grève du 5 novembre : quelles lignes de métro/RER ou stations sont impactées en Île-de-France ?",
+      "source": "Journal du Geek",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVDg5bDZFQVFQSXRhaGlFZjV2ajBvRUtZS2pOOE5sdHl2bHFsU1ZfSDJYSkJMRnVQa3E4RUxiMlZadWNtR2REOExJTHcwakpDM09tU2ZuTFdpT25mRXIza01HSGxwVXlVQXU0Vzh3dkdQWFJFdDlGMzNmVUJwWDFVMGxkMDFudnR0VnZFNjRRdVJqR3BvWFZxbkozaHZXVl9sbUk0bjBzSlRPSHRpeVZzcGJXQzB4Y3QyMElpdlIxeDU1dTMwUlNJc0RpX0tjdw?oc=5",
+      "publishedAt": "2026-11-04T16:45:48.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 5 日罢工：法兰西岛哪些地铁/RER 线路或车站受到影响？",
+      "content": null
+    },
+    {
+      "title": "November 5 demonstration in Paris: route imposed by the Paris police prefecture",
       "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNkc4dS0wV3BsSnYtMGNxN0lyYWJINlFoMnNNUlpjQzAwRml5RFNQVm1RRUdRc3YzM0tlR1ZObEZIcEFMX3RRYTg5SnBHSWI0X0wyem96cGEwc3RwbV9oMjd0V1ZOcEE2aHVGRWhkZUdJWmFsX19hNkFUVEhBUnNmRHpUdkhvVVV0MjlPX3FIX0JJc0piZWxwRzY0M2RBdXVtSHIxNTczelJseWJsN25yVFVDaHRoV0wyRkhDQ0dPUTdGVkVCRVBHSUpLSGwwZw?oc=5",
-      "publishedAt": "2026-11-04T07:49:34.000Z",
-      "severity": "info",
-      "titleZh": "2026 年 11 月 3 日星期二在巴黎可以做什么？外出游玩不可错过",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQemYtZWduZTZLV0xUTVZBQlZQb1luZm1fWXp5UGQ5cVNYVG9ubFEza2FXRDlOeVNTOG5Idktvelh1b0g3bzlQWUtoVldpY1hUNHRmVUpRRm5LS3E4NGRJU3QtaWlWb29TdVR2ejU4MmdZNHJhUTZLUTNrTm1HeW1vWkItTlR6M3dleVNKdGlSNHdQUW5XLXNUNzhjSnlmUUpOMHU0SENaSTBDNWJHOHdtam1EUzREOE1yWVpKOXp0bkNqUjd1NFUzQWlNb2U2MXVPT01GaUpCOTR2RUFx?oc=5",
+      "publishedAt": "2026-11-04T16:45:25.000Z",
+      "severity": "medium",
+      "titleZh": "11月5日巴黎示威：巴黎警察局强制路线",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 5 novembre à Paris : la Préfecture de police interdit le parcours Bastille-Concorde et propose République-Nation",
+      "source": "Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNN3BoMmhlSlVKS05pOFJMNUJ2c043b3ZNUl9JQU1VcklKUTFTZXBCazNxT01VMGlQYmZwZF84Sld1VXExbGliMURXVFRKZ3hTWWFnWWxsZ3VnOFpHY09kOWJaa2k3MjNCMEtCNUNSem1VcE1CTzVNVHpKY1J4T0ZtNmJiSWhuWFVURWZWRkdqV1ZOMkRrRHdiVDNHSkdYbTRNXzQ1NXItZkRvQkNybVZPMXF5NE5RMlRzVktLd3dOSERhYm9qbFoxMWlFT090Z1ZFLUpvMm1RdHpKM0g4REFGcTlRR3BOeUJXNFA2dDlHVFNvbTZuejBoQjZBZlBweE1KNTlkOF9mTTR2akJnT0MxdnVMMUwtb2NrYlVGUmRxVXpKdWlPWVE?oc=5",
+      "publishedAt": "2026-11-04T16:41:10.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 5 日巴黎示威：警察局禁止巴士底-协和航线并提议共和国家",
+      "content": null
+    },
+    {
+      "title": "SNCF strike on November 5, 2026: RER and Transilien services, line-by-line forecasts",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNWZ4THJ4aGxILWo0cmRkODZwVm1yWWtLcWR4TmlkdjcyRGdPS2NzZ3VxWnQ5Xy1pNER0OVkyZHpkN3M3M0l2MUZoM1J6MTFJXzBkQk1yZm1PYW5aNVJObHRNLTNXZUJ6djV2MDdWR1B6YlhvVDlLVEZPdWNpdTBBY3FTc3llRHlwN1dzUUJROXIyMWJoeEc4V0pCWkZYUHBZSF9RenZxMTdJOGlCclk2SnJMb25JQ012aWd6Z0FuM1FOYWRRSlRHMFFUWE0wNjZPS2YtVklJT3ZtZw?oc=5",
+      "publishedAt": "2026-11-04T16:33:27.000Z",
+      "severity": "medium",
+      "titleZh": "SNCF 于 2026 年 11 月 5 日罢工：RER 和 Transilien 服务，逐条线路预测",
+      "content": null
+    },
+    {
+      "title": "November 5 protest in Paris: What is the route?",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakppYkFTN3FSbUpaZlpCRGhmWHF2NGdpTWEzVkJ6UlFrbnZKN01zOWx0MkxnTk8xRUFLNWFOaGpJUUh1aDlVSHhiTm9BaFZGUWFxbFF1MjB2UHZKTEFnYXY3dDF1OWItSDRENnlpRHVFend5TTJjcnZsSW1YVm1lNzZfUUdKV3JFSVRFem5WUjE2R0x5U2hfaWF3TE5pb1ozb1JYc3BDUG9jbTBCc19LOUJIdw?oc=5",
+      "publishedAt": "2026-11-04T16:29:25.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 5 日巴黎抗议：路线是什么？",
+      "content": null
+    },
+    {
+      "title": "Grève 5 novembre : SNCF, aérien, RATP... quelles perturbations dans les transports ?",
+      "source": "TourMaG.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWw5anBROExzd0V6QWhLZ2ZLTXVUcDVEWi1UdWlrdzUxeEZlSV9jbDFJU0s5cjk3R2xnckRoeTRRUHg2bkRvOXlsM240QWRDOE9UdmZLTk1FM0tKMkdBQ1JaanR4bnIxRFA0U013ZU1rRllVRENBcXRhQkF5SmhpcWs4b0FaTmxjWS1RYlVEUzVwOVloRVZjRm93WFdfdWtFSmViTUNJRkF4YlBMRl9fMnh3?oc=5",
+      "publishedAt": "2026-11-04T16:26:23.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 5 日罢工：SNCF、航空、RATP...交通运输受到哪些干扰？",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 5 novembre: le parcours Bastille-Concorde interdit par la préfecture de police de Paris, République-Nation autorisé",
+      "source": "BFM",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxObjEwMVJlRkxtUTZXWUVjWThoNlpCR2tqMWxBb3pLY3h4a3BFcGZJVXkySHM5cjhPbmNMUzE1dzZfVHgxSVJ0OUswQlRDU2RNenNyUlVYZFNFVDhpd2cxUlUyVFRHbDc1VjJCREpzRjJKcnBKcW1Gb3VvZDU2NVJZSjJhVm1xakFGY2lHZGRBZk43ckU1VlhwWmdLbWVaRlZiSHRlUlNtRFNydGhpaGMxd09fSFJIMGo3a3ZOUnVoVmJjckEtU3R3RUdUaEN1Um1XcmthWDZfcmI0U013SzRvb0JpNmdHdEFacklMSUdWTndybWlTSUM1QjNINmw1bzhxT0RITFhsRjBsWVhsYlJDOS1wRExuVFpoT1BmTWdsU2w2RThNY0pkYmln?oc=5",
+      "publishedAt": "2026-11-04T16:24:03.000Z",
+      "severity": "medium",
+      "titleZh": "11月5日示威：巴黎警察总部禁止巴士底-协和路线行驶，共和国家授权",
+      "content": null
+    },
+    {
+      "title": "Grève du 5 novembre à Paris : manifestation de République à Nation, transports, services publics, à quoi faut-il s'attendre ?",
+      "source": "France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNQnBGYlVVNk1WOUxWclNURE44VHc3MmxiLWh4bTZydUc0OVNic1RWT2JHRFRLWUNFVkxBSHg2dUR5d1F5cWlqQnJsdlJWRVprODhsX1lxenVid19mMDNwNUJhVk03WlBEeFk0U3F0SXo5Z0VjS2VFNlVVU21yM1FOY0E5dUNUTnc4YkpCZEZGY3dLYjBBeE9HSGZRRVpwZkJ4UEszaDVrcVRxb1ZDSU1Ma3J1cnpZMFRjRXRQUWhYSzZORkd6WlNyM1dnY1ZMLVhMVHE0SWNwS3pnVWN6Vk1lajRRYm9ZTkZDNGsxRG9zYTBWVk9sN2VWbXhOMlN2WEVvX3VSTC1pdGZUZXJxUTg5ZGdyaFZCSE1mTU9BTnI4YzVJb0U4?oc=5",
+      "publishedAt": "2026-11-04T16:22:19.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 5 日巴黎罢工：共和国到国家示威、交通、公共服务，我们应该期待什么？",
       "content": null
     }
   ]
