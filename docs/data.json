@@ -1,131 +1,190 @@
 {
   "success": true,
   "today": "2026-11-07",
-  "updatedAt": "2026-11-07T03:10:19.400Z",
+  "updatedAt": "2026-11-07T10:39:46.294Z",
   "events": [
     {
-      "date": "2026-11-14",
+      "date": "2026-11-07",
       "articles": [
         {
-          "title": "Manifestations de samedi en France : 70 000 policiers et gendarmes à nouveau mobilisés",
-          "source": "France 24",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTG9SeFhkb2ZTc2hhRXU0LW92alNhUE0zTkJYYlRHQU8zekVySjRtSFdaNF9EQUlPYUp4VzZ3SGowTEZjUzBHODJ4bW5KeGk3VEswU2ZJV1dIWmtONUhFZDFGLUhaWkZlYTFCbEIycFhJM0p0V1d4Q0hjQ3Y5eUJKNmx0SkVKQ3ZyaDJSdi05YTl4cG4wR3dFa1NET2JkSDVKZmhxMDItNGJGejcyZGZpWVR1aW1fdm5VLU00VXZiSWlWajl4VjlXLU0tMjdkUWZBdV95eg?oc=5",
-          "publishedAt": "2026-11-06T18:18:03.000Z",
-          "severity": "medium",
-          "titleZh": "法国周六示威：7万名警察和宪兵再次出动",
-          "content": null
-        },
-        {
-          "title": "Cortèges, manifestation interdite, métros fermés… À quoi s'attendre ce samedi pour la nouvelle journée de mobilisation à Paris",
-          "source": "TF1 Info",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQNUpGY1NBVUxtOEY2VG9PLVV3VVlKcDlsS1p6bWlOcnBGbUdXd2RyS0hqNjEzemxHMUY0UWhaVTgxZlpLU0VCTV9RQXFCRE1YeEJ4SWR5ZHdNTUszdjgzd0drTDJNVFhSOE9XV2d5dkV5Mk1Vdlp6N2VfVmY0bGRTdGxWOGR0NEtkWXd0VzBYUVUyWW1mWUFaS09EUnlLdk9CQ0V6cU1IT19SLVdldXBuVlF3UDc3blIyN01xMkdmeGQtclRnaFdUQkxZMl9LU1ZfQ0ttdmpGcVNGaThEb0pKWGNlMWhPNE11ZlhIRUllRkFIeGRsYVFpaURMdXRQQXluOTU2b01LeHU3Njd3VzhNTQ?oc=5",
-          "publishedAt": "2026-11-06T17:43:36.000Z",
-          "severity": "medium",
-          "titleZh": "游行、禁止示威、关闭地铁……本周六巴黎新的动员日会发生什么",
-          "content": null
-        },
-        {
-          "title": "Mobilisation de l'intersyndicale : quelles sont les stations de métro fermées à Paris ce samedi ?",
-          "source": "CNews",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGVvQkhNOW5IbnlNcmJoY01vNDIzUmVPSjdOTFU2NndQN2hqYmFXMTRJc2VfZFBOby1wRFlFUTB2M2l4NHhEWm9vMWpJVG5ZX3Z3TG9qY2Zrcy1yUnR2aG0xRGE2LU5FdEVHUjd4X1lDbUhwUzE2OVI0Zzh3ank2ZlNXT2duTTJCRUk0cnc2aEJ4cW5URUh4TzNaVnhhXzd0TXdPS0xWQUhuaTB2MUtVM05yMlRhNHZmTXJV0gHAAUFVX3lxTFBXcy1wTWhCVEcyd0FBYnZKVWMzMWJfanVoYnVkemFhQ3V4bHF6NndPNFNpMnJNczRTTXNMOXptWnkza1VLNTJXOURzQmZlSFhqMW9kak5ZM1ZJRmI5NllxTDIzZFloYVlHZThuSk4zNVVPQ1JHQXlhdW5HeEJVX2lpZ3FfZGV6OXBmS2tNR1QyUDc1ZlBZdzh4WEhxOEY2S1l2RTAyNm5fZDJiZDV3cFYwWmdzTzRMdDRSeEswcW5KNQ?oc=5",
-          "publishedAt": "2026-11-06T17:02:31.000Z",
+          "title": "France rises up again today – 60 thousand people",
+          "source": "TodayPress.tv",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2pialJRd1JvU1NYQzhFLXZReGZEdFVoa2w4d0VKOFNzZ3lEa3VlTk9DY0JfRGRubDBDUm1XNndocUh3bmFEWWltYlVxMlJlV0tZRTRLSXFGMWg3SURoV3VjZTMtX0liUVllNkZrNWJtanJYZndzdlFWa0Z4Y3l2MnR4UQ?oc=5",
+          "publishedAt": "2026-11-07T08:53:00.000Z",
           "severity": "info",
-          "titleZh": "工会动员：巴黎哪些地铁站本周六关闭？",
-          "content": null
-        },
-        {
-          "title": "Gilets jaunes et zombie walk : quelles sont les perturbations à prévoir ce samedi à Paris ?",
-          "source": "CNews",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT3lKN2o1TktfWU5aemFjR3VhQjNzQ2laS0YxVTZwa0tJaC1CTl9rc2xuOXRkdGpKSGEzUVRhQVVyVzFlSVJZcmRfNDA2bnl3SnJjckhXenNYdlRtcDNhLTdNSWlEMVNBVXJMQ0xXcmhsQVI4S2ZhQm1kYVJhTGM2bnZRN3ptSy1uYzdMSm1FWVhmcW95T1dvb2tEa1ZDRzlIX25NaXpMa1NnV3N0ZXFUeGhVVGtlbTjSAbwBQVVfeXFMTi1TME90SmU3OHZFYVZVeGd1TjhsZ3pFczNtSjctRFZQU19yaGxOY2NaSlp4a0Z0RzczTFdFcjFlOTVjS0QzekExQWlpb3ZwVFJjSGhwckR0VXNSdGtRdjYwVWRzcnZlcXhxNkhPcXJiUl9jSkt2TG9kZ1EtYzNCTzlHek1jRTlkREpZaFVRdWE1TGY5TmNCakpNNzMtWURiUzc4eTU3czM1bklfMFB0b1NuM3IxSllWNXZlMUk?oc=5",
-          "publishedAt": "2026-11-06T14:49:45.000Z",
-          "severity": "info",
-          "titleZh": "黄背心和僵尸游行：本周六巴黎会发生什么混乱？",
+          "titleZh": "法国今天再次崛起——6万人",
           "content": null
         }
       ],
       "places": [],
       "districts": [],
-      "articleCount": 4,
+      "articleCount": 1,
       "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2026-11-09",
+      "articles": [
+        {
+          "title": "« Stop au flicage ! » : des salariés de l’Hôtel de Paris à Monaco en grève jusqu’à ce lundi, ils dénoncent les sanctions contre 13 employés du Grill",
+          "source": "Nice-Matin",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOelZPS0xZTmF4LTZTTDgzMHpPYUs2NHBuV25VTllKMHA4VFVibGNyVzk2RTdVT1V5ZVk4VGFabjNQV19kSTVQVGQ3b2V6SHZFZS1WdU12RFl0V2cxSHJpcFNNc2FFRTZrZ18tYWhHTmxrOEEtYlNHMDNsM0dQdnJHSEJRMUhOOFNrN1hPWGZiYnJjM3NEYm1fVFpmWnFBTmNDZ1Z4MHJtQ1FjUHh2bnRsYWZaYkRTVnhBR0EwTmc3TUd5UTZ1cXNLb1B3bFR3Z3pIdjBDQ0VxRWIydk5TSWNscXVzV2UwNnVLei12bk5GV0pDNk1ZWE1ZUkxXNUQyNHFvSE5JdHR1QlRxMXVLNFcxVTNUWWFOa0YxRVNyNQ?oc=5",
+          "publishedAt": "2026-11-07T06:42:01.000Z",
+          "severity": "medium",
+          "titleZh": "“别再抢了！” »：摩纳哥巴黎酒店员工罢工至周一，他们谴责对烧烤店 13 名员工的制裁",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 1,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2026-11-14",
+      "articles": [
+        {
+          "title": "« C’est symbolique » : pourquoi les Gilets jaunes se mobiliseront à la Concorde à Paris ce samedi, malgré l’interdiction",
+          "source": "Ouest-France",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPWUZNRGFCRUdOWnh1dnBkYlRFWERkdWZIZ2ZKVHUwdnN5MkxBTnJhS3ZGeEdDbWVESFR6R1VaRWczenB2Y0ZnS0dndk5JOUdHVkgwLWJsczhvRDRGYzN0cUJVOThRVGlJcjF6MGV3d3hxLUFuQWlXS2NqRS1RVmFmaVZpYVdzVWVrTGRjMzRlamRWbV9qaVBhZW1Oak5qY2JWUW56U1I0TWNDcTRXaFByV1owOTgzOXhWM0k5NGNETVFTLUJtZk9CUU0wY3QzaDVUMUhSc1dpV1JQeUJTVmxhZTgyVk5fbEZPcTVocFRINFU1enZ2LXJmTWQ2b1I2aU5ScERlWFgyRFR1UmtqU0ljMWpOTlRXTUdMdE9xSTl1ZE5BZTZf?oc=5",
+          "publishedAt": "2026-11-07T08:34:03.000Z",
+          "severity": "info",
+          "titleZh": "“这是具有象征意义的”：为什么黄背心将在本周六在巴黎协和飞机上动员起来，尽管有禁令",
+          "content": null
+        },
+        {
+          "title": "En prévision des manifestations de samedi à Paris, la préfecture de police a prévu \"un dispositif très agile, très mobile\", prévient sa porte-parole",
+          "source": "franceinfo",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNNFlBYy1BX21KSVNwLUJKYUZfZFY0RFQ1WDJxdlNEOU5ZYzc1YjhFWjhCYmhTc2pUMmloS19SWlFHWVNJdFNUUFNVSkZjRmdkSUpSTmhiaE1yRTIxaGFCVDByRGdFSWxFa2lJZHFpd2toNkdjNFRUZEM2Umxzb2tpOTg3VWJGREI3WUo5VF80NjZqeDFFT0pTNElPUmJJV3c5eWdVZkUxd3BMWE0tRHVfNXl5Z0c3U3BaMjhOMDlFcXNad2xDNGY0N3BEWHpZaV90N0tfNzBXdUQxdVhQTWtXSk1QdW1vdFJtdzFtOUFDSFVVNHJJaUxlVVFhbVdNazRMQldndnl2LWt3ZmRRUnZCcUtBYmJEN3dDRHFla01SaVlWa3FQNFBzN2dobHhBQQ?oc=5",
+          "publishedAt": "2026-11-07T07:32:18.000Z",
+          "severity": "medium",
+          "titleZh": "发言人警告说，为了应对周六巴黎的示威活动，警察总部计划了“一个非常敏捷、非常机动的系统”",
+          "content": null
+        }
+      ],
+      "places": [
+        "协和广场 Concorde"
+      ],
+      "districts": [
+        1,
+        8
+      ],
+      "articleCount": 2,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2026-11-19",
+      "articles": [
+        {
+          "title": "Manifestation retraité.es 19 novembre 2026 à 11h.PARIS",
+          "source": "FSU-SNUipp",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSlFadUhzVF9lbDloekZWb0Q4dHZyR2pCbjd6b0VlUFZMeC1EcjVkcWdQRVc4Qm96aUxhN0F3TkF2cWpWUC15S1N2dWUwWEhvWU5MVFpIRlMwTFpFZDJFZ3dDQU9ITC03UFJCeDh3M2RaZDhHeHlTQUV3UW5GVHZzWmlPRUFLWnQ5UkN3?oc=5",
+          "publishedAt": "2026-11-07T07:50:54.000Z",
+          "severity": "medium",
+          "titleZh": "退休人员示威，2026 年 11 月 19 日上午 11 点，巴黎",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 1,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2027-10-17",
+      "articles": [
+        {
+          "title": "Depuis le 17 octobre, drones et hélicoptères sont de sortie pour surveiller les manifestations",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU2p2QXB3bTlrNkRRZlFvSHlWTDMxZXRrX1pER0NfMXUzYkNBVmVaUlFXRkVRM2xja3J0bjhuVXV6ZGRwRlR6MXgyYUIweWFEX1o0RjRBdkFXdldZQ01zZGpOaTBUTjRweVNXX21VemtiOVBRT2JTWU9aVnlRX0I3S3ZvbldQazVlNVdwUnBUWll3ZFlqOEZ5OWExSHhEUnZmOFdyRHZIcGRHTDNCdVM1YTlHZFJ5RS1KRHMzUVo5OHZCQWVfQWdIOWtQdURpUGs?oc=5",
+          "publishedAt": "2026-11-07T05:32:56.000Z",
+          "severity": "medium",
+          "titleZh": "自10月17日起，无人机和直升机一直出动监视示威活动",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 1,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2027-10-29",
+      "articles": [
+        {
+          "title": "Parcours de soins des victimes de violences sexuelles : ce que prévoit la proposition de loi transmise au Sénat le 29 octobre 2026",
+          "source": "Kohen Avocats",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUW5zNlBuV3p6YWs0Tlc2NFVHV3NYNmVsQm9GX3JYTEUyaXZfWnp0M0JPYTZzRVdxdlpCT2FVTVo4STg1Z1NtUnJyZm1rdWFGV3ZjUUJHSDZ3b0RwWlZaOTE5bjlNRjRkSnk5Y3owSG0yTWE2VHlkMGE2X3gtazg3bGJydzJTdG9nT2UxcGxzYnZTcERkN1l0Zm9TNmJocGp3bjhFNXdsdU54VWRISW10NnEtS2E1QTYt?oc=5",
+          "publishedAt": "2026-11-07T04:20:00.000Z",
+          "severity": "high",
+          "titleZh": "性暴力受害者的护理途径：2026 年 10 月 29 日提交参议院的法案规定了哪些内容",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 1,
+      "clashCount": 1,
       "status": "recent"
     },
     {
       "date": "2027-11-05",
       "articles": [
         {
-          "title": "Manifestation du 5 novembre : deux journalistes déposent plainte après avoir été frappées par des CRS place de la Nation à Paris",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNZzROVDJpT3V0WF92eUoxLWRWZEsxUjV4cEsxZUl4YlROVnhNeHVJcnotNDNNczkzT3VDLTNESFZ4emVYWDBfYXNfeEJTbms0LXpIdllOVDVBbjB5YV9UX09OX0hZdGN4SHMyMkZrWlg5dXhYVlI3OTJDNHhRdFMyWENKa1NFYVRuY3I1R2VkZkx0dGxxM0NFVVl1eVQtR08tcnZWVGtxTm01Z29MTFEteng4N3F3UnNneUtyN0tUTTIyWkhSS3dVZHBqOG0ycXplWHlieUYxa05EUXBXSk5pUmg5b0RzU2hsMzJJRVhnX3pxWGJERlVBY3MwT2Y5dkxManF4Vm1NQWtRZFA2SW1qQnNvMGlRY2JVdjByUzV3bHV6d2xqczlPdlhhVQ?oc=5",
-          "publishedAt": "2026-11-06T17:20:45.000Z",
-          "severity": "medium",
-          "titleZh": "11月5日示威：两名记者在巴黎民族广场被CRS殴打后提出投诉",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 5 novembre à Paris : des anciens de Polytechnique sanctionnés pour avoir défilé en tunique militaire ?",
-          "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZ1dXVko3a1lLTUlDdEp5Y2RyZ1BkbGNJVk5OMWVzWjdBOUU0M3RNcFJfWGVoTV94NEpQdkFUeTRFRGQ0aFZvQmRQb2tFS2NtakRUOENhZmRieVQxbjFHVE5TWjZtVTltUXVRYUYwQ21Fb3lBTFRmanMyTTY1eHExXzVESVRya0RfeUZ5V1FXSlVrSzlnRWdqV0dVT1NjRWVoc3VfU2kwcjZoZ2VmcFRQSl9yUkRKTEY4WjNjTkxTcUVDb25qUS1KWmFObWI4Y0U0WVhmdVdKTTRTZUp6RnAxcjlJMFVybENYNHhTdTBXYXh4SUR6SVpVRlFFNHlzYVJO?oc=5",
-          "publishedAt": "2026-11-06T16:52:02.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 5 日巴黎示威：理工学院校友因穿着军装游行而受到制裁？",
-          "content": null
-        },
-        {
-          "title": "1,6 million de manifestants contre la vie chère : les visages d'un 5 novembre historique",
-          "source": "NVO",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcEU5aXhIWWFWSGlqLVp1Znd5MG5UVS1yVG51NGhEVFV4bjhHYllvbzFrUzd5ZWp4WWhnc3FZOHlsSXZzdmNudV82dWhsTFM2MW9LbXl4OHc3bHZDaVUyM3hkamd3d1VYTWk0ZHpmOW5qVGZ1ODNERF9RTUtjem9IQ2R2XzM2RWc2Wkp0UVl2Q1pXeUdadWNYTTNrbFBESlRIUmc?oc=5",
-          "publishedAt": "2026-11-06T16:51:09.000Z",
+          "title": "5 Novembre à Paris : la police attaque les banderoles de tête du collectif Black Lines, l'un des fondateurs blessé et hospitalisé",
+          "source": "Contre Attaque",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbnV5UzJzUjF6ajRQbXU2VU9oRHphemR4aUhsVDlCN1gxMjgyZ3VhSE90Q0FUNWhOeVZWU0dTbXJiR1lKY3JMSXp1dDRsZHg3ZWVvQWx4cjV3eURKb3VFWWhvbHhuWXFWU3RDZ0hJTncxWWp5dWV5UTI3a29IT214QVhXR1llZ3BtRnV2Tm1XTmZDTnAzODlwbWhOa3c1SUg1S2xLSUozd3hWSHdRMXlGdkxvS2ZhN004QkliV3F4Y1pVcURpcy14VHg1dmRWM2ctaWV1WlRyM3dSd0Q2OWhWQm5ISldGUE9mVzFJZXR6dTVPRzJHb0lZ?oc=5",
+          "publishedAt": "2026-11-07T10:01:53.000Z",
           "severity": "info",
-          "titleZh": "160 万示威者反对高生活成本：历史性 11 月 5 日的面孔",
-          "content": null
-        },
-        {
-          "title": "Grève du 5 novembre : deux journalistes de «Politis» dénoncent des violences policières, une plainte va être déposée",
-          "source": "Libération",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPWFhOdmFCOEcycy1kRXNZUFNqMXVud2UyWWpvWWlKU0dEUjg4WjVrZ3ZXLWNOUlRiTkJBUXRPNkFOdDYzS2JwZWk2bHpQZ0NSS19KUnZfV2tGcmltU0dma3N6cU02WDFOMEpuVGpUMkJrOEdONElUNWgyTlBnYzRxOWo2S0Y2WHpGcy1acVEzbEZUbUtCMUFRSzJBdWRzaVhDQm9QZ2RiQWRLcGoxQU5ZZmdnV2lUQ3BWZC1mdlNxZ0w2ckxKbnJWR3pDRWN3T29zbTg5Y0xDUWotSENmMXdFMDRJdzVwUDJMR20wNWZDUFRhS1lOYVdZNDJiRnpSelUwSFZQbTZva2I3QUlTbjh5dUFqM3Z4TjhHNy1YcHY1RVVtUTA?oc=5",
-          "publishedAt": "2026-11-06T16:30:58.000Z",
-          "severity": "high",
-          "titleZh": "11月5日罢工：《Politis》两名记者谴责警察暴力，将提出投诉",
-          "content": null
-        },
-        {
-          "title": "Que sait-on de l’«altercation» entre policiers et gendarmes à Paris lors de la manifestation du 5 novembre",
-          "source": "Libération",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSzBJMkFiTVFzTXdtcDhJeFE1dTJKdENCSkI4N3JCbE9zanJRSVJzeGxfb3YwQWNTZFV5OUdRakFHWHZra1ZwQ2c0MEZQb241RWNuNXd3VnpTd3pLUHdaT25zWXEtSGc2T095b3dyWjRSanByRVdPWEkwM1hzd2JBSHBLUGNWN0UzUUVUaDJXZkhHeGRBVHNFMkp3bEZnbFVLenlYdGRHRVRQLUM0N2JHSklFQl9Tdlg1Y0dPSUFDbThKS296ZjdWMEtsS3VxODFDZU84a0dTMWJyY0FJZ25VbjEwNDl2YzFWZl9CNjU1elVQWlNHcXhTeDNhRXZydGVVU3Y2b1lkMA?oc=5",
-          "publishedAt": "2026-11-06T16:08:37.000Z",
-          "severity": "medium",
-          "titleZh": "对于11月5日巴黎示威期间警察和宪兵之间的“争吵”，我们了解多少",
+          "titleZh": "11月5日巴黎：警察袭击黑线集体横幅，创始人之一受伤入院",
           "content": null
         }
       ],
-      "places": [
-        "民族广场 Nation"
-      ],
-      "districts": [
-        11,
-        12
-      ],
-      "articleCount": 5,
-      "clashCount": 1,
+      "places": [],
+      "districts": [],
+      "articleCount": 1,
+      "clashCount": 0,
       "status": "recent"
     },
     {
       "date": "2027-11-07",
       "articles": [
         {
+          "title": "Manifestation du 7 novembre à Paris : parcours, rassemblement des Gilets jaunes à Concorde, stations de métro fermées, à quoi s'attendre ce samedi ?",
+          "source": "France 3 Régions",
+          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQRDZmNUVDSDI0cHh6MGdxRm16Ym5HdnZSSGNwd2xvVkkzeXRTSGg3TDY0ZzM2MExRZFdnTjFTSVJ2dWNVUmhWVDBZdkFlbVVZTEd5d1cwbEhiSlFSR1BIVGtfY3F1bHNvMk9KejJpSWo0TjM0dHhrNmdqU09tUGVyNkkyRERhV2tZeGtSRzlqUlNUS1dlbllfakQ1WTY0WE1qT21pSDRpZ3hGalNVeEtYSUhtQ0hhemY5eUFHTDB2SFAyZ1VhS1c2ZWZIMkxVYXN0RmNPclYtSF9ia2hSajJCN0ZmT01Sc3RudWh2a0dtV1l6NG5Zb01YY1o4X2RNYTMycmd5WmhyVXBKWTlTcllRalA5M01OWnRiOEZqV29QNjRvMEhad3VETVJqRWFvOWVKX0pRbjNsRmJYZjdILWEzT3lSajFGa2V4ZVJudktmOA?oc=5",
+          "publishedAt": "2026-11-07T09:15:08.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 7 日巴黎示威：路线、黄背心在协和飞机上聚集、地铁站关闭，本周六会发生什么？",
+          "content": null
+        },
+        {
           "title": "Manifestation et grève des Gilets jaunes à la Concorde ce samedi 7 novembre, interdit mais maintenu",
           "source": "Sortir à Paris",
           "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSDNlVzA0MWpCcV94ZElnWkZ4S0owdnpvM29IekRyTFNfQ1hTYmw4YWxRNU1Kc0pYZkliR1FsX212VTBQS1dLRks0WHdGU2w0YnZMaXhDSGFSZFdGeEZ0NUg5WllLcnVmN2N6azJSTnJ4ZDFHbDZuemd5OXBtZDVYNnlNV2xWYW90Y0VjaTNzODVBbnZTNFR4OFpYeDRuLTRjaXZWOG5ZQzlIY1VNOEFCdG9HMTNmbU1ydzFiamt4MzN6ZnprM1RPUjJ2Mnl5VDlDdnZFZUc2aHBxUEFYLW9uZ19pNmhYU3dYcFZDaDVJUWV3bnBV?oc=5",
-          "publishedAt": "2026-11-07T03:05:51.000Z",
+          "publishedAt": "2026-11-07T09:07:47.000Z",
           "severity": "medium",
           "titleZh": "11 月 7 日星期六，黄背心在协和广场的示威和罢工被禁止，但仍保留",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 7 novembre à Paris : ce que risquent les Gilets jaunes qui voudraient rejoindre la place de la Concorde",
+          "source": "Actu.fr",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUFRBQjdwb2x5OXgzQ2FyN2FsV3NUSjNabVFYMEt1TE0zVk9tMzg5TWh1THplRUN2YzcxSk9mS2hnRllxSlhMM0xnRW5FNklPaWlLSHJqd3BiVWRxUi02enU5Q1pQcWtYcER3VHMtNmtwZkVOSUFpU2ZwdmpDMG9UTTdsU1N1MUwxYkZxMFdGcWJzcGFlTExkSkxkX0lYdkdlTmR6SjJzRlZBT1h2SnhROW5WdWtQNWNEVzFLUmdET1c4eFhha0FzNU40OHdtYzg2VlVyYUpJaXdkRWdFREVoZUZzTldXblVxUV9YdVRfVC13M0tiZmdVWllFVWxjY0hmWUJaMQ?oc=5",
+          "publishedAt": "2026-11-07T09:05:16.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 7 日巴黎示威：想要加入协和广场的黄背心面临什么风险",
           "content": null
         },
         {
           "title": "Manifestations du samedi 7 novembre 2026 : la carte de l’acte IV des gilets jaunes, la Concorde, parcours et horaires",
           "source": "Les Voitures",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdHVNbXE1bFdYcWliNWJkSE0yR0RKYmJNRXQ1cDVWZmNvT1JLUlpDUVp5U2xIV3hiWlpHRjN1cXRScEdjMzZrV3dlVzFjX0ZUZnJNMjYtN0NRaVZK?oc=5",
-          "publishedAt": "2026-11-07T00:25:00.000Z",
+          "publishedAt": "2026-11-07T08:48:48.000Z",
           "severity": "medium",
           "titleZh": "2026 年 11 月 7 日星期六的示威活动：黄背心第四幕地图、协和式飞机、路线和时间表",
           "content": null
@@ -134,9 +193,72 @@
           "title": "Manifestations du 7 novembre : les agents de la Ville de nouveau mobilisés",
           "source": "Ville de Paris",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlBFcTlXdXNkalllbTl6bnM4bl9jZ0VOLUVTN3JWY0c2U084eGdoTllQbkVaVEJBalFhUW00eVRmQ0hrVV9rR2NFNmVMc05aTDNGZ0RIekNucklHb3pxWW5tWHpvWk9BNGgzUmtoRzdaV1ZfdnM0UXlqLTZmbmdlZ3AycG5LQlZWemZIWVhlNmNMRGtJZjhsdG1iZXpodFZKa2hRTmNiWFNWOXlKWmN5a3oxY0h4M05kZ2VReXhHNEI2WVJiMzg0?oc=5",
-          "publishedAt": "2026-11-07T00:19:15.000Z",
+          "publishedAt": "2026-11-07T08:31:31.000Z",
           "severity": "medium",
           "titleZh": "11 月 7 日的示威活动：市政府人员再次动员",
+          "content": null
+        },
+        {
+          "title": "France : entre 40 000 et 60 000 manifestants attendus à Paris pour la mobilisation du 7 novembre",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamVKejJLMms5WHVOY1FXVWs4dHVSaVA0bklvZFJveEcxdlZPZ1dxVXBKZFhtLWw4ZXJ4ZmZZbk5tcnRwandBcVRGYnhHcW1wTlFMUHMwMmtMTkZIaU1vbzZHc3B1TlExR0dubjY5cXpkVDdqTkpIVTY4T3Y5eHRxSnhkaFpHNWxOQU1JU2hob0FUd3FJNVZqNmxDQmc1eE54Rm81YjF0cEltdm4tVDdJaDBnUVFHMnAyWUE2V3pHdzFGSW9YX1dUdGNpZ3J3V3lCT05DZmZETmhsdw?oc=5",
+          "publishedAt": "2026-11-07T07:48:16.000Z",
+          "severity": "info",
+          "titleZh": "法国：预计巴黎将有 40,000 至 60,000 名示威者参加 11 月 7 日的动员",
+          "content": null
+        },
+        {
+          "title": "INFO BFMTV - 7 novembre: 40.000 à 60.000 manifestants et 150 à 400 militants radicaux attendus à Paris",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcjE5OVR6MTBURUZzZzdvWFpLYTRldlVjOU9CTnBENVZ1aXFzUm9fYmlla0NoR2xkSVJYZzRGX2VobDBXUGN6cVpyRndTLVJudzlucFh5WXpMWHhwbTA2ZE50U0pQQnEyRklCSkI5bW43aFVVR2ZYRzlFeUQxT05OSmFJeDBHOW5RMGZXRjFSTkM2bTRxTzhlTk1zQ1NHajUxOFFEOXkxYUVuYWtqRWN4aEVNc01aTDROUWF0LXVkdkd2bDl4MDNhTENpN2dFc1lmMkNGZHlzQThpSGw4QTk0QTBCUmFtVmdqcUlLdjg4ak84NVF1cjgzSUIxWGM0NTFJ?oc=5",
+          "publishedAt": "2026-11-07T07:12:23.000Z",
+          "severity": "info",
+          "titleZh": "INFO BFMTV - 11 月 7 日：预计巴黎将有 40,000 至 60,000 名示威者和 150 至 400 名激进分子",
+          "content": null
+        },
+        {
+          "title": "INFO BFMTV. Mobilisation du 7 novembre: 40.000 à 60.000 manifestants et de 150 à 400 militants radicaux attendus à Paris ce samedi",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNamo3TmlkZExSa2JSZmVCajhhRVFNbnMwcG1vanpkLU0wMVRPNkRFNjZzdWFFNzRZRXFDQTJwMXlRYTAzYTVMOVB0TFJhemJiOWx1bXY1b3FYSWtnVXdtQzV3RU4xY3F5bGFObmtrTk55aE5wQWs0ODhTN09ocjM1WVRMeXYtS09zb0lrSjItLU05ZDc5aDh4Z2NjbFowTzM5SkFpNlZnb2E2YnJpaG1PM0lKVGJhelBHOXpRUVUxaHI1TjdpRlpmRGd3c3hfam5OdjVnel9hVWd6SThGQ3JpazRqaUVYLTU5alJuTURSWVhVVW9kTjl0TVBEd1NMcE9zNm9Ed1g5amc3OUNHb2I2cVFGSXo1cExEcTZmbGdlZw?oc=5",
+          "publishedAt": "2026-11-07T07:01:43.000Z",
+          "severity": "info",
+          "titleZh": "信息 BFMTV。 11 月 7 日动员：预计本周六巴黎将有 40,000 至 60,000 名示威者和 150 至 400 名激进分子",
+          "content": null
+        },
+        {
+          "title": "DIRECT. Mobilisation du 7 novembre : suivez avec nous cette nouvelle journée de manifestations",
+          "source": "franceinfo",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOblZqSnhXU3dlZlNORm45bm55OS14RzhSRHR5ekpPY1V4NzcxazVPVEI0WDF5QkcwVDhENkR5OVA0QXZIQ0V6SHlRR0ZJRmRXNXFIS1Rraks5S3JXWnowV1NlaC1FNkxjUlQ5ZUJ4VGtBMkc1Q2hOOGJoUG9TcFc1OFVNaklQUHhLRlVGUVpqQ0dEZUhuZUVCMm5ubGQ3OFRYSjFoc01aeVpqY3VNUXFGdDR0NWxubXlkdERPVzc5dHY3NWw2TUFCX1ZCajQ4OVpROEkyUHFOWmZkSkV1LXc?oc=5",
+          "publishedAt": "2026-11-07T06:53:16.000Z",
+          "severity": "medium",
+          "titleZh": "直接的。 11 月 7 日动员：跟随我们一起关注新一天的示威活动",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 7 novembre : République-Nation, voici le parcours de la mobilisation à Paris",
+          "source": "Le Parisien",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcFotSXRWNV9YNnpnMjlURERTU0lqNXJFY1JJZEdxamdZZEx2OTJCM0EyWERtN3FIWDZfaEtPeXZEd05fdkpscXVnYllFNWFTZzN0Y21mX0duc2JuRm1LZWRrSWZrQ3ZTV2J1b3pUdThwcE9icWNIa1FPdnZxeUVTdGl6TDhJSC1qbkI4SEFGbVpXek1BZUs0WEhXUXE1ajA2bUw0M2tZUjE1YWlnTEhVMTR0ZmNGMEY3R2YxZkY3TkhNY2xIcUZTVmstOTBQWWJSMTktZVQ0OTJocHBpNG1neDdmX2M0bEVMLUhtVWF5R0pLb2FHRVVHQTJGcw?oc=5",
+          "publishedAt": "2026-11-07T04:30:00.000Z",
+          "severity": "medium",
+          "titleZh": "11月7日示威：共和国家，这是巴黎的动员路线",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 7 novembre à Paris : 16 stations de métro et RER fermées ce samedi",
+          "source": "Le Parisien",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNb3JMOXhpck5yQ0wyMmhzWWRJYzJ4S2d3UXZ3NWJQYkJvTi1QSGM4ejJBa3dxMWY4NlJqdWtZMGc4ZXEyQkVFTXhlNWY5T3I1WG1XcEFQbkN4NnNkNHZfT2JLSkZFTHhmZ0Jhdy03YXQ3YXVRcGlseVUyc2hEX0MtQWR2YnNYYU9KX3A2RDlzZW91aTZnWkhPSkU4QTVxLUpkNDFmOHliT0lpVEJoelJFVE1ER1pnSnJqd2lwS0JtQTc2TmVJVzN4ZXA1WFEzY2REdEFhTHQ2bkVTVmhjWkZ0ZzhMSkMtZ3FGV3JqUE1FUmFlNnRyZkdFcmJ3aEo1XzZLZnhtMGx0akZuS2RoWUhxWV9xMDFOTEFqY1E?oc=5",
+          "publishedAt": "2026-11-07T04:00:00.000Z",
+          "severity": "medium",
+          "titleZh": "11月7日巴黎示威：16个地铁站和RER车站本周六关闭",
+          "content": null
+        },
+        {
+          "title": "Que faire ce samedi 7 novembre 2026 à Paris ? Les sorties à ne pas manquer",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV0JJQUFfUUlpdjEtdzllNDd0dEZDcWhpLUlnb1JtNjU5aTc2SXNKQlFRLUVFUUVUZjMtaUVEZ1FWcVpKLVNMWHRadmt4R3FrN2hkd3Z5VkpmZVZTYlB2SU8zam9UQ0JlN09raHpyUENrYW9saGRVR09IMEpzWENZX0oyM0RCTmxkc1hiakJSMmplTjdEMjR6alNNMDZ2a1lWZ2ZILWczMy1LZFJVODVPVy1zc19xMFNuUFowMXFWYlFJcWtKS29iQTNZU2lRQlU?oc=5",
+          "publishedAt": "2026-11-07T04:00:00.000Z",
+          "severity": "info",
+          "titleZh": "2026 年 11 月 7 日星期六在巴黎可以做什么？外出游玩不可错过",
           "content": null
         },
         {
@@ -156,96 +278,6 @@
           "severity": "medium",
           "titleZh": "示威活动：巴黎警察局发言人详细介绍11月7日的系统",
           "content": null
-        },
-        {
-          "title": "Manifestation du 7 novembre à Paris : parcours du cortège, transport, stations de métro fermées, à quoi s'attendre pour cette nouvelle journée de mobilisation ?",
-          "source": "France 3 Régions",
-          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQRDZmNUVDSDI0cHh6MGdxRm16Ym5HdnZSSGNwd2xvVkkzeXRTSGg3TDY0ZzM2MExRZFdnTjFTSVJ2dWNVUmhWVDBZdkFlbVVZTEd5d1cwbEhiSlFSR1BIVGtfY3F1bHNvMk9KejJpSWo0TjM0dHhrNmdqU09tUGVyNkkyRERhV2tZeGtSRzlqUlNUS1dlbllfakQ1WTY0WE1qT21pSDRpZ3hGalNVeEtYSUhtQ0hhemY5eUFHTDB2SFAyZ1VhS1c2ZWZIMkxVYXN0RmNPclYtSF9ia2hSajJCN0ZmT01Sc3RudWh2a0dtV1l6NG5Zb01YY1o4X2RNYTMycmd5WmhyVXBKWTlTcllRalA5M01OWnRiOEZqV29QNjRvMEhad3VETVJqRWFvOWVKX0pRbjNsRmJYZjdILWEzT3lSajFGa2V4ZVJudktmOA?oc=5",
-          "publishedAt": "2026-11-06T18:04:43.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 7 日巴黎示威：游行路线、交通、关闭的地铁站，对于新的动员日有何期待？",
-          "content": null
-        },
-        {
-          "title": "CARTE. Manifestations du 7 novembre : ville par ville, voici les rassemblements prévus ce samedi",
-          "source": "Ouest-France",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSXg2ZW1tTnpXQm0wMVpVcld2NGtXVG53OHBlOUdaWndjVEVQVnNMUTdVYTNwSHRZeXgtc0FRQV9aS3dMNm5UbTFFc0VHOGhScldNc3JhZnY1MHg3dEJmd0pGZy0xdGlBUEpKWklQMDNzMElLWXAwRlFqZ1BVYkU0SmpCOFItLXJQdDZhSVVybzl5d09ubUhCdWpiUHlOMkZOb3NVTFlhZ2pRSXRPZnB3MXQ0Wm84QVRrb3c3Q1hrX0tvdEFoN240dkw2Mi03YUNTSlBkUmdwUnVTMXkxREdsTU8zajZuUWpxY1g4NDh5Wm84bFctRmRsc3R4RkE5MDVadmNVekdHbUpmZTQ?oc=5",
-          "publishedAt": "2026-11-06T17:45:43.000Z",
-          "severity": "medium",
-          "titleZh": "地图。 11 月 7 日的示威活动：逐个城市，以下是计划于本周六举行的集会",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 7 novembre : parcours République-Nation autorisé à Paris, dispositif policier reconduit... À quoi s'attendre samedi ?",
-          "source": "RTL",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQcy1Fd2pDNkFNUWtKMXlCZDdvN2FfeVZNRWVVOVJnbUE3c0I4czZNWU84MWJ5blpPYmZMQnVXcEhXaWV3cjRjYjR0akVrcHBXOC1CMTFfZHlFS3BCand4NkpZeTNiRGJVSFNvaG5ZOWVOckZkSWdISVJPZURsVVRvNEw3ZFdCVnh4UUF6dnZlenN0eE40ZzBJMlo3UlcyVktSRGNLNnJ4SGdEbW5yNEJ4UkxmTnlCZWpSY0JMSE9pUzNWVDhKNWdZdzU4OEpYVEwyTTVQc1F5ckFHYTU2V3lCcU81Ukc4azFFNXhBdTNqUFNwNmZ2ZDFGelVfd3FfeGFSeEczRi1DNER3LVBr?oc=5",
-          "publishedAt": "2026-11-06T16:56:13.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 7 日示威：巴黎批准共和国家路线，警察部队更新......周六会发生什么？",
-          "content": null
-        },
-        {
-          "title": "Mobilisation du 7 novembre : à quoi faut-il s'attendre à Paris ?",
-          "source": "ici.fr",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOGdUZ3VSRklmVU1GbjBpSUd5aTU5M3BRWHFJaVM1eTlyWkZWNF9hNlQzVm5FcWFrdGk0U3JBUlVRY0Zkak5uYTQ5Y1duVk9CNVZ5ZUYySTZGbVhVTjhaOW1OT01JNFVpMFh0c3RKY2xpM2x3anNIclk3SUNVZ3FqV3dSZ1dULVNOVWtrWF9hdk5FT2NpNGhCbHVqWDNHRjdhSkVQRURRVjd2dWZMZlptUE52SFMzaHc?oc=5",
-          "publishedAt": "2026-11-06T16:14:11.000Z",
-          "severity": "info",
-          "titleZh": "11 月 7 日动员：巴黎我们应该期待什么？",
-          "content": null
-        },
-        {
-          "title": "Manifestations du 7 novembre : à Paris, des « gilets jaunes » maintiennent leur appel à un rassemblement place de la Concorde, interdit par la Préfecture de police",
-          "source": "Le Monde.fr",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQc25vU1REZ3hOR3NrRjBORlFTVDNlZGV4U0daX0FMWDNvLW5qaHRXd2Rib1lVdTVOWU9UN1RfbHB4Q0lERjVXZUxvYjFfXzNhWjgybko0dDl5SHZQbXgxeVZQV0xoYld0MVkyTmUtUFdkdm5xek1mZUdSby1jdWhiY3p5NWk2d3N5NG5JTTJ5OUxVR3I1d1RmeWNNWF9vVzRWWi1xSWE0MFI1dV9UM0tBS0JTLVdrWFczVzZNSXNoTmFmS2dkei16VXJhbWIzQjZNN0ZFUkxBNkRXSTItS1RBMzQzdlZqbF9Ddlg5UVh4UjJkakFra3l4dW5kZURMYzZVWnJxQmdoSTduZEpvdW5WZ1pONlNUU1dKOEZ0OFRSQVpUem5Od1ZiN2lSU1M3LUNZTzdiMENUZXJQLXlENTZjQjNrSUdkVEd6MHVN?oc=5",
-          "publishedAt": "2026-11-06T16:10:28.000Z",
-          "severity": "medium",
-          "titleZh": "11月7日示威：在巴黎，“黄背心”继续呼吁在警察局禁止的协和广场举行集会",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 7 novembre à Rouen : le cortège contournera le centre-ville de nouveau interdit",
-          "source": "Paris Normandie",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ1d3TlQ4QzZILUtNTk1LM2Q4MndleGM1Z2ZYeHUteWd6Ujd2MUQzTjNIZWp4Q0RrYVhKTXRKaDdJSWNqcjVRZWs0TXlpTWhPSGVxZHJmREttU0dBXzlyVXh5a0NKdjdELXUzTkZJOFlRNFVtbDJoSGZuUXhpUUEtdEhWaWVuMzRISEtNVkcwR2hUZThTUkl6Q0ZKdlpHaTlYcVhieU91cmhta2h3X0V5TzI3VG8ydWJKZ2FTRnB2RGJsdmE3eFJCVW1UTk1OdU0?oc=5",
-          "publishedAt": "2026-11-06T16:10:00.000Z",
-          "severity": "medium",
-          "titleZh": "11月7日鲁昂示威：游行将绕过再次被禁止的市中心",
-          "content": null
-        },
-        {
-          "title": "Mouvement social : quelles sont les manifestations prévues ce samedi 7 novembre en France",
-          "source": "Libération",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNT3FBaXRzMloxb213N1pYV0lUeG5VMHRhM2pCempnZ3Z4ejU3M0cwZVlWcEdoSm45R0EyZjNqaUd0MUFrNGx1TE1aalkyMExfS1o5NXVqdml3bUpwQzUtNkdfSy1rLXd0X0daa2dUa1pLcC1US3lJcy00bE05N3NER1pPMVY3TDM1alJTb2VKT2NrMi1zTWxubnRBcnNBTXNJT2ROb3VXYzlhSm5scHBTRjdGRk1uMVpUM0JyTDZESkhZbWRGSzV4RWZPMEhUZV9mdks1RDg3emQ3YVBTbVVBZmV0VmFSaXdjT3JDUXFvR2JVOUFsTTNBa2Zn?oc=5",
-          "publishedAt": "2026-11-06T16:06:37.000Z",
-          "severity": "medium",
-          "titleZh": "社会运动：11 月 7 日星期六在法国计划举行哪些示威活动",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 7 novembre : quelle météo à Paris pour ce nouveau samedi de mobilisation ?",
-          "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaGtWTjhSV2tBT0JJcU02RDZYVDh1SDk0U1BvT1R3T3NPXzRPUEludHZpZzVSNEtsWlIyQ2tyWU5zSnNMc3V5QzR4LUNFeTNRRlU0M1NKdGk5bFBRZzlUOGZwTUdfNHBPeG9ib3ZmS3RmWi1sRlh3N0ZwYUxuVnJWSTBLZjljLXdlRUMxazN3NGR4dEwxd2xuSlFvdGphXzB0U05VNEpHdE9jRVpxb1hXLUg5S2ZLOGJqZDN4bkpYWEpPampnbmhPMEg0ZVV6bDdmYTNHWjdtbWxIYkU?oc=5",
-          "publishedAt": "2026-11-06T16:00:02.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 7 日示威：新的动员周六巴黎天气如何？",
-          "content": null
-        },
-        {
-          "title": "Quel est le parcours de la mobilisation intersyndicale parisienne du 7 novembre ?",
-          "source": "CNews",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGp6V2c0TmVjc083ZE0tWHhyNU5UMlhid0NqU2VTUzhMMXo4eVZRbEhLcTVpZ1N2WG9aTmY3elkya1ExZUIxMFlFbk1Fb2ppSnM0c1dGQ05iTHFHaWVib01jZl9zODdKaWg1YkZZYlRKczZBblJmV3Y5a1BYTzN3dlczdEtsLVdSd01LbDJPR2ZfbFpUTDBmeHRXbXNpMHM3UFlmQnlXbUpUUUVGdXlucG1SbExUZ2ZkOGfSAb8BQVVfeXFMT1lUajBtTnB5QnFQMnRUcFgya0FIc1U3M0hSdHprNGpUZ0t3am1md0hxUWhqTWIxelBTME1xVjNvQklSYi1tYkVRU0YzT2FZWkV4bm9HVFlvVGZuRzk2dkpaY2dlMUZHWEZXN28yaFgwbXZNbDZuWWIzelRhWHFuWXF6M1YzbkZhMS1KX09LZmluYjJkMlJTeUlZemk0Tl9Mb05PYllLTi1HQ1J3blNqMzRnbGFsX3ZOVjRCMEZMSFU?oc=5",
-          "publishedAt": "2026-11-06T15:56:20.000Z",
-          "severity": "info",
-          "titleZh": "11月7日巴黎工会间动员的路线是什么？",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 7 novembre à Paris : 16 stations de métro fermées ce samedi",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZmk3RjlEN1E5QlVJQVJlcVVINmVKQlVoZ2xQZVBjZFg3MVFma1ZFNU1Ianc2a1BUSDZ0ZWVTaVR2aHVmbjhFMlJ0bFU3TmQ3MF9PMVRDQ29wOTNGSWVFSTkwQnJld01VUS16MjZpRW9EOHVRbUh2clBiY20xdGpIMVJKTzg5TkVzaXJxaWJUOU1wSFRlVkIxYlE2UVRlTDA3QmFKTHVqSXZMQWphM1JzU2FEalJ2YkRwNll1MmFoQWVKSWY2dGJUZFZRZG5EU3BtV1RVeA?oc=5",
-          "publishedAt": "2026-11-06T14:46:37.000Z",
-          "severity": "medium",
-          "titleZh": "11月7日巴黎示威：本周六16个地铁站关闭",
-          "content": null
         }
       ],
       "places": [
@@ -258,7 +290,7 @@
         11,
         12
       ],
-      "articleCount": 15,
+      "articleCount": 14,
       "clashCount": 0,
       "status": "recent"
     },
@@ -266,25 +298,124 @@
       "date": "unknown",
       "articles": [
         {
+          "title": "Présence des forces de l'ordre à Paris avant l'Acte IV de la colère sociale",
+          "source": "Orange Actualités",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONnlrX2JRMzg4WDVsSkZHaHZNMy1lanRGSWl0RVF2ZUlyRXhmVnNEQzVrTnQ2UzB2VmZ5NzZVVVVJWklVbVlwSUktc1RQNXlzSk9qVG1zWVRBZzlUWDJPMjdmMGRIOFc5WlRRZkxnRVB3UHlQaGxfQ2Q1WWxZUVJzcHAxRTBKbTdYVW4tNFgzQWRiT01RdUFlbGdsRWJNT3A3bllDRzU2Y29ZLUNiaHN0YlQtbzM4RzhaWW8xTVoxWE0xazdiSjNyZ21nZ0w?oc=5",
+          "publishedAt": "2026-11-07T10:28:13.000Z",
+          "severity": "info",
+          "titleZh": "社会愤怒第四幕之前巴黎执法部门的存在",
+          "content": null
+        },
+        {
           "title": "French Protests Hit Record as Macron’s Approval Ratings Tank",
           "source": "Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOWl6aVJKRG1odWFOWXREZzZUdXNKWGR0WVpkQldyWGFOQXVFaU1mYkNhb1AySTR4aFQyeUZvanMzWjJReG5nTEg1WmhxOVRaMk1rWm5FaWVMSGppSWhVVkRMT0puTTNIVXV6aVVvaTZsYktIUTZ1VmVpMC0tbTdOVzRmODRFYkNvenVRRUQydXRVT1hxUy1iZ2VMN250cGprLTREaFpXOERUVlNTYnBUVjRGZXBYSDQyTXE0cVd4MXc?oc=5",
-          "publishedAt": "2026-11-07T02:25:25.000Z",
+          "publishedAt": "2026-11-07T09:55:26.000Z",
           "severity": "medium",
           "titleZh": "马克龙支持率大幅下滑，法国抗议活动创历史新高",
           "content": null
         },
         {
-          "title": "Strike and demonstration in Paris on November 5: transport, schools, route—what you need to know",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSGhoWGRsVkVQQnhGYU9UeFJscmllZ3pmMk9PbFVFdkZYczYwRkt1LWIzYlJWOXFwS01VZEIzdklEREtiNFhzTHAwTmdFdE0zc0w5c3RnaEZyNkN0Z090eXJOQUpZWkNYRUhxaC1Oem45eHBldEN6Ri13UktQSnIwZFdZOHl1cGlRVk1MbjRLZ3VSMEVObjc2aENyWlUxXzF4Z05zanh2QU5hckY3MmI4Z2ZQQTlCVElOZUlMaDJ3MkY5aV92dkViMVRlZHEwNHoxbXZPbmNCVWpCMjlsamZjWEVTTTVTUGI4WEVTUDdENA?oc=5",
-          "publishedAt": "2026-11-07T01:09:29.000Z",
+          "title": "France braces for more protests as Yellow Vest activists urge ‘mass disobedience’",
+          "source": "The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMjNEb0FOaXBHQ1Fybm9zQXhKZ1Z6UmRSQ2tDVEpWVW1tS3VnWjI2RVlGMjVZVmlsZEw5WDdPcE5icFBiLUk4R0Fqd3lFY01oeXBzRkFmVW44UDUtNTA0aWFKUUVKSlEzVEd3emhqRS1aLUxJSkZ3RmVkdHNvb3NKeXZXWDVtY3lEWm9PTVU3OVZweTdMV0NVUHplWWV4czBudVVscWcxZk1NdXc4a0000gG0AUFVX3lxTE4ydlZUY0ROQUJfbEFCWkVRR0RGTkJhS1FFZEFQLVg5ellsaEVwbHZtMDJQRUJLaTJRMFhoNGk1RWtzdWQ4WVNTREYtQ3JPV2VRcFh2MGRLMUx0RUN1MHJqUy1KVzF1aGVMMHVkbEdYMVRNTmljZXQ0NmR1dUphc2FnSC0yUnQ0d1lYaS15MkNJS3lEV2NyQXhHbzVpVnFWb25ndkZmWWxVaTZEN1NDUFczLTJtdg?oc=5",
+          "publishedAt": "2026-11-07T09:09:48.000Z",
           "severity": "medium",
-          "titleZh": "11 月 5 日巴黎罢工和示威：交通、学校、路线——你需要知道的",
+          "titleZh": "黄背心活动人士敦促“大规模不服从”，法国准备迎接更多抗议活动",
           "content": null
         },
         {
-          "title": "manifestations Paris gilets jaunes : tensions et actions prévues",
+          "title": "France braces for fresh protests as Yellow Vests defy Paris rally ban",
+          "source": "TRT World",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQVJWdkZ1SHJaODhLOF9Pa3NtYWdhbnBKbFNtNWdxUm51d3VpVUVvN3lZV3V5R0xscmljUUhnWWtUdGRFVHI2YjNacFJBTDI1c2VKSkJsM1hRUnRqNE9lUjBzRndzUTQ5Vk9zUEF6XzZWcm1VYVJFMFJDN3dtWTFkSTFBb3UtNzdjUFBUb0V3UnlvdEhxc005QjQ3dWcydFFXRGN4NmpxZmJYN2lJRGFZajFLdFF4NWNHajVPZWU0a3NPTTNNa2kzLUZiWHpFLUtUUXF3UGY0Q0xRTzhSRHdOWnJ4R0tpUQ?oc=5",
+          "publishedAt": "2026-11-07T08:57:55.000Z",
+          "severity": "medium",
+          "titleZh": "黄背心无视巴黎集会禁令，法国准备迎接新的抗议活动",
+          "content": null
+        },
+        {
+          "title": "Paris braces for protests as turnout could reach 60,000",
+          "source": "Breakingthenews.net",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT0NpNHRDOVc4YzhxUFkwMzdobk1BalRJc1NXdk9yaGVyLWNkLXVRekQ1NkttLWItUGU5VkdiZDVqclIyQ0ZuZjROMnpWS0JtOGhYdjVaRFJwUUZZUTFacFg4djhRcElLTlVXSWNhYVlnM2dHSnRzX1BXZjg3MHh6UFhtakVHWUJmQUpLY2VMbkVKVG0zaUgwSUd0Z1M4dG1j?oc=5",
+          "publishedAt": "2026-11-07T08:03:00.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎准备迎接抗议活动 投票人数可能达到 60,000 人",
+          "content": null
+        },
+        {
+          "title": "Police fire tear gas as protests turn violent in Paris - anews",
+          "source": "A News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQnF2eWs5SjdFSGJDdDdhdG5lQjZJUG9kblk3Qm5NN29tM3k5cC1xLTFId1I5Qnp3aGxwNVhrbUQzdnlKMlNUcFBZdXZ0RWhQcWpvUWpHRXpobUFVU01wSExYY0NiX0VCUl8yODJRMDN3cmFZMnp5dXoyYW51YTd6ZzJSeDRpcURTaHhHWjFCUHRVM21RbFHSAZsBQVVfeXFMTzdfS2RGWkpCQUtVd2NURFYtTHJWZ21XbEFSVG00VnVualh3dWRxakZmS3BpVW54WVJIZkN5RzFyM1FwaHlGNmhFRURGRVZIVnlhVGx2V2V6VWtwTVFjRUtEdjNYWmdHV3cwMDdIZkVxRERPNDc5ZVM4alh4Wnd2aGFrNkRxa2xsVjZ3YTJZRkNxSlY3SVdYNi14OFU?oc=5",
+          "publishedAt": "2026-11-07T07:33:29.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎抗议活动演变成暴力事件，警方发射催泪瓦斯",
+          "content": null
+        },
+        {
+          "title": "Trois policiers jugés pour l’agression de Michel Zecler en 2020",
+          "source": "Le Journal des Français",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTJtd2lJeXdrVXBTM1FBUi0zdUQ4WFp5YWd0YVp6c3FhUWM3MUhTa2U4WnRHMkI5QnVOcFlROTBQZzVOVkVJdkpfVk1pVXkyVjRGUy0wOWIya1Q0TUN6bDEycHFnSjNZUFZMeU05V2hLeTFtZ0R5cmJ3RjNMVnRYV0ZZTFdGai1SdnUwVzZYdHJJdw?oc=5",
+          "publishedAt": "2026-11-07T07:33:21.000Z",
+          "severity": "info",
+          "titleZh": "三名警察因 2020 年袭击米歇尔·泽克莱尔而受审",
+          "content": null
+        },
+        {
+          "title": "« On doit s’adapter à la violence qui monte dans le pays » : David Margueritte, l’homme derrière la loi « casseur-payeur »",
+          "source": "Paris Match",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNm9WUzAzRXctaURTX0dodWlHNGE2YkM3WkZtTkYyZENtaThZLTY2LWdSWUpsVkZrTE5rSHFlSzk0NDdxYlNic3VUV0ZtVlZQZHBXZ3cweXdXVVZxcS1zUVRWV1RJVGFHaEplenBsMERsM1R3a09fMkRzWkZlM2lCRVVJd2ExVHo5NjVzbVZGWGsyeGtRYkVrRnVGQ0gtQ21VNmJaZDNtWVlwemsyaTBhakszREdNUU13UklPck9Xa0VoRlNESjVfY0RPM1hoUDV5dTJoY1NVYnk4ZHdhdWwwWW9n?oc=5",
+          "publishedAt": "2026-11-07T07:00:25.000Z",
+          "severity": "high",
+          "titleZh": "“我们必须适应该国不断上升的暴力行为”：大卫·玛格丽特，“杀手付费”法背后的人",
+          "content": null
+        },
+        {
+          "title": "INFO BFMTV. 40.000 à 60.000 manifestants attendus à Paris",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTUyTGFHMEhyTWJGcmI2ajN4VGlhNUNrdTVqWmhwellkT2lYc2RUTHhfWTBFZkpWUW1JWk1CNzBrUkI5SWxFaVBEaHNhcjkwS09oTjZxN0J1enRSM0N5RWYxRkJLTFBPTWZmV1VfUTcwbG15RFY0QmhjdE44VEQxZmdjMUd6clpkczJUT3BjbGluUFAwbnNINHZOTVZBNE1kNE10VVh2S1N2Q0VGSDVjaVc5VDNNVTk4RFlCOEVSYk5zNGN3Nmk0?oc=5",
+          "publishedAt": "2026-11-07T06:35:46.000Z",
+          "severity": "info",
+          "titleZh": "信息 BFMTV。巴黎预计将有 40,000 至 60,000 名示威者",
+          "content": null
+        },
+        {
+          "title": "Another Day of Protests Is Planned in France’s Autumn of Discontent",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2d1RWlqRjk4dVE0b1JxYTFGV0N0U3R1SUpMR0VkbVdhbDhnMTdKbncxejBuQmlKWWxNamRfbjdRa1FXREZkOENfX0c5SFh1QlREdGx3UnpCd1MyUWVTWjFkcUc1cEFBX2dETnRMNk11Q3RMSHhkbFhDVHZ0cjQ0eW5pTGZHeTdjT1B0cg?oc=5",
+          "publishedAt": "2026-11-07T05:01:04.000Z",
+          "severity": "medium",
+          "titleZh": "法国计划在充满不满的秋天再次举行抗议活动",
+          "content": null
+        },
+        {
+          "title": "Weekend of fiery protests in France raises questions, costs millions",
+          "source": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcFhEay13QkdwLWpfT2lQTm9RVFBEdkFKSWNENUNMQU1xTG02TFpmbUVEb0xCam5kaVVnUGxWREhNTEF1SG40VmkzZGl6ZUpzSXYtMUtBRlc0YmoxT2dxVGNLQlhXMDA5cjJ5elNydDBLYmZOTlZDTVJtb05DaXZDMEpva0VOY3hWSUhzM0FENGZuNGR2V2lFbG4ybkZFNnBzZW5tMm9JR0lNWmdXeUJsOHdR?oc=5",
+          "publishedAt": "2026-11-07T01:25:56.000Z",
+          "severity": "medium",
+          "titleZh": "法国周末激烈抗议引发问题，造成数百万美元损失",
+          "content": null
+        },
+        {
+          "title": "HS STUDENTS PROTEST FOR BETTER SCHOOL CONDITIONS IN PARIS LOOK: French high school students block Rue de Rivoli, one of Paris’ main central avenues, during nationwide protests calling for improved school conditions on Nov. 6, 2026, in Paris",
+          "source": "Facebook",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXgzVFBBcHVXeGVUYjVCZ1QzMmppYUVBeU55WU5JOUxhcVNyVW8wOEVsSXRxeXpSZDU5dXlKUE9NNXJTbklULUpOX1ZNX0c3YTZ2UHF3dGU4NTJNLUZ2TjhIMnc0SzZkVDlIY3VzZXl0aGlQR1kwdTF4NHM3NFd0bGhZZ01LRWFjT1BaU1lLeFc3WWoyc3hIbnhFc1VuOGFwSVduUU1OQzFBbkxkUFJReVNiOGdtQnlSZDJVbGFjRlcxR3ViYXNKSDhleVNUSGxpRDlR?oc=5",
+          "publishedAt": "2026-11-07T00:02:25.000Z",
+          "severity": "medium",
+          "titleZh": "高中学生抗议巴黎改善学校条件 2026 年 11 月 6 日，法国高中生在巴黎全国抗议活动中封锁了巴黎主要中央大道之一的里沃利街，要求改善巴黎的学校条件",
+          "content": null
+        },
+        {
+          "title": "Paris : quand l'insécurité fait fuir les touristes",
+          "source": "Presse Agence",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONWszd0pQclZvUzlRNEdPVndYSFQxRVdTNGhRa1hmaXBicEVndFh2UWpqdWVzY0JLaFprR1hXUHlvQ0pxeGJfemlmSXJKM1FiT1drR0lmdFJDU2ZXZzhoMkNLOGU3RmlKaExiSDAxMWdrQVJGUGhoeWxlZWZMZ2FZZS1zeDJWNlp4cm9MU2stRVJPcW8wT1QyQ2VCaGx6bnlUSU54bTIwSXh1Y1pZczZZV2E5eldOQW9JOFJQWg?oc=5",
+          "publishedAt": "2026-11-07T00:00:00.000Z",
+          "severity": "info",
+          "titleZh": "巴黎：当不安全局势吓跑游客时",
+          "content": null
+        },
+        {
+          "title": "Manifestations Paris gilets jaunes : tensions et actions prévues",
           "source": "Sud Radio",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORnRFTXlmMmNiSVZ2cVg5VzQybGZHR1VGNzdKdXUzUk1fNEJTM1d1My1vRWh1R1pZbFBhbDdNYUJkTVBJa3Fmc0dxUDIzTFM3RDM1c256WElIa09OVkptdmRDLVc2eDdTLVY4YmJrMUJUSkdnb2VhalAyM2JHbHRSZmJMSHg3bElha3JZSlRDenN6RGRLT1BKc1E5S2ZoQUJkNnB2YXZJaTE?oc=5",
           "publishedAt": "2026-11-06T23:29:40.000Z",
@@ -320,15 +451,6 @@
           "content": null
         },
         {
-          "title": "Midterms: A Maga PostMortem, Europe’s ‘Shape Shifting’ Protests - The World This Week",
-          "source": "France 24",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHB0dFdJeTlwSm83eGFaRC1jMlFQTHRZQTBNX25UWjdNb2pzV0c5T05RaUhoSDlZVDlUOEdCMlBtTmtYUVhEemVVVjBFSkl5b3ExbG1XMHAtNlJIcTlqMlVBdGVMclZObkk2T1BSMmYyeFEtcjdhaW55aHM1akFia3FIMkhTVEdEazVtdG9jOF94ZWVOajhxb3Zyb005eDg4Qkw2cUJrYzBicU5tclN0SElPbGl5Q0owaTJtQmVYSTVYOGc?oc=5",
-          "publishedAt": "2026-11-06T20:08:32.000Z",
-          "severity": "medium",
-          "titleZh": "中期选举：一场马加事后剖析，欧洲的“形态转变”抗议 - 本周世界",
-          "content": null
-        },
-        {
           "title": "Macron has ‘secret bunker hideout’ if French rioters storm presidential HQ – as protesters continue to clash with cops",
           "source": "The Sun",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FaFNvUHdiei03RDhsV0ctRmFPOGQzdV9pYzNUYnVUZDFfZk9hcTBYZFdNdWFWWDR2alp5My1SVmlhS01hVVJaaDBtNGlUbm1JUHg5WnZDMEI5RlVvbWZTeHN2TDBFd0tTSUlxc0JwaUZmLWRhcW42NV9oUmp6ODA?oc=5",
@@ -336,143 +458,320 @@
           "severity": "high",
           "titleZh": "如果法国骚乱者冲进总统总部，马克龙将拥有“秘密掩体藏身处”——抗议者继续与警察发生冲突",
           "content": null
-        },
-        {
-          "title": "« Un rapport d’emprise » : un châtelain du pays de Caux condamné pour violences sur sa femme et ses enfants",
-          "source": "Paris Normandie",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOel9jZTc3NnhTSFRaYnNOMGFsbGRsMzNRMkJoTWUwczc3UkFDY1pfM3l4UF9fWC0tUEEwWnNTbGx1alhnS05xb3ZRUkUwM3NkcUI1SEV4eVZYZ0xzV25nWHFGX2xuWEFTQlpuckFzVVN0TllXbW9IV2pqcGFMZHVVYzN6eWQtTjdrNW5hZm5sNDRER09HVGtCQVFXT20wLS1PSWJvYkxseVBVMUNWX2d3b3RZWFBmcjNMV01KTVhXS2pObVFhbl9pUUhjVWNyTFo1b3l2aA?oc=5",
-          "publishedAt": "2026-11-06T18:15:27.000Z",
-          "severity": "high",
-          "titleZh": "“控制报告”：科克斯地区的一位领主因对妻子和孩子施暴而被定罪",
-          "content": null
-        },
-        {
-          "title": "Manifestations : l'AFP dénonce des violences des forces de l'ordre contre ses journalistes",
-          "source": "France 24",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMjhWbWxuakp6LURZbE1fdDR6T1ZJZUFLbEhZSWVKTzFFb0ZuZTZyc1RJTDY5a2lpX1FIOUUyQ01vcjVzdjFJRXJvTS1fWFNpN0lnYW9EelFYaDVIYVZjenJJeFlDaV9IaDJmaGZvLVJyWDdwVmVmSXdUQW02eG8tWktLYkt1UjRScGgwQ1Y2NkdvME53bnBVNFBweVVsLW0zOG42UW00OTRVT3NyR2V6ci00VFpKQmozQ3MyNENxYnpNc2pjOXhrSWxaazVFcGZVWkVmMFZzY19leV8xNEhR?oc=5",
-          "publishedAt": "2026-11-06T17:46:01.000Z",
-          "severity": "high",
-          "titleZh": "示威活动：法新社谴责执法部门针对记者的暴力行为",
-          "content": null
-        },
-        {
-          "title": "« La rue tue » : la Fondation pour le Logement frappe fort avec Rosa Paris",
-          "source": "J'ai un pote dans la com",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLTNjTEk1YnotbkU1N21Mb3JhWXpGSUdYNHV5S2F5aTJrZU01aThXdTc3bWVydklMRkxnRFNwQkwzeU1fU2FONFdzbWlpeVJsdk56QzQ4YzZrU0JHMjN1aHdJSWJyQWUyN0Y2RHQ3YTB1eS1zbWxNelJwZTBWbkZ4amlTLVZFVEl0X096Qg?oc=5",
-          "publishedAt": "2026-11-06T17:19:44.000Z",
-          "severity": "info",
-          "titleZh": "“街头杀人”：住房基金会对罗莎·帕里斯进行了严厉打击",
-          "content": null
-        },
-        {
-          "title": "Manifestation anti-Bolloré à Paris-Montparnasse",
-          "source": "Sud Radio",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObEdGUWx6aFBUX3k0R09IQ0RheFlQT0VZb2pDa1g3eDNXMkkwaVRFa3l2eHdFdThRMUhSeHNweExRWGtqd1JtN3JNVlJTX0RQc084WUItbzE1RjN1UDhqU3cyTFQ3SUxPRlRQb0VwNS1UX243M0h1RUNyQVA4SC1UYWE1XzBHdll2dlpscVlScnQ4R01Eb0RnRlozRVNuUks3cTZaSVFEdHh6UTQxdTdJZ204UmdCdXdI?oc=5",
-          "publishedAt": "2026-11-06T17:10:27.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎蒙帕纳斯区的反波洛雷示威",
-          "content": null
-        },
-        {
-          "title": "France in revolt: “This movement is just beginning”",
-          "source": "Counterfire",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1lBZzRaNGg5b3ZtUjZkeGF6WmtrY19vTUNBYWloOTV5NllFZUo5bjU4NVBHbG1LLVZYYmc2ODU0MXpEVXFwVVJhRDc4Vm5SSUsySU1hOENrVTBJMTAyX3B4S3BZeXdFZDhRMXE2NElVTUJPd3lBTWRvcWxncUd6Y2thSENJaEZfYXM3M1VB?oc=5",
-          "publishedAt": "2026-11-06T16:56:36.000Z",
-          "severity": "info",
-          "titleZh": "起义中的法国：“这场运动才刚刚开始”",
-          "content": null
-        },
-        {
-          "title": "Un collectif d’avocats espère voir Laurent Nuñez jugé après les violences faites à certains manifestants",
-          "source": "Le HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcy1UbXRhMS15dW9hMnMyWDlETjRNYmx3czlINEdLS002Zll1UnRnRUNmaE1qVjlraUxyRjJPQUx5b1p4Y0I3cTNaaTJZVzF3N0o3WElaUlpycEo4dmU3Ni03cUxXelo1OFVJVVRuNjk0MTlXZWpubWlQdTFkZk1NaDZpZ09zLVl0a2l3a0laRFhBQUU3bDl2Wjl3Y1hHQktsTm5kYzZYcld2TGlkdDRacjhGTUdTUUhqQ0VpZHlWTzZRV1doUThraE5EcEdpUWZZYXdKbnpCbERJZGtMcmw5b3VURmItV0ZVajJyOFFUbmVjZDQ?oc=5",
-          "publishedAt": "2026-11-06T15:45:00.000Z",
-          "severity": "high",
-          "titleZh": "一群律师希望洛朗·努涅斯在针对某些示威者的暴力事件后受到审判",
-          "content": null
-        },
-        {
-          "title": "France protests cool after overnight curfews in Paris, major cities, PM says",
-          "source": "ABC11 News",
-          "link": "https://news.google.com/rss/articles/CBMijAtBVV95cUxPc1BTMXEzbWwzT3hjbk56WnZScjFwUFlMLW1laFQ5Y1RqMHpwdXRTWHVFOWxNSk1CMXAwZXluT2RZUHdLbFA5b3NrakdBSnBnU0JmeWRJdHhJWXRjSnFmMnFrWFBLczBCWm9GeDFYSnJKQW5yeUN4Ui1lYlFXdVEyY0ZYaW9OWmhNOHEtdnFFRVA5cjdJUVljSHlZdGxJZUxIZE1iUXh4OEZTdDVsRUtUTXVPYlU1RFFOdWo0Qm1tZVdlSDlPeTg3OTMyZmg5dWxCemhyMUVSM2QyT0ZxUllBal9ZTzdkZEs4aER6SkZUcWgwelRhSEZuUFNiZ2ZwcGZVOXFvT3EzT2tBd29OU0Nlak4zSjBBUHRUdG1za2RIRGRQbU1udWJlUmxEN0JlODRHNUNxRG1PZ0Q2MW9pRmVSMHlCZV93NXJSMm9IX1pRZlNIVjM5QVpFeWV1ZEtjb0ROVVJ5TkZMUlpZajY1eGJ6b0xjV1J3ajVzSjM5bjBNOXp4S3pqNW5IQ3JzS1ZZcDZkVFlSbUZsdXNnZGJWZC1VaS1OX0FMZzR1TGs4ZExnRmY5enhFNnpyRE5aV21LMkczUWtPbzJtaHE3SlpnTzJTSVh1bEdxelNIYUQ3azNVN196OEtLZzlMakdXWFFXYUxTcHRPMEpFaWxMTEs3M0I0a3I4N0lJTkJ0UHR4MHVISVpMUTJvb2FkWTFLOUhMZWlUM1NiazhRUTdBNVRCWGpQWGdTNjVpUTBlVHZHX3drQnJiM0MtaXoxYkRHSmFBRU5UaWVEanJQX2FVRm5ncDJKaEhBR2VFMURYVTBobVdXS1dQcEN0SXVsM0JJLTlPRFBhYXVsdEtlSVd3NmZkeGlWSVdtS2k3c1dNSm9LZWNVU1FNUWYwU3RabDBQZ1ZOeDdLNERsMllxQUV1dzBPQ0hrMmJFZmVfWEtHU0FETzFGNFVYc1AwOU1JY2NxeFFsWjhTV0l4LVVQNGhweTBRN2ZFQzVOS05hRTUwRkVnU3Z3TTFNMENVV2FhdWkwdEo4ajNJUVNmOTZtXy1uZnFrVm91ejlKSEV6bHE3a2UtSFN2VEViLTB1azRtMmw5YmFxTG41OV92N0phNjlsanI0ME50MVlKWFNCZzdfc1diM3ZDb1RXZW0ycUlGZnJXVVRuYjN1ZHFmRkQ2UjBjMXp2ZVpkVUFodng3MVpnVlB2SzFFbHpKekJEeGxXU2U3cGFveHpHbU5TcUNjTW8yb2FXTEw4OE9odnlGczdfdHItNm9ENGtVZkdjazloc01Vd1QtQXVuZHhaM3R4NHA0SnVaLWN2UC1QYW1nZk5YOEpYR3U0d3IxcENMS3pLRThIUjhnT0d4OENmNGQwTy01MEhvSF81cG5NOWxiSVBLWnBBUGJwWHJuaWtnSjhJMlZ3QVpOdEdGb3NRMGVvTG1KX3hWZTE5UFMwRk43RVh4ZXZHcWVNelRiTzRuSFZQQUItc0E3b3FwWmVBam83aGpQTmxpNkVmVktrTkVMNjNHN3hNX0l4al9sT2JLR01VTkROYWh5TS00SUpHLW03by1QZE9pZWRrRXBHSy1sbmd4UGdvaXBueF9iaGJlbEV1R3dPWHk5aGNhZTZrODl3a1M3SzhfcHhFNzAwRlZ3Y1owQzZNanJ5QjJFYU5VWm9aS3VvcEpEYVJCeVNrWE0xeFVXR1FaRklKYmxqZTRiUGQtRllLc2d2ZjVYbl9EX3g5c0pFZ0dXLTdwUk14bThmY0JJeWZfcDAtUG13aVZWaTR0eUZ6Z0lBX0pSZ1VvNmRfbzZFNThZRDkwMm8ybWkyZ3c3TG8yRFdOUEcyTjVLRlg5eDAwQ1pWTkdJS3pFb0JGR3c2MkI3VXN0WkRVVENLaGdHOGJC?oc=5",
-          "publishedAt": "2026-11-06T15:09:59.000Z",
-          "severity": "medium",
-          "titleZh": "总理表示，巴黎和主要城市实施隔夜宵禁后，法国抗议活动降温",
-          "content": null
-        },
-        {
-          "title": "November 7 demonstration in Paris: 16 metro stations closed this Saturday",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZXlXWTBSeFBmWkF6ZnFuX05hUmV1MmdDMGZfdkcyYy1NT05nb2gxRmdZTmZUWHFmSmkwQzV4NFkxWnhxRGRqTDZHaWI0NFotcHlQeGJqaEg2ZGcxNk9hTVUtVkx4TWVpc2lMdUpzc2U1T2RJMzVyeERmdFFzNm5oMEU4LTdIMmJqalVsbk1JdlNFdHoxaGtXa0Nyd2dkbzlXV2dmOUlYeDR3TlBMdS1XVklwNDNhU0NjWUxydDhYcXlBaUxLdnhjeTVYNE44UE0?oc=5",
-          "publishedAt": "2026-11-06T14:46:37.000Z",
-          "severity": "medium",
-          "titleZh": "11月7日巴黎示威：本周六16个地铁站关闭",
-          "content": null
         }
       ],
       "places": [
-        "民族广场 Nation",
-        "蒙帕纳斯 Montparnasse"
+        "民族广场 Nation"
       ],
       "districts": [
         11,
-        12,
-        14,
-        15
+        12
       ],
-      "articleCount": 16,
-      "clashCount": 4,
+      "articleCount": 18,
+      "clashCount": 2,
       "status": "unknown"
     }
   ],
   "latest": [
     {
-      "title": "Manifestation et grève des Gilets jaunes à la Concorde ce samedi 7 novembre, interdit mais maintenu",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSDNlVzA0MWpCcV94ZElnWkZ4S0owdnpvM29IekRyTFNfQ1hTYmw4YWxRNU1Kc0pYZkliR1FsX212VTBQS1dLRks0WHdGU2w0YnZMaXhDSGFSZFdGeEZ0NUg5WllLcnVmN2N6azJSTnJ4ZDFHbDZuemd5OXBtZDVYNnlNV2xWYW90Y0VjaTNzODVBbnZTNFR4OFpYeDRuLTRjaXZWOG5ZQzlIY1VNOEFCdG9HMTNmbU1ydzFiamt4MzN6ZnprM1RPUjJ2Mnl5VDlDdnZFZUc2aHBxUEFYLW9uZ19pNmhYU3dYcFZDaDVJUWV3bnBV?oc=5",
-      "publishedAt": "2026-11-07T03:05:51.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 7 日星期六，黄背心在协和广场的示威和罢工被禁止，但仍保留",
+      "title": "Présence des forces de l'ordre à Paris avant l'Acte IV de la colère sociale",
+      "source": "Orange Actualités",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONnlrX2JRMzg4WDVsSkZHaHZNMy1lanRGSWl0RVF2ZUlyRXhmVnNEQzVrTnQ2UzB2VmZ5NzZVVVVJWklVbVlwSUktc1RQNXlzSk9qVG1zWVRBZzlUWDJPMjdmMGRIOFc5WlRRZkxnRVB3UHlQaGxfQ2Q1WWxZUVJzcHAxRTBKbTdYVW4tNFgzQWRiT01RdUFlbGdsRWJNT3A3bllDRzU2Y29ZLUNiaHN0YlQtbzM4RzhaWW8xTVoxWE0xazdiSjNyZ21nZ0w?oc=5",
+      "publishedAt": "2026-11-07T10:28:13.000Z",
+      "severity": "info",
+      "titleZh": "社会愤怒第四幕之前巴黎执法部门的存在",
+      "content": null
+    },
+    {
+      "title": "5 Novembre à Paris : la police attaque les banderoles de tête du collectif Black Lines, l'un des fondateurs blessé et hospitalisé",
+      "source": "Contre Attaque",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbnV5UzJzUjF6ajRQbXU2VU9oRHphemR4aUhsVDlCN1gxMjgyZ3VhSE90Q0FUNWhOeVZWU0dTbXJiR1lKY3JMSXp1dDRsZHg3ZWVvQWx4cjV3eURKb3VFWWhvbHhuWXFWU3RDZ0hJTncxWWp5dWV5UTI3a29IT214QVhXR1llZ3BtRnV2Tm1XTmZDTnAzODlwbWhOa3c1SUg1S2xLSUozd3hWSHdRMXlGdkxvS2ZhN004QkliV3F4Y1pVcURpcy14VHg1dmRWM2ctaWV1WlRyM3dSd0Q2OWhWQm5ISldGUE9mVzFJZXR6dTVPRzJHb0lZ?oc=5",
+      "publishedAt": "2026-11-07T10:01:53.000Z",
+      "severity": "info",
+      "titleZh": "11月5日巴黎：警察袭击黑线集体横幅，创始人之一受伤入院",
       "content": null
     },
     {
       "title": "French Protests Hit Record as Macron’s Approval Ratings Tank",
       "source": "Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOWl6aVJKRG1odWFOWXREZzZUdXNKWGR0WVpkQldyWGFOQXVFaU1mYkNhb1AySTR4aFQyeUZvanMzWjJReG5nTEg1WmhxOVRaMk1rWm5FaWVMSGppSWhVVkRMT0puTTNIVXV6aVVvaTZsYktIUTZ1VmVpMC0tbTdOVzRmODRFYkNvenVRRUQydXRVT1hxUy1iZ2VMN250cGprLTREaFpXOERUVlNTYnBUVjRGZXBYSDQyTXE0cVd4MXc?oc=5",
-      "publishedAt": "2026-11-07T02:25:25.000Z",
+      "publishedAt": "2026-11-07T09:55:26.000Z",
       "severity": "medium",
       "titleZh": "马克龙支持率大幅下滑，法国抗议活动创历史新高",
       "content": null
     },
     {
-      "title": "Strike and demonstration in Paris on November 5: transport, schools, route—what you need to know",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSGhoWGRsVkVQQnhGYU9UeFJscmllZ3pmMk9PbFVFdkZYczYwRkt1LWIzYlJWOXFwS01VZEIzdklEREtiNFhzTHAwTmdFdE0zc0w5c3RnaEZyNkN0Z090eXJOQUpZWkNYRUhxaC1Oem45eHBldEN6Ri13UktQSnIwZFdZOHl1cGlRVk1MbjRLZ3VSMEVObjc2aENyWlUxXzF4Z05zanh2QU5hckY3MmI4Z2ZQQTlCVElOZUlMaDJ3MkY5aV92dkViMVRlZHEwNHoxbXZPbmNCVWpCMjlsamZjWEVTTTVTUGI4WEVTUDdENA?oc=5",
-      "publishedAt": "2026-11-07T01:09:29.000Z",
+      "title": "Manifestation du 7 novembre à Paris : parcours, rassemblement des Gilets jaunes à Concorde, stations de métro fermées, à quoi s'attendre ce samedi ?",
+      "source": "France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQRDZmNUVDSDI0cHh6MGdxRm16Ym5HdnZSSGNwd2xvVkkzeXRTSGg3TDY0ZzM2MExRZFdnTjFTSVJ2dWNVUmhWVDBZdkFlbVVZTEd5d1cwbEhiSlFSR1BIVGtfY3F1bHNvMk9KejJpSWo0TjM0dHhrNmdqU09tUGVyNkkyRERhV2tZeGtSRzlqUlNUS1dlbllfakQ1WTY0WE1qT21pSDRpZ3hGalNVeEtYSUhtQ0hhemY5eUFHTDB2SFAyZ1VhS1c2ZWZIMkxVYXN0RmNPclYtSF9ia2hSajJCN0ZmT01Sc3RudWh2a0dtV1l6NG5Zb01YY1o4X2RNYTMycmd5WmhyVXBKWTlTcllRalA5M01OWnRiOEZqV29QNjRvMEhad3VETVJqRWFvOWVKX0pRbjNsRmJYZjdILWEzT3lSajFGa2V4ZVJudktmOA?oc=5",
+      "publishedAt": "2026-11-07T09:15:08.000Z",
       "severity": "medium",
-      "titleZh": "11 月 5 日巴黎罢工和示威：交通、学校、路线——你需要知道的",
+      "titleZh": "11 月 7 日巴黎示威：路线、黄背心在协和飞机上聚集、地铁站关闭，本周六会发生什么？",
+      "content": null
+    },
+    {
+      "title": "France braces for more protests as Yellow Vest activists urge ‘mass disobedience’",
+      "source": "The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMjNEb0FOaXBHQ1Fybm9zQXhKZ1Z6UmRSQ2tDVEpWVW1tS3VnWjI2RVlGMjVZVmlsZEw5WDdPcE5icFBiLUk4R0Fqd3lFY01oeXBzRkFmVW44UDUtNTA0aWFKUUVKSlEzVEd3emhqRS1aLUxJSkZ3RmVkdHNvb3NKeXZXWDVtY3lEWm9PTVU3OVZweTdMV0NVUHplWWV4czBudVVscWcxZk1NdXc4a0000gG0AUFVX3lxTE4ydlZUY0ROQUJfbEFCWkVRR0RGTkJhS1FFZEFQLVg5ellsaEVwbHZtMDJQRUJLaTJRMFhoNGk1RWtzdWQ4WVNTREYtQ3JPV2VRcFh2MGRLMUx0RUN1MHJqUy1KVzF1aGVMMHVkbEdYMVRNTmljZXQ0NmR1dUphc2FnSC0yUnQ0d1lYaS15MkNJS3lEV2NyQXhHbzVpVnFWb25ndkZmWWxVaTZEN1NDUFczLTJtdg?oc=5",
+      "publishedAt": "2026-11-07T09:09:48.000Z",
+      "severity": "medium",
+      "titleZh": "黄背心活动人士敦促“大规模不服从”，法国准备迎接更多抗议活动",
+      "content": null
+    },
+    {
+      "title": "Manifestation et grève des Gilets jaunes à la Concorde ce samedi 7 novembre, interdit mais maintenu",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSDNlVzA0MWpCcV94ZElnWkZ4S0owdnpvM29IekRyTFNfQ1hTYmw4YWxRNU1Kc0pYZkliR1FsX212VTBQS1dLRks0WHdGU2w0YnZMaXhDSGFSZFdGeEZ0NUg5WllLcnVmN2N6azJSTnJ4ZDFHbDZuemd5OXBtZDVYNnlNV2xWYW90Y0VjaTNzODVBbnZTNFR4OFpYeDRuLTRjaXZWOG5ZQzlIY1VNOEFCdG9HMTNmbU1ydzFiamt4MzN6ZnprM1RPUjJ2Mnl5VDlDdnZFZUc2aHBxUEFYLW9uZ19pNmhYU3dYcFZDaDVJUWV3bnBV?oc=5",
+      "publishedAt": "2026-11-07T09:07:47.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 7 日星期六，黄背心在协和广场的示威和罢工被禁止，但仍保留",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 7 novembre à Paris : ce que risquent les Gilets jaunes qui voudraient rejoindre la place de la Concorde",
+      "source": "Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUFRBQjdwb2x5OXgzQ2FyN2FsV3NUSjNabVFYMEt1TE0zVk9tMzg5TWh1THplRUN2YzcxSk9mS2hnRllxSlhMM0xnRW5FNklPaWlLSHJqd3BiVWRxUi02enU5Q1pQcWtYcER3VHMtNmtwZkVOSUFpU2ZwdmpDMG9UTTdsU1N1MUwxYkZxMFdGcWJzcGFlTExkSkxkX0lYdkdlTmR6SjJzRlZBT1h2SnhROW5WdWtQNWNEVzFLUmdET1c4eFhha0FzNU40OHdtYzg2VlVyYUpJaXdkRWdFREVoZUZzTldXblVxUV9YdVRfVC13M0tiZmdVWllFVWxjY0hmWUJaMQ?oc=5",
+      "publishedAt": "2026-11-07T09:05:16.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 7 日巴黎示威：想要加入协和广场的黄背心面临什么风险",
+      "content": null
+    },
+    {
+      "title": "France braces for fresh protests as Yellow Vests defy Paris rally ban",
+      "source": "TRT World",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQVJWdkZ1SHJaODhLOF9Pa3NtYWdhbnBKbFNtNWdxUm51d3VpVUVvN3lZV3V5R0xscmljUUhnWWtUdGRFVHI2YjNacFJBTDI1c2VKSkJsM1hRUnRqNE9lUjBzRndzUTQ5Vk9zUEF6XzZWcm1VYVJFMFJDN3dtWTFkSTFBb3UtNzdjUFBUb0V3UnlvdEhxc005QjQ3dWcydFFXRGN4NmpxZmJYN2lJRGFZajFLdFF4NWNHajVPZWU0a3NPTTNNa2kzLUZiWHpFLUtUUXF3UGY0Q0xRTzhSRHdOWnJ4R0tpUQ?oc=5",
+      "publishedAt": "2026-11-07T08:57:55.000Z",
+      "severity": "medium",
+      "titleZh": "黄背心无视巴黎集会禁令，法国准备迎接新的抗议活动",
+      "content": null
+    },
+    {
+      "title": "France rises up again today – 60 thousand people",
+      "source": "TodayPress.tv",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2pialJRd1JvU1NYQzhFLXZReGZEdFVoa2w4d0VKOFNzZ3lEa3VlTk9DY0JfRGRubDBDUm1XNndocUh3bmFEWWltYlVxMlJlV0tZRTRLSXFGMWg3SURoV3VjZTMtX0liUVllNkZrNWJtanJYZndzdlFWa0Z4Y3l2MnR4UQ?oc=5",
+      "publishedAt": "2026-11-07T08:53:00.000Z",
+      "severity": "info",
+      "titleZh": "法国今天再次崛起——6万人",
       "content": null
     },
     {
       "title": "Manifestations du samedi 7 novembre 2026 : la carte de l’acte IV des gilets jaunes, la Concorde, parcours et horaires",
       "source": "Les Voitures",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdHVNbXE1bFdYcWliNWJkSE0yR0RKYmJNRXQ1cDVWZmNvT1JLUlpDUVp5U2xIV3hiWlpHRjN1cXRScEdjMzZrV3dlVzFjX0ZUZnJNMjYtN0NRaVZK?oc=5",
-      "publishedAt": "2026-11-07T00:25:00.000Z",
+      "publishedAt": "2026-11-07T08:48:48.000Z",
       "severity": "medium",
       "titleZh": "2026 年 11 月 7 日星期六的示威活动：黄背心第四幕地图、协和式飞机、路线和时间表",
+      "content": null
+    },
+    {
+      "title": "« C’est symbolique » : pourquoi les Gilets jaunes se mobiliseront à la Concorde à Paris ce samedi, malgré l’interdiction",
+      "source": "Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPWUZNRGFCRUdOWnh1dnBkYlRFWERkdWZIZ2ZKVHUwdnN5MkxBTnJhS3ZGeEdDbWVESFR6R1VaRWczenB2Y0ZnS0dndk5JOUdHVkgwLWJsczhvRDRGYzN0cUJVOThRVGlJcjF6MGV3d3hxLUFuQWlXS2NqRS1RVmFmaVZpYVdzVWVrTGRjMzRlamRWbV9qaVBhZW1Oak5qY2JWUW56U1I0TWNDcTRXaFByV1owOTgzOXhWM0k5NGNETVFTLUJtZk9CUU0wY3QzaDVUMUhSc1dpV1JQeUJTVmxhZTgyVk5fbEZPcTVocFRINFU1enZ2LXJmTWQ2b1I2aU5ScERlWFgyRFR1UmtqU0ljMWpOTlRXTUdMdE9xSTl1ZE5BZTZf?oc=5",
+      "publishedAt": "2026-11-07T08:34:03.000Z",
+      "severity": "info",
+      "titleZh": "“这是具有象征意义的”：为什么黄背心将在本周六在巴黎协和飞机上动员起来，尽管有禁令",
       "content": null
     },
     {
       "title": "Manifestations du 7 novembre : les agents de la Ville de nouveau mobilisés",
       "source": "Ville de Paris",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlBFcTlXdXNkalllbTl6bnM4bl9jZ0VOLUVTN3JWY0c2U084eGdoTllQbkVaVEJBalFhUW00eVRmQ0hrVV9rR2NFNmVMc05aTDNGZ0RIekNucklHb3pxWW5tWHpvWk9BNGgzUmtoRzdaV1ZfdnM0UXlqLTZmbmdlZ3AycG5LQlZWemZIWVhlNmNMRGtJZjhsdG1iZXpodFZKa2hRTmNiWFNWOXlKWmN5a3oxY0h4M05kZ2VReXhHNEI2WVJiMzg0?oc=5",
-      "publishedAt": "2026-11-07T00:19:15.000Z",
+      "publishedAt": "2026-11-07T08:31:31.000Z",
       "severity": "medium",
       "titleZh": "11 月 7 日的示威活动：市政府人员再次动员",
       "content": null
     },
     {
-      "title": "manifestations Paris gilets jaunes : tensions et actions prévues",
+      "title": "Paris braces for protests as turnout could reach 60,000",
+      "source": "Breakingthenews.net",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT0NpNHRDOVc4YzhxUFkwMzdobk1BalRJc1NXdk9yaGVyLWNkLXVRekQ1NkttLWItUGU5VkdiZDVqclIyQ0ZuZjROMnpWS0JtOGhYdjVaRFJwUUZZUTFacFg4djhRcElLTlVXSWNhYVlnM2dHSnRzX1BXZjg3MHh6UFhtakVHWUJmQUpLY2VMbkVKVG0zaUgwSUd0Z1M4dG1j?oc=5",
+      "publishedAt": "2026-11-07T08:03:00.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎准备迎接抗议活动 投票人数可能达到 60,000 人",
+      "content": null
+    },
+    {
+      "title": "Manifestation retraité.es 19 novembre 2026 à 11h.PARIS",
+      "source": "FSU-SNUipp",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSlFadUhzVF9lbDloekZWb0Q4dHZyR2pCbjd6b0VlUFZMeC1EcjVkcWdQRVc4Qm96aUxhN0F3TkF2cWpWUC15S1N2dWUwWEhvWU5MVFpIRlMwTFpFZDJFZ3dDQU9ITC03UFJCeDh3M2RaZDhHeHlTQUV3UW5GVHZzWmlPRUFLWnQ5UkN3?oc=5",
+      "publishedAt": "2026-11-07T07:50:54.000Z",
+      "severity": "medium",
+      "titleZh": "退休人员示威，2026 年 11 月 19 日上午 11 点，巴黎",
+      "content": null
+    },
+    {
+      "title": "France : entre 40 000 et 60 000 manifestants attendus à Paris pour la mobilisation du 7 novembre",
+      "source": "Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamVKejJLMms5WHVOY1FXVWs4dHVSaVA0bklvZFJveEcxdlZPZ1dxVXBKZFhtLWw4ZXJ4ZmZZbk5tcnRwandBcVRGYnhHcW1wTlFMUHMwMmtMTkZIaU1vbzZHc3B1TlExR0dubjY5cXpkVDdqTkpIVTY4T3Y5eHRxSnhkaFpHNWxOQU1JU2hob0FUd3FJNVZqNmxDQmc1eE54Rm81YjF0cEltdm4tVDdJaDBnUVFHMnAyWUE2V3pHdzFGSW9YX1dUdGNpZ3J3V3lCT05DZmZETmhsdw?oc=5",
+      "publishedAt": "2026-11-07T07:48:16.000Z",
+      "severity": "info",
+      "titleZh": "法国：预计巴黎将有 40,000 至 60,000 名示威者参加 11 月 7 日的动员",
+      "content": null
+    },
+    {
+      "title": "Police fire tear gas as protests turn violent in Paris - anews",
+      "source": "A News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQnF2eWs5SjdFSGJDdDdhdG5lQjZJUG9kblk3Qm5NN29tM3k5cC1xLTFId1I5Qnp3aGxwNVhrbUQzdnlKMlNUcFBZdXZ0RWhQcWpvUWpHRXpobUFVU01wSExYY0NiX0VCUl8yODJRMDN3cmFZMnp5dXoyYW51YTd6ZzJSeDRpcURTaHhHWjFCUHRVM21RbFHSAZsBQVVfeXFMTzdfS2RGWkpCQUtVd2NURFYtTHJWZ21XbEFSVG00VnVualh3dWRxakZmS3BpVW54WVJIZkN5RzFyM1FwaHlGNmhFRURGRVZIVnlhVGx2V2V6VWtwTVFjRUtEdjNYWmdHV3cwMDdIZkVxRERPNDc5ZVM4alh4Wnd2aGFrNkRxa2xsVjZ3YTJZRkNxSlY3SVdYNi14OFU?oc=5",
+      "publishedAt": "2026-11-07T07:33:29.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎抗议活动演变成暴力事件，警方发射催泪瓦斯",
+      "content": null
+    },
+    {
+      "title": "Trois policiers jugés pour l’agression de Michel Zecler en 2020",
+      "source": "Le Journal des Français",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTJtd2lJeXdrVXBTM1FBUi0zdUQ4WFp5YWd0YVp6c3FhUWM3MUhTa2U4WnRHMkI5QnVOcFlROTBQZzVOVkVJdkpfVk1pVXkyVjRGUy0wOWIya1Q0TUN6bDEycHFnSjNZUFZMeU05V2hLeTFtZ0R5cmJ3RjNMVnRYV0ZZTFdGai1SdnUwVzZYdHJJdw?oc=5",
+      "publishedAt": "2026-11-07T07:33:21.000Z",
+      "severity": "info",
+      "titleZh": "三名警察因 2020 年袭击米歇尔·泽克莱尔而受审",
+      "content": null
+    },
+    {
+      "title": "En prévision des manifestations de samedi à Paris, la préfecture de police a prévu \"un dispositif très agile, très mobile\", prévient sa porte-parole",
+      "source": "franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNNFlBYy1BX21KSVNwLUJKYUZfZFY0RFQ1WDJxdlNEOU5ZYzc1YjhFWjhCYmhTc2pUMmloS19SWlFHWVNJdFNUUFNVSkZjRmdkSUpSTmhiaE1yRTIxaGFCVDByRGdFSWxFa2lJZHFpd2toNkdjNFRUZEM2Umxzb2tpOTg3VWJGREI3WUo5VF80NjZqeDFFT0pTNElPUmJJV3c5eWdVZkUxd3BMWE0tRHVfNXl5Z0c3U3BaMjhOMDlFcXNad2xDNGY0N3BEWHpZaV90N0tfNzBXdUQxdVhQTWtXSk1QdW1vdFJtdzFtOUFDSFVVNHJJaUxlVVFhbVdNazRMQldndnl2LWt3ZmRRUnZCcUtBYmJEN3dDRHFla01SaVlWa3FQNFBzN2dobHhBQQ?oc=5",
+      "publishedAt": "2026-11-07T07:32:18.000Z",
+      "severity": "medium",
+      "titleZh": "发言人警告说，为了应对周六巴黎的示威活动，警察总部计划了“一个非常敏捷、非常机动的系统”",
+      "content": null
+    },
+    {
+      "title": "INFO BFMTV - 7 novembre: 40.000 à 60.000 manifestants et 150 à 400 militants radicaux attendus à Paris",
+      "source": "BFM",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcjE5OVR6MTBURUZzZzdvWFpLYTRldlVjOU9CTnBENVZ1aXFzUm9fYmlla0NoR2xkSVJYZzRGX2VobDBXUGN6cVpyRndTLVJudzlucFh5WXpMWHhwbTA2ZE50U0pQQnEyRklCSkI5bW43aFVVR2ZYRzlFeUQxT05OSmFJeDBHOW5RMGZXRjFSTkM2bTRxTzhlTk1zQ1NHajUxOFFEOXkxYUVuYWtqRWN4aEVNc01aTDROUWF0LXVkdkd2bDl4MDNhTENpN2dFc1lmMkNGZHlzQThpSGw4QTk0QTBCUmFtVmdqcUlLdjg4ak84NVF1cjgzSUIxWGM0NTFJ?oc=5",
+      "publishedAt": "2026-11-07T07:12:23.000Z",
+      "severity": "info",
+      "titleZh": "INFO BFMTV - 11 月 7 日：预计巴黎将有 40,000 至 60,000 名示威者和 150 至 400 名激进分子",
+      "content": null
+    },
+    {
+      "title": "INFO BFMTV. Mobilisation du 7 novembre: 40.000 à 60.000 manifestants et de 150 à 400 militants radicaux attendus à Paris ce samedi",
+      "source": "BFM",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNamo3TmlkZExSa2JSZmVCajhhRVFNbnMwcG1vanpkLU0wMVRPNkRFNjZzdWFFNzRZRXFDQTJwMXlRYTAzYTVMOVB0TFJhemJiOWx1bXY1b3FYSWtnVXdtQzV3RU4xY3F5bGFObmtrTk55aE5wQWs0ODhTN09ocjM1WVRMeXYtS09zb0lrSjItLU05ZDc5aDh4Z2NjbFowTzM5SkFpNlZnb2E2YnJpaG1PM0lKVGJhelBHOXpRUVUxaHI1TjdpRlpmRGd3c3hfam5OdjVnel9hVWd6SThGQ3JpazRqaUVYLTU5alJuTURSWVhVVW9kTjl0TVBEd1NMcE9zNm9Ed1g5amc3OUNHb2I2cVFGSXo1cExEcTZmbGdlZw?oc=5",
+      "publishedAt": "2026-11-07T07:01:43.000Z",
+      "severity": "info",
+      "titleZh": "信息 BFMTV。 11 月 7 日动员：预计本周六巴黎将有 40,000 至 60,000 名示威者和 150 至 400 名激进分子",
+      "content": null
+    },
+    {
+      "title": "« On doit s’adapter à la violence qui monte dans le pays » : David Margueritte, l’homme derrière la loi « casseur-payeur »",
+      "source": "Paris Match",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNm9WUzAzRXctaURTX0dodWlHNGE2YkM3WkZtTkYyZENtaThZLTY2LWdSWUpsVkZrTE5rSHFlSzk0NDdxYlNic3VUV0ZtVlZQZHBXZ3cweXdXVVZxcS1zUVRWV1RJVGFHaEplenBsMERsM1R3a09fMkRzWkZlM2lCRVVJd2ExVHo5NjVzbVZGWGsyeGtRYkVrRnVGQ0gtQ21VNmJaZDNtWVlwemsyaTBhakszREdNUU13UklPck9Xa0VoRlNESjVfY0RPM1hoUDV5dTJoY1NVYnk4ZHdhdWwwWW9n?oc=5",
+      "publishedAt": "2026-11-07T07:00:25.000Z",
+      "severity": "high",
+      "titleZh": "“我们必须适应该国不断上升的暴力行为”：大卫·玛格丽特，“杀手付费”法背后的人",
+      "content": null
+    },
+    {
+      "title": "DIRECT. Mobilisation du 7 novembre : suivez avec nous cette nouvelle journée de manifestations",
+      "source": "franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOblZqSnhXU3dlZlNORm45bm55OS14RzhSRHR5ekpPY1V4NzcxazVPVEI0WDF5QkcwVDhENkR5OVA0QXZIQ0V6SHlRR0ZJRmRXNXFIS1Rraks5S3JXWnowV1NlaC1FNkxjUlQ5ZUJ4VGtBMkc1Q2hOOGJoUG9TcFc1OFVNaklQUHhLRlVGUVpqQ0dEZUhuZUVCMm5ubGQ3OFRYSjFoc01aeVpqY3VNUXFGdDR0NWxubXlkdERPVzc5dHY3NWw2TUFCX1ZCajQ4OVpROEkyUHFOWmZkSkV1LXc?oc=5",
+      "publishedAt": "2026-11-07T06:53:16.000Z",
+      "severity": "medium",
+      "titleZh": "直接的。 11 月 7 日动员：跟随我们一起关注新一天的示威活动",
+      "content": null
+    },
+    {
+      "title": "« Stop au flicage ! » : des salariés de l’Hôtel de Paris à Monaco en grève jusqu’à ce lundi, ils dénoncent les sanctions contre 13 employés du Grill",
+      "source": "Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOelZPS0xZTmF4LTZTTDgzMHpPYUs2NHBuV25VTllKMHA4VFVibGNyVzk2RTdVT1V5ZVk4VGFabjNQV19kSTVQVGQ3b2V6SHZFZS1WdU12RFl0V2cxSHJpcFNNc2FFRTZrZ18tYWhHTmxrOEEtYlNHMDNsM0dQdnJHSEJRMUhOOFNrN1hPWGZiYnJjM3NEYm1fVFpmWnFBTmNDZ1Z4MHJtQ1FjUHh2bnRsYWZaYkRTVnhBR0EwTmc3TUd5UTZ1cXNLb1B3bFR3Z3pIdjBDQ0VxRWIydk5TSWNscXVzV2UwNnVLei12bk5GV0pDNk1ZWE1ZUkxXNUQyNHFvSE5JdHR1QlRxMXVLNFcxVTNUWWFOa0YxRVNyNQ?oc=5",
+      "publishedAt": "2026-11-07T06:42:01.000Z",
+      "severity": "medium",
+      "titleZh": "“别再抢了！” »：摩纳哥巴黎酒店员工罢工至周一，他们谴责对烧烤店 13 名员工的制裁",
+      "content": null
+    },
+    {
+      "title": "INFO BFMTV. 40.000 à 60.000 manifestants attendus à Paris",
+      "source": "BFM",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTUyTGFHMEhyTWJGcmI2ajN4VGlhNUNrdTVqWmhwellkT2lYc2RUTHhfWTBFZkpWUW1JWk1CNzBrUkI5SWxFaVBEaHNhcjkwS09oTjZxN0J1enRSM0N5RWYxRkJLTFBPTWZmV1VfUTcwbG15RFY0QmhjdE44VEQxZmdjMUd6clpkczJUT3BjbGluUFAwbnNINHZOTVZBNE1kNE10VVh2S1N2Q0VGSDVjaVc5VDNNVTk4RFlCOEVSYk5zNGN3Nmk0?oc=5",
+      "publishedAt": "2026-11-07T06:35:46.000Z",
+      "severity": "info",
+      "titleZh": "信息 BFMTV。巴黎预计将有 40,000 至 60,000 名示威者",
+      "content": null
+    },
+    {
+      "title": "Depuis le 17 octobre, drones et hélicoptères sont de sortie pour surveiller les manifestations",
+      "source": "France 24",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU2p2QXB3bTlrNkRRZlFvSHlWTDMxZXRrX1pER0NfMXUzYkNBVmVaUlFXRkVRM2xja3J0bjhuVXV6ZGRwRlR6MXgyYUIweWFEX1o0RjRBdkFXdldZQ01zZGpOaTBUTjRweVNXX21VemtiOVBRT2JTWU9aVnlRX0I3S3ZvbldQazVlNVdwUnBUWll3ZFlqOEZ5OWExSHhEUnZmOFdyRHZIcGRHTDNCdVM1YTlHZFJ5RS1KRHMzUVo5OHZCQWVfQWdIOWtQdURpUGs?oc=5",
+      "publishedAt": "2026-11-07T05:32:56.000Z",
+      "severity": "medium",
+      "titleZh": "自10月17日起，无人机和直升机一直出动监视示威活动",
+      "content": null
+    },
+    {
+      "title": "Another Day of Protests Is Planned in France’s Autumn of Discontent",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2d1RWlqRjk4dVE0b1JxYTFGV0N0U3R1SUpMR0VkbVdhbDhnMTdKbncxejBuQmlKWWxNamRfbjdRa1FXREZkOENfX0c5SFh1QlREdGx3UnpCd1MyUWVTWjFkcUc1cEFBX2dETnRMNk11Q3RMSHhkbFhDVHZ0cjQ0eW5pTGZHeTdjT1B0cg?oc=5",
+      "publishedAt": "2026-11-07T05:01:04.000Z",
+      "severity": "medium",
+      "titleZh": "法国计划在充满不满的秋天再次举行抗议活动",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 7 novembre : République-Nation, voici le parcours de la mobilisation à Paris",
+      "source": "Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcFotSXRWNV9YNnpnMjlURERTU0lqNXJFY1JJZEdxamdZZEx2OTJCM0EyWERtN3FIWDZfaEtPeXZEd05fdkpscXVnYllFNWFTZzN0Y21mX0duc2JuRm1LZWRrSWZrQ3ZTV2J1b3pUdThwcE9icWNIa1FPdnZxeUVTdGl6TDhJSC1qbkI4SEFGbVpXek1BZUs0WEhXUXE1ajA2bUw0M2tZUjE1YWlnTEhVMTR0ZmNGMEY3R2YxZkY3TkhNY2xIcUZTVmstOTBQWWJSMTktZVQ0OTJocHBpNG1neDdmX2M0bEVMLUhtVWF5R0pLb2FHRVVHQTJGcw?oc=5",
+      "publishedAt": "2026-11-07T04:30:00.000Z",
+      "severity": "medium",
+      "titleZh": "11月7日示威：共和国家，这是巴黎的动员路线",
+      "content": null
+    },
+    {
+      "title": "Parcours de soins des victimes de violences sexuelles : ce que prévoit la proposition de loi transmise au Sénat le 29 octobre 2026",
+      "source": "Kohen Avocats",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUW5zNlBuV3p6YWs0Tlc2NFVHV3NYNmVsQm9GX3JYTEUyaXZfWnp0M0JPYTZzRVdxdlpCT2FVTVo4STg1Z1NtUnJyZm1rdWFGV3ZjUUJHSDZ3b0RwWlZaOTE5bjlNRjRkSnk5Y3owSG0yTWE2VHlkMGE2X3gtazg3bGJydzJTdG9nT2UxcGxzYnZTcERkN1l0Zm9TNmJocGp3bjhFNXdsdU54VWRISW10NnEtS2E1QTYt?oc=5",
+      "publishedAt": "2026-11-07T04:20:00.000Z",
+      "severity": "high",
+      "titleZh": "性暴力受害者的护理途径：2026 年 10 月 29 日提交参议院的法案规定了哪些内容",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 7 novembre à Paris : 16 stations de métro et RER fermées ce samedi",
+      "source": "Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNb3JMOXhpck5yQ0wyMmhzWWRJYzJ4S2d3UXZ3NWJQYkJvTi1QSGM4ejJBa3dxMWY4NlJqdWtZMGc4ZXEyQkVFTXhlNWY5T3I1WG1XcEFQbkN4NnNkNHZfT2JLSkZFTHhmZ0Jhdy03YXQ3YXVRcGlseVUyc2hEX0MtQWR2YnNYYU9KX3A2RDlzZW91aTZnWkhPSkU4QTVxLUpkNDFmOHliT0lpVEJoelJFVE1ER1pnSnJqd2lwS0JtQTc2TmVJVzN4ZXA1WFEzY2REdEFhTHQ2bkVTVmhjWkZ0ZzhMSkMtZ3FGV3JqUE1FUmFlNnRyZkdFcmJ3aEo1XzZLZnhtMGx0akZuS2RoWUhxWV9xMDFOTEFqY1E?oc=5",
+      "publishedAt": "2026-11-07T04:00:00.000Z",
+      "severity": "medium",
+      "titleZh": "11月7日巴黎示威：16个地铁站和RER车站本周六关闭",
+      "content": null
+    },
+    {
+      "title": "Que faire ce samedi 7 novembre 2026 à Paris ? Les sorties à ne pas manquer",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV0JJQUFfUUlpdjEtdzllNDd0dEZDcWhpLUlnb1JtNjU5aTc2SXNKQlFRLUVFUUVUZjMtaUVEZ1FWcVpKLVNMWHRadmt4R3FrN2hkd3Z5VkpmZVZTYlB2SU8zam9UQ0JlN09raHpyUENrYW9saGRVR09IMEpzWENZX0oyM0RCTmxkc1hiakJSMmplTjdEMjR6alNNMDZ2a1lWZ2ZILWczMy1LZFJVODVPVy1zc19xMFNuUFowMXFWYlFJcWtKS29iQTNZU2lRQlU?oc=5",
+      "publishedAt": "2026-11-07T04:00:00.000Z",
+      "severity": "info",
+      "titleZh": "2026 年 11 月 7 日星期六在巴黎可以做什么？外出游玩不可错过",
+      "content": null
+    },
+    {
+      "title": "Weekend of fiery protests in France raises questions, costs millions",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcFhEay13QkdwLWpfT2lQTm9RVFBEdkFKSWNENUNMQU1xTG02TFpmbUVEb0xCam5kaVVnUGxWREhNTEF1SG40VmkzZGl6ZUpzSXYtMUtBRlc0YmoxT2dxVGNLQlhXMDA5cjJ5elNydDBLYmZOTlZDTVJtb05DaXZDMEpva0VOY3hWSUhzM0FENGZuNGR2V2lFbG4ybkZFNnBzZW5tMm9JR0lNWmdXeUJsOHdR?oc=5",
+      "publishedAt": "2026-11-07T01:25:56.000Z",
+      "severity": "medium",
+      "titleZh": "法国周末激烈抗议引发问题，造成数百万美元损失",
+      "content": null
+    },
+    {
+      "title": "HS STUDENTS PROTEST FOR BETTER SCHOOL CONDITIONS IN PARIS LOOK: French high school students block Rue de Rivoli, one of Paris’ main central avenues, during nationwide protests calling for improved school conditions on Nov. 6, 2026, in Paris",
+      "source": "Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXgzVFBBcHVXeGVUYjVCZ1QzMmppYUVBeU55WU5JOUxhcVNyVW8wOEVsSXRxeXpSZDU5dXlKUE9NNXJTbklULUpOX1ZNX0c3YTZ2UHF3dGU4NTJNLUZ2TjhIMnc0SzZkVDlIY3VzZXl0aGlQR1kwdTF4NHM3NFd0bGhZZ01LRWFjT1BaU1lLeFc3WWoyc3hIbnhFc1VuOGFwSVduUU1OQzFBbkxkUFJReVNiOGdtQnlSZDJVbGFjRlcxR3ViYXNKSDhleVNUSGxpRDlR?oc=5",
+      "publishedAt": "2026-11-07T00:02:25.000Z",
+      "severity": "medium",
+      "titleZh": "高中学生抗议巴黎改善学校条件 2026 年 11 月 6 日，法国高中生在巴黎全国抗议活动中封锁了巴黎主要中央大道之一的里沃利街，要求改善巴黎的学校条件",
+      "content": null
+    },
+    {
+      "title": "Paris : quand l'insécurité fait fuir les touristes",
+      "source": "Presse Agence",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONWszd0pQclZvUzlRNEdPVndYSFQxRVdTNGhRa1hmaXBicEVndFh2UWpqdWVzY0JLaFprR1hXUHlvQ0pxeGJfemlmSXJKM1FiT1drR0lmdFJDU2ZXZzhoMkNLOGU3RmlKaExiSDAxMWdrQVJGUGhoeWxlZWZMZ2FZZS1zeDJWNlp4cm9MU2stRVJPcW8wT1QyQ2VCaGx6bnlUSU54bTIwSXh1Y1pZczZZV2E5eldOQW9JOFJQWg?oc=5",
+      "publishedAt": "2026-11-07T00:00:00.000Z",
+      "severity": "info",
+      "titleZh": "巴黎：当不安全局势吓跑游客时",
+      "content": null
+    },
+    {
+      "title": "Manifestations Paris gilets jaunes : tensions et actions prévues",
       "source": "Sud Radio",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORnRFTXlmMmNiSVZ2cVg5VzQybGZHR1VGNzdKdXUzUk1fNEJTM1d1My1vRWh1R1pZbFBhbDdNYUJkTVBJa3Fmc0dxUDIzTFM3RDM1c256WElIa09OVkptdmRDLVc2eDdTLVY4YmJrMUJUSkdnb2VhalAyM2JHbHRSZmJMSHg3bElha3JZSlRDenN6RGRLT1BKc1E5S2ZoQUJkNnB2YXZJaTE?oc=5",
       "publishedAt": "2026-11-06T23:29:40.000Z",
@@ -517,15 +816,6 @@
       "content": null
     },
     {
-      "title": "Midterms: A Maga PostMortem, Europe’s ‘Shape Shifting’ Protests - The World This Week",
-      "source": "France 24",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHB0dFdJeTlwSm83eGFaRC1jMlFQTHRZQTBNX25UWjdNb2pzV0c5T05RaUhoSDlZVDlUOEdCMlBtTmtYUVhEemVVVjBFSkl5b3ExbG1XMHAtNlJIcTlqMlVBdGVMclZObkk2T1BSMmYyeFEtcjdhaW55aHM1akFia3FIMkhTVEdEazVtdG9jOF94ZWVOajhxb3Zyb005eDg4Qkw2cUJrYzBicU5tclN0SElPbGl5Q0owaTJtQmVYSTVYOGc?oc=5",
-      "publishedAt": "2026-11-06T20:08:32.000Z",
-      "severity": "medium",
-      "titleZh": "中期选举：一场马加事后剖析，欧洲的“形态转变”抗议 - 本周世界",
-      "content": null
-    },
-    {
       "title": "Macron has ‘secret bunker hideout’ if French rioters storm presidential HQ – as protesters continue to clash with cops",
       "source": "The Sun",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FaFNvUHdiei03RDhsV0ctRmFPOGQzdV9pYzNUYnVUZDFfZk9hcTBYZFdNdWFWWDR2alp5My1SVmlhS01hVVJaaDBtNGlUbm1JUHg5WnZDMEI5RlVvbWZTeHN2TDBFd0tTSUlxc0JwaUZmLWRhcW42NV9oUmp6ODA?oc=5",
@@ -541,249 +831,6 @@
       "publishedAt": "2026-11-06T18:40:15.000Z",
       "severity": "medium",
       "titleZh": "示威活动：巴黎警察局发言人详细介绍11月7日的系统",
-      "content": null
-    },
-    {
-      "title": "Manifestations de samedi en France : 70 000 policiers et gendarmes à nouveau mobilisés",
-      "source": "France 24",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTG9SeFhkb2ZTc2hhRXU0LW92alNhUE0zTkJYYlRHQU8zekVySjRtSFdaNF9EQUlPYUp4VzZ3SGowTEZjUzBHODJ4bW5KeGk3VEswU2ZJV1dIWmtONUhFZDFGLUhaWkZlYTFCbEIycFhJM0p0V1d4Q0hjQ3Y5eUJKNmx0SkVKQ3ZyaDJSdi05YTl4cG4wR3dFa1NET2JkSDVKZmhxMDItNGJGejcyZGZpWVR1aW1fdm5VLU00VXZiSWlWajl4VjlXLU0tMjdkUWZBdV95eg?oc=5",
-      "publishedAt": "2026-11-06T18:18:03.000Z",
-      "severity": "medium",
-      "titleZh": "法国周六示威：7万名警察和宪兵再次出动",
-      "content": null
-    },
-    {
-      "title": "« Un rapport d’emprise » : un châtelain du pays de Caux condamné pour violences sur sa femme et ses enfants",
-      "source": "Paris Normandie",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOel9jZTc3NnhTSFRaYnNOMGFsbGRsMzNRMkJoTWUwczc3UkFDY1pfM3l4UF9fWC0tUEEwWnNTbGx1alhnS05xb3ZRUkUwM3NkcUI1SEV4eVZYZ0xzV25nWHFGX2xuWEFTQlpuckFzVVN0TllXbW9IV2pqcGFMZHVVYzN6eWQtTjdrNW5hZm5sNDRER09HVGtCQVFXT20wLS1PSWJvYkxseVBVMUNWX2d3b3RZWFBmcjNMV01KTVhXS2pObVFhbl9pUUhjVWNyTFo1b3l2aA?oc=5",
-      "publishedAt": "2026-11-06T18:15:27.000Z",
-      "severity": "high",
-      "titleZh": "“控制报告”：科克斯地区的一位领主因对妻子和孩子施暴而被定罪",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 7 novembre à Paris : parcours du cortège, transport, stations de métro fermées, à quoi s'attendre pour cette nouvelle journée de mobilisation ?",
-      "source": "France 3 Régions",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQRDZmNUVDSDI0cHh6MGdxRm16Ym5HdnZSSGNwd2xvVkkzeXRTSGg3TDY0ZzM2MExRZFdnTjFTSVJ2dWNVUmhWVDBZdkFlbVVZTEd5d1cwbEhiSlFSR1BIVGtfY3F1bHNvMk9KejJpSWo0TjM0dHhrNmdqU09tUGVyNkkyRERhV2tZeGtSRzlqUlNUS1dlbllfakQ1WTY0WE1qT21pSDRpZ3hGalNVeEtYSUhtQ0hhemY5eUFHTDB2SFAyZ1VhS1c2ZWZIMkxVYXN0RmNPclYtSF9ia2hSajJCN0ZmT01Sc3RudWh2a0dtV1l6NG5Zb01YY1o4X2RNYTMycmd5WmhyVXBKWTlTcllRalA5M01OWnRiOEZqV29QNjRvMEhad3VETVJqRWFvOWVKX0pRbjNsRmJYZjdILWEzT3lSajFGa2V4ZVJudktmOA?oc=5",
-      "publishedAt": "2026-11-06T18:04:43.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 7 日巴黎示威：游行路线、交通、关闭的地铁站，对于新的动员日有何期待？",
-      "content": null
-    },
-    {
-      "title": "Manifestations : l'AFP dénonce des violences des forces de l'ordre contre ses journalistes",
-      "source": "France 24",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMjhWbWxuakp6LURZbE1fdDR6T1ZJZUFLbEhZSWVKTzFFb0ZuZTZyc1RJTDY5a2lpX1FIOUUyQ01vcjVzdjFJRXJvTS1fWFNpN0lnYW9EelFYaDVIYVZjenJJeFlDaV9IaDJmaGZvLVJyWDdwVmVmSXdUQW02eG8tWktLYkt1UjRScGgwQ1Y2NkdvME53bnBVNFBweVVsLW0zOG42UW00OTRVT3NyR2V6ci00VFpKQmozQ3MyNENxYnpNc2pjOXhrSWxaazVFcGZVWkVmMFZzY19leV8xNEhR?oc=5",
-      "publishedAt": "2026-11-06T17:46:01.000Z",
-      "severity": "high",
-      "titleZh": "示威活动：法新社谴责执法部门针对记者的暴力行为",
-      "content": null
-    },
-    {
-      "title": "CARTE. Manifestations du 7 novembre : ville par ville, voici les rassemblements prévus ce samedi",
-      "source": "Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSXg2ZW1tTnpXQm0wMVpVcld2NGtXVG53OHBlOUdaWndjVEVQVnNMUTdVYTNwSHRZeXgtc0FRQV9aS3dMNm5UbTFFc0VHOGhScldNc3JhZnY1MHg3dEJmd0pGZy0xdGlBUEpKWklQMDNzMElLWXAwRlFqZ1BVYkU0SmpCOFItLXJQdDZhSVVybzl5d09ubUhCdWpiUHlOMkZOb3NVTFlhZ2pRSXRPZnB3MXQ0Wm84QVRrb3c3Q1hrX0tvdEFoN240dkw2Mi03YUNTSlBkUmdwUnVTMXkxREdsTU8zajZuUWpxY1g4NDh5Wm84bFctRmRsc3R4RkE5MDVadmNVekdHbUpmZTQ?oc=5",
-      "publishedAt": "2026-11-06T17:45:43.000Z",
-      "severity": "medium",
-      "titleZh": "地图。 11 月 7 日的示威活动：逐个城市，以下是计划于本周六举行的集会",
-      "content": null
-    },
-    {
-      "title": "Cortèges, manifestation interdite, métros fermés… À quoi s'attendre ce samedi pour la nouvelle journée de mobilisation à Paris",
-      "source": "TF1 Info",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQNUpGY1NBVUxtOEY2VG9PLVV3VVlKcDlsS1p6bWlOcnBGbUdXd2RyS0hqNjEzemxHMUY0UWhaVTgxZlpLU0VCTV9RQXFCRE1YeEJ4SWR5ZHdNTUszdjgzd0drTDJNVFhSOE9XV2d5dkV5Mk1Vdlp6N2VfVmY0bGRTdGxWOGR0NEtkWXd0VzBYUVUyWW1mWUFaS09EUnlLdk9CQ0V6cU1IT19SLVdldXBuVlF3UDc3blIyN01xMkdmeGQtclRnaFdUQkxZMl9LU1ZfQ0ttdmpGcVNGaThEb0pKWGNlMWhPNE11ZlhIRUllRkFIeGRsYVFpaURMdXRQQXluOTU2b01LeHU3Njd3VzhNTQ?oc=5",
-      "publishedAt": "2026-11-06T17:43:36.000Z",
-      "severity": "medium",
-      "titleZh": "游行、禁止示威、关闭地铁……本周六巴黎新的动员日会发生什么",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 5 novembre : deux journalistes déposent plainte après avoir été frappées par des CRS place de la Nation à Paris",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNZzROVDJpT3V0WF92eUoxLWRWZEsxUjV4cEsxZUl4YlROVnhNeHVJcnotNDNNczkzT3VDLTNESFZ4emVYWDBfYXNfeEJTbms0LXpIdllOVDVBbjB5YV9UX09OX0hZdGN4SHMyMkZrWlg5dXhYVlI3OTJDNHhRdFMyWENKa1NFYVRuY3I1R2VkZkx0dGxxM0NFVVl1eVQtR08tcnZWVGtxTm01Z29MTFEteng4N3F3UnNneUtyN0tUTTIyWkhSS3dVZHBqOG0ycXplWHlieUYxa05EUXBXSk5pUmg5b0RzU2hsMzJJRVhnX3pxWGJERlVBY3MwT2Y5dkxManF4Vm1NQWtRZFA2SW1qQnNvMGlRY2JVdjByUzV3bHV6d2xqczlPdlhhVQ?oc=5",
-      "publishedAt": "2026-11-06T17:20:45.000Z",
-      "severity": "medium",
-      "titleZh": "11月5日示威：两名记者在巴黎民族广场被CRS殴打后提出投诉",
-      "content": null
-    },
-    {
-      "title": "« La rue tue » : la Fondation pour le Logement frappe fort avec Rosa Paris",
-      "source": "J'ai un pote dans la com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLTNjTEk1YnotbkU1N21Mb3JhWXpGSUdYNHV5S2F5aTJrZU01aThXdTc3bWVydklMRkxnRFNwQkwzeU1fU2FONFdzbWlpeVJsdk56QzQ4YzZrU0JHMjN1aHdJSWJyQWUyN0Y2RHQ3YTB1eS1zbWxNelJwZTBWbkZ4amlTLVZFVEl0X096Qg?oc=5",
-      "publishedAt": "2026-11-06T17:19:44.000Z",
-      "severity": "info",
-      "titleZh": "“街头杀人”：住房基金会对罗莎·帕里斯进行了严厉打击",
-      "content": null
-    },
-    {
-      "title": "Manifestation anti-Bolloré à Paris-Montparnasse",
-      "source": "Sud Radio",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObEdGUWx6aFBUX3k0R09IQ0RheFlQT0VZb2pDa1g3eDNXMkkwaVRFa3l2eHdFdThRMUhSeHNweExRWGtqd1JtN3JNVlJTX0RQc084WUItbzE1RjN1UDhqU3cyTFQ3SUxPRlRQb0VwNS1UX243M0h1RUNyQVA4SC1UYWE1XzBHdll2dlpscVlScnQ4R01Eb0RnRlozRVNuUks3cTZaSVFEdHh6UTQxdTdJZ204UmdCdXdI?oc=5",
-      "publishedAt": "2026-11-06T17:10:27.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎蒙帕纳斯区的反波洛雷示威",
-      "content": null
-    },
-    {
-      "title": "Mobilisation de l'intersyndicale : quelles sont les stations de métro fermées à Paris ce samedi ?",
-      "source": "CNews",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGVvQkhNOW5IbnlNcmJoY01vNDIzUmVPSjdOTFU2NndQN2hqYmFXMTRJc2VfZFBOby1wRFlFUTB2M2l4NHhEWm9vMWpJVG5ZX3Z3TG9qY2Zrcy1yUnR2aG0xRGE2LU5FdEVHUjd4X1lDbUhwUzE2OVI0Zzh3ank2ZlNXT2duTTJCRUk0cnc2aEJ4cW5URUh4TzNaVnhhXzd0TXdPS0xWQUhuaTB2MUtVM05yMlRhNHZmTXJV0gHAAUFVX3lxTFBXcy1wTWhCVEcyd0FBYnZKVWMzMWJfanVoYnVkemFhQ3V4bHF6NndPNFNpMnJNczRTTXNMOXptWnkza1VLNTJXOURzQmZlSFhqMW9kak5ZM1ZJRmI5NllxTDIzZFloYVlHZThuSk4zNVVPQ1JHQXlhdW5HeEJVX2lpZ3FfZGV6OXBmS2tNR1QyUDc1ZlBZdzh4WEhxOEY2S1l2RTAyNm5fZDJiZDV3cFYwWmdzTzRMdDRSeEswcW5KNQ?oc=5",
-      "publishedAt": "2026-11-06T17:02:31.000Z",
-      "severity": "info",
-      "titleZh": "工会动员：巴黎哪些地铁站本周六关闭？",
-      "content": null
-    },
-    {
-      "title": "France in revolt: “This movement is just beginning”",
-      "source": "Counterfire",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1lBZzRaNGg5b3ZtUjZkeGF6WmtrY19vTUNBYWloOTV5NllFZUo5bjU4NVBHbG1LLVZYYmc2ODU0MXpEVXFwVVJhRDc4Vm5SSUsySU1hOENrVTBJMTAyX3B4S3BZeXdFZDhRMXE2NElVTUJPd3lBTWRvcWxncUd6Y2thSENJaEZfYXM3M1VB?oc=5",
-      "publishedAt": "2026-11-06T16:56:36.000Z",
-      "severity": "info",
-      "titleZh": "起义中的法国：“这场运动才刚刚开始”",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 7 novembre : parcours République-Nation autorisé à Paris, dispositif policier reconduit... À quoi s'attendre samedi ?",
-      "source": "RTL",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQcy1Fd2pDNkFNUWtKMXlCZDdvN2FfeVZNRWVVOVJnbUE3c0I4czZNWU84MWJ5blpPYmZMQnVXcEhXaWV3cjRjYjR0akVrcHBXOC1CMTFfZHlFS3BCand4NkpZeTNiRGJVSFNvaG5ZOWVOckZkSWdISVJPZURsVVRvNEw3ZFdCVnh4UUF6dnZlenN0eE40ZzBJMlo3UlcyVktSRGNLNnJ4SGdEbW5yNEJ4UkxmTnlCZWpSY0JMSE9pUzNWVDhKNWdZdzU4OEpYVEwyTTVQc1F5ckFHYTU2V3lCcU81Ukc4azFFNXhBdTNqUFNwNmZ2ZDFGelVfd3FfeGFSeEczRi1DNER3LVBr?oc=5",
-      "publishedAt": "2026-11-06T16:56:13.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 7 日示威：巴黎批准共和国家路线，警察部队更新......周六会发生什么？",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 5 novembre à Paris : des anciens de Polytechnique sanctionnés pour avoir défilé en tunique militaire ?",
-      "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZ1dXVko3a1lLTUlDdEp5Y2RyZ1BkbGNJVk5OMWVzWjdBOUU0M3RNcFJfWGVoTV94NEpQdkFUeTRFRGQ0aFZvQmRQb2tFS2NtakRUOENhZmRieVQxbjFHVE5TWjZtVTltUXVRYUYwQ21Fb3lBTFRmanMyTTY1eHExXzVESVRya0RfeUZ5V1FXSlVrSzlnRWdqV0dVT1NjRWVoc3VfU2kwcjZoZ2VmcFRQSl9yUkRKTEY4WjNjTkxTcUVDb25qUS1KWmFObWI4Y0U0WVhmdVdKTTRTZUp6RnAxcjlJMFVybENYNHhTdTBXYXh4SUR6SVpVRlFFNHlzYVJO?oc=5",
-      "publishedAt": "2026-11-06T16:52:02.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 5 日巴黎示威：理工学院校友因穿着军装游行而受到制裁？",
-      "content": null
-    },
-    {
-      "title": "1,6 million de manifestants contre la vie chère : les visages d'un 5 novembre historique",
-      "source": "NVO",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcEU5aXhIWWFWSGlqLVp1Znd5MG5UVS1yVG51NGhEVFV4bjhHYllvbzFrUzd5ZWp4WWhnc3FZOHlsSXZzdmNudV82dWhsTFM2MW9LbXl4OHc3bHZDaVUyM3hkamd3d1VYTWk0ZHpmOW5qVGZ1ODNERF9RTUtjem9IQ2R2XzM2RWc2Wkp0UVl2Q1pXeUdadWNYTTNrbFBESlRIUmc?oc=5",
-      "publishedAt": "2026-11-06T16:51:09.000Z",
-      "severity": "info",
-      "titleZh": "160 万示威者反对高生活成本：历史性 11 月 5 日的面孔",
-      "content": null
-    },
-    {
-      "title": "Grève du 5 novembre : deux journalistes de «Politis» dénoncent des violences policières, une plainte va être déposée",
-      "source": "Libération",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPWFhOdmFCOEcycy1kRXNZUFNqMXVud2UyWWpvWWlKU0dEUjg4WjVrZ3ZXLWNOUlRiTkJBUXRPNkFOdDYzS2JwZWk2bHpQZ0NSS19KUnZfV2tGcmltU0dma3N6cU02WDFOMEpuVGpUMkJrOEdONElUNWgyTlBnYzRxOWo2S0Y2WHpGcy1acVEzbEZUbUtCMUFRSzJBdWRzaVhDQm9QZ2RiQWRLcGoxQU5ZZmdnV2lUQ3BWZC1mdlNxZ0w2ckxKbnJWR3pDRWN3T29zbTg5Y0xDUWotSENmMXdFMDRJdzVwUDJMR20wNWZDUFRhS1lOYVdZNDJiRnpSelUwSFZQbTZva2I3QUlTbjh5dUFqM3Z4TjhHNy1YcHY1RVVtUTA?oc=5",
-      "publishedAt": "2026-11-06T16:30:58.000Z",
-      "severity": "high",
-      "titleZh": "11月5日罢工：《Politis》两名记者谴责警察暴力，将提出投诉",
-      "content": null
-    },
-    {
-      "title": "Mobilisation du 7 novembre : à quoi faut-il s'attendre à Paris ?",
-      "source": "ici.fr",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOGdUZ3VSRklmVU1GbjBpSUd5aTU5M3BRWHFJaVM1eTlyWkZWNF9hNlQzVm5FcWFrdGk0U3JBUlVRY0Zkak5uYTQ5Y1duVk9CNVZ5ZUYySTZGbVhVTjhaOW1OT01JNFVpMFh0c3RKY2xpM2x3anNIclk3SUNVZ3FqV3dSZ1dULVNOVWtrWF9hdk5FT2NpNGhCbHVqWDNHRjdhSkVQRURRVjd2dWZMZlptUE52SFMzaHc?oc=5",
-      "publishedAt": "2026-11-06T16:14:11.000Z",
-      "severity": "info",
-      "titleZh": "11 月 7 日动员：巴黎我们应该期待什么？",
-      "content": null
-    },
-    {
-      "title": "Manifestations du 7 novembre : à Paris, des « gilets jaunes » maintiennent leur appel à un rassemblement place de la Concorde, interdit par la Préfecture de police",
-      "source": "Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQc25vU1REZ3hOR3NrRjBORlFTVDNlZGV4U0daX0FMWDNvLW5qaHRXd2Rib1lVdTVOWU9UN1RfbHB4Q0lERjVXZUxvYjFfXzNhWjgybko0dDl5SHZQbXgxeVZQV0xoYld0MVkyTmUtUFdkdm5xek1mZUdSby1jdWhiY3p5NWk2d3N5NG5JTTJ5OUxVR3I1d1RmeWNNWF9vVzRWWi1xSWE0MFI1dV9UM0tBS0JTLVdrWFczVzZNSXNoTmFmS2dkei16VXJhbWIzQjZNN0ZFUkxBNkRXSTItS1RBMzQzdlZqbF9Ddlg5UVh4UjJkakFra3l4dW5kZURMYzZVWnJxQmdoSTduZEpvdW5WZ1pONlNUU1dKOEZ0OFRSQVpUem5Od1ZiN2lSU1M3LUNZTzdiMENUZXJQLXlENTZjQjNrSUdkVEd6MHVN?oc=5",
-      "publishedAt": "2026-11-06T16:10:28.000Z",
-      "severity": "medium",
-      "titleZh": "11月7日示威：在巴黎，“黄背心”继续呼吁在警察局禁止的协和广场举行集会",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 7 novembre à Rouen : le cortège contournera le centre-ville de nouveau interdit",
-      "source": "Paris Normandie",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ1d3TlQ4QzZILUtNTk1LM2Q4MndleGM1Z2ZYeHUteWd6Ujd2MUQzTjNIZWp4Q0RrYVhKTXRKaDdJSWNqcjVRZWs0TXlpTWhPSGVxZHJmREttU0dBXzlyVXh5a0NKdjdELXUzTkZJOFlRNFVtbDJoSGZuUXhpUUEtdEhWaWVuMzRISEtNVkcwR2hUZThTUkl6Q0ZKdlpHaTlYcVhieU91cmhta2h3X0V5TzI3VG8ydWJKZ2FTRnB2RGJsdmE3eFJCVW1UTk1OdU0?oc=5",
-      "publishedAt": "2026-11-06T16:10:00.000Z",
-      "severity": "medium",
-      "titleZh": "11月7日鲁昂示威：游行将绕过再次被禁止的市中心",
-      "content": null
-    },
-    {
-      "title": "Que sait-on de l’«altercation» entre policiers et gendarmes à Paris lors de la manifestation du 5 novembre",
-      "source": "Libération",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSzBJMkFiTVFzTXdtcDhJeFE1dTJKdENCSkI4N3JCbE9zanJRSVJzeGxfb3YwQWNTZFV5OUdRakFHWHZra1ZwQ2c0MEZQb241RWNuNXd3VnpTd3pLUHdaT25zWXEtSGc2T095b3dyWjRSanByRVdPWEkwM1hzd2JBSHBLUGNWN0UzUUVUaDJXZkhHeGRBVHNFMkp3bEZnbFVLenlYdGRHRVRQLUM0N2JHSklFQl9Tdlg1Y0dPSUFDbThKS296ZjdWMEtsS3VxODFDZU84a0dTMWJyY0FJZ25VbjEwNDl2YzFWZl9CNjU1elVQWlNHcXhTeDNhRXZydGVVU3Y2b1lkMA?oc=5",
-      "publishedAt": "2026-11-06T16:08:37.000Z",
-      "severity": "medium",
-      "titleZh": "对于11月5日巴黎示威期间警察和宪兵之间的“争吵”，我们了解多少",
-      "content": null
-    },
-    {
-      "title": "Mouvement social : quelles sont les manifestations prévues ce samedi 7 novembre en France",
-      "source": "Libération",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNT3FBaXRzMloxb213N1pYV0lUeG5VMHRhM2pCempnZ3Z4ejU3M0cwZVlWcEdoSm45R0EyZjNqaUd0MUFrNGx1TE1aalkyMExfS1o5NXVqdml3bUpwQzUtNkdfSy1rLXd0X0daa2dUa1pLcC1US3lJcy00bE05N3NER1pPMVY3TDM1alJTb2VKT2NrMi1zTWxubnRBcnNBTXNJT2ROb3VXYzlhSm5scHBTRjdGRk1uMVpUM0JyTDZESkhZbWRGSzV4RWZPMEhUZV9mdks1RDg3emQ3YVBTbVVBZmV0VmFSaXdjT3JDUXFvR2JVOUFsTTNBa2Zn?oc=5",
-      "publishedAt": "2026-11-06T16:06:37.000Z",
-      "severity": "medium",
-      "titleZh": "社会运动：11 月 7 日星期六在法国计划举行哪些示威活动",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 7 novembre : quelle météo à Paris pour ce nouveau samedi de mobilisation ?",
-      "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaGtWTjhSV2tBT0JJcU02RDZYVDh1SDk0U1BvT1R3T3NPXzRPUEludHZpZzVSNEtsWlIyQ2tyWU5zSnNMc3V5QzR4LUNFeTNRRlU0M1NKdGk5bFBRZzlUOGZwTUdfNHBPeG9ib3ZmS3RmWi1sRlh3N0ZwYUxuVnJWSTBLZjljLXdlRUMxazN3NGR4dEwxd2xuSlFvdGphXzB0U05VNEpHdE9jRVpxb1hXLUg5S2ZLOGJqZDN4bkpYWEpPampnbmhPMEg0ZVV6bDdmYTNHWjdtbWxIYkU?oc=5",
-      "publishedAt": "2026-11-06T16:00:02.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 7 日示威：新的动员周六巴黎天气如何？",
-      "content": null
-    },
-    {
-      "title": "Quel est le parcours de la mobilisation intersyndicale parisienne du 7 novembre ?",
-      "source": "CNews",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGp6V2c0TmVjc083ZE0tWHhyNU5UMlhid0NqU2VTUzhMMXo4eVZRbEhLcTVpZ1N2WG9aTmY3elkya1ExZUIxMFlFbk1Fb2ppSnM0c1dGQ05iTHFHaWVib01jZl9zODdKaWg1YkZZYlRKczZBblJmV3Y5a1BYTzN3dlczdEtsLVdSd01LbDJPR2ZfbFpUTDBmeHRXbXNpMHM3UFlmQnlXbUpUUUVGdXlucG1SbExUZ2ZkOGfSAb8BQVVfeXFMT1lUajBtTnB5QnFQMnRUcFgya0FIc1U3M0hSdHprNGpUZ0t3am1md0hxUWhqTWIxelBTME1xVjNvQklSYi1tYkVRU0YzT2FZWkV4bm9HVFlvVGZuRzk2dkpaY2dlMUZHWEZXN28yaFgwbXZNbDZuWWIzelRhWHFuWXF6M1YzbkZhMS1KX09LZmluYjJkMlJTeUlZemk0Tl9Mb05PYllLTi1HQ1J3blNqMzRnbGFsX3ZOVjRCMEZMSFU?oc=5",
-      "publishedAt": "2026-11-06T15:56:20.000Z",
-      "severity": "info",
-      "titleZh": "11月7日巴黎工会间动员的路线是什么？",
-      "content": null
-    },
-    {
-      "title": "Un collectif d’avocats espère voir Laurent Nuñez jugé après les violences faites à certains manifestants",
-      "source": "Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcy1UbXRhMS15dW9hMnMyWDlETjRNYmx3czlINEdLS002Zll1UnRnRUNmaE1qVjlraUxyRjJPQUx5b1p4Y0I3cTNaaTJZVzF3N0o3WElaUlpycEo4dmU3Ni03cUxXelo1OFVJVVRuNjk0MTlXZWpubWlQdTFkZk1NaDZpZ09zLVl0a2l3a0laRFhBQUU3bDl2Wjl3Y1hHQktsTm5kYzZYcld2TGlkdDRacjhGTUdTUUhqQ0VpZHlWTzZRV1doUThraE5EcEdpUWZZYXdKbnpCbERJZGtMcmw5b3VURmItV0ZVajJyOFFUbmVjZDQ?oc=5",
-      "publishedAt": "2026-11-06T15:45:00.000Z",
-      "severity": "high",
-      "titleZh": "一群律师希望洛朗·努涅斯在针对某些示威者的暴力事件后受到审判",
-      "content": null
-    },
-    {
-      "title": "France protests cool after overnight curfews in Paris, major cities, PM says",
-      "source": "ABC11 News",
-      "link": "https://news.google.com/rss/articles/CBMijAtBVV95cUxPc1BTMXEzbWwzT3hjbk56WnZScjFwUFlMLW1laFQ5Y1RqMHpwdXRTWHVFOWxNSk1CMXAwZXluT2RZUHdLbFA5b3NrakdBSnBnU0JmeWRJdHhJWXRjSnFmMnFrWFBLczBCWm9GeDFYSnJKQW5yeUN4Ui1lYlFXdVEyY0ZYaW9OWmhNOHEtdnFFRVA5cjdJUVljSHlZdGxJZUxIZE1iUXh4OEZTdDVsRUtUTXVPYlU1RFFOdWo0Qm1tZVdlSDlPeTg3OTMyZmg5dWxCemhyMUVSM2QyT0ZxUllBal9ZTzdkZEs4aER6SkZUcWgwelRhSEZuUFNiZ2ZwcGZVOXFvT3EzT2tBd29OU0Nlak4zSjBBUHRUdG1za2RIRGRQbU1udWJlUmxEN0JlODRHNUNxRG1PZ0Q2MW9pRmVSMHlCZV93NXJSMm9IX1pRZlNIVjM5QVpFeWV1ZEtjb0ROVVJ5TkZMUlpZajY1eGJ6b0xjV1J3ajVzSjM5bjBNOXp4S3pqNW5IQ3JzS1ZZcDZkVFlSbUZsdXNnZGJWZC1VaS1OX0FMZzR1TGs4ZExnRmY5enhFNnpyRE5aV21LMkczUWtPbzJtaHE3SlpnTzJTSVh1bEdxelNIYUQ3azNVN196OEtLZzlMakdXWFFXYUxTcHRPMEpFaWxMTEs3M0I0a3I4N0lJTkJ0UHR4MHVISVpMUTJvb2FkWTFLOUhMZWlUM1NiazhRUTdBNVRCWGpQWGdTNjVpUTBlVHZHX3drQnJiM0MtaXoxYkRHSmFBRU5UaWVEanJQX2FVRm5ncDJKaEhBR2VFMURYVTBobVdXS1dQcEN0SXVsM0JJLTlPRFBhYXVsdEtlSVd3NmZkeGlWSVdtS2k3c1dNSm9LZWNVU1FNUWYwU3RabDBQZ1ZOeDdLNERsMllxQUV1dzBPQ0hrMmJFZmVfWEtHU0FETzFGNFVYc1AwOU1JY2NxeFFsWjhTV0l4LVVQNGhweTBRN2ZFQzVOS05hRTUwRkVnU3Z3TTFNMENVV2FhdWkwdEo4ajNJUVNmOTZtXy1uZnFrVm91ejlKSEV6bHE3a2UtSFN2VEViLTB1azRtMmw5YmFxTG41OV92N0phNjlsanI0ME50MVlKWFNCZzdfc1diM3ZDb1RXZW0ycUlGZnJXVVRuYjN1ZHFmRkQ2UjBjMXp2ZVpkVUFodng3MVpnVlB2SzFFbHpKekJEeGxXU2U3cGFveHpHbU5TcUNjTW8yb2FXTEw4OE9odnlGczdfdHItNm9ENGtVZkdjazloc01Vd1QtQXVuZHhaM3R4NHA0SnVaLWN2UC1QYW1nZk5YOEpYR3U0d3IxcENMS3pLRThIUjhnT0d4OENmNGQwTy01MEhvSF81cG5NOWxiSVBLWnBBUGJwWHJuaWtnSjhJMlZ3QVpOdEdGb3NRMGVvTG1KX3hWZTE5UFMwRk43RVh4ZXZHcWVNelRiTzRuSFZQQUItc0E3b3FwWmVBam83aGpQTmxpNkVmVktrTkVMNjNHN3hNX0l4al9sT2JLR01VTkROYWh5TS00SUpHLW03by1QZE9pZWRrRXBHSy1sbmd4UGdvaXBueF9iaGJlbEV1R3dPWHk5aGNhZTZrODl3a1M3SzhfcHhFNzAwRlZ3Y1owQzZNanJ5QjJFYU5VWm9aS3VvcEpEYVJCeVNrWE0xeFVXR1FaRklKYmxqZTRiUGQtRllLc2d2ZjVYbl9EX3g5c0pFZ0dXLTdwUk14bThmY0JJeWZfcDAtUG13aVZWaTR0eUZ6Z0lBX0pSZ1VvNmRfbzZFNThZRDkwMm8ybWkyZ3c3TG8yRFdOUEcyTjVLRlg5eDAwQ1pWTkdJS3pFb0JGR3c2MkI3VXN0WkRVVENLaGdHOGJC?oc=5",
-      "publishedAt": "2026-11-06T15:09:59.000Z",
-      "severity": "medium",
-      "titleZh": "总理表示，巴黎和主要城市实施隔夜宵禁后，法国抗议活动降温",
-      "content": null
-    },
-    {
-      "title": "Gilets jaunes et zombie walk : quelles sont les perturbations à prévoir ce samedi à Paris ?",
-      "source": "CNews",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT3lKN2o1TktfWU5aemFjR3VhQjNzQ2laS0YxVTZwa0tJaC1CTl9rc2xuOXRkdGpKSGEzUVRhQVVyVzFlSVJZcmRfNDA2bnl3SnJjckhXenNYdlRtcDNhLTdNSWlEMVNBVXJMQ0xXcmhsQVI4S2ZhQm1kYVJhTGM2bnZRN3ptSy1uYzdMSm1FWVhmcW95T1dvb2tEa1ZDRzlIX25NaXpMa1NnV3N0ZXFUeGhVVGtlbTjSAbwBQVVfeXFMTi1TME90SmU3OHZFYVZVeGd1TjhsZ3pFczNtSjctRFZQU19yaGxOY2NaSlp4a0Z0RzczTFdFcjFlOTVjS0QzekExQWlpb3ZwVFJjSGhwckR0VXNSdGtRdjYwVWRzcnZlcXhxNkhPcXJiUl9jSkt2TG9kZ1EtYzNCTzlHek1jRTlkREpZaFVRdWE1TGY5TmNCakpNNzMtWURiUzc4eTU3czM1bklfMFB0b1NuM3IxSllWNXZlMUk?oc=5",
-      "publishedAt": "2026-11-06T14:49:45.000Z",
-      "severity": "info",
-      "titleZh": "黄背心和僵尸游行：本周六巴黎会发生什么混乱？",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 7 novembre à Paris : 16 stations de métro fermées ce samedi",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZmk3RjlEN1E5QlVJQVJlcVVINmVKQlVoZ2xQZVBjZFg3MVFma1ZFNU1Ianc2a1BUSDZ0ZWVTaVR2aHVmbjhFMlJ0bFU3TmQ3MF9PMVRDQ29wOTNGSWVFSTkwQnJld01VUS16MjZpRW9EOHVRbUh2clBiY20xdGpIMVJKTzg5TkVzaXJxaWJUOU1wSFRlVkIxYlE2UVRlTDA3QmFKTHVqSXZMQWphM1JzU2FEalJ2YkRwNll1MmFoQWVKSWY2dGJUZFZRZG5EU3BtV1RVeA?oc=5",
-      "publishedAt": "2026-11-06T14:46:37.000Z",
-      "severity": "medium",
-      "titleZh": "11月7日巴黎示威：本周六16个地铁站关闭",
-      "content": null
-    },
-    {
-      "title": "November 7 demonstration in Paris: 16 metro stations closed this Saturday",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZXlXWTBSeFBmWkF6ZnFuX05hUmV1MmdDMGZfdkcyYy1NT05nb2gxRmdZTmZUWHFmSmkwQzV4NFkxWnhxRGRqTDZHaWI0NFotcHlQeGJqaEg2ZGcxNk9hTVUtVkx4TWVpc2lMdUpzc2U1T2RJMzVyeERmdFFzNm5oMEU4LTdIMmJqalVsbk1JdlNFdHoxaGtXa0Nyd2dkbzlXV2dmOUlYeDR3TlBMdS1XVklwNDNhU0NjWUxydDhYcXlBaUxLdnhjeTVYNE44UE0?oc=5",
-      "publishedAt": "2026-11-06T14:46:37.000Z",
-      "severity": "medium",
-      "titleZh": "11月7日巴黎示威：本周六16个地铁站关闭",
       "content": null
     }
   ]
