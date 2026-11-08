@@ -1,7 +1,7 @@
 {
   "success": true,
   "today": "2026-11-08",
-  "updatedAt": "2026-11-08T19:04:26.545Z",
+  "updatedAt": "2026-11-08T22:49:24.090Z",
   "events": [
     {
       "date": "2026-11-09",
@@ -79,25 +79,6 @@
       "status": "recent"
     },
     {
-      "date": "2026-11-21",
-      "articles": [
-        {
-          "title": "Manifestations contre la vie chère : les Gilets jaunes appellent à des actes V et VI, les 14 et 21 novembre",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQNlJoeVlXVkFTNGN5YnpMclNsOVB6Umg2dmVVejNXdnNfZUR1Mk1CSExQRFU1aWdhSXZMc1RRSnlNd2I4RVJpX0lCZXQ0VC1ocnRubmhSMnBqUFBYR2ZwTFpIZnBDa0l3Rl9LQXBpS2htODRnSFp5cE9vUlpiUHhEZEs5V25TZmpiTDAybzVyaWhEZGFtZ0doMVV0QWQ1Z3hRRmlwRU15ZnpyTDdsZzNKOVd0Sk5uM3BTM2U1YjhUNTZDQnFqVGlzUDFGMS05WnpxeVZlWnIzeFZRbUIwcTRaVjVyc084TkxZWnBJUkVmbUFBX2dXV2M3S1RPRjdxY2NNNDlDN29nMVlOUW1N?oc=5",
-          "publishedAt": "2026-11-08T10:45:06.000Z",
-          "severity": "medium",
-          "titleZh": "反对高生活成本的示威活动：黄背心呼吁采取第五和第六行动，11 月 14 日至 21 日",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
       "date": "2027-10-17",
       "articles": [
         {
@@ -136,21 +117,12 @@
           "severity": "high",
           "titleZh": "10月31日示威：两名示威者投诉警察暴力和性侵犯",
           "content": null
-        },
-        {
-          "title": "Manifestation du 31 octobre : Des manifestants portent plainte pour violences et agression sexuelle contre des policiers",
-          "source": "20 Minutes",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU0lVM3pGeWUta0ZJUW9OT3JVMkQyUVJMdnlrMHp6enpGUjA0SWk4a1MtTFZXcGY1RktiTFBkam95OXBqRVcxRmpwN0lCUzlCSnhJcER3X3N3ZHZMc0tLRWRsREtFeGZOWVdjcERHX3FnR21kdG9mejlFMTE0aDYwZGdhV3lVLWVUWTMyZk02MmxqLVNPSWg3QzZBbzVON01FTWNuZWR2V2RlTHVEZjc1eUtBcWU4RUxfNHdQU1Foa2FDS25wek5WR3dzSkhobkRYekxrYUNURWlmTktaV2gxek5BUXB4Qy1OcHc?oc=5",
-          "publishedAt": "2026-11-08T16:05:00.000Z",
-          "severity": "high",
-          "titleZh": "10 月 31 日示威：示威者投诉警察遭受暴力和性侵犯",
-          "content": null
         }
       ],
       "places": [],
       "districts": [],
-      "articleCount": 3,
-      "clashCount": 3,
+      "articleCount": 2,
+      "clashCount": 2,
       "status": "recent"
     },
     {
@@ -216,9 +188,9 @@
           "title": "Que faire ce dimanche 8 novembre 2026 à Paris ? Les sorties à ne pas manquer",
           "source": "Sortir à Paris",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTmhndHU4LXdCRlhfMFpzTzJYSm9weXk4UnFvTG9qckpyWGRvNUd6Y2UzSUduTGpkS3Z1VmZoYmEyN296a1ZDUXdReXVYUGNTQ0VaRmxrdlV0V1BsMWFWT1hMVkU3cnhLck4wZlJEMjBDa2wxR1loaDdSQXdVRWFjblFjM0JoaThaY01iYW9pQnEtQjNDMmZSZUVNb0d6dU5pZ21nbGtnZHZkaVdVR25JaGhaNDlGQVo4RGJ5cHRjSjFHOThDMXVKSXp5VDBuNkkteEE?oc=5",
-          "publishedAt": "2026-11-08T17:27:46.000Z",
+          "publishedAt": "2026-11-08T20:29:23.000Z",
           "severity": "info",
-          "titleZh": "2026 年 11 月 8 日星期日在巴黎可以做什么？外出游玩不可错过",
+          "titleZh": "2026 年 11 月 8 日星期日在巴黎可以做什么���外出游玩不可错过",
           "content": null
         }
       ],
@@ -232,6 +204,15 @@
       "date": "unknown",
       "articles": [
         {
+          "title": "France Again Deploys Thousands of Police Ahead of Protests: What to Know",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
+          "publishedAt": "2026-11-08T20:55:23.000Z",
+          "severity": "medium",
+          "titleZh": "法国在抗议前再次部署数千名警察：需要了解什么",
+          "content": null
+        },
+        {
           "title": "Police fire tear gas as tensions erupt during cost of living protests in Paris",
           "source": "The Independent",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVpTUEE4U0FQNXRMQVI5dF84bkVhejlvWmpWc3c3eXU3SFZUS091M0FOd1VyekJwWjJtVDlmaHAtUnFKSHhneVJVYkhWUkFlUllKM2dlOWJraXdaSkQ5NkZZMldKSTFyY2NzaUlMVC1GRlQzVFRzVjhaaE9EYXd6UzJxejVJUHk0M0swYUJNNkdJN3lmZmEwV3NlSTJPNG5IQklIcXdmZw?oc=5",
@@ -244,7 +225,7 @@
           "title": "«Ça va être fun, y a pas de caméra dans la bagnole» : deux plaintes déposées à Paris contre des policiers pour violences et agression sexuelle",
           "source": "Libération",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNQzBjaUhUT1NHaEtDd0k2bkNOVzgzZnh1dnhzNmRyZDEzVnVJc1E1ejFON2FTV2ZaZjFvRkIzSWQ4eW1qMUtVYjlYd3R5YU8tLXpYNTZtYklFdDE4M0ZueXZUVlBRaFJZaGo0ZF9iM1pGdVg3UzNDY0RrSnR6eUZkS292cHVlTFl5VHhIak92aC1meWo0UXpNUVNDRFNhNkotdnZ2bFJpVDd0OUgwZXoyNW9RdlBzaVZ3RGRxQktXVzVGekVFU3MyNjVkR3FZZGdKVTRVUlhoUEEyME9STmJQZUtvd2tPV3ZEUWtiSTlScnFrMEtfb1N4cWVDY0NpTlZHWUxkMnRxbXNHM0lHNnVrZF9FSFJ1anEzT3Y4NWxGUWJIZmdxeGUzR2VhSk1VQTZmekdXcVFlYVZ1X1FoZGJNN25CQ0ZXUQ?oc=5",
-          "publishedAt": "2026-11-08T17:53:45.000Z",
+          "publishedAt": "2026-11-08T17:52:00.000Z",
           "severity": "high",
           "titleZh": "“这会很有趣，车里没有摄像头”：巴黎针对警察暴力和性侵犯提出的两起投诉",
           "content": null
@@ -259,21 +240,30 @@
           "content": null
         },
         {
-          "title": "France Again Deploys Thousands of Police Ahead of Protests: What to Know",
-          "source": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
-          "publishedAt": "2026-11-08T16:51:26.000Z",
-          "severity": "medium",
-          "titleZh": "法国在抗议前再次部署数千名警察：需要了解什么",
-          "content": null
-        },
-        {
           "title": "«Conférence sociale», grève dans l’éducation, gilets jaunes… Qu’attendre de cette nouvelle semaine de mobilisation ?",
           "source": "Libération",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNa0RDZUg1Z19XQ2VGMHJCczdCaVhsbHQ5UmhKYi1rYnhUSkgzbHJjYTA5OFdQaTNwYmh4ekxqTExRaXd0MkNLSzFCajN6UTlmQ29Ob3F0bG1HVkEtWWJ1Y1VmdUw2X05VTllzOUY3bFBoTEZBRkhoN3NwbDhvS0lRQ1ByRnBwakZ3RFhZVDdncEFGRnA4dnByZ0diNmU4RzNQVmw1VVczZG41dFp6TmloYkdEVzZjVlZNRy1XeUtwSmlzS29hUUdkb0RoeU9pZ2c5TGNpa2JEZ1ZqT0JpUjZWSWxjWlRnVTc4eFhHTk5iWGg3Nk5laWZ2MlNxUEE1SmtENG1zN3ZCS3ROLXkweXpGSC1ETUU?oc=5",
           "publishedAt": "2026-11-08T16:43:36.000Z",
           "severity": "medium",
           "titleZh": "“社会会议”、教育罢工、黄背心……新一周的动员有什么期待？",
+          "content": null
+        },
+        {
+          "title": "RATP et SNCF. Les perturbations attendues dans les transports à Paris et en Île-de-France cette semaine",
+          "source": "Actu.fr",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNREdwcnlVbHJYRlZWdi1kM1RqVThlY2pVMXhBTjctNERRSFd4T3FfbnRjTUNxLVFkU0w1OW9DcWN5OG1PQi1mYXdoMmVoWEw1MS00cFhTQW8xd3NBNklCQjFRZGpvU1l6TU1UZjVhekRMejVTVGNFRUlsVUt4RWFuVWgwLTZqTkxWOG5LUXhNMGJEVGRtcTI5YjNJVmhCbXZBNkFRUnpSbEd3enNZVDFaQ3VUd0pCRUlkTXBvRFdESnJHR1A2MXBIeEFsY211WFBYRVFUS0lIWkdaN0J0aFlmT3JNMVFPVEF3Vkw4ZUZ6Q0FyUk0?oc=5",
+          "publishedAt": "2026-11-08T16:12:01.000Z",
+          "severity": "info",
+          "titleZh": "RATP 和 SNCF。巴黎和法兰西岛本周预计交通中断",
+          "content": null
+        },
+        {
+          "title": "Manifestations à Paris : République–Nation, mais pas Concorde",
+          "source": "laclepublique.fr",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFBXVkFWaXEySnZwaDI0NmJNZXBXS1hLYlpRQmF0X1E1U1dEc0JSVDAxaERyMkx6Ynk4bU1yUGhWeEZiSTA3OUd5OFhpbGRpZ044UkozRXoxRzAtX0FUMU5MRE5uNy05ZS1TcXJCWEFHMTdzMjNLZ3dlaVItUGl6c1pkVXFvZVpZRWhtSDRsUEtEbEwzWk5LZA?oc=5",
+          "publishedAt": "2026-11-08T15:40:18.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎示威：共和国家，但不是协和式飞机",
           "content": null
         },
         {
@@ -295,6 +285,24 @@
           "content": null
         },
         {
+          "title": "Franceinfo regrette d’avoir donné la parole à un enfant insultant Macron",
+          "source": "20 Minutes",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOXFSd2xtanhOaWJ1aFhZem4zNzZNR0dFTzNvNEI5Z2JXeW40aTI0U3pyOFEteVNEZnJSRDRFaVdKUUVEdFluM0VPSGxYMm1PaS0ySzRYNU1kaFdwX1FHMUtJbXRfOGZWWTd5Y3g3U3VibXZBbUVFZmtoU1FVdHJJdXgtdUhOd2VVWlNJQjY1eU9jeTlhU3R3dGVtSTNlcFpLX29GR1lsM2VLNW1kTmdyYTdxUlc5UUstUF9KV0wxWnpTYXdJY3FMd3FLQVdFNEJGVlVfYnpBdUxuUkRLTzkw?oc=5",
+          "publishedAt": "2026-11-08T14:26:00.000Z",
+          "severity": "info",
+          "titleZh": "Franceinfo 很遗憾让一个侮辱马克龙的孩子发言",
+          "content": null
+        },
+        {
+          "title": "« Une continuité de générations dans la lutte » : les étudiants donnent un second souffle au mouvement lycéen",
+          "source": "Le Parisien",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaXplWmZFUmVaOXlVUzFtWnhaTHFlT0E2VXA2TDZkX3pjNjBBVzFGc1lMdnFvOTA4X3c1QmtpOFlJLWgxYlNEQkRDdmhXX1cwYTJxS1E2Ykk0VjlYV2tUYVk5QkxsX1g0VWFsWWRxNEItNmJBVXozWEF2eXBENTNId0hVOGUzOXhXU1BicTFPbURCSmRBc3J4XzdrZmxibXUyalREc2pPNnFiWEhyMEFvcDgxZDF6cDlsZmdJQkxaT3E4RlhHR0tMSEx5R0JvUjYxbEl2cG5QazhjVkdyUWhPWlM3V0VPblBnN3I0OWpqNHRMOUhfYXI5SE1kRS1pNVNQdG1EZTNkVFJfSDg?oc=5",
+          "publishedAt": "2026-11-08T14:19:27.000Z",
+          "severity": "info",
+          "titleZh": "“奋斗中几代人的延续”：学生们为高中运动注入了第二股活力",
+          "content": null
+        },
+        {
           "title": "Dans l’« assemblée générale » syndicale de la gare du Nord à Paris",
           "source": "World Socialist Web Site",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VVzJmcEFaU0RKNHRFb2NVTzNSbXhOdjh5RE1CVXRhTzlwTXpueTFwdk1vT3VaQ2RQMnRuYU12Zko5QkpIM19Pa2VCZ3NFTnRndWN3YmhYV1hzUFUyRXhCLV93YzctMG9p?oc=5",
@@ -304,21 +312,21 @@
           "content": null
         },
         {
+          "title": "France sees new round of student and Yellow Vest protests in Paris and dozens of cities",
+          "source": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3BVWXpmSm9fckZMMWlsenEtU2otSERKWllJN1VKV2hoRHdNNjVkcS1KQlRyaWppSnhPRng0VnpHUWhseVVmcFItcUdIaXZ5UmtEWmMxQlBOOHRESkZVbFoycExlQ3lFVTNNNW12VDhWUllkY3c4c0dsRE9RYmNkSHhEOWxoTV9OcWpTQndlUdIBjwFBVV95cUxPdkxxZzlPMXZ2dGNvMzhIbkFLbXhFYW95eVh1ZjdacGRvMDR6SFJxcDcwcm9Ib0UyR3hWQi1hM25tRFhRaEpyT0RDQWJVN2lHZ0pQNjE4M3RmblNNY3pBeDFCNkc5RVZZb2hGRVl5bVdkdlBSTVpQS1ljWUtJTnlQNEpLamxCU3Y4NlBsNnl1OA?oc=5",
+          "publishedAt": "2026-11-08T14:07:30.000Z",
+          "severity": "medium",
+          "titleZh": "法国巴黎和数十个城市爆发新一轮学生和黄背心抗议活动",
+          "content": null
+        },
+        {
           "title": "Recul des touristes étrangers dans les commerces parisiens en raison des manifestations",
           "source": "سانا",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41RDAzNm1DbzdqLUVTOEVJaEYyQXN3cjluRTFubGR5bkxxQzRrbWtmQUNETXRCUUhxNDlPbEJReEFzWC0wYzNPUkVaMnVRWWtacVJR?oc=5",
           "publishedAt": "2026-11-08T13:44:55.000Z",
           "severity": "medium",
           "titleZh": "由于示威活动，巴黎企业的外国游客减少",
-          "content": null
-        },
-        {
-          "title": "France sees new round of student and Yellow Vest protests in Paris and dozens of cities",
-          "source": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3BVWXpmSm9fckZMMWlsenEtU2otSERKWllJN1VKV2hoRHdNNjVkcS1KQlRyaWppSnhPRng0VnpHUWhseVVmcFItcUdIaXZ5UmtEWmMxQlBOOHRESkZVbFoycExlQ3lFVTNNNW12VDhWUllkY3c4c0dsRE9RYmNkSHhEOWxoTV9OcWpTQndlUdIBjwFBVV95cUxPdkxxZzlPMXZ2dGNvMzhIbkFLbXhFYW95eVh1ZjdacGRvMDR6SFJxcDcwcm9Ib0UyR3hWQi1hM25tRFhRaEpyT0RDQWJVN2lHZ0pQNjE4M3RmblNNY3pBeDFCNkc5RVZZb2hGRVl5bVdkdlBSTVpQS1ljWUtJTnlQNEpLamxCU3Y4NlBsNnl1OA?oc=5",
-          "publishedAt": "2026-11-08T12:12:56.000Z",
-          "severity": "medium",
-          "titleZh": "法国巴黎和数十个城市爆发新一轮学生和黄背心抗议活动",
           "content": null
         },
         {
@@ -412,6 +420,15 @@
           "content": null
         },
         {
+          "title": "Paris : une enquête ouverte contre un policier accusé d’agression sexuelle lors d’une manifestation",
+          "source": "Linfo.re",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeE9DTU4wTmtxMm85eUE2QXU4VlhIQUt2X0ZQRG5yQW1rYnp5S0hFV0RKRTVRX2FQWEgzamxsczJ6aS0xWThmTktwNkRwbmxDaVdUSHJzclhtXzR6VkR3VW9TOGctVHhoNTQ4OW5GLWNaMC15dEd6ajAxbTVUM1ZxTXdEbm1oTzlFS2FSZkRzNFVzaGtCcjdDbVVwVWNpYm1jUGpNVHJPTTNNZTBGdFJDN2tDaE1jcnNSZEljalFkZ0x0bjN1Rk9MUlBpXzZqZ3pLVnpIMw?oc=5",
+          "publishedAt": "2026-11-08T09:37:09.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎：对一名被指控在示威期间性侵犯的警察展开调查",
+          "content": null
+        },
+        {
           "title": "Paris : un homme retrouvé mort dans un appartement du 14e arrondissement, la gorge en partie tranchée",
           "source": "Le Figaro",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSncyd3JkMU1Ud1JwMEJwaG4zcVZrbnpXUUJ1RXZJdDhJRDg3OTdWZjIyYndDRjF1X19TV0J1SThQcklpamVDeWx5bk1QdUdid3NIM0VSaWdENjV1ZTdnYnpZU3RTRWlrZW5SS2dGRDlmV1RhTHBsSkdaQmNkNDN5TXNnc3JSRHpmVzA3QVR5TGstZnZFWU42cy1fTDJoS0h6bTNrc01mb3lxb2h5N1R0OFNkek1ZYllxbkxVQkJaSktEcXJVMVhacTRnX2drczZFMkRhcEhKUTVaYjNx?oc=5",
@@ -428,49 +445,43 @@
           "severity": "medium",
           "titleZh": "巴黎企业的外国游客减少，这是示威活动的另一个后果",
           "content": null
-        },
-        {
-          "title": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55am9PUjU1T1hfaHVaY3pMNktHdE10XzRuVDl0ZHBlQzVRWGNJT3hlNEZsUVprdjNqbzh1NExJLTVrTGcyUERraEQwWTIyOGROZVdxU2doWVhlRzdSekFUTW02V2tBRl9QaU93NnNWb0l4dUw1LTRJ?oc=5",
-          "publishedAt": "2026-11-08T09:29:04.000Z",
-          "severity": "high",
-          "titleZh": "图片中：法国抗议活动吸引了 146,000 人参加，冲突连续第四个周末爆发",
-          "content": null
-        },
-        {
-          "title": "Dépression, alcool, violence : l'ex-rugbyman Rodrigo Capo Ortega raconte sa descente aux enfers après l'arrêt de sa carrière",
-          "source": "La Montagne",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTDNpUzFXX1BDMGp6ZU5lLWl3VDNzS18yT2hPZkhSeV9sb2tCSmNwUnNXQzloV3ltdlRqbFBrV0E2OHNRV1pMLUt0RVJ4MHVSUGs2Zzg4aVdxdTktQ2d4YmFkd1RZLXh0dGpBejNwSWo5NFhwTDlkbkhpVEszbnZ5VnFOTzRacVpVRER6cmt1RFNmeElSS1lRZkhpaVNnNjNtYkRVdHl1T185SllSaHN6dXFIdW4zTVhNM1dGMnZQSEZLaUVPNmFLSjAtMy0zc2p4UTRsdXhWRFd1ckJnMVVTbFpENWZmRFJJM0lIZEZIWl8xZzdkcjlLT0lHOVZhM3ppMW5aNHBB?oc=5",
-          "publishedAt": "2026-11-08T09:24:00.000Z",
-          "severity": "high",
-          "titleZh": "抑郁、酗酒、暴力：前橄榄球运动员罗德里戈·卡波·奥尔特加讲述了他在职业生涯结束后陷入地狱的经历",
-          "content": null
-        },
-        {
-          "title": "« Après la grève du 5, on fait quoi ? » : des réunions de RP partout en Ile-de-France cette semaine !",
-          "source": "Revolution Permanente",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXZ5V1RNZmJ3Nnp3TW5Wd2NnUVBaTXNTNFZJVWFra29hbG5GWktya2gzbEM2MFlGVUh5Y21hNFhTUGVGanB0b0dLU09wZnRsTllKNHVEQy0wMXhzMC0xamxEbkdCbW9EWUVISGxJVlFhZlNWZW5Oam1IOEtCRW5VSkFrZzZ6RW5yNTFRaVFBUG9RS3JuR0pXTGZlWEl5ZE1JMVN0dERHU0RPNEZ6dkw4bW13OFdqR1hDTklSTFNpV2s4b2ot0gHMAUFVX3lxTE1zRXNuWm52d2NsX28yUWdpQ1Y4NTFBQTZxUHpqdktUYm5wWEJJT2h5YmozVkVTcFJScHIyWnhReURObUw4LUZpLW5kY1BKTnBvTXdOMzhjRTFzX3NHSVI1Y29STHNjRE84THhYTEF6LUI0YUFTSEpwa2NkdFZ4NjRfMF9OUTRHNE1tWnBWNEFWZ2R1V0UtUGFkMFRNT3hUSDlJQlVtSHMtYzdpM0QweU1ZN2xIZjFNcUs3WURBTFB4R29ROEVyV0ltMlQxNA?oc=5",
-          "publishedAt": "2026-11-08T09:22:37.000Z",
-          "severity": "medium",
-          "titleZh": "“五号罢工之后，我们该怎么办？”：本周在法兰西岛各地召开公关会议！",
-          "content": null
         }
       ],
       "places": [
-        "民族广场 Nation"
+        "民族广场 Nation",
+        "协和广场 Concorde"
       ],
       "districts": [
+        1,
+        8,
         11,
         12,
         14
       ],
-      "articleCount": 25,
-      "clashCount": 7,
+      "articleCount": 27,
+      "clashCount": 5,
       "status": "unknown"
     }
   ],
   "latest": [
+    {
+      "title": "France Again Deploys Thousands of Police Ahead of Protests: What to Know",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
+      "publishedAt": "2026-11-08T20:55:23.000Z",
+      "severity": "medium",
+      "titleZh": "法国在抗议前再次部署数千名警察：需要了解什么",
+      "content": null
+    },
+    {
+      "title": "Que faire ce dimanche 8 novembre 2026 à Paris ? Les sorties à ne pas manquer",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTmhndHU4LXdCRlhfMFpzTzJYSm9weXk4UnFvTG9qckpyWGRvNUd6Y2UzSUduTGpkS3Z1VmZoYmEyN296a1ZDUXdReXVYUGNTQ0VaRmxrdlV0V1BsMWFWT1hMVkU3cnhLck4wZlJEMjBDa2wxR1loaDdSQXdVRWFjblFjM0JoaThaY01iYW9pQnEtQjNDMmZSZUVNb0d6dU5pZ21nbGtnZHZkaVdVR25JaGhaNDlGQVo4RGJ5cHRjSjFHOThDMXVKSXp5VDBuNkkteEE?oc=5",
+      "publishedAt": "2026-11-08T20:29:23.000Z",
+      "severity": "info",
+      "titleZh": "2026 年 11 月 8 日星期日在巴黎可以做什么���外出游玩不可错过",
+      "content": null
+    },
     {
       "title": "« J’ai été traité de ''sale nègre'' » : on fait le point sur l’affaire Michel Zecler, dont le procès des policiers agresseurs s’ouvre ce lundi",
       "source": "L'Humanité",
@@ -493,18 +504,9 @@
       "title": "«Ça va être fun, y a pas de caméra dans la bagnole» : deux plaintes déposées à Paris contre des policiers pour violences et agression sexuelle",
       "source": "Libération",
       "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNQzBjaUhUT1NHaEtDd0k2bkNOVzgzZnh1dnhzNmRyZDEzVnVJc1E1ejFON2FTV2ZaZjFvRkIzSWQ4eW1qMUtVYjlYd3R5YU8tLXpYNTZtYklFdDE4M0ZueXZUVlBRaFJZaGo0ZF9iM1pGdVg3UzNDY0RrSnR6eUZkS292cHVlTFl5VHhIak92aC1meWo0UXpNUVNDRFNhNkotdnZ2bFJpVDd0OUgwZXoyNW9RdlBzaVZ3RGRxQktXVzVGekVFU3MyNjVkR3FZZGdKVTRVUlhoUEEyME9STmJQZUtvd2tPV3ZEUWtiSTlScnFrMEtfb1N4cWVDY0NpTlZHWUxkMnRxbXNHM0lHNnVrZF9FSFJ1anEzT3Y4NWxGUWJIZmdxeGUzR2VhSk1VQTZmekdXcVFlYVZ1X1FoZGJNN25CQ0ZXUQ?oc=5",
-      "publishedAt": "2026-11-08T17:53:45.000Z",
+      "publishedAt": "2026-11-08T17:52:00.000Z",
       "severity": "high",
       "titleZh": "“这会很有趣，车里没有摄像头”：巴黎针对警察暴力和性侵犯提出的两起投诉",
-      "content": null
-    },
-    {
-      "title": "Que faire ce dimanche 8 novembre 2026 à Paris ? Les sorties à ne pas manquer",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTmhndHU4LXdCRlhfMFpzTzJYSm9weXk4UnFvTG9qckpyWGRvNUd6Y2UzSUduTGpkS3Z1VmZoYmEyN296a1ZDUXdReXVYUGNTQ0VaRmxrdlV0V1BsMWFWT1hMVkU3cnhLck4wZlJEMjBDa2wxR1loaDdSQXdVRWFjblFjM0JoaThaY01iYW9pQnEtQjNDMmZSZUVNb0d6dU5pZ21nbGtnZHZkaVdVR25JaGhaNDlGQVo4RGJ5cHRjSjFHOThDMXVKSXp5VDBuNkkteEE?oc=5",
-      "publishedAt": "2026-11-08T17:27:46.000Z",
-      "severity": "info",
-      "titleZh": "2026 年 11 月 8 日星期日在巴黎可以做什么？外出游玩不可错过",
       "content": null
     },
     {
@@ -514,15 +516,6 @@
       "publishedAt": "2026-11-08T17:12:01.000Z",
       "severity": "info",
       "titleZh": "社会动员、男子被刺死、炸弹威胁：法兰西岛周末新闻",
-      "content": null
-    },
-    {
-      "title": "France Again Deploys Thousands of Police Ahead of Protests: What to Know",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
-      "publishedAt": "2026-11-08T16:51:26.000Z",
-      "severity": "medium",
-      "titleZh": "法国在抗议前再次部署数千名警察：需要了解什么",
       "content": null
     },
     {
@@ -562,12 +555,12 @@
       "content": null
     },
     {
-      "title": "Manifestation du 31 octobre : Des manifestants portent plainte pour violences et agression sexuelle contre des policiers",
-      "source": "20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU0lVM3pGeWUta0ZJUW9OT3JVMkQyUVJMdnlrMHp6enpGUjA0SWk4a1MtTFZXcGY1RktiTFBkam95OXBqRVcxRmpwN0lCUzlCSnhJcER3X3N3ZHZMc0tLRWRsREtFeGZOWVdjcERHX3FnR21kdG9mejlFMTE0aDYwZGdhV3lVLWVUWTMyZk02MmxqLVNPSWg3QzZBbzVON01FTWNuZWR2V2RlTHVEZjc1eUtBcWU4RUxfNHdQU1Foa2FDS25wek5WR3dzSkhobkRYekxrYUNURWlmTktaV2gxek5BUXB4Qy1OcHc?oc=5",
-      "publishedAt": "2026-11-08T16:05:00.000Z",
-      "severity": "high",
-      "titleZh": "10 月 31 日示威：示威者投诉警察遭受暴力和性侵犯",
+      "title": "RATP et SNCF. Les perturbations attendues dans les transports à Paris et en Île-de-France cette semaine",
+      "source": "Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNREdwcnlVbHJYRlZWdi1kM1RqVThlY2pVMXhBTjctNERRSFd4T3FfbnRjTUNxLVFkU0w1OW9DcWN5OG1PQi1mYXdoMmVoWEw1MS00cFhTQW8xd3NBNklCQjFRZGpvU1l6TU1UZjVhekRMejVTVGNFRUlsVUt4RWFuVWgwLTZqTkxWOG5LUXhNMGJEVGRtcTI5YjNJVmhCbXZBNkFRUnpSbEd3enNZVDFaQ3VUd0pCRUlkTXBvRFdESnJHR1A2MXBIeEFsY211WFBYRVFUS0lIWkdaN0J0aFlmT3JNMVFPVEF3Vkw4ZUZ6Q0FyUk0?oc=5",
+      "publishedAt": "2026-11-08T16:12:01.000Z",
+      "severity": "info",
+      "titleZh": "RATP 和 SNCF。巴黎和法兰西岛本周预计交通中断",
       "content": null
     },
     {
@@ -577,6 +570,15 @@
       "publishedAt": "2026-11-08T15:52:39.000Z",
       "severity": "medium",
       "titleZh": "11 月 10 日巴黎罢工：路线、要求以及关于这一新的动员日您需要了解的内容",
+      "content": null
+    },
+    {
+      "title": "Manifestations à Paris : République–Nation, mais pas Concorde",
+      "source": "laclepublique.fr",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFBXVkFWaXEySnZwaDI0NmJNZXBXS1hLYlpRQmF0X1E1U1dEc0JSVDAxaERyMkx6Ynk4bU1yUGhWeEZiSTA3OUd5OFhpbGRpZ044UkozRXoxRzAtX0FUMU5MRE5uNy05ZS1TcXJCWEFHMTdzMjNLZ3dlaVItUGl6c1pkVXFvZVpZRWhtSDRsUEtEbEwzWk5LZA?oc=5",
+      "publishedAt": "2026-11-08T15:40:18.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎示威：共和国家，但不是协和式飞机",
       "content": null
     },
     {
@@ -598,6 +600,24 @@
       "content": null
     },
     {
+      "title": "Franceinfo regrette d’avoir donné la parole à un enfant insultant Macron",
+      "source": "20 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOXFSd2xtanhOaWJ1aFhZem4zNzZNR0dFTzNvNEI5Z2JXeW40aTI0U3pyOFEteVNEZnJSRDRFaVdKUUVEdFluM0VPSGxYMm1PaS0ySzRYNU1kaFdwX1FHMUtJbXRfOGZWWTd5Y3g3U3VibXZBbUVFZmtoU1FVdHJJdXgtdUhOd2VVWlNJQjY1eU9jeTlhU3R3dGVtSTNlcFpLX29GR1lsM2VLNW1kTmdyYTdxUlc5UUstUF9KV0wxWnpTYXdJY3FMd3FLQVdFNEJGVlVfYnpBdUxuUkRLTzkw?oc=5",
+      "publishedAt": "2026-11-08T14:26:00.000Z",
+      "severity": "info",
+      "titleZh": "Franceinfo 很遗憾让一个侮辱马克龙的孩子发言",
+      "content": null
+    },
+    {
+      "title": "« Une continuité de générations dans la lutte » : les étudiants donnent un second souffle au mouvement lycéen",
+      "source": "Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaXplWmZFUmVaOXlVUzFtWnhaTHFlT0E2VXA2TDZkX3pjNjBBVzFGc1lMdnFvOTA4X3c1QmtpOFlJLWgxYlNEQkRDdmhXX1cwYTJxS1E2Ykk0VjlYV2tUYVk5QkxsX1g0VWFsWWRxNEItNmJBVXozWEF2eXBENTNId0hVOGUzOXhXU1BicTFPbURCSmRBc3J4XzdrZmxibXUyalREc2pPNnFiWEhyMEFvcDgxZDF6cDlsZmdJQkxaT3E4RlhHR0tMSEx5R0JvUjYxbEl2cG5QazhjVkdyUWhPWlM3V0VPblBnN3I0OWpqNHRMOUhfYXI5SE1kRS1pNVNQdG1EZTNkVFJfSDg?oc=5",
+      "publishedAt": "2026-11-08T14:19:27.000Z",
+      "severity": "info",
+      "titleZh": "“奋斗中几代人的延续”：学生们为高中运动注入了第二股活力",
+      "content": null
+    },
+    {
       "title": "Dans l’« assemblée générale » syndicale de la gare du Nord à Paris",
       "source": "World Socialist Web Site",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VVzJmcEFaU0RKNHRFb2NVTzNSbXhOdjh5RE1CVXRhTzlwTXpueTFwdk1vT3VaQ2RQMnRuYU12Zko5QkpIM19Pa2VCZ3NFTnRndWN3YmhYV1hzUFUyRXhCLV93YzctMG9p?oc=5",
@@ -616,6 +636,15 @@
       "content": null
     },
     {
+      "title": "France sees new round of student and Yellow Vest protests in Paris and dozens of cities",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3BVWXpmSm9fckZMMWlsenEtU2otSERKWllJN1VKV2hoRHdNNjVkcS1KQlRyaWppSnhPRng0VnpHUWhseVVmcFItcUdIaXZ5UmtEWmMxQlBOOHRESkZVbFoycExlQ3lFVTNNNW12VDhWUllkY3c4c0dsRE9RYmNkSHhEOWxoTV9OcWpTQndlUdIBjwFBVV95cUxPdkxxZzlPMXZ2dGNvMzhIbkFLbXhFYW95eVh1ZjdacGRvMDR6SFJxcDcwcm9Ib0UyR3hWQi1hM25tRFhRaEpyT0RDQWJVN2lHZ0pQNjE4M3RmblNNY3pBeDFCNkc5RVZZb2hGRVl5bVdkdlBSTVpQS1ljWUtJTnlQNEpLamxCU3Y4NlBsNnl1OA?oc=5",
+      "publishedAt": "2026-11-08T14:07:30.000Z",
+      "severity": "medium",
+      "titleZh": "法国巴黎和数十个城市爆发新一轮学生和黄背心抗议活动",
+      "content": null
+    },
+    {
       "title": "Recul des touristes étrangers dans les commerces parisiens en raison des manifestations",
       "source": "سانا",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41RDAzNm1DbzdqLUVTOEVJaEYyQXN3cjluRTFubGR5bkxxQzRrbWtmQUNETXRCUUhxNDlPbEJReEFzWC0wYzNPUkVaMnVRWWtacVJR?oc=5",
@@ -631,15 +660,6 @@
       "publishedAt": "2026-11-08T12:30:07.000Z",
       "severity": "medium",
       "titleZh": "我们的记者 Naoufel El Khaouafi 深入报道 10 月 17 日巴黎示威活动的幕后故事",
-      "content": null
-    },
-    {
-      "title": "France sees new round of student and Yellow Vest protests in Paris and dozens of cities",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3BVWXpmSm9fckZMMWlsenEtU2otSERKWllJN1VKV2hoRHdNNjVkcS1KQlRyaWppSnhPRng0VnpHUWhseVVmcFItcUdIaXZ5UmtEWmMxQlBOOHRESkZVbFoycExlQ3lFVTNNNW12VDhWUllkY3c4c0dsRE9RYmNkSHhEOWxoTV9OcWpTQndlUdIBjwFBVV95cUxPdkxxZzlPMXZ2dGNvMzhIbkFLbXhFYW95eVh1ZjdacGRvMDR6SFJxcDcwcm9Ib0UyR3hWQi1hM25tRFhRaEpyT0RDQWJVN2lHZ0pQNjE4M3RmblNNY3pBeDFCNkc5RVZZb2hGRVl5bVdkdlBSTVpQS1ljWUtJTnlQNEpLamxCU3Y4NlBsNnl1OA?oc=5",
-      "publishedAt": "2026-11-08T12:12:56.000Z",
-      "severity": "medium",
-      "titleZh": "法国巴黎和数十个城市爆发新一轮学生和黄背心抗议活动",
       "content": null
     },
     {
@@ -715,15 +735,6 @@
       "content": null
     },
     {
-      "title": "Manifestations contre la vie chère : les Gilets jaunes appellent à des actes V et VI, les 14 et 21 novembre",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQNlJoeVlXVkFTNGN5YnpMclNsOVB6Umg2dmVVejNXdnNfZUR1Mk1CSExQRFU1aWdhSXZMc1RRSnlNd2I4RVJpX0lCZXQ0VC1ocnRubmhSMnBqUFBYR2ZwTFpIZnBDa0l3Rl9LQXBpS2htODRnSFp5cE9vUlpiUHhEZEs5V25TZmpiTDAybzVyaWhEZGFtZ0doMVV0QWQ1Z3hRRmlwRU15ZnpyTDdsZzNKOVd0Sk5uM3BTM2U1YjhUNTZDQnFqVGlzUDFGMS05WnpxeVZlWnIzeFZRbUIwcTRaVjVyc084TkxZWnBJUkVmbUFBX2dXV2M3S1RPRjdxY2NNNDlDN29nMVlOUW1N?oc=5",
-      "publishedAt": "2026-11-08T10:45:06.000Z",
-      "severity": "medium",
-      "titleZh": "反对高生活成本的示威活动：黄背心呼吁采取第五和第六行动，11 月 14 日至 21 日",
-      "content": null
-    },
-    {
       "title": "Paris protests turn violent as clashes erupt between police and demonstrators",
       "source": "Daily Times",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTlEbDQxWXRlUkU2MXlWMFU0RmVzWFAwRWQ2a0RIRlpidC1OMENSQnBSRmpHMVZYbEtZWER5RG5heWNyY2h4dkJyeEt4SFZPVzhJbEc5ZlZzX001bHF3UjlDZHhZNkFfUWNhQjh4NFBjazlNajZ6TGFnblFzNU5ZRmFVeHRDcU5EbHpTbUt6b2Y4ZzFwM1pMbVFJRnBvSFR1TV82N0h5cEdIUEVfZ1oyMzZ3?oc=5",
@@ -778,6 +789,15 @@
       "content": null
     },
     {
+      "title": "Paris : une enquête ouverte contre un policier accusé d’agression sexuelle lors d’une manifestation",
+      "source": "Linfo.re",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeE9DTU4wTmtxMm85eUE2QXU4VlhIQUt2X0ZQRG5yQW1rYnp5S0hFV0RKRTVRX2FQWEgzamxsczJ6aS0xWThmTktwNkRwbmxDaVdUSHJzclhtXzR6VkR3VW9TOGctVHhoNTQ4OW5GLWNaMC15dEd6ajAxbTVUM1ZxTXdEbm1oTzlFS2FSZkRzNFVzaGtCcjdDbVVwVWNpYm1jUGpNVHJPTTNNZTBGdFJDN2tDaE1jcnNSZEljalFkZ0x0bjN1Rk9MUlBpXzZqZ3pLVnpIMw?oc=5",
+      "publishedAt": "2026-11-08T09:37:09.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎：对一名被指控在示威期间性侵犯的警察展开调查",
+      "content": null
+    },
+    {
       "title": "Paris : un homme retrouvé mort dans un appartement du 14e arrondissement, la gorge en partie tranchée",
       "source": "Le Figaro",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSncyd3JkMU1Ud1JwMEJwaG4zcVZrbnpXUUJ1RXZJdDhJRDg3OTdWZjIyYndDRjF1X19TV0J1SThQcklpamVDeWx5bk1QdUdid3NIM0VSaWdENjV1ZTdnYnpZU3RTRWlrZW5SS2dGRDlmV1RhTHBsSkdaQmNkNDN5TXNnc3JSRHpmVzA3QVR5TGstZnZFWU42cy1fTDJoS0h6bTNrc01mb3lxb2h5N1R0OFNkek1ZYllxbkxVQkJaSktEcXJVMVhacTRnX2drczZFMkRhcEhKUTVaYjNx?oc=5",
@@ -802,33 +822,6 @@
       "publishedAt": "2026-11-08T09:30:04.000Z",
       "severity": "medium",
       "titleZh": "巴黎企业的外国游客减少，这是示威活动的另一个后果",
-      "content": null
-    },
-    {
-      "title": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55am9PUjU1T1hfaHVaY3pMNktHdE10XzRuVDl0ZHBlQzVRWGNJT3hlNEZsUVprdjNqbzh1NExJLTVrTGcyUERraEQwWTIyOGROZVdxU2doWVhlRzdSekFUTW02V2tBRl9QaU93NnNWb0l4dUw1LTRJ?oc=5",
-      "publishedAt": "2026-11-08T09:29:04.000Z",
-      "severity": "high",
-      "titleZh": "图片中：法国抗议活动吸引了 146,000 人参加，冲突连续第四个周末爆发",
-      "content": null
-    },
-    {
-      "title": "Dépression, alcool, violence : l'ex-rugbyman Rodrigo Capo Ortega raconte sa descente aux enfers après l'arrêt de sa carrière",
-      "source": "La Montagne",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTDNpUzFXX1BDMGp6ZU5lLWl3VDNzS18yT2hPZkhSeV9sb2tCSmNwUnNXQzloV3ltdlRqbFBrV0E2OHNRV1pMLUt0RVJ4MHVSUGs2Zzg4aVdxdTktQ2d4YmFkd1RZLXh0dGpBejNwSWo5NFhwTDlkbkhpVEszbnZ5VnFOTzRacVpVRER6cmt1RFNmeElSS1lRZkhpaVNnNjNtYkRVdHl1T185SllSaHN6dXFIdW4zTVhNM1dGMnZQSEZLaUVPNmFLSjAtMy0zc2p4UTRsdXhWRFd1ckJnMVVTbFpENWZmRFJJM0lIZEZIWl8xZzdkcjlLT0lHOVZhM3ppMW5aNHBB?oc=5",
-      "publishedAt": "2026-11-08T09:24:00.000Z",
-      "severity": "high",
-      "titleZh": "抑郁、酗酒、暴力：前橄榄球运动员罗德里戈·卡波·奥尔特加讲述了他在职业生涯结束后陷入地狱的经历",
-      "content": null
-    },
-    {
-      "title": "« Après la grève du 5, on fait quoi ? » : des réunions de RP partout en Ile-de-France cette semaine !",
-      "source": "Revolution Permanente",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXZ5V1RNZmJ3Nnp3TW5Wd2NnUVBaTXNTNFZJVWFra29hbG5GWktya2gzbEM2MFlGVUh5Y21hNFhTUGVGanB0b0dLU09wZnRsTllKNHVEQy0wMXhzMC0xamxEbkdCbW9EWUVISGxJVlFhZlNWZW5Oam1IOEtCRW5VSkFrZzZ6RW5yNTFRaVFBUG9RS3JuR0pXTGZlWEl5ZE1JMVN0dERHU0RPNEZ6dkw4bW13OFdqR1hDTklSTFNpV2s4b2ot0gHMAUFVX3lxTE1zRXNuWm52d2NsX28yUWdpQ1Y4NTFBQTZxUHpqdktUYm5wWEJJT2h5YmozVkVTcFJScHIyWnhReURObUw4LUZpLW5kY1BKTnBvTXdOMzhjRTFzX3NHSVI1Y29STHNjRE84THhYTEF6LUI0YUFTSEpwa2NkdFZ4NjRfMF9OUTRHNE1tWnBWNEFWZ2R1V0UtUGFkMFRNT3hUSDlJQlVtSHMtYzdpM0QweU1ZN2xIZjFNcUs3WURBTFB4R29ROEVyV0ltMlQxNA?oc=5",
-      "publishedAt": "2026-11-08T09:22:37.000Z",
-      "severity": "medium",
-      "titleZh": "“五号罢工之后，我们该怎么办？”：本周在法兰西岛各地召开公关会议！",
       "content": null
     }
   ]
