@@ -1,83 +1,107 @@
 {
   "success": true,
   "today": "2026-11-08",
-  "updatedAt": "2026-11-08T06:39:17.342Z",
+  "updatedAt": "2026-11-08T14:15:51.917Z",
   "events": [
+    {
+      "date": "2026-11-10",
+      "articles": [
+        {
+          "title": "Grève du 10 novembre à Paris : école, fonction publique, parcours de la manifestation, à quoi s'attendre ce mardi ?",
+          "source": "France 3 Régions",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOSzJPQWpuVzJSekdWdXM1c3VLd2JCOVhvemlvOU01TUl5eXRiNktfY05PQ3BSTkRraVNkSWh0UlRJZGMwd25UbUFmbjROX0hSSGlPcnZrZkVwOER0bUtGM1dHYVFJZDN6VVMyVkxiNFZRMXdlcS1qOUJrRDVRcjBXTWtZbG5pcUNBdm9QejdJQmFzVjlXQzA5RS1vb3ZmaEg3MU1EY3U1VWVTWXA0bHdtNnZmV1U2VTlqdGdkTzluaDRkQ3MtOTZnRURueWc2SjNfOVJFQldTNFk2TkY0N1Y1MVhHOHJXN3JNV01lYUEyeVRPVi1kbmoySHZuUkpQMlM2TFoyUk5IU0hXb0FHckFQQk5VRQ?oc=5",
+          "publishedAt": "2026-11-08T11:43:38.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 10 日巴黎罢工：学校、公务员、示威路线，周二会发生什么？",
+          "content": null
+        },
+        {
+          "title": "Grève du 10 novembre : écoles, cortège, à quoi s'attendre mardi ?",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUlNZV05SNGlNNUhaVXU2UWhnNHYteTFkV2RUbWVSOU5fYmh1OVlzOHRoV1VKSExXa1lMTFd3MnJLV3EtNkZvSXR5bWRsNXhJRlk2ZU9RRkFBZmJfaGM1Ty1OVW9SMUNyMDlMbmdlTHRJTm9JbEVNcWVXaklwYWlMQnVSQkJUZjNHdjVqSWFJMC1pU1BmWG1HU2lsR1hRcDNQUUZNX3BXaHF6d3ozZGRkQ0pnSlYtM3hpdjhxQTE5ZjlEMXNab1ppeUZ6NDd3bDQ?oc=5",
+          "publishedAt": "2026-11-08T07:03:11.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 10 日罢工：学校、游行，周二会发生什么？",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 2,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2027-10-17",
+      "articles": [
+        {
+          "title": "Notre reporter Naoufel El Khaouafi, raconte les coulisses de la couverture des manifestations du 17 octobre à Paris",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPd01Gbkp1Z3M1SnhTOGZjMEJXSEhlMFFiaVpyM0Q2aDFRd2xDWXdSdVI3SmhaMFhhTXhiYU1Bd1JDdWU2VlNOeG42VUlQd0pKYTE2eUlqMzZ4Q0RaTDNjSzM0MDBxUjlZbldHNG9tMzgwZHFhTlk3ZndmUVFyMEphX2RMaXRGYlhBRG41ZE9WQng0WFFzUi16dXl5a21xS1pleGdPQlFPYm0zTGRUQmNEM3ByWFU2M0xqdnpUTXZHeHQtZ0FTV2dqTGRMekgzTUhYNVoySHlSU3c2M3NiME9rR0VKVU1FelJZaVZZQldqVlRtMHdrdW5fTzhQMG9rOTFmNFZXS0o4VjB2RzJaVXJkSmIzdW8?oc=5",
+          "publishedAt": "2026-11-08T12:30:07.000Z",
+          "severity": "medium",
+          "titleZh": "我们的记者 Naoufel El Khaouafi 深入报道 10 月 17 日巴黎示威活动的幕后故事",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 1,
+      "clashCount": 0,
+      "status": "recent"
+    },
     {
       "date": "2027-11-07",
       "articles": [
         {
+          "title": "Manifestation du 7 novembre : \"Macron est un énorme c…\", séquence virale, mea culpa de franceinfo… Marcel, 8 ans, insulte le Président en plein direct",
+          "source": "Midi Libre",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOODZ2T2RIc3FZb3g2dG5WUU16djdBWVF3WGdVTTI4aUJTZXVxOS12blV2RnFjSTg1Q29ndkRmWHpPeFkzdldVbTBweHFreWdkRG1mam1yU2pXMktUVl9zNy1Cd2twb3ZmSWh6Y29TclZ0UWt2dndwVnpoaWFRX3o3R24tY0pMRzNIRHg4MWp3OU4zVlZLeXdmbkJEdFFuNWFQTG9xWTRTcFBWUmw0SEhHV3hKN09iWHFEcFpDN1FSUkhfOVZ5RG9jRTY1ZGppQlJpME03RHBhS0t5LV8yN29xTG1IVy1aNTJHdTNKeWpjaVo0Q214dERTTmkyZktyeEFBaDctRXhiS2dWU1J5ZjdTN204Skdzdw?oc=5",
+          "publishedAt": "2026-11-08T11:36:00.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 7 日示威：“马克龙是个大家伙……”，病毒序列，来自 franceinfo 的道歉……8 岁的马塞尔现场侮辱总统",
+          "content": null
+        },
+        {
+          "title": "\"Faire acte de présence dans la rue\" : un manifestant raconte sa journée de mobilisation du 7 novembre",
+          "source": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMnJPaUhJT2RIQVlYZWZxakJ4a2JYaHVNV1VIT1RMZjdYUmo2NWdBXzFrQWROcFdhSVlfN1FCaDNDZU55SUlMWnI1ZWhHSFVwYUlkVkZDVzV1NjR0ZzZkb08xY2c3NWptLUZIdDlkMzhaOFNCZml0UnBudHZrbVgyVTB2SkluTWQ4X1lYY3otOC1qTDVzQkt2aFJaZ2FYOE42aGc3VzluY0FiZ1RBR3E2R1k4T0RDVzJPakJ5MjJBZE9fVUE?oc=5",
+          "publishedAt": "2026-11-08T10:57:22.000Z",
+          "severity": "info",
+          "titleZh": "“走上街头”：一名示威者讲述他 11 月 7 日的动员日",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 7 novembre : \"Macron est un énorme c***d\" : à 8 ans, Marcel insulte le président en direct sur franceinfo, la chaîne présente ses excuses",
+          "source": "ladepeche.fr",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPdENNZWZPQVo4MVgxRzc4anVHU2MxaHdBLU4yZXZPUzhJanFXQkVHRERLMy1mUmxHMy0zNzlsekc2Q3M0STlMNTBKVVl1R1JBX0dQOGVBLXZnY29tRkJpQ1Jnb0dVTEFFdS01S1IzT1NyTEhsaXFfaHRicDZqdVNDaUNZX2dyY1YtUER0NjJKdlg4bWpBYzExei1QalpwVGo2Wnc5QWdscXpQdnVHMEM1S0lMMS0wcm5NcHdVX1hHcTRMMlF3d1p2c1p1RWQ1Mk8zQ2FHTHplT0tuQVpWQVdFZGU5RTYxbmZmdDVBMDkzdTFVR1JXR3hlNENnVWx0bzhJSmVkZmFicGpuUEt1Yi1PcUFvTFFXQVQzeVNtNw?oc=5",
+          "publishedAt": "2026-11-08T09:35:00.000Z",
+          "severity": "medium",
+          "titleZh": "11月7日示威：“马克龙是个大混蛋”：8岁的马塞尔在franceinfo直播侮辱总统，该频道道歉",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 7 novembre à Paris : Marcel, 8 ans, insulte Emmanuel Macron en direct, franceinfo s'excuse",
+          "source": "Actu.fr",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVUFRRWZxbTc2SFI2Wl9kSng2SjBsWU9Tbnd2SG1GN2tLNWJxeGQzOGZlaG40RWZBbnM0M21VU2MwRWIwUG5wUVFGOXdwOGNpb1JralF4RUJ1UGZxeEFKX2Q1ck9sRFI3V1dVOHZ6LTlIRGREYXBITkRwZGxvb3phNFFGMmZoNWhZSWZvREd1M3d2SFY4SHNoZUNFcm4yazIwN29QcDhpU0tfQXZ1ZEhnQVRTYjV6ei1rTk9sLXg2Z0drZDdJUkxiWG1UMFZ1aHpKUUpuMUpSRHM4TzNvaVFla0JDQVpJaHlGdnlMdFp4WVM?oc=5",
+          "publishedAt": "2026-11-08T09:22:07.000Z",
+          "severity": "medium",
+          "titleZh": "11月7日巴黎示威：8岁马塞尔现场侮辱马克龙，franceinfo道歉",
+          "content": null
+        },
+        {
           "title": "Que faire ce samedi 7 novembre 2026 à Paris ? Les sorties à ne pas manquer",
           "source": "Sortir à Paris",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV0JJQUFfUUlpdjEtdzllNDd0dEZDcWhpLUlnb1JtNjU5aTc2SXNKQlFRLUVFUUVUZjMtaUVEZ1FWcVpKLVNMWHRadmt4R3FrN2hkd3Z5VkpmZVZTYlB2SU8zam9UQ0JlN09raHpyUENrYW9saGRVR09IMEpzWENZX0oyM0RCTmxkc1hiakJSMmplTjdEMjR6alNNMDZ2a1lWZ2ZILWczMy1LZFJVODVPVy1zc19xMFNuUFowMXFWYlFJcWtKS29iQTNZU2lRQlU?oc=5",
-          "publishedAt": "2026-11-07T23:51:54.000Z",
+          "publishedAt": "2026-11-08T07:34:15.000Z",
           "severity": "info",
           "titleZh": "2026 年 11 月 7 日星期六在巴黎可以做什么？外出游玩不可错过",
           "content": null
-        },
-        {
-          "title": "Manifestations du samedi 7 novembre 2026 : la carte de l’acte IV des gilets jaunes, la Concorde, parcours et horaires",
-          "source": "Les Voitures",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdHVNbXE1bFdYcWliNWJkSE0yR0RKYmJNRXQ1cDVWZmNvT1JLUlpDUVp5U2xIV3hiWlpHRjN1cXRScEdjMzZrV3dlVzFjX0ZUZnJNMjYtN0NRaVZK?oc=5",
-          "publishedAt": "2026-11-07T20:55:21.000Z",
-          "severity": "medium",
-          "titleZh": "2026 年 11 ��� 7 日星期六的示威活动：黄背心第四幕��图、协和式飞机、路线和时间表",
-          "content": null
-        },
-        {
-          "title": "Manifestations du 7 novembre : deux chefs de file des Gilets jaunes placés en garde à vue",
-          "source": "CNews",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTklFVDlGZDZXRHFZOHVYeWVybkxvN0dUU241QzlET1M1MGsySFU2M2xhNFlibW40NF9KSTBqTXdXRW5vWkFBTWxEanU3Z01TTEJoUzhLT1VUSnhIMTdMYWprVXFicXBndUxWeTUxWFlGYkFqTUZrTV92TEVqaFdCM0RDVGppdF9rYkxZMGtmTmRmZFRWcjRzRWptNVlDMkdRX1BRSzdxUHRCekZHQmtvVVdYa00tVU9OSTU0U9IBwgFBVV95cUxNcU9CTFRMSHNXcEx3dEZkSy1EeUtNeG1iR3c3TWJrV2JBOGszcmp6RFRwcEM0Q3Z5V3FPY3JJd252NEswS1dwakxEcTUzaWQ0OWdaV2hra3FoRzFDQS14RjZfaWFlMmJ0WTQ3YVkwOUZRMF8wY1d6QTJhU0VMelR2SmlRTUEzYm5kc1VJVGlkUUUwZjA5NEFEeGJubUVYamdiOEhHVmljWXg2YmVxbVVINklwX0xSaFJ4di1icU9nMm5DZw?oc=5",
-          "publishedAt": "2026-11-07T19:52:14.000Z",
-          "severity": "medium",
-          "titleZh": "11月7日示威活动：两名黄背心领导人被警方拘留",
-          "content": null
-        },
-        {
-          "title": "Manifestations du 7 novembre : moins de monde dans les rues, mais la pression maintenue",
-          "source": "Ouest-France",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMUFmOGw5VUFBQXk4QjhzZHVoeVMxZ3JhRkg1WlBEazdLX0N1QTBBVnhkQ2t2MUVrNmZlU2EzUlJWeDFQUFVUY29LaVBRRXlDN2VwN0hWajR5T0NhYWFsd0JHQndTU0dwLVpzeDdoclpnMU0tSFJCUlV0bUVFZ29UaDFPNGd4U29NSWRWdWFTbDlZQWVXbE9lX19wUHd6VHdKcXNqS3ZqWFQ2QjZpTUp3WUk4X3RKQ09BLURDbFdldjdmbVZ4NFpNWWR0Y3UtR1FVWlBzMHd2dUpJMkdIZzEyNnpxVUVzRTI0MUJKM0tWTTdYYm5yeUM0OGhuSkJFT3Fh?oc=5",
-          "publishedAt": "2026-11-07T19:34:46.000Z",
-          "severity": "medium",
-          "titleZh": "11月7日示威：街上人少了，但压力依然存在",
-          "content": null
-        },
-        {
-          "title": "Manifestations du 7 novembre : malgré une mobilisation en baisse, la rue veut \"maintenir la pression\"",
-          "source": "lanouvellerepublique.fr",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdXpCS3YxRGVrdzNsVDE2MmhGWi1VNG4wTkxRc1l3QzVtNFZzcHVvSU9oYnk2ekh5VEtLN2dNbWw3bWVmSzBXbDU4UjNPM3ZGVURxYkZLTWtpRm81Nzc2RlFnejY4SWdOcDAxMUt5Z1FuWnY0d0NfYWxIX0dOeG1YMGlqY2I4NDBwcXllcS1OdG1ON1ZPYXJPbThJc3gtUG9yYVRoaHZiTWcwRTZqNTlXSmN0UDRaY2ZTVjF5YzZoTVBnSVkyaW9wVklEWjhsWF9JYkpkczd5QnM0UDJYTnZkN2pyQzlUZw?oc=5",
-          "publishedAt": "2026-11-07T19:31:11.000Z",
-          "severity": "medium",
-          "titleZh": "11月7日的示威活动：尽管动员人数减少，但街头仍希望“保持压力”",
-          "content": null
-        },
-        {
-          "title": "Manifestations du 7 novembre : 250 000 personnes ont défilé dans toute la France, selon les syndicats, 146 000 selon Beauvau, une mobilisation en recul",
-          "source": "Libération",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOUUNodkdsZ0VWOG16QUxNcUxkLVJER1BuZjFHMFc4cEJQd1ZCZWxqT3h3Q0UtN2RaRjB1dVlOTEtROXJTSDAxQ0ZjNTYwanpaenMzeHQxRHp3cUp0OUQzYk44MmFGbklEYlhJM1luNElmYVp4VDRhdTdHQTBnWGl0eUZSTndNeTlITF9GRUtiN1FabDZBVGF3N1BYZmhNbG0yMTVpd0xKZDAxblpfOFRIdlllamZVQ3U4SmNtMWZPRW1NRlA5QTZkaHJpOVd0LWpHZXFnOXdhV0I5SU5RWnVmWkVqSldBZHFJVXVyQXNKRDdwQ3otS2R6VVRvYWdxTVRMdWthWHBXWkFSYjZHQ3BydGZHQXltQS1jeVFVWERaNnphMXc?oc=5",
-          "publishedAt": "2026-11-07T19:12:00.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 7 日的示威活动：根据工会的数据，法国各地有 25 万人游行，根据博沃的数据，有 146,000 人游行，动员人数正在下降",
-          "content": null
-        },
-        {
-          "title": "Manifestations du 7 novembre : deux chefs de file des Gilets jaunes interpellés à Paris et placés en garde à vue",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNR0dpdjQ0UHJBRWtIX3RNbXBXNW1mVXRPWHFqZFgwRVM2Rk1VS2tZWlZiUlFkdXlOZjdRYmY2SV9EYWtUN01LSEN2YkRrRkZGejBBWFpSRFFDWkd3OXJaRHdNcWdFVHNwejRfSWItX2hUSDNLMDdDdWtSOFpfRXRZTU55TEc2TU0yaDA5aWpaNWhyQzZyUmdQZm8tTkxIUnhsNWNkZGFmaS15REJzRTU0LXRzaXk5b2VxdW1fbGdQSFNzcUNUZWt3M21LTl9WXzlZcnQ3ejFDMnpZRTdTemF2NGktTlhzbGowaDhUNTBlM3lfVW5DeC1SWHZBMG9CemwzLUxablFyQUl3OTZabkp3c0lEakc1TDBFdlBn?oc=5",
-          "publishedAt": "2026-11-07T19:10:44.000Z",
-          "severity": "medium",
-          "titleZh": "11月7日示威：两名黄背心领导人在��黎被捕并被警方拘留",
-          "content": null
         }
       ],
-      "places": [
-        "协和广场 Concorde"
-      ],
-      "districts": [
-        1,
-        8
-      ],
-      "articleCount": 7,
+      "places": [],
+      "districts": [],
+      "articleCount": 5,
       "clashCount": 0,
       "status": "recent"
     },
@@ -85,21 +109,201 @@
       "date": "unknown",
       "articles": [
         {
-          "title": "Manifestations: les touristes désertent Strasbourg",
-          "source": "BFM",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1RpdFlrM3RKamtPclVySXRFcWlEM3lqbU1DV0JBRzIxbWdsR1VWMXd5LXFseWdKdGlUd2xiYVVvaGlaLXp3N2FuS0k3eUlTSDVJcVUyVkJyMjZXX28zSmMwSFVKRFFQcEE4cnRLUkI5eWVfQXBLajVlWVBBX200NTZiZjEyZ1IyeFhwLVRaMG9RRU54TFktSlYtbG5MLWdrOU11bFB1Y2M1eWZNNXVNQVhKMjF0XzhhMnpfc2xn?oc=5",
-          "publishedAt": "2026-11-08T06:27:49.000Z",
+          "title": "Recul des touristes étrangers dans les commerces parisiens en raison des manifestations",
+          "source": "سانا",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41RDAzNm1DbzdqLUVTOEVJaEYyQXN3cjluRTFubGR5bkxxQzRrbWtmQUNETXRCUUhxNDlPbEJReEFzWC0wYzNPUkVaMnVRWWtacVJR?oc=5",
+          "publishedAt": "2026-11-08T13:44:55.000Z",
           "severity": "medium",
-          "titleZh": "示威活动：游客逃离斯特拉斯堡",
+          "titleZh": "由于示威活动，巴黎企业的外国游客减少",
           "content": null
         },
         {
           "title": "France Again Deploys Thousands of Police Ahead of Protests: What to Know",
           "source": "The New York Times",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
-          "publishedAt": "2026-11-08T05:47:24.000Z",
+          "publishedAt": "2026-11-08T12:49:47.000Z",
           "severity": "medium",
           "titleZh": "法国在抗议前再次部署数千名警察：需要了解什么",
+          "content": null
+        },
+        {
+          "title": "Paris protests enter fourth weekend with 7,000 officers deployed",
+          "source": "CGTN",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVpLVDJvVnU0aHNteDlCZ0t1aUUyeC0zekt6X1FDRXNQbzA0ek5tTGR5T0dzcUxjZkl0eHVIalYwdUhSWEJIak13UGNrYzBHLWxxbGE5TXBuSWI0TlFWUlhYOVM2TnFFcnA0eTVNM1dOcWNIeUotUEtPT004WW5weVJFbzFldEY2dTg3Q1BCRHpfeUtoODhSbUZuOEhsX0F5TWpwN3p5ZVJVNExhbUVBSTdmbXptUmdjem84MzQ5aGE?oc=5",
+          "publishedAt": "2026-11-08T12:10:40.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎抗议活动进入第四个周末 部署7000名警察",
+          "content": null
+        },
+        {
+          "title": "France : 74 interpellations lors de la manifestation contre la vie chère à Paris",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3hfZWNSOEk4OEprcXRYcXFhV0RlQTF0YXV5ZzVTZ3ZHRG5ZcHUxNF9adFpPVm0yNGk5ckYzVGxjbWRCRmJyOFpRRDQxMXpXVDRZWVRReUN1OGZLNTNocXZxZWgwSk94SHRfWjNrTjVka0tJcUxHUk1nQVBNSGozb1N3QUM5eXdIR3hnbjRVeXZtaEVkQmlVUm8xVmlLSGR3a0twYVpRd0owUmVTMWpTTjRiWDZmTFpYV1U2T1FiRnhkdw?oc=5",
+          "publishedAt": "2026-11-08T11:53:58.000Z",
+          "severity": "high",
+          "titleZh": "法国：反对巴黎高生活成本的示威期间有74人被捕",
+          "content": null
+        },
+        {
+          "title": "\"Le seul toit qu'on peut se payer\" : à Paris, ces habitants limitent les dépenses pour payer leur loyer",
+          "source": "Actu.fr",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPb0Z2em9IUi0tZjRIaFc0RHpBTHVQRzJrd3BvLVN4aFZ0UUVFU2Izc0VpamZsVHUwbW9pcFBuVU93bEtKemhFcWctS1RoN2FhMjNmVEMzOC02c0tibnpXSDBoZXhTemJhOVo1WTN5eHh5R0l6cXBYbDNrZFJxS1VnZjNrQmhlMVBDN0NMUHVTMEtzTEpmX1RUSzQzNElvN0FPQVhtNlFfbkxyd1Y4UnBzWEVLU0RoSEgxTW4tX0RodmhhRjNFcFRMVTRtWFpPNG1ydXFTcTNwOGtaY3F3NzJ6YlJmU0JmclotaGc?oc=5",
+          "publishedAt": "2026-11-08T11:46:01.000Z",
+          "severity": "info",
+          "titleZh": "“我们唯一能负担得起的屋顶”：在巴黎，这些居民限制开支来支付房租",
+          "content": null
+        },
+        {
+          "title": "Paris protests turn violent as clashes erupt between police and demonstrators",
+          "source": "Daily Times",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTlEbDQxWXRlUkU2MXlWMFU0RmVzWFAwRWQ2a0RIRlpidC1OMENSQnBSRmpHMVZYbEtZWER5RG5heWNyY2h4dkJyeEt4SFZPVzhJbEc5ZlZzX001bHF3UjlDZHhZNkFfUWNhQjh4NFBjazlNajZ6TGFnblFzNU5ZRmFVeHRDcU5EbHpTbUt6b2Y4ZzFwM1pMbVFJRnBvSFR1TV82N0h5cEdIUEVfZ1oyMzZ3?oc=5",
+          "publishedAt": "2026-11-08T10:40:58.000Z",
+          "severity": "high",
+          "titleZh": "巴黎抗议活动演变成暴力冲突，警察与示威者爆发冲突",
+          "content": null
+        },
+        {
+          "title": "\"Il y a eu de grosses augmentations des loyers\" : le logement grève de plus en plus le budget des Français",
+          "source": "lanouvellerepublique.fr",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNUY4eEJaNHo3UzVHbUpEODhVVWtibjQwa1RnUGs0cnNwa0hFbUdqYWw2bGlpZEJmYThkTzVtU0dUSFdsUWtnTWFacy1UUGh1S0ZGYUo1ZGh6cjBGSHJUVk52WEtCd0NsbG1ZdU9rcTNnNEVtU003TENCUW1HWTZlOVdQU3pzMFJSdDh5S2JUakVxNURhTHBoUXVrc3NkUTNMQmtmT3lSdW1JLU9uTFF3RkgyTm1TelpsV01lOG01dGg1NWtYem9oU0VjYnRZeVFVVkxkOG5LcTA3ZDhtZVJmY0Z1YUNLWHVhVGhCOGhLcw?oc=5",
+          "publishedAt": "2026-11-08T10:33:19.000Z",
+          "severity": "medium",
+          "titleZh": "“租金大幅上涨”：住房日益给法国预算带来压力",
+          "content": null
+        },
+        {
+          "title": "New day of protest in Paris against the cost of living",
+          "source": "China Daily",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tLW1FZGtOLVcwMWJralVkSDRjQXY1czF6UVBGTE5NdzdLZHdSNzE2Y1pFVG56Y1FQTTJMMFJOXzFqZEJ3d18xMnY2OWsxTlJWRlNfczZHa3A2Smd1LVJiSXAxbzZuU1ZNZ2VtNUtEUUExOEFIWWhmanhMUHJxdw?oc=5",
+          "publishedAt": "2026-11-08T10:20:15.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎抗议生活成本新一天",
+          "content": null
+        },
+        {
+          "title": "Manifestations : Lille, Lyon, Paris... l’AFP dénonce des violences des forces de l’ordre contre ses journalistes",
+          "source": "La Voix du Nord",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcFBGTW85X3VpRWRoZHdSeVJjVUhyTE9fY0pNMmphUFlfM21lMVo4TUNVeUNtZzFSSi1BNEpUa1FoeXVHY2ZfRVVhRDR1ZnNQc3FvUUxxRzdud2NUSXVOZGtfdU04ZjNka0pCWmVxRzl2SUx5TGJFWklLbjJ5YWI0cjB5NEdkZy1fTnhGSWRLMk9YRmZ6V1h1c1dBZ1cwNEIzM21MUkcyWTMtVERwZER4MTRGS2xHdmJTc2JZbTlNSEN3NENqa0dfeWx3?oc=5",
+          "publishedAt": "2026-11-08T10:11:32.000Z",
+          "severity": "high",
+          "titleZh": "示威：里尔、里昂、巴黎……法新社谴责警察对其记者的暴力行为",
+          "content": null
+        },
+        {
+          "title": "Flicage, alcool, licenciements et grève : l’Hôtel de Paris (Monaco) en situation de crise",
+          "source": "Bouillantes",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbjlXMGMyUzZWb0RlbzNqMFR4SVdOU2RBeEIyU19aeGhybERWLVpWRTRrVnJsa1FvTDk3TU5VanBQMmwzX1Z3bS1DZi1iSmROVEl3R1psRnNheUJOcFlJT2pkVWVhNXdBS25LbmR6TnhLQ1gxWHF1NDd6cjlacHJUeG15bHpmNVhhdHhNWVo1NG5kRnhudlo4TndyT2RxUi1EUXZQdUV1TzFOTUU?oc=5",
+          "publishedAt": "2026-11-08T09:49:03.000Z",
+          "severity": "medium",
+          "titleZh": "警察、酒精、裁员和罢工：巴黎酒店（摩纳哥）陷入危机",
+          "content": null
+        },
+        {
+          "title": "Paris : un homme retrouvé mort dans un appartement du 14e arrondissement, la gorge en partie tranchée",
+          "source": "Le Figaro",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSncyd3JkMU1Ud1JwMEJwaG4zcVZrbnpXUUJ1RXZJdDhJRDg3OTdWZjIyYndDRjF1X19TV0J1SThQcklpamVDeWx5bk1QdUdid3NIM0VSaWdENjV1ZTdnYnpZU3RTRWlrZW5SS2dGRDlmV1RhTHBsSkdaQmNkNDN5TXNnc3JSRHpmVzA3QVR5TGstZnZFWU42cy1fTDJoS0h6bTNrc01mb3lxb2h5N1R0OFNkek1ZYllxbkxVQkJaSktEcXJVMVhacTRnX2drczZFMkRhcEhKUTVaYjNx?oc=5",
+          "publishedAt": "2026-11-08T09:36:03.000Z",
+          "severity": "info",
+          "titleZh": "巴黎：一名男子被发现死在第十四区的一间公寓内，喉咙部分被割断",
+          "content": null
+        },
+        {
+          "title": "Moins de touristes étrangers dans les commerces parisiens, autre conséquence des manifestations",
+          "source": "Le Monde.fr",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbkwxR3NZbEhKQjcyaElwTFF6RmdWRkhvQ00yaGt0RnRtQmVyT09pdUhILTIxb1ZMN2xoYmFxS0g3RVpUdHFYNmtmMHl2NVNHanhGREg2Ul84a3E2ejMyV3UtV0dDVEV6QktNNFdkX2FfemVHakNHMTNjSEJMMTFRNldiZzZ0cEVYQm96X0NQeUdlNUJuZ2Y5ZlRzZ0MtN2p6dUg3bk5FU2JXOTVaM0lUR1gtR0JpcXFlOFpFNXMyMGM0SjNkNVpPWFEzY0ppck15cW1YUk82WmdQbjVoeVZwYWluVlJ1dm9tdm1WZmFNR0FFZThqSVE?oc=5",
+          "publishedAt": "2026-11-08T09:30:07.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎企业的外国游客减少，这是示威活动的另一个后果",
+          "content": null
+        },
+        {
+          "title": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55am9PUjU1T1hfaHVaY3pMNktHdE10XzRuVDl0ZHBlQzVRWGNJT3hlNEZsUVprdjNqbzh1NExJLTVrTGcyUERraEQwWTIyOGROZVdxU2doWVhlRzdSekFUTW02V2tBRl9QaU93NnNWb0l4dUw1LTRJ?oc=5",
+          "publishedAt": "2026-11-08T09:29:04.000Z",
+          "severity": "high",
+          "titleZh": "图片中：法国抗议活动吸引了 146,000 人参加，冲突连续第四个周末爆发",
+          "content": null
+        },
+        {
+          "title": "Dépression, alcool, violence : l'ex-rugbyman Rodrigo Capo Ortega raconte sa descente aux enfers après l'arrêt de sa carrière",
+          "source": "La Montagne",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTDNpUzFXX1BDMGp6ZU5lLWl3VDNzS18yT2hPZkhSeV9sb2tCSmNwUnNXQzloV3ltdlRqbFBrV0E2OHNRV1pMLUt0RVJ4MHVSUGs2Zzg4aVdxdTktQ2d4YmFkd1RZLXh0dGpBejNwSWo5NFhwTDlkbkhpVEszbnZ5VnFOTzRacVpVRER6cmt1RFNmeElSS1lRZkhpaVNnNjNtYkRVdHl1T185SllSaHN6dXFIdW4zTVhNM1dGMnZQSEZLaUVPNmFLSjAtMy0zc2p4UTRsdXhWRFd1ckJnMVVTbFpENWZmRFJJM0lIZEZIWl8xZzdkcjlLT0lHOVZhM3ppMW5aNHBB?oc=5",
+          "publishedAt": "2026-11-08T09:24:00.000Z",
+          "severity": "high",
+          "titleZh": "抑郁、酗酒、暴力：前橄榄球运动员罗德里戈·卡波·奥尔特加讲述了他在职业生涯结束后陷入地狱的经历",
+          "content": null
+        },
+        {
+          "title": "« Après la grève du 5, on fait quoi ? » : des réunions de RP partout en Ile-de-France cette semaine !",
+          "source": "Revolution Permanente",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeFM2TGdpNnZ4ZFQtY0UxSmpzMGo4NGdXcVNEd1duMkZ1QUFmRHlpRngzWERDV096TXVOVmlPWDNFOUZuNzhNWVRTd3BXeGJHQ21mVWJHRlg5Vjd1NWpRbHBBOUlzb3l3Nk1ZT3RkRExRcUd4WWY5cGdDRWkwZVRqNjN5aUgyNG9HR2VyLWpCazJGVnkyTlpiMG1DQjVhNXQ5eFNWTlF0cFozT0J2LWQtT3J1SnZqX0U0UElfTEFiMkJVZEVVOEtr0gHPAUFVX3lxTE5HeWwxeWI2MHo2RHpidEd2bk5CSDBwYTJZYVBxZFdCbWRKdUZqa2syMGdHTURrNE5YclpoS0FRbGZjTW1pTzgxSzZ4VE9kQTNlYk9XLV81T1hHelpkM1FId285OEpvQ2l4elRjTWRqUGRreWlqUjZhT3dpdnl5YXNyREJIeTJtYXFnc2VMNzY5b3d1Z3ozb0xqek1CbVpQVURqM2FCZFdCdjVjVDAzUHowU0Z4cTA3czZIM0xYblc3VzlrMU5oWGx6bEthckxfZw?oc=5",
+          "publishedAt": "2026-11-08T09:22:37.000Z",
+          "severity": "medium",
+          "titleZh": "“五号罢工之后，我们该怎么办？”：本周在法兰西岛各地召开公关会议！",
+          "content": null
+        },
+        {
+          "title": "«Macron est un co*****»: un enfant de 8 ans insulte le président",
+          "source": "L'essentiel",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlNiYWJjWkVvME1HOXFQRUNSTHNTeGo0eVFzaTR1cFdEUzFqY2Iwc3hYdk40b195UDk5amd3TkVQQkdPWVdhUHRpNTQtaWdEdmEyNzVmWGNEOTBvdDhIc0ZnM2VhRDM2RXhaY1NMSDdDY1ZRN1BqTVk2TzRRYWJxQkxMeFV4b2RmQm9ma2VNUndOOUNsN0FTNkxMaU5LdW1DQzFqdU9LQ0FUdWdP?oc=5",
+          "publishedAt": "2026-11-08T08:44:59.000Z",
+          "severity": "info",
+          "titleZh": "“马克龙是个私生子”：8岁孩子侮辱总统",
+          "content": null
+        },
+        {
+          "title": "La direction de franceinfo « regrette » les propos tenus en manifestation de Marcel, 8 ans, et devenus viraux",
+          "source": "Le HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOd3J6cmpKTmRtemJVUF9OckJQdjU4bktiQ051ZXVvM0RJaVlrUjg0a2hEVWtXOV9vTTMzSmZOZ0ZyMW1uZGNpRW1kakpkYWxJekJ4Rjd3NDM1UERLN2trdkVwYmQ5aTBvRkpEZ3kwQWJNOUNGb0J3M2EwWExGazdXbXRHMjd5aFlXM0RqVUFZOHkxVlhfdXJuXzM1M3Z3U1hoSmV1QTNLNDJaMUNuN0ZQeDMxNzJiUjk3SG1ORVBENEFpR3Vta2t6MnFSM3VaWWZ3QWlQcFlQZ1AxSVVDRzVXRU93b2hwbXJzNmdnMDdIQWtoZw?oc=5",
+          "publishedAt": "2026-11-08T08:27:52.000Z",
+          "severity": "medium",
+          "titleZh": "franceinfo管理层对8岁的马塞尔在示威期间发表的言论“感到遗憾”，该言论在网上疯传",
+          "content": null
+        },
+        {
+          "title": "Mapping how France’s protest wave spread across Europe",
+          "source": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbldwUkR6YVZGbDU3bzQ2aU5TMi1CR044NUVCRl90Ym90eFdMOEdSLVZSZUNrcHdaWFVaQjcxUFdrbExUM0hUczFuRU1fY1Y3NmVEejFvQTFpUWpWdmlVdkIzaGp6TFJlOHVMR1cwNzRGY3JGTVVRa2k5NTFfNzdnbE04LTJfNE5QREltMUExaUxoSXpDWFNQNGRn0gGfAUFVX3lxTE1zU1dhdDNhZTR5NUcwZVhDRGZONmxjM2dSUnJsQmNzTXpDSGs3VjJ3SW9UdUhROGlZT0VPZmozUDQyYUE4RnlYS3g5ZUhhQTVyc0ZYaEZaNTUtdU5Hc3lKTVQyZEJpdFU5bEx0bllNR2NxUkc3OENwSWpXbjg3MlpXT2U0clVucW8tTU5MTjJ2T25xYnNSVm4yN2QxVVVxTQ?oc=5",
+          "publishedAt": "2026-11-08T08:21:48.000Z",
+          "severity": "medium",
+          "titleZh": "描绘法国抗议浪潮如何在欧洲蔓延",
+          "content": null
+        },
+        {
+          "title": "Orchestra Fills Paris Streets With Music as Protests Over Cost of Living Enter Fourth Weekend",
+          "source": "Wake Up Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GWXNSUGYwXzFwWlhkWUNoaG1qMGlqWGlvU2RuczFzZkFvYlptVV90R2FaR29DMVUtLVd3U1Bzdl9TR1NjOUJFeURlaGhmT3Nwa0xMLWVScGE0UQ?oc=5",
+          "publishedAt": "2026-11-08T07:30:54.000Z",
+          "severity": "medium",
+          "titleZh": "随着生活成本抗议活动进入第四个周末，管弦乐队在巴黎街头演奏音乐",
+          "content": null
+        },
+        {
+          "title": "\"L'enfer\", \"le choc des images\", \"bandes de pilleurs\" : les Corses de Paris face aux violences de rue",
+          "source": "Corse Matin",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMXBxQklWZFNXRjdTNFdzTGpEVDJtR2cybGdYakxRWFFsVEdybU5xbFJ5b2hTaVN0eVhfeVc4enNocVc3QmE2N1NENkM2bWN6RjVHZkFqZ0JSd2VwQkRWN2ZTN2ttaDJMZnFURWxjUXFmd1Y2M1hmRVRpYVQwOXd0Y2dzdEZpVnpwZjNmeGQzRWxvRFQwaW5nakN4TzZDdVFPUVRFT05ZOURDMkVjQmZ3Z05nTjh2QlFHUnl2d0Z4NTNUXzFaN2dPbHY1ZzREbWZzUnJCWXQxMjBIVXI5S1hxR0Z3?oc=5",
+          "publishedAt": "2026-11-08T07:30:01.000Z",
+          "severity": "high",
+          "titleZh": "“地狱”、“图像的震撼”、“抢劫团伙”：巴黎的科西嘉人面临街头暴力",
+          "content": null
+        },
+        {
+          "title": "France protests continue for 4th consecutive weekend as Paris sees clashes",
+          "source": "Newswav",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNUZtLWV1WmIzd2xLbEhqTTA0OGR3ODlWLUdxbVJmQzNZb0lvVmotSTY5T21CenJFWTlBZHFMOWZsNHY2YnVMRkdDVlhyZlFPMDJCMGY5M1NyMXBONldDNTBxWW9ZTFROZWJSc2ZkYVlhV0dFcV94T2NiX2ctaG9ZUmVkeXpWd1laMVZVaVpGdUNRdTdEaGQxcWdOLU5hZjRlMG1pbmZwY2dHYV9Id2ZQTjJ2OA?oc=5",
+          "publishedAt": "2026-11-08T06:59:19.000Z",
+          "severity": "high",
+          "titleZh": "法国抗议活动连续第四个周末持续 巴黎发生冲突",
+          "content": null
+        },
+        {
+          "title": "Manifestations: les touristes désertent Strasbourg",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1RpdFlrM3RKamtPclVySXRFcWlEM3lqbU1DV0JBRzIxbWdsR1VWMXd5LXFseWdKdGlUd2xiYVVvaGlaLXp3N2FuS0k3eUlTSDVJcVUyVkJyMjZXX28zSmMwSFVKRFFQcEE4cnRLUkI5eWVfQXBLajVlWVBBX200NTZiZjEyZ1IyeFhwLVRaMG9RRU54TFktSlYtbG5MLWdrOU11bFB1Y2M1eWZNNXVNQVhKMjF0XzhhMnpfc2xn?oc=5",
+          "publishedAt": "2026-11-08T06:27:49.000Z",
+          "severity": "medium",
+          "titleZh": "示威活动：游客逃离斯特拉斯堡",
           "content": null
         },
         {
@@ -121,15 +325,6 @@
           "content": null
         },
         {
-          "title": "Police scuffle with protesters in Paris (Video)",
-          "source": "Social News XYZ",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR3NuRnp0aGZ3bVJXa3VacUMyWmdqS0ZwZjhnWnN2R2lrNGpLZ0xqMmtqY25Nc3JaRlMwR0VsTjRyTkItb0NIdmdvT3lFbUlMeFBIcm9SVVdXMUk1RUxTMlhhWVdvWUtMeWZXWnFKWGQ0bjF6TE5mNHhCZ3p0T1pGR3lNLWtOQkR6YWtKdFAyQ1dNVUl4ME9USzdoQl9MbXJhekl5UHhhbjlyUkV1X3A4MFd2M1k5dmpWWkFxQ3dBRU5hUjloRWRtUHVJSHRRdW8zUmFJZ1hLcnJ6RTNDN0paVHVNYmw1ZVA4Qzl0OTM5Vi0wLUFTZnBKUXdMMmdRTDZBX2lz0gGDAkFVX3lxTFBHc25GenRoZndtUldrdVpxQzJaZ2pLRnBmOGdac3ZHaWs0aktnTGoya2pjbk1zclpGUzBHRWxONHJOQi1vQ0h2Z29PeUVtSUx4UEhyb1JVV1cxSTVFTFMyWGFZV29ZS0x5ZldacUpYZDRuMXpMTmY0eEJnenRPWkZHeU0ta05CRHpha0p0UDJDV01VSXgwT1RLN2hCX0xtcmF6SXlQeGFuOXJSRXVfcDgwV3YzWTl2alZaQXFDd0FFTmFSOWhFZG1QdUlIdFF1bzNSYUlnWEtycnpFM0M3SlpUdU1ibDVlUDhDOXQ5MzlWLTAtQVNmcEpRd0wyZ1FMNkFfaXM?oc=5",
-          "publishedAt": "2026-11-08T01:06:15.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎警察与抗议者发生扭打（视频）",
-          "content": null
-        },
-        {
           "title": "Police scuffle with protesters in Paris",
           "source": "AP News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMnZIelU0N0RXZ2FzMnhvdE9Fd05DaXFwcEF1cWk2TndrZk1Ha3FQQnNScnVkdV9uTHJTNmQyeDNhbWFPTERIcWh0YjFtTV81ZVc5YmxCWUd0UHFiRFp3aDhjNkMyVlpCZW1jNEZSQlc3VUd5YVVtcEJSLXd1ZlplS0h1NkYzbjAtS2gtUlVLSWlKY1plNlF5eGFUSG5EZw?oc=5",
@@ -139,21 +334,21 @@
           "content": null
         },
         {
-          "title": "France sees new round of student and Yellow Vest protests in Paris and dozens of cities",
-          "source": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3BVWXpmSm9fckZMMWlsenEtU2otSERKWllJN1VKV2hoRHdNNjVkcS1KQlRyaWppSnhPRng0VnpHUWhseVVmcFItcUdIaXZ5UmtEWmMxQlBOOHRESkZVbFoycExlQ3lFVTNNNW12VDhWUllkY3c4c0dsRE9RYmNkSHhEOWxoTV9OcWpTQndlUdIBjwFBVV95cUxPdkxxZzlPMXZ2dGNvMzhIbkFLbXhFYW95eVh1ZjdacGRvMDR6SFJxcDcwcm9Ib0UyR3hWQi1hM25tRFhRaEpyT0RDQWJVN2lHZ0pQNjE4M3RmblNNY3pBeDFCNkc5RVZZb2hGRVl5bVdkdlBSTVpQS1ljWUtJTnlQNEpLamxCU3Y4NlBsNnl1OA?oc=5",
-          "publishedAt": "2026-11-08T00:02:27.000Z",
-          "severity": "medium",
-          "titleZh": "法国巴黎和数十个城市爆发新一轮学生和黄背心抗议活动",
-          "content": null
-        },
-        {
-          "title": "Angry French rioters defy protest ban as thousands flock to the streets and clash with cops in fourth weekend of chaos",
+          "title": "French rioters defy ban as thousands flock to streets & clash with cops",
           "source": "The Sun",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYWRNRGNfSXQtZW1qQ1ZZdGIwQmo1OE1KMDRMVjlaMXZnazFIT0ppVTBNajI1eEl1TEVjNTJsUkx1NXhqbExJUDZESnJ4aGdycGYwZ29SU3M2aVNzVG5XMm03VnJ5d3JSd1RtM1BrSHMtWERMT0N3U0RhMTBVRXc1T3QxTmpWWDQ?oc=5",
           "publishedAt": "2026-11-07T23:33:52.000Z",
           "severity": "high",
-          "titleZh": "愤怒的法国骚乱者无视抗议禁令，数千人涌上街头，在混乱的第四个周末与警察发生冲突",
+          "titleZh": "法国骚乱者无视禁令，数千人涌上街头与警察发生冲突",
+          "content": null
+        },
+        {
+          "title": "Police And Protesters Clash In Paris During France’s New Round Of Protests: 6 outlets compared",
+          "source": "NewsCord",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUJqQ0dIeVZyb2dIWXZJR1F3aE0wZXpneDlpMEdpY3cwV1E0MkFFcmRRZC1UZXJqZGJJYndEZkQyYnlrRE5lWjltTjkzZXpWcUFfUmV1LTZwcjZaOEpkQVNwMjU0VGROem5pRmpEZkl5ckstRW9qMXR4eldXVVRUR0taaDlJd19ubzNlZy03VDBnWDExRXRObmdhWWxLQTQxOTd1LXZBWS1ZMnQ3VHdtSlR6S2xNX0tfLVBoSGdPN25pU1ZpNjZBTkhHZ2RRd2dTdEhKUUlkZkdEX2diM1hUZg?oc=5",
+          "publishedAt": "2026-11-07T23:26:32.000Z",
+          "severity": "high",
+          "titleZh": "法国新一轮抗议期间巴黎警察与抗议者发生冲突：比较6家商店",
           "content": null
         },
         {
@@ -200,201 +395,279 @@
           "severity": "info",
           "titleZh": "巴黎警察与示威者发生冲突",
           "content": null
-        },
-        {
-          "title": "Manifestation à Paris : franceinfo regrette d’avoir tendu son micro à un enfant",
-          "source": "Stéphane Larue News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZExHVjIxMmJnX2oyNVlEYjVVR1dldU1YLUlUdlFmSncyZlhUQTJRemd6eEE5Nmw3YlZvNDN1aEowWjNIN1JiMXZsZ3VJNGFwdWRPVldXR2VvbVpFcmRnMWU2dHo4VXNaYWxndFdpYV80dUpqRmpjTGFWTVBlM0tyRWlOLVFJTXVBcFhRVFdGb1ZmdUdUNDBHcU4xcVR4M0U5ZEk0d3V3?oc=5",
-          "publishedAt": "2026-11-07T21:59:29.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎示威：franceinfo 后悔将麦克风交给儿童",
-          "content": null
-        },
-        {
-          "title": "\"On entend beaucoup de revendications mais pas de réponses concrètes\" : à Paris, la mobilisation se poursuit malgré les annonces du gouvernement",
-          "source": "franceinfo",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPc21DdW1VaUpVU3FsYzE2MEh6Wm9FNGhab0hUWjNXekZXUWhacEJLWjVNNVF3eHI5NzFuclRLMkZ1VTFIOW5uYzBfTm02V0pUbklWc3ktLUV0ZVhXSW1oNERkallZWUVNX3hHOFVBRkROYVhLNUVpR2ZNSVMtdmZtc0I3U25KeUlTV2J1Ri1CUmN3SWlHeVBzWFZueEN2WlVOZWpUaFVMME5SeUhIcFBTVzljOHFRem1SSFJWNkd0MGhjeGdIa2MxYnVQVV9FNVRmWEtpRHRVN3BiYTcybldiZFdFNzd5VWJFQXJKTVFYTGZrODlOZkp3bzZ0NE81b1BHaU1meVdwSTVHSk44d3VLczNiZk1KUW1Hc0MyeWZxZmVXMjNxYWtWcjdCUW9DRS10dU93eURB?oc=5",
-          "publishedAt": "2026-11-07T21:47:45.000Z",
-          "severity": "info",
-          "titleZh": "“我们听到了很多要求，但没有具体答案”：在巴黎，尽管政府宣布，动员仍在继续",
-          "content": null
-        },
-        {
-          "title": "Paris police clash with protesters",
-          "source": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWGdCVEZkQk43c0J6VUJ5c1dORWlaZGd4Unp1akJQSS15VDFua1dqVTNJdFNVZW1sR0NIWndOYlZFaFg3YnktLTkxMUZXSlFDRDlTMkVtQmFNTUM2MHhDMHpaUmh6UHZKendrMnpsOEJ1VVR6ME51dnpydzhfSjFWUUVzN0FvYnhUYmpEbw?oc=5",
-          "publishedAt": "2026-11-07T21:34:39.000Z",
-          "severity": "high",
-          "titleZh": "巴黎警察与抗议者发生冲突",
-          "content": null
-        },
-        {
-          "title": "Massive Police Presence at Banned Yellow Vest Protest in Paris",
-          "source": "Indybay",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5a0ZuY01fN09NdDN2dGpRNGRwcHY3YVhzX3k0b2NfMEVhSnQtSVJjaWMxSFlqS0ZId2JkVDdubHk5UTZhT1FsWm00VnpiWWU2N1pVV2x2M0NVQU9NQmlyMWE4QXllQ00x?oc=5",
-          "publishedAt": "2026-11-07T21:02:40.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎禁止黄背心抗议活动中大量警察出动",
-          "content": null
-        },
-        {
-          "title": "Étudiants, salariés et retraités unis par la même colère face à la vie chère lors de la manifestation à Poitiers",
-          "source": "lanouvellerepublique.fr",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSlIwRGJRR01kUzdmMkZHWTRQUC1Lb2o2WTZGUXUta0FDUWNVRXdCUU5LcF9XZ2QzRHRzZFVHRWxWVW9VMUljUkNHaFdVRUF5aTZZc05sZjlXRjVEWFZwYWNwajVHalZkUmNFTE5mcmlBcGxoZVlhSW55cG1SaGtNUzdJMGhnSllTUURGcFphcmp0TWd6MUZhZ2VGQW54aVlUS3p5dXdkYy0wVldPdXZCR3FJUFRhRDNrendMdmNiZEwzYW5ZNWE1aUt0R1QyZkZQSnZreTU4VU12b193aVVLWTVPVTdWbDFNd3hxTzJuZWZSM3RLckVheks4VQ?oc=5",
-          "publishedAt": "2026-11-07T20:38:04.000Z",
-          "severity": "medium",
-          "titleZh": "在普瓦捷示威期间，学生、雇员和退休人员对高生活成本感到同样的愤怒",
-          "content": null
-        },
-        {
-          "title": "France Protest Crackdown: 70,000 Police Face 4th Wave of Unrest",
-          "source": "teleSUR English",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iR1UzbUFuXzd3UVBIbTQ2SzVlc1VXQnBsaWxuaFNoWUZSbW5aTWpqYXdYdE5SUUNaTFQxdW5mNkFILTNuSW0yVkU3b016a2U1WTBqSm1KMmhfVmdyY0FkaEhRcFVNbVU?oc=5",
-          "publishedAt": "2026-11-07T20:23:29.000Z",
-          "severity": "medium",
-          "titleZh": "法国镇压抗议：7万名警察面临第四波骚乱",
-          "content": null
-        },
-        {
-          "title": "Young and old protesters unite in Paris over the rising cost of living",
-          "source": "Modern Ghana",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlcVl1STRTRldHZXBXdXptcF9xNk81dHVTWC1hSm5GWV9qVVNETE5xTF9BbE11RmE2M2NMMktsZ1NPYkdaUlZ2b2dhaVlXLVpqeTVXcU1nb1B4aFlUTjM5WGpNaDlScjTSAVxBVV95cUxNa0xtSWFQNXNjclRTQjFPSW5Ma0JqNThjUC1VZ0ZmQXlQejR3a2Q4LWZ6X2xnMVhBOGNlOFloZm1XZWV3LVpMSFg1aWY2NHFXenVSRlRFVEc4cWowTQ?oc=5",
-          "publishedAt": "2026-11-07T20:20:00.000Z",
-          "severity": "medium",
-          "titleZh": "年轻和年长的抗议者在巴黎团结起来抗议生活成本上涨",
-          "content": null
-        },
-        {
-          "title": "More than 140,000 rally as new protests against rising costs sweep France",
-          "source": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmFiWHM1MHV3M1FXUENUVjV5NWswTm9kTHJoVVloNHNnOW5ZUDM4RzJ4YUNrM19rMTRQMTduTE5LcWRpR3YyeG9YajktSEFMaEJ5Y0ltU3YzckFqTXU1VUNEYWFwWF8tRElIc0JZSWJ5M2Z2dEtmZjdKeGRlZzNvY0hhWW9ZSUFMaktNRl9HRVhUNnNxMEJGS0NiX3lfb1BsLWxiMF92LV9VYlg3cDVKM3F5VdIBuAFBVV95cUxQanlaaTJvYmNCa3EwcVhhTF9GTDhzMkFjVG1MV1JaYTMtSllia1daNFhpWm9IczFMX3hpVG15bHV1cDBMUDVLNVJYOXBQUF9rMzRmU2pnN0cwUUx6emlBV0dnNXM5NTZPVTk0SFJWcld5SHNzQ0ZDOXlya3o2anowS1kzOEk0RDJaS0ZPaHV6TVc2eUhYSUZmQ0o0emtBWjQwYndOb2JiZ09YRmVrNzJQVnRDanNtS2RF?oc=5",
-          "publishedAt": "2026-11-07T20:16:05.000Z",
-          "severity": "medium",
-          "titleZh": "反对成本上涨的新抗议席卷法国，逾14万人集会",
-          "content": null
-        },
-        {
-          "title": "Manifestations calmes, dispertion tendue à Paris - 07/11",
-          "source": "BFM",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONjROTFMxeUswSnQ0a096d05ydXNndU5XaFptMVBmQUxNZk1JQWdGWkJvN3BrV1RpSnMwYWVDMVMwU0dlMHZuS3lGVzNZenhXUTNUU3hWOFJQNU5rcXBtSlkwazlaUDdfWVRFSUJNOS1ZTE9fWGo4YjZKVGJyQlZvSU1maV9jajgyWGdEc3o3bG1UT01PWFFYUDVUVVYweklNZzJHYUdRSkEwcktKS29HVWR0NWszLUlmRmxQNlVHRUloLU5SLTk1QlRLT2hjOUpIRGln?oc=5",
-          "publishedAt": "2026-11-07T19:52:01.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎平静示威，���张分散 - 07/11",
-          "content": null
-        },
-        {
-          "title": "Paris police clash with protesters as 250,000 take to the streets in nationwide demonstration",
-          "source": "Riviera Radio",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejdaMkRKOVQxRUV3akFmcXBTeTlPdGZTNnZRY0FIalR0azdjLXk2RFp6ajhET3VyS0N1dDFBN19Rd0R0TXdoRmhhb2s0Wk9vTDVST1JRR1RiNXI5dFlpaWdZUEI0M0FxNHpwT1BlaG5JWTB4QzhsdEcxcU9qZmpCN0xKc21VcTRs?oc=5",
-          "publishedAt": "2026-11-07T19:40:43.000Z",
-          "severity": "high",
-          "titleZh": "巴黎警方与抗议者发生冲突，25万人走上街头进行全国示威",
-          "content": null
-        },
-        {
-          "title": "Clashes in Paris Following the Latest Protests in France",
-          "source": "BGNES",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTkwMV9jM0M3WWMtNmI2bkIzRV90VEpYRGRqbjFJc2w3b2VVZF9IRXlhVVdMVkFZVVVTZU1SX2ktQ2U3RVpwSVVWN1NGMUJJa1ZzZTNaWGVzeHhjQUxEUjRrRnByQTZZdXhoYmdvNTNMNmNzaG1uMEdwQXZiTHlsVWVXdmlmeTc3SHVqWkVsRQ?oc=5",
-          "publishedAt": "2026-11-07T19:37:13.000Z",
-          "severity": "high",
-          "titleZh": "法国最新抗议活动后巴黎爆发冲突",
-          "content": null
-        },
-        {
-          "title": "Paris agitators defy police orders, renew nationwide protests centered in Paris",
-          "source": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMHFKVEptdWVYVkNvazdmMDVOa00xN0RiNEQ2Z090WUZPOGJWTG94X0pmSG5sXzFsYWd0eEUxRFNoS3l4Ni1nQ0NzR1liNzBiXy1pQXNLLWVBME9vbm1SdVZnTVNjTFhTeVg2OHQ5cmJjTWFBR3lNTEhzaUxNajNtX0ZGS2NVT3lqYlFqZmMzUkE0ODNzQlFXWEVjcGtoeEdWMFV5SGF1LXfSAa4BQVVfeXFMUDFsVjFmVWYxRU9Sd3NiYWhJNWdaRlBPZEFyYk9KOFR4TlhCYzFWNmY4TnAxY0JENmtLcTM5Q3poYi04V1pYUGhTSnpDSDBuS09XbU9yemhZRGxMWVdjc2k3bHZLYmR6U0stZDdRM1RKSHRHMG5reE55T2Roa3p6LXdPQWw1QUxhbUo5d0NtSlhFOW5aVzJjU3NMcFdtOFRReTZMdVBuZWJrSWFrUEpn?oc=5",
-          "publishedAt": "2026-11-07T19:32:27.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎煽动者无视警方命令，再次以巴黎为中心的全国抗议活动",
-          "content": null
-        },
-        {
-          "title": "Thousands of French citizens protest in Paris for fourth straight week",
-          "source": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzY3lMRHlobjBXd2VtQ2luOVJiN09ReGJNZXhQdndEVVQ0M2Vwd0JMSHdwVXV1Tk8tMEFqZTFGNC1PcTNVZW5rYVRRWFVZZ3pPaW9GTXFB?oc=5",
-          "publishedAt": "2026-11-07T19:29:18.000Z",
-          "severity": "medium",
-          "titleZh": "数千法国公民连续第四周在巴黎抗议",
-          "content": null
-        },
-        {
-          "title": "Thousands of Paris Residents Take to the Streets to Protest Rising Prices, the Atmosphere of the Demonstration Was Heated",
-          "source": "VOI.ID",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9nSE9EaXV5YU10Yi1aNGlMODQyX2J5MmozUXVfNVVPTjQxdF8tRjMtTUtNRkVMRGRqSFdmWmxKTjRYOVnSAUJBVV95cUxPT1N3aWJBREQ1WTJHTEJRT0J1Z3JaN095YV8zdV92anBrd3E5eEZzRFgwWUZMS2phQmlRdG9tZHhKeFE?oc=5",
-          "publishedAt": "2026-11-07T19:26:00.000Z",
-          "severity": "medium",
-          "titleZh": "数千巴黎居民上街抗议物价上涨 示威气氛升温",
-          "content": null
-        },
-        {
-          "title": "« Solidarité avec la jeunesse broyée par le système » : à Paris, l’acte IV de la colère sociale marqué par une baisse de la mobilisation",
-          "source": "Le Figaro",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdUpZeHBCbzZNRWg4UU1lUGhtNG9DZVFuM2dPbDRCc1E3czQxbG9WV3dqLWxMNUQ5bDh2YW5tOGdNTFhBX2dUQ0VkSzdBaGtZaHRHZWtSTEdMTDFjR1VrQTl5bUkxOEpqSG1paVZWam5xMmUwSnJHeHJPQzkzVnpCLUp5REQtZDRzOU5rNTVueEljU1VzUGQwanpVQ1JZNHkwNWVzWmZtcXQtT3c2UTduVmVfQmpGV0pLdkJWTEVtTzFPdm5vNFZIVlpGRVpuVWo1MTNtay1fdk0ycjR6ZUtOLVFVTURlRXEyNkQ2NmVmLXdTbzdPUDNkNGJWSy13UVBSMjZBTmRUcDd1WDg?oc=5",
-          "publishedAt": "2026-11-07T19:15:01.000Z",
-          "severity": "info",
-          "titleZh": "“与被体制压垮的年轻人的团结”：在巴黎，社会愤怒的第四幕以动员率下降为标志",
-          "content": null
-        },
-        {
-          "title": "Massive Weekend Protests Enter 4th Week in France; Students and Workers Rally in Major Cities",
-          "source": "news.sbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52dTdyaW8zd3hCd2JqbHR0ZTYyVmozLWtGLUx6TlcxVjFUeDZrSnpCbG9vdmliQjhiTzRKUzltY0c2ZmtMa0pnRU04M0Z6R2lMRi0zVkFOUTRRNTRYNzY0dGVtMmw1T1lDM3hPZnVn?oc=5",
-          "publishedAt": "2026-11-07T19:14:53.000Z",
-          "severity": "medium",
-          "titleZh": "法国大规模周末抗议活动进入第四周；主要城市���学生和工人集会",
-          "content": null
-        },
-        {
-          "title": "Clashes break out in Paris amid protests over the cost of living — Dawn",
-          "source": "UA.NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGpyNnlncGw3djZ3S1VfUFpzdzRIcWh5WDBtSk1GR0c3Q0haSW1fOTNFaVd1bkkzaDRmTXdYV1BpUjFVcUFvOGFVVjVVcnVDaC1ONjZvaGtXdndZRU85Y1UzTkxwSTBDTG5CZVdXQVVOdjBRSHA5U2dLeDJ5aFJYRWtPY2lqb1M0dDlBcGUyYzBVd29WajZLVzhBdzZLWU5UMFF5OUluMGE?oc=5",
-          "publishedAt": "2026-11-07T19:13:02.000Z",
-          "severity": "high",
-          "titleZh": "巴黎因生活成本抗议而爆发冲突——《黎明报》",
-          "content": null
-        },
-        {
-          "title": "« Un smic à 1 500 euros, sérieusement ? Ça va changer quoi ? » : à Paris, les manifestants exigent bien plus du gouvernement",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNang5R1FnV1l3VURkbFgwRkkzYlFFSFdBQzB0ODF2b3hISjEyQUlDTUxibGh5Nk1Qb1dISFZ0MDhKMWY3WksxV0NBM2t5X0tYN0xpbHI4ZkItVFVPTUhqcGlwNW9vSmRGUVVsZVBpQ3pHUW1aVEZHNEt5cGtoNVlBRVVJUGx2bUM2TWo0OGFPSWcyZ2FIWmlpWHR6LVRlMjBTTmx5VXVOemNBakNCS1ViclVpVF9sZEFjS1Rtby1BeXFySDJJenZmb1A0bGRRc0hsckxjYjNoYkwyMlFEc1VoTjJOOS1iMGItSkhTUjJsUUZjME9JT1JQeGVfVEdlTU12UUY1c3RmRlZ2SmkwZ2Q2VDlnX2RvWkx2?oc=5",
-          "publishedAt": "2026-11-07T19:06:37.000Z",
-          "severity": "info",
-          "titleZh": "“1,500 欧元的最低工资是认真的吗？这会改变什么？”：在巴黎，示威者向政府提出更多要求",
-          "content": null
-        },
-        {
-          "title": "Colère sociale: tensions entre forces de l'ordre et manifestants à Paris",
-          "source": "Orange Actualités",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVEYyTFlOX211ZDFYRDhBTkJBbXhrRVduVERyZzQ4Y2lyTGIyMEhaNnJzb0pEQnlTS1kwQmduUV9jOEFkRklOYk5xc2FIWlBvWWdFNUlVdjR5TkdaRGJZYmRsMDdMcHVUcFRQcnR2UEc0UzA2SlVNdnExTEx1UV9rZ1VrM21HZzdzekRCQ05PaUVLNk9VVE8tc053UnhhSHVkcmhJeUdKMW9jbFI0ZTVjMlc4RHJxZWdEVjhzU0xuWFl0R0tOenpV?oc=5",
-          "publishedAt": "2026-11-07T19:03:21.000Z",
-          "severity": "info",
-          "titleZh": "社会愤怒：巴黎警察与示威者之间的紧张关系",
-          "content": null
-        },
-        {
-          "title": "«On est épuisés émotionnellement, mais il y a des choses qui nous font tenir» : à Paris, les jeunes manifestants restent mobilisés",
-          "source": "Libération",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNUTV3VVNiRlNWTkNCLVdZUG5ZWEkyUk1TNkFJaGkwRXI5Z0pNalVKRlRBZ1kyajEwVXR3a3NTVjV5WW9iejBWVTRmVFZ0WWZVaEV6eTFJeFlmeTRxUFhsYlpOd18tbXdCVkdhQUxtdnZndnIyTno2SUZuVFBxTEZ6NDdhdXpuSGFDb0FBY3VVd1V0T3BsNDFKYU9VSkx3UFh0QVU0ZzhvTkNaNlNlVE1YR3cwUmpkRmJyWVZNeVJhUEUtTVYwUGQ1N3VUckRDdFFJSmlFcU1YanRXZTd1aXVENHFvVFdoNm1uRVV4UXJ4MDFmOTNCWnJibndNVWZMWWhpOTM3akpDWDdRS2RRSWc2N1kydHdjb2k5ZVpSWXVfY04?oc=5",
-          "publishedAt": "2026-11-07T18:58:17.000Z",
-          "severity": "info",
-          "titleZh": "“我们在情感上疲惫不堪，但有一些事情让我们继续前进”：在巴黎，年轻的示威者仍然动员起来",
-          "content": null
         }
       ],
-      "places": [
-        "民族广场 Nation"
-      ],
+      "places": [],
       "districts": [
-        11,
-        12
+        14
       ],
-      "articleCount": 33,
-      "clashCount": 8,
+      "articleCount": 32,
+      "clashCount": 12,
       "status": "unknown"
     }
   ],
   "latest": [
+    {
+      "title": "Recul des touristes étrangers dans les commerces parisiens en raison des manifestations",
+      "source": "سانا",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41RDAzNm1DbzdqLUVTOEVJaEYyQXN3cjluRTFubGR5bkxxQzRrbWtmQUNETXRCUUhxNDlPbEJReEFzWC0wYzNPUkVaMnVRWWtacVJR?oc=5",
+      "publishedAt": "2026-11-08T13:44:55.000Z",
+      "severity": "medium",
+      "titleZh": "由于示威活动，巴黎企业的外国游客减少",
+      "content": null
+    },
+    {
+      "title": "France Again Deploys Thousands of Police Ahead of Protests: What to Know",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
+      "publishedAt": "2026-11-08T12:49:47.000Z",
+      "severity": "medium",
+      "titleZh": "法国在抗议前再次部署数千名警察：需要了解什么",
+      "content": null
+    },
+    {
+      "title": "Notre reporter Naoufel El Khaouafi, raconte les coulisses de la couverture des manifestations du 17 octobre à Paris",
+      "source": "BFM",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPd01Gbkp1Z3M1SnhTOGZjMEJXSEhlMFFiaVpyM0Q2aDFRd2xDWXdSdVI3SmhaMFhhTXhiYU1Bd1JDdWU2VlNOeG42VUlQd0pKYTE2eUlqMzZ4Q0RaTDNjSzM0MDBxUjlZbldHNG9tMzgwZHFhTlk3ZndmUVFyMEphX2RMaXRGYlhBRG41ZE9WQng0WFFzUi16dXl5a21xS1pleGdPQlFPYm0zTGRUQmNEM3ByWFU2M0xqdnpUTXZHeHQtZ0FTV2dqTGRMekgzTUhYNVoySHlSU3c2M3NiME9rR0VKVU1FelJZaVZZQldqVlRtMHdrdW5fTzhQMG9rOTFmNFZXS0o4VjB2RzJaVXJkSmIzdW8?oc=5",
+      "publishedAt": "2026-11-08T12:30:07.000Z",
+      "severity": "medium",
+      "titleZh": "我们的记者 Naoufel El Khaouafi 深入报道 10 月 17 日巴黎示威活动的幕后故事",
+      "content": null
+    },
+    {
+      "title": "Paris protests enter fourth weekend with 7,000 officers deployed",
+      "source": "CGTN",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVpLVDJvVnU0aHNteDlCZ0t1aUUyeC0zekt6X1FDRXNQbzA0ek5tTGR5T0dzcUxjZkl0eHVIalYwdUhSWEJIak13UGNrYzBHLWxxbGE5TXBuSWI0TlFWUlhYOVM2TnFFcnA0eTVNM1dOcWNIeUotUEtPT004WW5weVJFbzFldEY2dTg3Q1BCRHpfeUtoODhSbUZuOEhsX0F5TWpwN3p5ZVJVNExhbUVBSTdmbXptUmdjem84MzQ5aGE?oc=5",
+      "publishedAt": "2026-11-08T12:10:40.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎抗议活动进入第四个周末 部署7000名警察",
+      "content": null
+    },
+    {
+      "title": "France : 74 interpellations lors de la manifestation contre la vie chère à Paris",
+      "source": "Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3hfZWNSOEk4OEprcXRYcXFhV0RlQTF0YXV5ZzVTZ3ZHRG5ZcHUxNF9adFpPVm0yNGk5ckYzVGxjbWRCRmJyOFpRRDQxMXpXVDRZWVRReUN1OGZLNTNocXZxZWgwSk94SHRfWjNrTjVka0tJcUxHUk1nQVBNSGozb1N3QUM5eXdIR3hnbjRVeXZtaEVkQmlVUm8xVmlLSGR3a0twYVpRd0owUmVTMWpTTjRiWDZmTFpYV1U2T1FiRnhkdw?oc=5",
+      "publishedAt": "2026-11-08T11:53:58.000Z",
+      "severity": "high",
+      "titleZh": "法国：反对巴黎高生活成本的示威期间有74人被捕",
+      "content": null
+    },
+    {
+      "title": "\"Le seul toit qu'on peut se payer\" : à Paris, ces habitants limitent les dépenses pour payer leur loyer",
+      "source": "Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPb0Z2em9IUi0tZjRIaFc0RHpBTHVQRzJrd3BvLVN4aFZ0UUVFU2Izc0VpamZsVHUwbW9pcFBuVU93bEtKemhFcWctS1RoN2FhMjNmVEMzOC02c0tibnpXSDBoZXhTemJhOVo1WTN5eHh5R0l6cXBYbDNrZFJxS1VnZjNrQmhlMVBDN0NMUHVTMEtzTEpmX1RUSzQzNElvN0FPQVhtNlFfbkxyd1Y4UnBzWEVLU0RoSEgxTW4tX0RodmhhRjNFcFRMVTRtWFpPNG1ydXFTcTNwOGtaY3F3NzJ6YlJmU0JmclotaGc?oc=5",
+      "publishedAt": "2026-11-08T11:46:01.000Z",
+      "severity": "info",
+      "titleZh": "“我们唯一能负担得起的屋顶”：在巴黎，这些居民限制开支来支付房租",
+      "content": null
+    },
+    {
+      "title": "Grève du 10 novembre à Paris : école, fonction publique, parcours de la manifestation, à quoi s'attendre ce mardi ?",
+      "source": "France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOSzJPQWpuVzJSekdWdXM1c3VLd2JCOVhvemlvOU01TUl5eXRiNktfY05PQ3BSTkRraVNkSWh0UlRJZGMwd25UbUFmbjROX0hSSGlPcnZrZkVwOER0bUtGM1dHYVFJZDN6VVMyVkxiNFZRMXdlcS1qOUJrRDVRcjBXTWtZbG5pcUNBdm9QejdJQmFzVjlXQzA5RS1vb3ZmaEg3MU1EY3U1VWVTWXA0bHdtNnZmV1U2VTlqdGdkTzluaDRkQ3MtOTZnRURueWc2SjNfOVJFQldTNFk2TkY0N1Y1MVhHOHJXN3JNV01lYUEyeVRPVi1kbmoySHZuUkpQMlM2TFoyUk5IU0hXb0FHckFQQk5VRQ?oc=5",
+      "publishedAt": "2026-11-08T11:43:38.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 10 日巴黎罢工：学校、公务员、示威路线，周二会发生什么？",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 7 novembre : \"Macron est un énorme c…\", séquence virale, mea culpa de franceinfo… Marcel, 8 ans, insulte le Président en plein direct",
+      "source": "Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOODZ2T2RIc3FZb3g2dG5WUU16djdBWVF3WGdVTTI4aUJTZXVxOS12blV2RnFjSTg1Q29ndkRmWHpPeFkzdldVbTBweHFreWdkRG1mam1yU2pXMktUVl9zNy1Cd2twb3ZmSWh6Y29TclZ0UWt2dndwVnpoaWFRX3o3R24tY0pMRzNIRHg4MWp3OU4zVlZLeXdmbkJEdFFuNWFQTG9xWTRTcFBWUmw0SEhHV3hKN09iWHFEcFpDN1FSUkhfOVZ5RG9jRTY1ZGppQlJpME03RHBhS0t5LV8yN29xTG1IVy1aNTJHdTNKeWpjaVo0Q214dERTTmkyZktyeEFBaDctRXhiS2dWU1J5ZjdTN204Skdzdw?oc=5",
+      "publishedAt": "2026-11-08T11:36:00.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 7 日示威：“马克龙是个大家伙……”，病毒序列，来自 franceinfo 的道歉……8 岁的马塞尔现场侮辱总统",
+      "content": null
+    },
+    {
+      "title": "\"Faire acte de présence dans la rue\" : un manifestant raconte sa journée de mobilisation du 7 novembre",
+      "source": "Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMnJPaUhJT2RIQVlYZWZxakJ4a2JYaHVNV1VIT1RMZjdYUmo2NWdBXzFrQWROcFdhSVlfN1FCaDNDZU55SUlMWnI1ZWhHSFVwYUlkVkZDVzV1NjR0ZzZkb08xY2c3NWptLUZIdDlkMzhaOFNCZml0UnBudHZrbVgyVTB2SkluTWQ4X1lYY3otOC1qTDVzQkt2aFJaZ2FYOE42aGc3VzluY0FiZ1RBR3E2R1k4T0RDVzJPakJ5MjJBZE9fVUE?oc=5",
+      "publishedAt": "2026-11-08T10:57:22.000Z",
+      "severity": "info",
+      "titleZh": "“走上街头”：一名示威者讲述他 11 月 7 日的动员日",
+      "content": null
+    },
+    {
+      "title": "Paris protests turn violent as clashes erupt between police and demonstrators",
+      "source": "Daily Times",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTlEbDQxWXRlUkU2MXlWMFU0RmVzWFAwRWQ2a0RIRlpidC1OMENSQnBSRmpHMVZYbEtZWER5RG5heWNyY2h4dkJyeEt4SFZPVzhJbEc5ZlZzX001bHF3UjlDZHhZNkFfUWNhQjh4NFBjazlNajZ6TGFnblFzNU5ZRmFVeHRDcU5EbHpTbUt6b2Y4ZzFwM1pMbVFJRnBvSFR1TV82N0h5cEdIUEVfZ1oyMzZ3?oc=5",
+      "publishedAt": "2026-11-08T10:40:58.000Z",
+      "severity": "high",
+      "titleZh": "巴黎抗议活动演变成暴力冲突，警察与示威者爆发冲突",
+      "content": null
+    },
+    {
+      "title": "\"Il y a eu de grosses augmentations des loyers\" : le logement grève de plus en plus le budget des Français",
+      "source": "lanouvellerepublique.fr",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNUY4eEJaNHo3UzVHbUpEODhVVWtibjQwa1RnUGs0cnNwa0hFbUdqYWw2bGlpZEJmYThkTzVtU0dUSFdsUWtnTWFacy1UUGh1S0ZGYUo1ZGh6cjBGSHJUVk52WEtCd0NsbG1ZdU9rcTNnNEVtU003TENCUW1HWTZlOVdQU3pzMFJSdDh5S2JUakVxNURhTHBoUXVrc3NkUTNMQmtmT3lSdW1JLU9uTFF3RkgyTm1TelpsV01lOG01dGg1NWtYem9oU0VjYnRZeVFVVkxkOG5LcTA3ZDhtZVJmY0Z1YUNLWHVhVGhCOGhLcw?oc=5",
+      "publishedAt": "2026-11-08T10:33:19.000Z",
+      "severity": "medium",
+      "titleZh": "“租金大幅上涨”：住房日益给法国预算带来压力",
+      "content": null
+    },
+    {
+      "title": "New day of protest in Paris against the cost of living",
+      "source": "China Daily",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tLW1FZGtOLVcwMWJralVkSDRjQXY1czF6UVBGTE5NdzdLZHdSNzE2Y1pFVG56Y1FQTTJMMFJOXzFqZEJ3d18xMnY2OWsxTlJWRlNfczZHa3A2Smd1LVJiSXAxbzZuU1ZNZ2VtNUtEUUExOEFIWWhmanhMUHJxdw?oc=5",
+      "publishedAt": "2026-11-08T10:20:15.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎抗议生活成本新一天",
+      "content": null
+    },
+    {
+      "title": "Manifestations : Lille, Lyon, Paris... l’AFP dénonce des violences des forces de l’ordre contre ses journalistes",
+      "source": "La Voix du Nord",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcFBGTW85X3VpRWRoZHdSeVJjVUhyTE9fY0pNMmphUFlfM21lMVo4TUNVeUNtZzFSSi1BNEpUa1FoeXVHY2ZfRVVhRDR1ZnNQc3FvUUxxRzdud2NUSXVOZGtfdU04ZjNka0pCWmVxRzl2SUx5TGJFWklLbjJ5YWI0cjB5NEdkZy1fTnhGSWRLMk9YRmZ6V1h1c1dBZ1cwNEIzM21MUkcyWTMtVERwZER4MTRGS2xHdmJTc2JZbTlNSEN3NENqa0dfeWx3?oc=5",
+      "publishedAt": "2026-11-08T10:11:32.000Z",
+      "severity": "high",
+      "titleZh": "示威：里尔、里昂、巴黎……法新社谴责警察对其记者的暴力行为",
+      "content": null
+    },
+    {
+      "title": "Flicage, alcool, licenciements et grève : l’Hôtel de Paris (Monaco) en situation de crise",
+      "source": "Bouillantes",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbjlXMGMyUzZWb0RlbzNqMFR4SVdOU2RBeEIyU19aeGhybERWLVpWRTRrVnJsa1FvTDk3TU5VanBQMmwzX1Z3bS1DZi1iSmROVEl3R1psRnNheUJOcFlJT2pkVWVhNXdBS25LbmR6TnhLQ1gxWHF1NDd6cjlacHJUeG15bHpmNVhhdHhNWVo1NG5kRnhudlo4TndyT2RxUi1EUXZQdUV1TzFOTUU?oc=5",
+      "publishedAt": "2026-11-08T09:49:03.000Z",
+      "severity": "medium",
+      "titleZh": "警察、酒精、裁员和罢工：巴黎酒店（摩纳哥）陷入危机",
+      "content": null
+    },
+    {
+      "title": "Paris : un homme retrouvé mort dans un appartement du 14e arrondissement, la gorge en partie tranchée",
+      "source": "Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSncyd3JkMU1Ud1JwMEJwaG4zcVZrbnpXUUJ1RXZJdDhJRDg3OTdWZjIyYndDRjF1X19TV0J1SThQcklpamVDeWx5bk1QdUdid3NIM0VSaWdENjV1ZTdnYnpZU3RTRWlrZW5SS2dGRDlmV1RhTHBsSkdaQmNkNDN5TXNnc3JSRHpmVzA3QVR5TGstZnZFWU42cy1fTDJoS0h6bTNrc01mb3lxb2h5N1R0OFNkek1ZYllxbkxVQkJaSktEcXJVMVhacTRnX2drczZFMkRhcEhKUTVaYjNx?oc=5",
+      "publishedAt": "2026-11-08T09:36:03.000Z",
+      "severity": "info",
+      "titleZh": "巴黎：一名男子被发现死在第十四区的一间公寓内，喉咙部分被割断",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 7 novembre : \"Macron est un énorme c***d\" : à 8 ans, Marcel insulte le président en direct sur franceinfo, la chaîne présente ses excuses",
+      "source": "ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPdENNZWZPQVo4MVgxRzc4anVHU2MxaHdBLU4yZXZPUzhJanFXQkVHRERLMy1mUmxHMy0zNzlsekc2Q3M0STlMNTBKVVl1R1JBX0dQOGVBLXZnY29tRkJpQ1Jnb0dVTEFFdS01S1IzT1NyTEhsaXFfaHRicDZqdVNDaUNZX2dyY1YtUER0NjJKdlg4bWpBYzExei1QalpwVGo2Wnc5QWdscXpQdnVHMEM1S0lMMS0wcm5NcHdVX1hHcTRMMlF3d1p2c1p1RWQ1Mk8zQ2FHTHplT0tuQVpWQVdFZGU5RTYxbmZmdDVBMDkzdTFVR1JXR3hlNENnVWx0bzhJSmVkZmFicGpuUEt1Yi1PcUFvTFFXQVQzeVNtNw?oc=5",
+      "publishedAt": "2026-11-08T09:35:00.000Z",
+      "severity": "medium",
+      "titleZh": "11月7日示威：“马克龙是个大混蛋”：8岁的马塞尔在franceinfo直播侮辱总统，该频道道歉",
+      "content": null
+    },
+    {
+      "title": "Moins de touristes étrangers dans les commerces parisiens, autre conséquence des manifestations",
+      "source": "Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbkwxR3NZbEhKQjcyaElwTFF6RmdWRkhvQ00yaGt0RnRtQmVyT09pdUhILTIxb1ZMN2xoYmFxS0g3RVpUdHFYNmtmMHl2NVNHanhGREg2Ul84a3E2ejMyV3UtV0dDVEV6QktNNFdkX2FfemVHakNHMTNjSEJMMTFRNldiZzZ0cEVYQm96X0NQeUdlNUJuZ2Y5ZlRzZ0MtN2p6dUg3bk5FU2JXOTVaM0lUR1gtR0JpcXFlOFpFNXMyMGM0SjNkNVpPWFEzY0ppck15cW1YUk82WmdQbjVoeVZwYWluVlJ1dm9tdm1WZmFNR0FFZThqSVE?oc=5",
+      "publishedAt": "2026-11-08T09:30:07.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎企业的外国游客减少，这是示威活动的另一个后果",
+      "content": null
+    },
+    {
+      "title": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55am9PUjU1T1hfaHVaY3pMNktHdE10XzRuVDl0ZHBlQzVRWGNJT3hlNEZsUVprdjNqbzh1NExJLTVrTGcyUERraEQwWTIyOGROZVdxU2doWVhlRzdSekFUTW02V2tBRl9QaU93NnNWb0l4dUw1LTRJ?oc=5",
+      "publishedAt": "2026-11-08T09:29:04.000Z",
+      "severity": "high",
+      "titleZh": "图片中：法国抗议活动吸引了 146,000 人参加，冲突连续第四个周末爆发",
+      "content": null
+    },
+    {
+      "title": "Dépression, alcool, violence : l'ex-rugbyman Rodrigo Capo Ortega raconte sa descente aux enfers après l'arrêt de sa carrière",
+      "source": "La Montagne",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTDNpUzFXX1BDMGp6ZU5lLWl3VDNzS18yT2hPZkhSeV9sb2tCSmNwUnNXQzloV3ltdlRqbFBrV0E2OHNRV1pMLUt0RVJ4MHVSUGs2Zzg4aVdxdTktQ2d4YmFkd1RZLXh0dGpBejNwSWo5NFhwTDlkbkhpVEszbnZ5VnFOTzRacVpVRER6cmt1RFNmeElSS1lRZkhpaVNnNjNtYkRVdHl1T185SllSaHN6dXFIdW4zTVhNM1dGMnZQSEZLaUVPNmFLSjAtMy0zc2p4UTRsdXhWRFd1ckJnMVVTbFpENWZmRFJJM0lIZEZIWl8xZzdkcjlLT0lHOVZhM3ppMW5aNHBB?oc=5",
+      "publishedAt": "2026-11-08T09:24:00.000Z",
+      "severity": "high",
+      "titleZh": "抑郁、酗酒、暴力：前橄榄球运动员罗德里戈·卡波·奥尔特加讲述了他在职业生涯结束后陷入地狱的经历",
+      "content": null
+    },
+    {
+      "title": "« Après la grève du 5, on fait quoi ? » : des réunions de RP partout en Ile-de-France cette semaine !",
+      "source": "Revolution Permanente",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeFM2TGdpNnZ4ZFQtY0UxSmpzMGo4NGdXcVNEd1duMkZ1QUFmRHlpRngzWERDV096TXVOVmlPWDNFOUZuNzhNWVRTd3BXeGJHQ21mVWJHRlg5Vjd1NWpRbHBBOUlzb3l3Nk1ZT3RkRExRcUd4WWY5cGdDRWkwZVRqNjN5aUgyNG9HR2VyLWpCazJGVnkyTlpiMG1DQjVhNXQ5eFNWTlF0cFozT0J2LWQtT3J1SnZqX0U0UElfTEFiMkJVZEVVOEtr0gHPAUFVX3lxTE5HeWwxeWI2MHo2RHpidEd2bk5CSDBwYTJZYVBxZFdCbWRKdUZqa2syMGdHTURrNE5YclpoS0FRbGZjTW1pTzgxSzZ4VE9kQTNlYk9XLV81T1hHelpkM1FId285OEpvQ2l4elRjTWRqUGRreWlqUjZhT3dpdnl5YXNyREJIeTJtYXFnc2VMNzY5b3d1Z3ozb0xqek1CbVpQVURqM2FCZFdCdjVjVDAzUHowU0Z4cTA3czZIM0xYblc3VzlrMU5oWGx6bEthckxfZw?oc=5",
+      "publishedAt": "2026-11-08T09:22:37.000Z",
+      "severity": "medium",
+      "titleZh": "“五号罢工之后，我们该怎么办？”：本周在法兰西岛各地召开公关会议！",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 7 novembre à Paris : Marcel, 8 ans, insulte Emmanuel Macron en direct, franceinfo s'excuse",
+      "source": "Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVUFRRWZxbTc2SFI2Wl9kSng2SjBsWU9Tbnd2SG1GN2tLNWJxeGQzOGZlaG40RWZBbnM0M21VU2MwRWIwUG5wUVFGOXdwOGNpb1JralF4RUJ1UGZxeEFKX2Q1ck9sRFI3V1dVOHZ6LTlIRGREYXBITkRwZGxvb3phNFFGMmZoNWhZSWZvREd1M3d2SFY4SHNoZUNFcm4yazIwN29QcDhpU0tfQXZ1ZEhnQVRTYjV6ei1rTk9sLXg2Z0drZDdJUkxiWG1UMFZ1aHpKUUpuMUpSRHM4TzNvaVFla0JDQVpJaHlGdnlMdFp4WVM?oc=5",
+      "publishedAt": "2026-11-08T09:22:07.000Z",
+      "severity": "medium",
+      "titleZh": "11月7日巴黎示威：8岁马塞尔现场侮辱马克龙，franceinfo道歉",
+      "content": null
+    },
+    {
+      "title": "«Macron est un co*****»: un enfant de 8 ans insulte le président",
+      "source": "L'essentiel",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlNiYWJjWkVvME1HOXFQRUNSTHNTeGo0eVFzaTR1cFdEUzFqY2Iwc3hYdk40b195UDk5amd3TkVQQkdPWVdhUHRpNTQtaWdEdmEyNzVmWGNEOTBvdDhIc0ZnM2VhRDM2RXhaY1NMSDdDY1ZRN1BqTVk2TzRRYWJxQkxMeFV4b2RmQm9ma2VNUndOOUNsN0FTNkxMaU5LdW1DQzFqdU9LQ0FUdWdP?oc=5",
+      "publishedAt": "2026-11-08T08:44:59.000Z",
+      "severity": "info",
+      "titleZh": "“马克龙是个私生子”：8岁孩子侮辱总统",
+      "content": null
+    },
+    {
+      "title": "La direction de franceinfo « regrette » les propos tenus en manifestation de Marcel, 8 ans, et devenus viraux",
+      "source": "Le HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOd3J6cmpKTmRtemJVUF9OckJQdjU4bktiQ051ZXVvM0RJaVlrUjg0a2hEVWtXOV9vTTMzSmZOZ0ZyMW1uZGNpRW1kakpkYWxJekJ4Rjd3NDM1UERLN2trdkVwYmQ5aTBvRkpEZ3kwQWJNOUNGb0J3M2EwWExGazdXbXRHMjd5aFlXM0RqVUFZOHkxVlhfdXJuXzM1M3Z3U1hoSmV1QTNLNDJaMUNuN0ZQeDMxNzJiUjk3SG1ORVBENEFpR3Vta2t6MnFSM3VaWWZ3QWlQcFlQZ1AxSVVDRzVXRU93b2hwbXJzNmdnMDdIQWtoZw?oc=5",
+      "publishedAt": "2026-11-08T08:27:52.000Z",
+      "severity": "medium",
+      "titleZh": "franceinfo管理层对8岁的马塞尔在示威期间发表的言论“感到遗憾”，该言论在网上疯传",
+      "content": null
+    },
+    {
+      "title": "Mapping how France’s protest wave spread across Europe",
+      "source": "Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbldwUkR6YVZGbDU3bzQ2aU5TMi1CR044NUVCRl90Ym90eFdMOEdSLVZSZUNrcHdaWFVaQjcxUFdrbExUM0hUczFuRU1fY1Y3NmVEejFvQTFpUWpWdmlVdkIzaGp6TFJlOHVMR1cwNzRGY3JGTVVRa2k5NTFfNzdnbE04LTJfNE5QREltMUExaUxoSXpDWFNQNGRn0gGfAUFVX3lxTE1zU1dhdDNhZTR5NUcwZVhDRGZONmxjM2dSUnJsQmNzTXpDSGs3VjJ3SW9UdUhROGlZT0VPZmozUDQyYUE4RnlYS3g5ZUhhQTVyc0ZYaEZaNTUtdU5Hc3lKTVQyZEJpdFU5bEx0bllNR2NxUkc3OENwSWpXbjg3MlpXT2U0clVucW8tTU5MTjJ2T25xYnNSVm4yN2QxVVVxTQ?oc=5",
+      "publishedAt": "2026-11-08T08:21:48.000Z",
+      "severity": "medium",
+      "titleZh": "描绘法国抗议浪潮如何在欧洲蔓延",
+      "content": null
+    },
+    {
+      "title": "Que faire ce samedi 7 novembre 2026 à Paris ? Les sorties à ne pas manquer",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV0JJQUFfUUlpdjEtdzllNDd0dEZDcWhpLUlnb1JtNjU5aTc2SXNKQlFRLUVFUUVUZjMtaUVEZ1FWcVpKLVNMWHRadmt4R3FrN2hkd3Z5VkpmZVZTYlB2SU8zam9UQ0JlN09raHpyUENrYW9saGRVR09IMEpzWENZX0oyM0RCTmxkc1hiakJSMmplTjdEMjR6alNNMDZ2a1lWZ2ZILWczMy1LZFJVODVPVy1zc19xMFNuUFowMXFWYlFJcWtKS29iQTNZU2lRQlU?oc=5",
+      "publishedAt": "2026-11-08T07:34:15.000Z",
+      "severity": "info",
+      "titleZh": "2026 年 11 月 7 日星期六在巴黎可以做什么？外出游玩不可错过",
+      "content": null
+    },
+    {
+      "title": "Orchestra Fills Paris Streets With Music as Protests Over Cost of Living Enter Fourth Weekend",
+      "source": "Wake Up Singapore",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GWXNSUGYwXzFwWlhkWUNoaG1qMGlqWGlvU2RuczFzZkFvYlptVV90R2FaR29DMVUtLVd3U1Bzdl9TR1NjOUJFeURlaGhmT3Nwa0xMLWVScGE0UQ?oc=5",
+      "publishedAt": "2026-11-08T07:30:54.000Z",
+      "severity": "medium",
+      "titleZh": "随着生活成本抗议活动进入第四个周末，管弦乐队在巴黎街头演奏音乐",
+      "content": null
+    },
+    {
+      "title": "\"L'enfer\", \"le choc des images\", \"bandes de pilleurs\" : les Corses de Paris face aux violences de rue",
+      "source": "Corse Matin",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMXBxQklWZFNXRjdTNFdzTGpEVDJtR2cybGdYakxRWFFsVEdybU5xbFJ5b2hTaVN0eVhfeVc4enNocVc3QmE2N1NENkM2bWN6RjVHZkFqZ0JSd2VwQkRWN2ZTN2ttaDJMZnFURWxjUXFmd1Y2M1hmRVRpYVQwOXd0Y2dzdEZpVnpwZjNmeGQzRWxvRFQwaW5nakN4TzZDdVFPUVRFT05ZOURDMkVjQmZ3Z05nTjh2QlFHUnl2d0Z4NTNUXzFaN2dPbHY1ZzREbWZzUnJCWXQxMjBIVXI5S1hxR0Z3?oc=5",
+      "publishedAt": "2026-11-08T07:30:01.000Z",
+      "severity": "high",
+      "titleZh": "“地狱”、“图像的震撼”、“抢劫团伙”：巴黎的科西嘉人面临街头暴力",
+      "content": null
+    },
+    {
+      "title": "Grève du 10 novembre : écoles, cortège, à quoi s'attendre mardi ?",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUlNZV05SNGlNNUhaVXU2UWhnNHYteTFkV2RUbWVSOU5fYmh1OVlzOHRoV1VKSExXa1lMTFd3MnJLV3EtNkZvSXR5bWRsNXhJRlk2ZU9RRkFBZmJfaGM1Ty1OVW9SMUNyMDlMbmdlTHRJTm9JbEVNcWVXaklwYWlMQnVSQkJUZjNHdjVqSWFJMC1pU1BmWG1HU2lsR1hRcDNQUUZNX3BXaHF6d3ozZGRkQ0pnSlYtM3hpdjhxQTE5ZjlEMXNab1ppeUZ6NDd3bDQ?oc=5",
+      "publishedAt": "2026-11-08T07:03:11.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 10 日罢工：学校、游行，周二会发生什么？",
+      "content": null
+    },
+    {
+      "title": "France protests continue for 4th consecutive weekend as Paris sees clashes",
+      "source": "Newswav",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNUZtLWV1WmIzd2xLbEhqTTA0OGR3ODlWLUdxbVJmQzNZb0lvVmotSTY5T21CenJFWTlBZHFMOWZsNHY2YnVMRkdDVlhyZlFPMDJCMGY5M1NyMXBONldDNTBxWW9ZTFROZWJSc2ZkYVlhV0dFcV94T2NiX2ctaG9ZUmVkeXpWd1laMVZVaVpGdUNRdTdEaGQxcWdOLU5hZjRlMG1pbmZwY2dHYV9Id2ZQTjJ2OA?oc=5",
+      "publishedAt": "2026-11-08T06:59:19.000Z",
+      "severity": "high",
+      "titleZh": "法国抗议活动连续第四个周末持续 巴黎发生冲突",
+      "content": null
+    },
     {
       "title": "Manifestations: les touristes désertent Strasbourg",
       "source": "BFM",
@@ -402,15 +675,6 @@
       "publishedAt": "2026-11-08T06:27:49.000Z",
       "severity": "medium",
       "titleZh": "示威活动：游客逃离斯特拉斯堡",
-      "content": null
-    },
-    {
-      "title": "France Again Deploys Thousands of Police Ahead of Protests: What to Know",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
-      "publishedAt": "2026-11-08T05:47:24.000Z",
-      "severity": "medium",
-      "titleZh": "法国在抗议前再次部署数千名警察：需要了解什么",
       "content": null
     },
     {
@@ -432,15 +696,6 @@
       "content": null
     },
     {
-      "title": "Police scuffle with protesters in Paris (Video)",
-      "source": "Social News XYZ",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR3NuRnp0aGZ3bVJXa3VacUMyWmdqS0ZwZjhnWnN2R2lrNGpLZ0xqMmtqY25Nc3JaRlMwR0VsTjRyTkItb0NIdmdvT3lFbUlMeFBIcm9SVVdXMUk1RUxTMlhhWVdvWUtMeWZXWnFKWGQ0bjF6TE5mNHhCZ3p0T1pGR3lNLWtOQkR6YWtKdFAyQ1dNVUl4ME9USzdoQl9MbXJhekl5UHhhbjlyUkV1X3A4MFd2M1k5dmpWWkFxQ3dBRU5hUjloRWRtUHVJSHRRdW8zUmFJZ1hLcnJ6RTNDN0paVHVNYmw1ZVA4Qzl0OTM5Vi0wLUFTZnBKUXdMMmdRTDZBX2lz0gGDAkFVX3lxTFBHc25GenRoZndtUldrdVpxQzJaZ2pLRnBmOGdac3ZHaWs0aktnTGoya2pjbk1zclpGUzBHRWxONHJOQi1vQ0h2Z29PeUVtSUx4UEhyb1JVV1cxSTVFTFMyWGFZV29ZS0x5ZldacUpYZDRuMXpMTmY0eEJnenRPWkZHeU0ta05CRHpha0p0UDJDV01VSXgwT1RLN2hCX0xtcmF6SXlQeGFuOXJSRXVfcDgwV3YzWTl2alZaQXFDd0FFTmFSOWhFZG1QdUlIdFF1bzNSYUlnWEtycnpFM0M3SlpUdU1ibDVlUDhDOXQ5MzlWLTAtQVNmcEpRd0wyZ1FMNkFfaXM?oc=5",
-      "publishedAt": "2026-11-08T01:06:15.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎警察与抗议者发生扭打（视频）",
-      "content": null
-    },
-    {
       "title": "Police scuffle with protesters in Paris",
       "source": "AP News",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMnZIelU0N0RXZ2FzMnhvdE9Fd05DaXFwcEF1cWk2TndrZk1Ha3FQQnNScnVkdV9uTHJTNmQyeDNhbWFPTERIcWh0YjFtTV81ZVc5YmxCWUd0UHFiRFp3aDhjNkMyVlpCZW1jNEZSQlc3VUd5YVVtcEJSLXd1ZlplS0h1NkYzbjAtS2gtUlVLSWlKY1plNlF5eGFUSG5EZw?oc=5",
@@ -450,30 +705,21 @@
       "content": null
     },
     {
-      "title": "France sees new round of student and Yellow Vest protests in Paris and dozens of cities",
-      "source": "DW.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3BVWXpmSm9fckZMMWlsenEtU2otSERKWllJN1VKV2hoRHdNNjVkcS1KQlRyaWppSnhPRng0VnpHUWhseVVmcFItcUdIaXZ5UmtEWmMxQlBOOHRESkZVbFoycExlQ3lFVTNNNW12VDhWUllkY3c4c0dsRE9RYmNkSHhEOWxoTV9OcWpTQndlUdIBjwFBVV95cUxPdkxxZzlPMXZ2dGNvMzhIbkFLbXhFYW95eVh1ZjdacGRvMDR6SFJxcDcwcm9Ib0UyR3hWQi1hM25tRFhRaEpyT0RDQWJVN2lHZ0pQNjE4M3RmblNNY3pBeDFCNkc5RVZZb2hGRVl5bVdkdlBSTVpQS1ljWUtJTnlQNEpLamxCU3Y4NlBsNnl1OA?oc=5",
-      "publishedAt": "2026-11-08T00:02:27.000Z",
-      "severity": "medium",
-      "titleZh": "法国巴黎和数十个城市爆发新一轮学生和黄背心抗议活动",
-      "content": null
-    },
-    {
-      "title": "Que faire ce samedi 7 novembre 2026 à Paris ? Les sorties à ne pas manquer",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV0JJQUFfUUlpdjEtdzllNDd0dEZDcWhpLUlnb1JtNjU5aTc2SXNKQlFRLUVFUUVUZjMtaUVEZ1FWcVpKLVNMWHRadmt4R3FrN2hkd3Z5VkpmZVZTYlB2SU8zam9UQ0JlN09raHpyUENrYW9saGRVR09IMEpzWENZX0oyM0RCTmxkc1hiakJSMmplTjdEMjR6alNNMDZ2a1lWZ2ZILWczMy1LZFJVODVPVy1zc19xMFNuUFowMXFWYlFJcWtKS29iQTNZU2lRQlU?oc=5",
-      "publishedAt": "2026-11-07T23:51:54.000Z",
-      "severity": "info",
-      "titleZh": "2026 年 11 月 7 日星期六在巴黎可以做什么？外出游玩不可错过",
-      "content": null
-    },
-    {
-      "title": "Angry French rioters defy protest ban as thousands flock to the streets and clash with cops in fourth weekend of chaos",
+      "title": "French rioters defy ban as thousands flock to streets & clash with cops",
       "source": "The Sun",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYWRNRGNfSXQtZW1qQ1ZZdGIwQmo1OE1KMDRMVjlaMXZnazFIT0ppVTBNajI1eEl1TEVjNTJsUkx1NXhqbExJUDZESnJ4aGdycGYwZ29SU3M2aVNzVG5XMm03VnJ5d3JSd1RtM1BrSHMtWERMT0N3U0RhMTBVRXc1T3QxTmpWWDQ?oc=5",
       "publishedAt": "2026-11-07T23:33:52.000Z",
       "severity": "high",
-      "titleZh": "愤怒的法国骚乱者无视抗议禁令，数千人涌上街头，在混乱的第四个周末与警察发生冲突",
+      "titleZh": "法国骚乱者无视禁令，数千人涌上街头与警察发生冲突",
+      "content": null
+    },
+    {
+      "title": "Police And Protesters Clash In Paris During France’s New Round Of Protests: 6 outlets compared",
+      "source": "NewsCord",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMUJqQ0dIeVZyb2dIWXZJR1F3aE0wZXpneDlpMEdpY3cwV1E0MkFFcmRRZC1UZXJqZGJJYndEZkQyYnlrRE5lWjltTjkzZXpWcUFfUmV1LTZwcjZaOEpkQVNwMjU0VGROem5pRmpEZkl5ckstRW9qMXR4eldXVVRUR0taaDlJd19ubzNlZy03VDBnWDExRXRObmdhWWxLQTQxOTd1LXZBWS1ZMnQ3VHdtSlR6S2xNX0tfLVBoSGdPN25pU1ZpNjZBTkhHZ2RRd2dTdEhKUUlkZkdEX2diM1hUZg?oc=5",
+      "publishedAt": "2026-11-07T23:26:32.000Z",
+      "severity": "high",
+      "titleZh": "法国新一轮抗议期间巴黎警察与抗议者发生冲突：比较6家商店",
       "content": null
     },
     {
@@ -519,240 +765,6 @@
       "publishedAt": "2026-11-07T22:10:00.000Z",
       "severity": "info",
       "titleZh": "巴黎警察与示威者发生冲突",
-      "content": null
-    },
-    {
-      "title": "Manifestation à Paris : franceinfo regrette d’avoir tendu son micro à un enfant",
-      "source": "Stéphane Larue News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZExHVjIxMmJnX2oyNVlEYjVVR1dldU1YLUlUdlFmSncyZlhUQTJRemd6eEE5Nmw3YlZvNDN1aEowWjNIN1JiMXZsZ3VJNGFwdWRPVldXR2VvbVpFcmRnMWU2dHo4VXNaYWxndFdpYV80dUpqRmpjTGFWTVBlM0tyRWlOLVFJTXVBcFhRVFdGb1ZmdUdUNDBHcU4xcVR4M0U5ZEk0d3V3?oc=5",
-      "publishedAt": "2026-11-07T21:59:29.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎示威：franceinfo 后悔将麦克风交给儿童",
-      "content": null
-    },
-    {
-      "title": "\"On entend beaucoup de revendications mais pas de réponses concrètes\" : à Paris, la mobilisation se poursuit malgré les annonces du gouvernement",
-      "source": "franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPc21DdW1VaUpVU3FsYzE2MEh6Wm9FNGhab0hUWjNXekZXUWhacEJLWjVNNVF3eHI5NzFuclRLMkZ1VTFIOW5uYzBfTm02V0pUbklWc3ktLUV0ZVhXSW1oNERkallZWUVNX3hHOFVBRkROYVhLNUVpR2ZNSVMtdmZtc0I3U25KeUlTV2J1Ri1CUmN3SWlHeVBzWFZueEN2WlVOZWpUaFVMME5SeUhIcFBTVzljOHFRem1SSFJWNkd0MGhjeGdIa2MxYnVQVV9FNVRmWEtpRHRVN3BiYTcybldiZFdFNzd5VWJFQXJKTVFYTGZrODlOZkp3bzZ0NE81b1BHaU1meVdwSTVHSk44d3VLczNiZk1KUW1Hc0MyeWZxZmVXMjNxYWtWcjdCUW9DRS10dU93eURB?oc=5",
-      "publishedAt": "2026-11-07T21:47:45.000Z",
-      "severity": "info",
-      "titleZh": "“我们听到了很多要求，但没有具体答案”：在巴黎，尽管政府宣布，动员仍在继续",
-      "content": null
-    },
-    {
-      "title": "Paris police clash with protesters",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWGdCVEZkQk43c0J6VUJ5c1dORWlaZGd4Unp1akJQSS15VDFua1dqVTNJdFNVZW1sR0NIWndOYlZFaFg3YnktLTkxMUZXSlFDRDlTMkVtQmFNTUM2MHhDMHpaUmh6UHZKendrMnpsOEJ1VVR6ME51dnpydzhfSjFWUUVzN0FvYnhUYmpEbw?oc=5",
-      "publishedAt": "2026-11-07T21:34:39.000Z",
-      "severity": "high",
-      "titleZh": "巴黎警察与抗议者发生冲突",
-      "content": null
-    },
-    {
-      "title": "Massive Police Presence at Banned Yellow Vest Protest in Paris",
-      "source": "Indybay",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5a0ZuY01fN09NdDN2dGpRNGRwcHY3YVhzX3k0b2NfMEVhSnQtSVJjaWMxSFlqS0ZId2JkVDdubHk5UTZhT1FsWm00VnpiWWU2N1pVV2x2M0NVQU9NQmlyMWE4QXllQ00x?oc=5",
-      "publishedAt": "2026-11-07T21:02:40.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎禁止黄背心抗议活动中大量警察出动",
-      "content": null
-    },
-    {
-      "title": "Manifestations du samedi 7 novembre 2026 : la carte de l’acte IV des gilets jaunes, la Concorde, parcours et horaires",
-      "source": "Les Voitures",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdHVNbXE1bFdYcWliNWJkSE0yR0RKYmJNRXQ1cDVWZmNvT1JLUlpDUVp5U2xIV3hiWlpHRjN1cXRScEdjMzZrV3dlVzFjX0ZUZnJNMjYtN0NRaVZK?oc=5",
-      "publishedAt": "2026-11-07T20:55:21.000Z",
-      "severity": "medium",
-      "titleZh": "2026 年 11 ��� 7 日星期六的示威活动：黄背心第四幕��图、协和式飞机、路线和时间表",
-      "content": null
-    },
-    {
-      "title": "Étudiants, salariés et retraités unis par la même colère face à la vie chère lors de la manifestation à Poitiers",
-      "source": "lanouvellerepublique.fr",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSlIwRGJRR01kUzdmMkZHWTRQUC1Lb2o2WTZGUXUta0FDUWNVRXdCUU5LcF9XZ2QzRHRzZFVHRWxWVW9VMUljUkNHaFdVRUF5aTZZc05sZjlXRjVEWFZwYWNwajVHalZkUmNFTE5mcmlBcGxoZVlhSW55cG1SaGtNUzdJMGhnSllTUURGcFphcmp0TWd6MUZhZ2VGQW54aVlUS3p5dXdkYy0wVldPdXZCR3FJUFRhRDNrendMdmNiZEwzYW5ZNWE1aUt0R1QyZkZQSnZreTU4VU12b193aVVLWTVPVTdWbDFNd3hxTzJuZWZSM3RLckVheks4VQ?oc=5",
-      "publishedAt": "2026-11-07T20:38:04.000Z",
-      "severity": "medium",
-      "titleZh": "在普瓦捷示威期间，学生、雇员和退休人员对高生活成本感到同样的愤怒",
-      "content": null
-    },
-    {
-      "title": "France Protest Crackdown: 70,000 Police Face 4th Wave of Unrest",
-      "source": "teleSUR English",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iR1UzbUFuXzd3UVBIbTQ2SzVlc1VXQnBsaWxuaFNoWUZSbW5aTWpqYXdYdE5SUUNaTFQxdW5mNkFILTNuSW0yVkU3b016a2U1WTBqSm1KMmhfVmdyY0FkaEhRcFVNbVU?oc=5",
-      "publishedAt": "2026-11-07T20:23:29.000Z",
-      "severity": "medium",
-      "titleZh": "法国镇压抗议：7万名警察面临第四波骚乱",
-      "content": null
-    },
-    {
-      "title": "Young and old protesters unite in Paris over the rising cost of living",
-      "source": "Modern Ghana",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlcVl1STRTRldHZXBXdXptcF9xNk81dHVTWC1hSm5GWV9qVVNETE5xTF9BbE11RmE2M2NMMktsZ1NPYkdaUlZ2b2dhaVlXLVpqeTVXcU1nb1B4aFlUTjM5WGpNaDlScjTSAVxBVV95cUxNa0xtSWFQNXNjclRTQjFPSW5Ma0JqNThjUC1VZ0ZmQXlQejR3a2Q4LWZ6X2xnMVhBOGNlOFloZm1XZWV3LVpMSFg1aWY2NHFXenVSRlRFVEc4cWowTQ?oc=5",
-      "publishedAt": "2026-11-07T20:20:00.000Z",
-      "severity": "medium",
-      "titleZh": "年轻和年长的抗议者在巴黎团结起来抗议生活成本上涨",
-      "content": null
-    },
-    {
-      "title": "More than 140,000 rally as new protests against rising costs sweep France",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmFiWHM1MHV3M1FXUENUVjV5NWswTm9kTHJoVVloNHNnOW5ZUDM4RzJ4YUNrM19rMTRQMTduTE5LcWRpR3YyeG9YajktSEFMaEJ5Y0ltU3YzckFqTXU1VUNEYWFwWF8tRElIc0JZSWJ5M2Z2dEtmZjdKeGRlZzNvY0hhWW9ZSUFMaktNRl9HRVhUNnNxMEJGS0NiX3lfb1BsLWxiMF92LV9VYlg3cDVKM3F5VdIBuAFBVV95cUxQanlaaTJvYmNCa3EwcVhhTF9GTDhzMkFjVG1MV1JaYTMtSllia1daNFhpWm9IczFMX3hpVG15bHV1cDBMUDVLNVJYOXBQUF9rMzRmU2pnN0cwUUx6emlBV0dnNXM5NTZPVTk0SFJWcld5SHNzQ0ZDOXlya3o2anowS1kzOEk0RDJaS0ZPaHV6TVc2eUhYSUZmQ0o0emtBWjQwYndOb2JiZ09YRmVrNzJQVnRDanNtS2RF?oc=5",
-      "publishedAt": "2026-11-07T20:16:05.000Z",
-      "severity": "medium",
-      "titleZh": "反对成本上涨的新抗议席卷法国，逾14万人集会",
-      "content": null
-    },
-    {
-      "title": "Manifestations du 7 novembre : deux chefs de file des Gilets jaunes placés en garde à vue",
-      "source": "CNews",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTklFVDlGZDZXRHFZOHVYeWVybkxvN0dUU241QzlET1M1MGsySFU2M2xhNFlibW40NF9KSTBqTXdXRW5vWkFBTWxEanU3Z01TTEJoUzhLT1VUSnhIMTdMYWprVXFicXBndUxWeTUxWFlGYkFqTUZrTV92TEVqaFdCM0RDVGppdF9rYkxZMGtmTmRmZFRWcjRzRWptNVlDMkdRX1BRSzdxUHRCekZHQmtvVVdYa00tVU9OSTU0U9IBwgFBVV95cUxNcU9CTFRMSHNXcEx3dEZkSy1EeUtNeG1iR3c3TWJrV2JBOGszcmp6RFRwcEM0Q3Z5V3FPY3JJd252NEswS1dwakxEcTUzaWQ0OWdaV2hra3FoRzFDQS14RjZfaWFlMmJ0WTQ3YVkwOUZRMF8wY1d6QTJhU0VMelR2SmlRTUEzYm5kc1VJVGlkUUUwZjA5NEFEeGJubUVYamdiOEhHVmljWXg2YmVxbVVINklwX0xSaFJ4di1icU9nMm5DZw?oc=5",
-      "publishedAt": "2026-11-07T19:52:14.000Z",
-      "severity": "medium",
-      "titleZh": "11月7日示威活动：两名黄背心领导人被警方拘留",
-      "content": null
-    },
-    {
-      "title": "Manifestations calmes, dispertion tendue à Paris - 07/11",
-      "source": "BFM",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONjROTFMxeUswSnQ0a096d05ydXNndU5XaFptMVBmQUxNZk1JQWdGWkJvN3BrV1RpSnMwYWVDMVMwU0dlMHZuS3lGVzNZenhXUTNUU3hWOFJQNU5rcXBtSlkwazlaUDdfWVRFSUJNOS1ZTE9fWGo4YjZKVGJyQlZvSU1maV9jajgyWGdEc3o3bG1UT01PWFFYUDVUVVYweklNZzJHYUdRSkEwcktKS29HVWR0NWszLUlmRmxQNlVHRUloLU5SLTk1QlRLT2hjOUpIRGln?oc=5",
-      "publishedAt": "2026-11-07T19:52:01.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎平静示威，���张分散 - 07/11",
-      "content": null
-    },
-    {
-      "title": "Paris police clash with protesters as 250,000 take to the streets in nationwide demonstration",
-      "source": "Riviera Radio",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejdaMkRKOVQxRUV3akFmcXBTeTlPdGZTNnZRY0FIalR0azdjLXk2RFp6ajhET3VyS0N1dDFBN19Rd0R0TXdoRmhhb2s0Wk9vTDVST1JRR1RiNXI5dFlpaWdZUEI0M0FxNHpwT1BlaG5JWTB4QzhsdEcxcU9qZmpCN0xKc21VcTRs?oc=5",
-      "publishedAt": "2026-11-07T19:40:43.000Z",
-      "severity": "high",
-      "titleZh": "巴黎警方与抗议者发生冲突，25万人走上街头进行全国示威",
-      "content": null
-    },
-    {
-      "title": "Clashes in Paris Following the Latest Protests in France",
-      "source": "BGNES",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTkwMV9jM0M3WWMtNmI2bkIzRV90VEpYRGRqbjFJc2w3b2VVZF9IRXlhVVdMVkFZVVVTZU1SX2ktQ2U3RVpwSVVWN1NGMUJJa1ZzZTNaWGVzeHhjQUxEUjRrRnByQTZZdXhoYmdvNTNMNmNzaG1uMEdwQXZiTHlsVWVXdmlmeTc3SHVqWkVsRQ?oc=5",
-      "publishedAt": "2026-11-07T19:37:13.000Z",
-      "severity": "high",
-      "titleZh": "法国最新抗议活动后巴黎爆发冲突",
-      "content": null
-    },
-    {
-      "title": "Manifestations du 7 novembre : moins de monde dans les rues, mais la pression maintenue",
-      "source": "Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMUFmOGw5VUFBQXk4QjhzZHVoeVMxZ3JhRkg1WlBEazdLX0N1QTBBVnhkQ2t2MUVrNmZlU2EzUlJWeDFQUFVUY29LaVBRRXlDN2VwN0hWajR5T0NhYWFsd0JHQndTU0dwLVpzeDdoclpnMU0tSFJCUlV0bUVFZ29UaDFPNGd4U29NSWRWdWFTbDlZQWVXbE9lX19wUHd6VHdKcXNqS3ZqWFQ2QjZpTUp3WUk4X3RKQ09BLURDbFdldjdmbVZ4NFpNWWR0Y3UtR1FVWlBzMHd2dUpJMkdIZzEyNnpxVUVzRTI0MUJKM0tWTTdYYm5yeUM0OGhuSkJFT3Fh?oc=5",
-      "publishedAt": "2026-11-07T19:34:46.000Z",
-      "severity": "medium",
-      "titleZh": "11月7日示威：街上人少了，但压力依然存在",
-      "content": null
-    },
-    {
-      "title": "Paris agitators defy police orders, renew nationwide protests centered in Paris",
-      "source": "Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMHFKVEptdWVYVkNvazdmMDVOa00xN0RiNEQ2Z090WUZPOGJWTG94X0pmSG5sXzFsYWd0eEUxRFNoS3l4Ni1nQ0NzR1liNzBiXy1pQXNLLWVBME9vbm1SdVZnTVNjTFhTeVg2OHQ5cmJjTWFBR3lNTEhzaUxNajNtX0ZGS2NVT3lqYlFqZmMzUkE0ODNzQlFXWEVjcGtoeEdWMFV5SGF1LXfSAa4BQVVfeXFMUDFsVjFmVWYxRU9Sd3NiYWhJNWdaRlBPZEFyYk9KOFR4TlhCYzFWNmY4TnAxY0JENmtLcTM5Q3poYi04V1pYUGhTSnpDSDBuS09XbU9yemhZRGxMWVdjc2k3bHZLYmR6U0stZDdRM1RKSHRHMG5reE55T2Roa3p6LXdPQWw1QUxhbUo5d0NtSlhFOW5aVzJjU3NMcFdtOFRReTZMdVBuZWJrSWFrUEpn?oc=5",
-      "publishedAt": "2026-11-07T19:32:27.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎煽动者无视警方命令，再次以巴黎为中心的全国抗议活动",
-      "content": null
-    },
-    {
-      "title": "Manifestations du 7 novembre : malgré une mobilisation en baisse, la rue veut \"maintenir la pression\"",
-      "source": "lanouvellerepublique.fr",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdXpCS3YxRGVrdzNsVDE2MmhGWi1VNG4wTkxRc1l3QzVtNFZzcHVvSU9oYnk2ekh5VEtLN2dNbWw3bWVmSzBXbDU4UjNPM3ZGVURxYkZLTWtpRm81Nzc2RlFnejY4SWdOcDAxMUt5Z1FuWnY0d0NfYWxIX0dOeG1YMGlqY2I4NDBwcXllcS1OdG1ON1ZPYXJPbThJc3gtUG9yYVRoaHZiTWcwRTZqNTlXSmN0UDRaY2ZTVjF5YzZoTVBnSVkyaW9wVklEWjhsWF9JYkpkczd5QnM0UDJYTnZkN2pyQzlUZw?oc=5",
-      "publishedAt": "2026-11-07T19:31:11.000Z",
-      "severity": "medium",
-      "titleZh": "11月7日的示威活动：尽管动员人数减少，但街头仍希望“保持压力”",
-      "content": null
-    },
-    {
-      "title": "Thousands of French citizens protest in Paris for fourth straight week",
-      "source": "Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzY3lMRHlobjBXd2VtQ2luOVJiN09ReGJNZXhQdndEVVQ0M2Vwd0JMSHdwVXV1Tk8tMEFqZTFGNC1PcTNVZW5rYVRRWFVZZ3pPaW9GTXFB?oc=5",
-      "publishedAt": "2026-11-07T19:29:18.000Z",
-      "severity": "medium",
-      "titleZh": "数千法国公民连续第四周在巴黎抗议",
-      "content": null
-    },
-    {
-      "title": "Thousands of Paris Residents Take to the Streets to Protest Rising Prices, the Atmosphere of the Demonstration Was Heated",
-      "source": "VOI.ID",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9nSE9EaXV5YU10Yi1aNGlMODQyX2J5MmozUXVfNVVPTjQxdF8tRjMtTUtNRkVMRGRqSFdmWmxKTjRYOVnSAUJBVV95cUxPT1N3aWJBREQ1WTJHTEJRT0J1Z3JaN095YV8zdV92anBrd3E5eEZzRFgwWUZMS2phQmlRdG9tZHhKeFE?oc=5",
-      "publishedAt": "2026-11-07T19:26:00.000Z",
-      "severity": "medium",
-      "titleZh": "数千巴黎居民上街抗议物价上涨 示威气氛升温",
-      "content": null
-    },
-    {
-      "title": "« Solidarité avec la jeunesse broyée par le système » : à Paris, l’acte IV de la colère sociale marqué par une baisse de la mobilisation",
-      "source": "Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdUpZeHBCbzZNRWg4UU1lUGhtNG9DZVFuM2dPbDRCc1E3czQxbG9WV3dqLWxMNUQ5bDh2YW5tOGdNTFhBX2dUQ0VkSzdBaGtZaHRHZWtSTEdMTDFjR1VrQTl5bUkxOEpqSG1paVZWam5xMmUwSnJHeHJPQzkzVnpCLUp5REQtZDRzOU5rNTVueEljU1VzUGQwanpVQ1JZNHkwNWVzWmZtcXQtT3c2UTduVmVfQmpGV0pLdkJWTEVtTzFPdm5vNFZIVlpGRVpuVWo1MTNtay1fdk0ycjR6ZUtOLVFVTURlRXEyNkQ2NmVmLXdTbzdPUDNkNGJWSy13UVBSMjZBTmRUcDd1WDg?oc=5",
-      "publishedAt": "2026-11-07T19:15:01.000Z",
-      "severity": "info",
-      "titleZh": "“与被体制压垮的年轻人的团结”：在巴黎，社会愤怒的第四幕以动员率下降为标志",
-      "content": null
-    },
-    {
-      "title": "Massive Weekend Protests Enter 4th Week in France; Students and Workers Rally in Major Cities",
-      "source": "news.sbs.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52dTdyaW8zd3hCd2JqbHR0ZTYyVmozLWtGLUx6TlcxVjFUeDZrSnpCbG9vdmliQjhiTzRKUzltY0c2ZmtMa0pnRU04M0Z6R2lMRi0zVkFOUTRRNTRYNzY0dGVtMmw1T1lDM3hPZnVn?oc=5",
-      "publishedAt": "2026-11-07T19:14:53.000Z",
-      "severity": "medium",
-      "titleZh": "法国大规模周末抗议活动进入第四周；主要城市���学生和工人集会",
-      "content": null
-    },
-    {
-      "title": "Clashes break out in Paris amid protests over the cost of living — Dawn",
-      "source": "UA.NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGpyNnlncGw3djZ3S1VfUFpzdzRIcWh5WDBtSk1GR0c3Q0haSW1fOTNFaVd1bkkzaDRmTXdYV1BpUjFVcUFvOGFVVjVVcnVDaC1ONjZvaGtXdndZRU85Y1UzTkxwSTBDTG5CZVdXQVVOdjBRSHA5U2dLeDJ5aFJYRWtPY2lqb1M0dDlBcGUyYzBVd29WajZLVzhBdzZLWU5UMFF5OUluMGE?oc=5",
-      "publishedAt": "2026-11-07T19:13:02.000Z",
-      "severity": "high",
-      "titleZh": "巴黎因生活成本抗议而爆发冲突——《黎明报》",
-      "content": null
-    },
-    {
-      "title": "Manifestations du 7 novembre : 250 000 personnes ont défilé dans toute la France, selon les syndicats, 146 000 selon Beauvau, une mobilisation en recul",
-      "source": "Libération",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOUUNodkdsZ0VWOG16QUxNcUxkLVJER1BuZjFHMFc4cEJQd1ZCZWxqT3h3Q0UtN2RaRjB1dVlOTEtROXJTSDAxQ0ZjNTYwanpaenMzeHQxRHp3cUp0OUQzYk44MmFGbklEYlhJM1luNElmYVp4VDRhdTdHQTBnWGl0eUZSTndNeTlITF9GRUtiN1FabDZBVGF3N1BYZmhNbG0yMTVpd0xKZDAxblpfOFRIdlllamZVQ3U4SmNtMWZPRW1NRlA5QTZkaHJpOVd0LWpHZXFnOXdhV0I5SU5RWnVmWkVqSldBZHFJVXVyQXNKRDdwQ3otS2R6VVRvYWdxTVRMdWthWHBXWkFSYjZHQ3BydGZHQXltQS1jeVFVWERaNnphMXc?oc=5",
-      "publishedAt": "2026-11-07T19:12:00.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 7 日的示威活动：根据工会的数据，法国各地有 25 万人游行，根据博沃的数据，有 146,000 人游行，动员人数正在下降",
-      "content": null
-    },
-    {
-      "title": "Manifestations du 7 novembre : deux chefs de file des Gilets jaunes interpellés à Paris et placés en garde à vue",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNR0dpdjQ0UHJBRWtIX3RNbXBXNW1mVXRPWHFqZFgwRVM2Rk1VS2tZWlZiUlFkdXlOZjdRYmY2SV9EYWtUN01LSEN2YkRrRkZGejBBWFpSRFFDWkd3OXJaRHdNcWdFVHNwejRfSWItX2hUSDNLMDdDdWtSOFpfRXRZTU55TEc2TU0yaDA5aWpaNWhyQzZyUmdQZm8tTkxIUnhsNWNkZGFmaS15REJzRTU0LXRzaXk5b2VxdW1fbGdQSFNzcUNUZWt3M21LTl9WXzlZcnQ3ejFDMnpZRTdTemF2NGktTlhzbGowaDhUNTBlM3lfVW5DeC1SWHZBMG9CemwzLUxablFyQUl3OTZabkp3c0lEakc1TDBFdlBn?oc=5",
-      "publishedAt": "2026-11-07T19:10:44.000Z",
-      "severity": "medium",
-      "titleZh": "11月7日示威：两名黄背心领导人在��黎被捕并被警方拘留",
-      "content": null
-    },
-    {
-      "title": "« Un smic à 1 500 euros, sérieusement ? Ça va changer quoi ? » : à Paris, les manifestants exigent bien plus du gouvernement",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNang5R1FnV1l3VURkbFgwRkkzYlFFSFdBQzB0ODF2b3hISjEyQUlDTUxibGh5Nk1Qb1dISFZ0MDhKMWY3WksxV0NBM2t5X0tYN0xpbHI4ZkItVFVPTUhqcGlwNW9vSmRGUVVsZVBpQ3pHUW1aVEZHNEt5cGtoNVlBRVVJUGx2bUM2TWo0OGFPSWcyZ2FIWmlpWHR6LVRlMjBTTmx5VXVOemNBakNCS1ViclVpVF9sZEFjS1Rtby1BeXFySDJJenZmb1A0bGRRc0hsckxjYjNoYkwyMlFEc1VoTjJOOS1iMGItSkhTUjJsUUZjME9JT1JQeGVfVEdlTU12UUY1c3RmRlZ2SmkwZ2Q2VDlnX2RvWkx2?oc=5",
-      "publishedAt": "2026-11-07T19:06:37.000Z",
-      "severity": "info",
-      "titleZh": "“1,500 欧元的最低工资是认真的吗？这会改变什么？”：在巴黎，示威者向政府提出更多要求",
-      "content": null
-    },
-    {
-      "title": "Colère sociale: tensions entre forces de l'ordre et manifestants à Paris",
-      "source": "Orange Actualités",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVEYyTFlOX211ZDFYRDhBTkJBbXhrRVduVERyZzQ4Y2lyTGIyMEhaNnJzb0pEQnlTS1kwQmduUV9jOEFkRklOYk5xc2FIWlBvWWdFNUlVdjR5TkdaRGJZYmRsMDdMcHVUcFRQcnR2UEc0UzA2SlVNdnExTEx1UV9rZ1VrM21HZzdzekRCQ05PaUVLNk9VVE8tc053UnhhSHVkcmhJeUdKMW9jbFI0ZTVjMlc4RHJxZWdEVjhzU0xuWFl0R0tOenpV?oc=5",
-      "publishedAt": "2026-11-07T19:03:21.000Z",
-      "severity": "info",
-      "titleZh": "社会愤怒：巴黎警察与示威者之间的紧张关系",
-      "content": null
-    },
-    {
-      "title": "«On est épuisés émotionnellement, mais il y a des choses qui nous font tenir» : à Paris, les jeunes manifestants restent mobilisés",
-      "source": "Libération",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNUTV3VVNiRlNWTkNCLVdZUG5ZWEkyUk1TNkFJaGkwRXI5Z0pNalVKRlRBZ1kyajEwVXR3a3NTVjV5WW9iejBWVTRmVFZ0WWZVaEV6eTFJeFlmeTRxUFhsYlpOd18tbXdCVkdhQUxtdnZndnIyTno2SUZuVFBxTEZ6NDdhdXpuSGFDb0FBY3VVd1V0T3BsNDFKYU9VSkx3UFh0QVU0ZzhvTkNaNlNlVE1YR3cwUmpkRmJyWVZNeVJhUEUtTVYwUGQ1N3VUckRDdFFJSmlFcU1YanRXZTd1aXVENHFvVFdoNm1uRVV4UXJ4MDFmOTNCWnJibndNVWZMWWhpOTM3akpDWDdRS2RRSWc2N1kydHdjb2k5ZVpSWXVfY04?oc=5",
-      "publishedAt": "2026-11-07T18:58:17.000Z",
-      "severity": "info",
-      "titleZh": "“我们在情感上疲惫不堪，但有一些事情让我们继续前进”：在巴黎，年轻的示威者仍然动员起来",
       "content": null
     }
   ]
