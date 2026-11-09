@@ -1,27 +1,8 @@
 {
   "success": true,
-  "today": "2026-11-08",
-  "updatedAt": "2026-11-08T22:49:24.090Z",
+  "today": "2026-11-09",
+  "updatedAt": "2026-11-09T02:36:03.982Z",
   "events": [
-    {
-      "date": "2026-11-09",
-      "articles": [
-        {
-          "title": "« J’ai été traité de ''sale nègre'' » : on fait le point sur l’affaire Michel Zecler, dont le procès des policiers agresseurs s’ouvre ce lundi",
-          "source": "L'Humanité",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcUpnR2lZam1uNVRCLXdoM21FS2dodERvODY2Mkl3d0FubURTRG12ZlllRkhNYWt1OUI4RXVDZWxSOFhhMG1faFljRXlNSWt0amxZT2RLd093LUhLMnNybkZFTEF1cGFGUkZmeDU1Z05HMmpnVC1YUEhWYl9Cd2dZSVVzYUJiR3dCOEZVLVR5eFlwY0dwdFhoVlZVZGppN0xTTHJjNjQ3V253eTM5bk9oRzhiT1VSVklwNnRkbUctVV9yTVIyVnJwOHI4WC1TRkw3WFFacG5MLWJXWFZueHJCbnM4NUZWVGxfMmkxSEtMbm16b3gtcko2em5IWQ?oc=5",
-          "publishedAt": "2026-11-08T18:37:52.000Z",
-          "severity": "info",
-          "titleZh": "“我被称为‘肮脏的黑鬼’”：我们盘点米歇尔·泽克莱尔事件，对袭击警察的审判将于本周一开庭",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
-      "status": "recent"
-    },
     {
       "date": "2026-11-10",
       "articles": [
@@ -79,6 +60,25 @@
       "status": "recent"
     },
     {
+      "date": "2026-11-16",
+      "articles": [
+        {
+          "title": "« J’ai été traité de ''sale nègre'' » : on fait le point sur l’affaire Michel Zecler, dont le procès des policiers agresseurs s’ouvre ce lundi",
+          "source": "L'Humanité",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcUpnR2lZam1uNVRCLXdoM21FS2dodERvODY2Mkl3d0FubURTRG12ZlllRkhNYWt1OUI4RXVDZWxSOFhhMG1faFljRXlNSWt0amxZT2RLd093LUhLMnNybkZFTEF1cGFGUkZmeDU1Z05HMmpnVC1YUEhWYl9Cd2dZSVVzYUJiR3dCOEZVLVR5eFlwY0dwdFhoVlZVZGppN0xTTHJjNjQ3V253eTM5bk9oRzhiT1VSVklwNnRkbUctVV9yTVIyVnJwOHI4WC1TRkw3WFFacG5MLWJXWFZueHJCbnM4NUZWVGxfMmkxSEtMbm16b3gtcko2em5IWQ?oc=5",
+          "publishedAt": "2026-11-08T18:37:52.000Z",
+          "severity": "info",
+          "titleZh": "“我被称为‘肮脏的黑鬼’”：我们盘点米歇尔·泽克莱尔事件，对袭击警察的审判将于本周一开庭",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 1,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
       "date": "2027-10-17",
       "articles": [
         {
@@ -117,12 +117,21 @@
           "severity": "high",
           "titleZh": "10月31日示威：两名示威者投诉警察暴力和性侵犯",
           "content": null
+        },
+        {
+          "title": "Manifestation du 31 octobre : Des manifestants portent plainte pour violences et agression sexuelle contre des policiers",
+          "source": "20 Minutes",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU0lVM3pGeWUta0ZJUW9OT3JVMkQyUVJMdnlrMHp6enpGUjA0SWk4a1MtTFZXcGY1RktiTFBkam95OXBqRVcxRmpwN0lCUzlCSnhJcER3X3N3ZHZMc0tLRWRsREtFeGZOWVdjcERHX3FnR21kdG9mejlFMTE0aDYwZGdhV3lVLWVUWTMyZk02MmxqLVNPSWg3QzZBbzVON01FTWNuZWR2V2RlTHVEZjc1eUtBcWU4RUxfNHdQU1Foa2FDS25wek5WR3dzSkhobkRYekxrYUNURWlmTktaV2gxek5BUXB4Qy1OcHc?oc=5",
+          "publishedAt": "2026-11-08T16:05:00.000Z",
+          "severity": "high",
+          "titleZh": "10 月 31 日示威：示威者投诉警察遭受暴力和性侵犯",
+          "content": null
         }
       ],
       "places": [],
       "districts": [],
-      "articleCount": 2,
-      "clashCount": 2,
+      "articleCount": 3,
+      "clashCount": 3,
       "status": "recent"
     },
     {
@@ -207,9 +216,45 @@
           "title": "France Again Deploys Thousands of Police Ahead of Protests: What to Know",
           "source": "The New York Times",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
-          "publishedAt": "2026-11-08T20:55:23.000Z",
+          "publishedAt": "2026-11-09T01:04:01.000Z",
           "severity": "medium",
           "titleZh": "法国在抗议前再次部署数千名警察：需要了解什么",
+          "content": null
+        },
+        {
+          "title": "60 Minutes Transcript: How protests could push France to political extremes",
+          "source": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnJBQkdiMTdubkp1SDBlWmdmekVzaTFLMGFoaGVLTVhMU2hYR2lqWnJRc2d0Y0NqTkxVcnhnQmRNblRwWnVZVGVsakFnTldhS1ZNRXB5elhSWENkUFlCM1k0c3N1YzhpMVpod1RLMU1nLW85ODlWemVKbElMTi1PYld3MTZmbGxaUnlBaGdseGR0ZklEdlU0QkZPVERPTl9vQVI0LVBuMA?oc=5",
+          "publishedAt": "2026-11-09T00:00:00.000Z",
+          "severity": "medium",
+          "titleZh": "60 分钟记录：抗议活动如何将法国推向政治极端",
+          "content": null
+        },
+        {
+          "title": "Manifestations contre la vie chère : la double peine des commerçants",
+          "source": "Paris Match",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN0hLMzNzLTBfNk51TWVZekZkM2FjdmlkSXB1dkRjNm1mSkNrMFdBRTRIaFVCMUZaNm5rc3hkb0FtSDEyc09tbGNQM19BY3BpUm5wUEdyRHgtdTI4TkFZaC1ldVU1QzZFTzY2Rkl4Q0pHLXBVMno5X1l4VWFxME5ScU9CZ25BNk5TUkt0VTB3R1ctYXotQ3hndXoxNmVSQ040V3VFVl9XdTV4Zw?oc=5",
+          "publishedAt": "2026-11-08T19:00:30.000Z",
+          "severity": "medium",
+          "titleZh": "反对高生活费的示威活动：商人的双重惩罚",
+          "content": null
+        },
+        {
+          "title": "France releases two Yellow Vests leaders after protest arrest",
+          "source": "The News Pakistan",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT3U4dmFhRl93alZUY3FacjUta29IbmgxVVNublkzQTM3d1JSbGtXTkM3UlBZU0ZzR1hZZ3N4VXJtbURkX1dsREVxNWhKZFUxT3l4RlY1RmpOc1BJUW5wamkxbERweVhhV2dLbmRKWGJFbFdPZWRUUzhXeHVDVkFVZVNCN2NZNjluZHBnZ29EdHR6T0o4N2kyczBPWXBOcWs?oc=5",
+          "publishedAt": "2026-11-08T19:00:00.000Z",
+          "severity": "high",
+          "titleZh": "法国在抗议被捕后释放两名黄背心领导人",
+          "content": null
+        },
+        {
+          "title": "Tensions au lycée Aristide-Briand d’Évreux : 12 interpellations, les manifestations interdites",
+          "source": "Paris Normandie",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSDBiTHdad2JaUmlxck50eDhsZ3Vyc21kbDlrSDhybHdxSHdNYWYtZlR0ZnBUcVAyaGpRRmpMTER5VGVBbFZEZFZsR0hyRVZYX284V2ppU3g4SjNtNjUteTg1TXB2RmZwWTNRaHotdlFBOWMtd2NGZmF0VkpVd2dRbmtraV9qSUpfeUFjaFVZejNacHpfYmNITl9pTjlLbWUwano4UlJCUDU5clFHOXpCSU11bi1NcTAyMnB5Rm84dzliSkdvMEpvRENMZG02QUZhUG9nUQ?oc=5",
+          "publishedAt": "2026-11-08T18:19:00.000Z",
+          "severity": "high",
+          "titleZh": "埃夫勒 Aristide-Briand 高中的紧张局势：12 人被捕，示威活动被禁止",
           "content": null
         },
         {
@@ -225,7 +270,7 @@
           "title": "«Ça va être fun, y a pas de caméra dans la bagnole» : deux plaintes déposées à Paris contre des policiers pour violences et agression sexuelle",
           "source": "Libération",
           "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNQzBjaUhUT1NHaEtDd0k2bkNOVzgzZnh1dnhzNmRyZDEzVnVJc1E1ejFON2FTV2ZaZjFvRkIzSWQ4eW1qMUtVYjlYd3R5YU8tLXpYNTZtYklFdDE4M0ZueXZUVlBRaFJZaGo0ZF9iM1pGdVg3UzNDY0RrSnR6eUZkS292cHVlTFl5VHhIak92aC1meWo0UXpNUVNDRFNhNkotdnZ2bFJpVDd0OUgwZXoyNW9RdlBzaVZ3RGRxQktXVzVGekVFU3MyNjVkR3FZZGdKVTRVUlhoUEEyME9STmJQZUtvd2tPV3ZEUWtiSTlScnFrMEtfb1N4cWVDY0NpTlZHWUxkMnRxbXNHM0lHNnVrZF9FSFJ1anEzT3Y4NWxGUWJIZmdxeGUzR2VhSk1VQTZmekdXcVFlYVZ1X1FoZGJNN25CQ0ZXUQ?oc=5",
-          "publishedAt": "2026-11-08T17:52:00.000Z",
+          "publishedAt": "2026-11-08T17:53:45.000Z",
           "severity": "high",
           "titleZh": "“这会很有趣，车里没有摄像头”：巴黎针对警察暴力和性侵犯提出的两起投诉",
           "content": null
@@ -236,7 +281,7 @@
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZVh1QVJKenZEdEFCY1JBN25vdUpUR0JHaFBuZURoRDR3VjJOSmo3N2taSUdXWTQ3dXQtbzgyaXBERDZfVXhkSGVfUzd6QXYzSHl4V0xPaTBLRlZFdnpDV3A3SzdKT0wyeGtYZEVacnRHRWNmRUhXa1pzVFpVb01NWnFLMkJTbEdETG1ueVJYVFFic28xNW9JV09PVDdpQWRBNUJtNVdjTW9JV056MHZ1MnpveW1zVUotN01ZaWxPd1pYYlZEb1lyN1NiblZPNDJVSnNCcnIzWmUyMi1ZTXl5ZV90SnVuazN3dHlPMTVlMXA2RHNGOW93?oc=5",
           "publishedAt": "2026-11-08T17:12:01.000Z",
           "severity": "info",
-          "titleZh": "社会动员、男子被刺死、炸弹威胁：法兰西岛周末新闻",
+          "titleZh": "社会动员、男子被刺死、炸弹威胁��法兰西岛周末新闻",
           "content": null
         },
         {
@@ -267,15 +312,6 @@
           "content": null
         },
         {
-          "title": "Deux manifestants portent plainte contre des policiers pour violences et agression sexuelle à Paris",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMHptakZVemNFclZwX0RaWkc2WlBwVE1oZ28tTjUtUWs2TGFvUTlsM2I4ZkdHcVlqaERmSVlMQmxxYUp6NmZyMWd6WWxiN19WdkhiS0pELXZvcE9VRnppcHRWV1ZvV3h5ZC1ZdHpLYkhCaHBPUDNHUktRZFMzaFVuSVhKdDlSTWFCUVVoc2s1ckVDWUZ6Mm1IY3ROWlZMaFhLenE5N2ZTdExVTkIxNi1rZXFvckhtX0FOMkoyMTlCSks2SERhV1NSVU1uRVFuZlV4T3lZdDNVVGJsRkZoX3E1czZjV1puaVhmeVItMXpmZkU2YTFkbWw5OG8zS2owSG1PclZ2eEFIU2dWb3BV?oc=5",
-          "publishedAt": "2026-11-08T15:36:21.000Z",
-          "severity": "high",
-          "titleZh": "巴黎两名示威者投诉警察暴力和性侵犯",
-          "content": null
-        },
-        {
           "title": "Mouvement lycéen : à Paris, la préfecture de police autorise de nouveau le parcours République-Nation",
           "source": "L'Humanité",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbTd3QWtIWDJiRXRPN01qZWE1N0JZYzR6d0NjdFpKMTVZNi1GejFCcUpFS3BZdmllSGdOYm5RNEZKTkpnbGt0MFg4RHFkY0x6QUkyUFZVaFpudDRBeUNnZUltUWJSLUM0LWg1OEpIVDhGdEEtQkxTNjVzV2ctanlpLTlid1dZVjJqSXVrN0N0amk5S0RsV09IcFdpcVRxSE1lOEhuT3hiSkRLdlZCYkFodmd2NlQ1b19HaWpBOU9NdlpETXJFaUVhbG9leUF2bWRsbkU0RVlfczZRd1pzVUtiVzVHQV8yMms?oc=5",
@@ -291,15 +327,6 @@
           "publishedAt": "2026-11-08T14:26:00.000Z",
           "severity": "info",
           "titleZh": "Franceinfo 很遗憾让一个侮辱马克龙的孩子发言",
-          "content": null
-        },
-        {
-          "title": "« Une continuité de générations dans la lutte » : les étudiants donnent un second souffle au mouvement lycéen",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaXplWmZFUmVaOXlVUzFtWnhaTHFlT0E2VXA2TDZkX3pjNjBBVzFGc1lMdnFvOTA4X3c1QmtpOFlJLWgxYlNEQkRDdmhXX1cwYTJxS1E2Ykk0VjlYV2tUYVk5QkxsX1g0VWFsWWRxNEItNmJBVXozWEF2eXBENTNId0hVOGUzOXhXU1BicTFPbURCSmRBc3J4XzdrZmxibXUyalREc2pPNnFiWEhyMEFvcDgxZDF6cDlsZmdJQkxaT3E4RlhHR0tMSEx5R0JvUjYxbEl2cG5QazhjVkdyUWhPWlM3V0VPblBnN3I0OWpqNHRMOUhfYXI5SE1kRS1pNVNQdG1EZTNkVFJfSDg?oc=5",
-          "publishedAt": "2026-11-08T14:19:27.000Z",
-          "severity": "info",
-          "titleZh": "“奋斗中几代人的延续”：学生们为高中运动注入了第二股活力",
           "content": null
         },
         {
@@ -366,15 +393,6 @@
           "content": null
         },
         {
-          "title": "«Macron est un co*****»: un enfant de 8 ans insulte le président",
-          "source": "20 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSWRsN0w1VkZpdG11eFpWRzVFSDBiNnpqLVFkU21oMG9xOGZrMEdCSHpxODJ6UzczaDVpMmxMTWpNRWczR2RQQU8tckFRLUpuVzhyWTFoVDhZQkJpUUdhYTdKS3VHRkI2ZVNXbVNWcmc3OE9GNmc3cGhrOHR2eGxabFowbGsweUhCMUhsTGh5VDZxTFE3bXFMRjgybm5CbHpZeHl1RnF3?oc=5",
-          "publishedAt": "2026-11-08T11:17:40.000Z",
-          "severity": "info",
-          "titleZh": "“马克龙是个私生子”：8岁孩子侮辱总统",
-          "content": null
-        },
-        {
           "title": "Paris protests turn violent as clashes erupt between police and demonstrators",
           "source": "Daily Times",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTlEbDQxWXRlUkU2MXlWMFU0RmVzWFAwRWQ2a0RIRlpidC1OMENSQnBSRmpHMVZYbEtZWER5RG5heWNyY2h4dkJyeEt4SFZPVzhJbEc5ZlZzX001bHF3UjlDZHhZNkFfUWNhQjh4NFBjazlNajZ6TGFnblFzNU5ZRmFVeHRDcU5EbHpTbUt6b2Y4ZzFwM1pMbVFJRnBvSFR1TV82N0h5cEdIUEVfZ1oyMzZ3?oc=5",
@@ -420,24 +438,6 @@
           "content": null
         },
         {
-          "title": "Paris : une enquête ouverte contre un policier accusé d’agression sexuelle lors d’une manifestation",
-          "source": "Linfo.re",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeE9DTU4wTmtxMm85eUE2QXU4VlhIQUt2X0ZQRG5yQW1rYnp5S0hFV0RKRTVRX2FQWEgzamxsczJ6aS0xWThmTktwNkRwbmxDaVdUSHJzclhtXzR6VkR3VW9TOGctVHhoNTQ4OW5GLWNaMC15dEd6ajAxbTVUM1ZxTXdEbm1oTzlFS2FSZkRzNFVzaGtCcjdDbVVwVWNpYm1jUGpNVHJPTTNNZTBGdFJDN2tDaE1jcnNSZEljalFkZ0x0bjN1Rk9MUlBpXzZqZ3pLVnpIMw?oc=5",
-          "publishedAt": "2026-11-08T09:37:09.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎：对一名被指控在示威期间性侵犯的警察展开调查",
-          "content": null
-        },
-        {
-          "title": "Paris : un homme retrouvé mort dans un appartement du 14e arrondissement, la gorge en partie tranchée",
-          "source": "Le Figaro",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSncyd3JkMU1Ud1JwMEJwaG4zcVZrbnpXUUJ1RXZJdDhJRDg3OTdWZjIyYndDRjF1X19TV0J1SThQcklpamVDeWx5bk1QdUdid3NIM0VSaWdENjV1ZTdnYnpZU3RTRWlrZW5SS2dGRDlmV1RhTHBsSkdaQmNkNDN5TXNnc3JSRHpmVzA3QVR5TGstZnZFWU42cy1fTDJoS0h6bTNrc01mb3lxb2h5N1R0OFNkek1ZYllxbkxVQkJaSktEcXJVMVhacTRnX2drczZFMkRhcEhKUTVaYjNx?oc=5",
-          "publishedAt": "2026-11-08T09:36:03.000Z",
-          "severity": "info",
-          "titleZh": "巴黎：一名男子被发现死在第十四区的一间公寓内，喉咙部分被割断",
-          "content": null
-        },
-        {
           "title": "Moins de touristes étrangers dans les commerces parisiens, autre conséquence des manifestations",
           "source": "Le Monde.fr",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbkwxR3NZbEhKQjcyaElwTFF6RmdWRkhvQ00yaGt0RnRtQmVyT09pdUhILTIxb1ZMN2xoYmFxS0g3RVpUdHFYNmtmMHl2NVNHanhGREg2Ul84a3E2ejMyV3UtV0dDVEV6QktNNFdkX2FfemVHakNHMTNjSEJMMTFRNldiZzZ0cEVYQm96X0NQeUdlNUJuZ2Y5ZlRzZ0MtN2p6dUg3bk5FU2JXOTVaM0lUR1gtR0JpcXFlOFpFNXMyMGM0SjNkNVpPWFEzY0ppck15cW1YUk82WmdQbjVoeVZwYWluVlJ1dm9tdm1WZmFNR0FFZThqSVE?oc=5",
@@ -455,11 +455,10 @@
         1,
         8,
         11,
-        12,
-        14
+        12
       ],
-      "articleCount": 27,
-      "clashCount": 5,
+      "articleCount": 26,
+      "clashCount": 6,
       "status": "unknown"
     }
   ],
@@ -468,9 +467,18 @@
       "title": "France Again Deploys Thousands of Police Ahead of Protests: What to Know",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GYnoxd1dncFRldUlCNW5vMDEydGR3U1VpY1RtQVNQdGJGTlItUVpoR1U2dUwyNVNoQU1uQzBDNU5LWUl2UTc2REswb3QzQjVpcFlEVGZhOWxJd3J0RTlIbU4xeUN2RmtIU1IyLWxaaGctZw?oc=5",
-      "publishedAt": "2026-11-08T20:55:23.000Z",
+      "publishedAt": "2026-11-09T01:04:01.000Z",
       "severity": "medium",
       "titleZh": "法国在抗议前再次部署数千名警察：需要了解什么",
+      "content": null
+    },
+    {
+      "title": "60 Minutes Transcript: How protests could push France to political extremes",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnJBQkdiMTdubkp1SDBlWmdmekVzaTFLMGFoaGVLTVhMU2hYR2lqWnJRc2d0Y0NqTkxVcnhnQmRNblRwWnVZVGVsakFnTldhS1ZNRXB5elhSWENkUFlCM1k0c3N1YzhpMVpod1RLMU1nLW85ODlWemVKbElMTi1PYld3MTZmbGxaUnlBaGdseGR0ZklEdlU0QkZPVERPTl9vQVI0LVBuMA?oc=5",
+      "publishedAt": "2026-11-09T00:00:00.000Z",
+      "severity": "medium",
+      "titleZh": "60 分钟记录：抗议活动如何将法国推向政治极端",
       "content": null
     },
     {
@@ -483,12 +491,39 @@
       "content": null
     },
     {
+      "title": "Manifestations contre la vie chère : la double peine des commerçants",
+      "source": "Paris Match",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN0hLMzNzLTBfNk51TWVZekZkM2FjdmlkSXB1dkRjNm1mSkNrMFdBRTRIaFVCMUZaNm5rc3hkb0FtSDEyc09tbGNQM19BY3BpUm5wUEdyRHgtdTI4TkFZaC1ldVU1QzZFTzY2Rkl4Q0pHLXBVMno5X1l4VWFxME5ScU9CZ25BNk5TUkt0VTB3R1ctYXotQ3hndXoxNmVSQ040V3VFVl9XdTV4Zw?oc=5",
+      "publishedAt": "2026-11-08T19:00:30.000Z",
+      "severity": "medium",
+      "titleZh": "反对高生活费的示威活动：商人的双重惩罚",
+      "content": null
+    },
+    {
+      "title": "France releases two Yellow Vests leaders after protest arrest",
+      "source": "The News Pakistan",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT3U4dmFhRl93alZUY3FacjUta29IbmgxVVNublkzQTM3d1JSbGtXTkM3UlBZU0ZzR1hZZ3N4VXJtbURkX1dsREVxNWhKZFUxT3l4RlY1RmpOc1BJUW5wamkxbERweVhhV2dLbmRKWGJFbFdPZWRUUzhXeHVDVkFVZVNCN2NZNjluZHBnZ29EdHR6T0o4N2kyczBPWXBOcWs?oc=5",
+      "publishedAt": "2026-11-08T19:00:00.000Z",
+      "severity": "high",
+      "titleZh": "法国在抗议被捕后释放两名黄背心领导人",
+      "content": null
+    },
+    {
       "title": "« J’ai été traité de ''sale nègre'' » : on fait le point sur l’affaire Michel Zecler, dont le procès des policiers agresseurs s’ouvre ce lundi",
       "source": "L'Humanité",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcUpnR2lZam1uNVRCLXdoM21FS2dodERvODY2Mkl3d0FubURTRG12ZlllRkhNYWt1OUI4RXVDZWxSOFhhMG1faFljRXlNSWt0amxZT2RLd093LUhLMnNybkZFTEF1cGFGUkZmeDU1Z05HMmpnVC1YUEhWYl9Cd2dZSVVzYUJiR3dCOEZVLVR5eFlwY0dwdFhoVlZVZGppN0xTTHJjNjQ3V253eTM5bk9oRzhiT1VSVklwNnRkbUctVV9yTVIyVnJwOHI4WC1TRkw3WFFacG5MLWJXWFZueHJCbnM4NUZWVGxfMmkxSEtMbm16b3gtcko2em5IWQ?oc=5",
       "publishedAt": "2026-11-08T18:37:52.000Z",
       "severity": "info",
       "titleZh": "“我被称为‘肮脏的黑鬼’”：我们盘点米歇尔·泽克莱尔事件，对袭击警察的审判将于本周一开庭",
+      "content": null
+    },
+    {
+      "title": "Tensions au lycée Aristide-Briand d’Évreux : 12 interpellations, les manifestations interdites",
+      "source": "Paris Normandie",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSDBiTHdad2JaUmlxck50eDhsZ3Vyc21kbDlrSDhybHdxSHdNYWYtZlR0ZnBUcVAyaGpRRmpMTER5VGVBbFZEZFZsR0hyRVZYX284V2ppU3g4SjNtNjUteTg1TXB2RmZwWTNRaHotdlFBOWMtd2NGZmF0VkpVd2dRbmtraV9qSUpfeUFjaFVZejNacHpfYmNITl9pTjlLbWUwano4UlJCUDU5clFHOXpCSU11bi1NcTAyMnB5Rm84dzliSkdvMEpvRENMZG02QUZhUG9nUQ?oc=5",
+      "publishedAt": "2026-11-08T18:19:00.000Z",
+      "severity": "high",
+      "titleZh": "埃夫勒 Aristide-Briand 高中的紧张局势：12 人被捕，示威活动被禁止",
       "content": null
     },
     {
@@ -504,7 +539,7 @@
       "title": "«Ça va être fun, y a pas de caméra dans la bagnole» : deux plaintes déposées à Paris contre des policiers pour violences et agression sexuelle",
       "source": "Libération",
       "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNQzBjaUhUT1NHaEtDd0k2bkNOVzgzZnh1dnhzNmRyZDEzVnVJc1E1ejFON2FTV2ZaZjFvRkIzSWQ4eW1qMUtVYjlYd3R5YU8tLXpYNTZtYklFdDE4M0ZueXZUVlBRaFJZaGo0ZF9iM1pGdVg3UzNDY0RrSnR6eUZkS292cHVlTFl5VHhIak92aC1meWo0UXpNUVNDRFNhNkotdnZ2bFJpVDd0OUgwZXoyNW9RdlBzaVZ3RGRxQktXVzVGekVFU3MyNjVkR3FZZGdKVTRVUlhoUEEyME9STmJQZUtvd2tPV3ZEUWtiSTlScnFrMEtfb1N4cWVDY0NpTlZHWUxkMnRxbXNHM0lHNnVrZF9FSFJ1anEzT3Y4NWxGUWJIZmdxeGUzR2VhSk1VQTZmekdXcVFlYVZ1X1FoZGJNN25CQ0ZXUQ?oc=5",
-      "publishedAt": "2026-11-08T17:52:00.000Z",
+      "publishedAt": "2026-11-08T17:53:45.000Z",
       "severity": "high",
       "titleZh": "“这会很有趣，车里没有摄像头”：巴黎针对警察暴力和性侵犯提出的两起投诉",
       "content": null
@@ -515,7 +550,7 @@
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZVh1QVJKenZEdEFCY1JBN25vdUpUR0JHaFBuZURoRDR3VjJOSmo3N2taSUdXWTQ3dXQtbzgyaXBERDZfVXhkSGVfUzd6QXYzSHl4V0xPaTBLRlZFdnpDV3A3SzdKT0wyeGtYZEVacnRHRWNmRUhXa1pzVFpVb01NWnFLMkJTbEdETG1ueVJYVFFic28xNW9JV09PVDdpQWRBNUJtNVdjTW9JV056MHZ1MnpveW1zVUotN01ZaWxPd1pYYlZEb1lyN1NiblZPNDJVSnNCcnIzWmUyMi1ZTXl5ZV90SnVuazN3dHlPMTVlMXA2RHNGOW93?oc=5",
       "publishedAt": "2026-11-08T17:12:01.000Z",
       "severity": "info",
-      "titleZh": "社会动员、男子被刺死、炸弹威胁：法兰西岛周末新闻",
+      "titleZh": "社会动员、男子被刺死、炸弹威胁��法兰西岛周末新闻",
       "content": null
     },
     {
@@ -564,6 +599,15 @@
       "content": null
     },
     {
+      "title": "Manifestation du 31 octobre : Des manifestants portent plainte pour violences et agression sexuelle contre des policiers",
+      "source": "20 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU0lVM3pGeWUta0ZJUW9OT3JVMkQyUVJMdnlrMHp6enpGUjA0SWk4a1MtTFZXcGY1RktiTFBkam95OXBqRVcxRmpwN0lCUzlCSnhJcER3X3N3ZHZMc0tLRWRsREtFeGZOWVdjcERHX3FnR21kdG9mejlFMTE0aDYwZGdhV3lVLWVUWTMyZk02MmxqLVNPSWg3QzZBbzVON01FTWNuZWR2V2RlTHVEZjc1eUtBcWU4RUxfNHdQU1Foa2FDS25wek5WR3dzSkhobkRYekxrYUNURWlmTktaV2gxek5BUXB4Qy1OcHc?oc=5",
+      "publishedAt": "2026-11-08T16:05:00.000Z",
+      "severity": "high",
+      "titleZh": "10 月 31 日示威：示威者投诉警察遭受暴力和性侵犯",
+      "content": null
+    },
+    {
       "title": "Grève du 10 novembre à Paris : parcours, revendications, ce qu'il faut savoir sur cette nouvelle journée de mobilisation",
       "source": "Actu.fr",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWG5KR3hJbXBEbEVjZ0xudGpJLUdUR0FDb2x6bFFwRGVUMjZycnNLUzA4c2paUE1uZmcycm9uX1hJSW1JUGY0aW1xUXlhNG9mYTRHempZNXdqdFVXTE90amtySkZ0b3JOaV9vYXZSVlhpakxhU0lHZGZZYXhESm5zdmFPU1ZhcktFRWM5MGphaDdFdGltMmZpX0ptVkZBbnBiQ3RFOHJYeGpHWWc0ZXVYSS00cjdOQkZteDN2a1l2aFhPdEJtZ3V1S29STlhwOXpxVFRRazZwb25STUpXQkRvN1BTNzJ3dEhrX3R0SDFoNlUxMWlqbkgzZTEzOV9NUUtMYWc?oc=5",
@@ -582,15 +626,6 @@
       "content": null
     },
     {
-      "title": "Deux manifestants portent plainte contre des policiers pour violences et agression sexuelle à Paris",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMHptakZVemNFclZwX0RaWkc2WlBwVE1oZ28tTjUtUWs2TGFvUTlsM2I4ZkdHcVlqaERmSVlMQmxxYUp6NmZyMWd6WWxiN19WdkhiS0pELXZvcE9VRnppcHRWV1ZvV3h5ZC1ZdHpLYkhCaHBPUDNHUktRZFMzaFVuSVhKdDlSTWFCUVVoc2s1ckVDWUZ6Mm1IY3ROWlZMaFhLenE5N2ZTdExVTkIxNi1rZXFvckhtX0FOMkoyMTlCSks2SERhV1NSVU1uRVFuZlV4T3lZdDNVVGJsRkZoX3E1czZjV1puaVhmeVItMXpmZkU2YTFkbWw5OG8zS2owSG1PclZ2eEFIU2dWb3BV?oc=5",
-      "publishedAt": "2026-11-08T15:36:21.000Z",
-      "severity": "high",
-      "titleZh": "巴黎两名示威者投诉警察暴力和性侵犯",
-      "content": null
-    },
-    {
       "title": "Mouvement lycéen : à Paris, la préfecture de police autorise de nouveau le parcours République-Nation",
       "source": "L'Humanité",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbTd3QWtIWDJiRXRPN01qZWE1N0JZYzR6d0NjdFpKMTVZNi1GejFCcUpFS3BZdmllSGdOYm5RNEZKTkpnbGt0MFg4RHFkY0x6QUkyUFZVaFpudDRBeUNnZUltUWJSLUM0LWg1OEpIVDhGdEEtQkxTNjVzV2ctanlpLTlid1dZVjJqSXVrN0N0amk5S0RsV09IcFdpcVRxSE1lOEhuT3hiSkRLdlZCYkFodmd2NlQ1b19HaWpBOU9NdlpETXJFaUVhbG9leUF2bWRsbkU0RVlfczZRd1pzVUtiVzVHQV8yMms?oc=5",
@@ -606,15 +641,6 @@
       "publishedAt": "2026-11-08T14:26:00.000Z",
       "severity": "info",
       "titleZh": "Franceinfo 很遗憾让一个侮辱马克龙的孩子发言",
-      "content": null
-    },
-    {
-      "title": "« Une continuité de générations dans la lutte » : les étudiants donnent un second souffle au mouvement lycéen",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaXplWmZFUmVaOXlVUzFtWnhaTHFlT0E2VXA2TDZkX3pjNjBBVzFGc1lMdnFvOTA4X3c1QmtpOFlJLWgxYlNEQkRDdmhXX1cwYTJxS1E2Ykk0VjlYV2tUYVk5QkxsX1g0VWFsWWRxNEItNmJBVXozWEF2eXBENTNId0hVOGUzOXhXU1BicTFPbURCSmRBc3J4XzdrZmxibXUyalREc2pPNnFiWEhyMEFvcDgxZDF6cDlsZmdJQkxaT3E4RlhHR0tMSEx5R0JvUjYxbEl2cG5QazhjVkdyUWhPWlM3V0VPblBnN3I0OWpqNHRMOUhfYXI5SE1kRS1pNVNQdG1EZTNkVFJfSDg?oc=5",
-      "publishedAt": "2026-11-08T14:19:27.000Z",
-      "severity": "info",
-      "titleZh": "“奋斗中几代人的延续”：学生们为高中运动注入了第二股活力",
       "content": null
     },
     {
@@ -717,15 +743,6 @@
       "content": null
     },
     {
-      "title": "«Macron est un co*****»: un enfant de 8 ans insulte le président",
-      "source": "20 Minuten",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSWRsN0w1VkZpdG11eFpWRzVFSDBiNnpqLVFkU21oMG9xOGZrMEdCSHpxODJ6UzczaDVpMmxMTWpNRWczR2RQQU8tckFRLUpuVzhyWTFoVDhZQkJpUUdhYTdKS3VHRkI2ZVNXbVNWcmc3OE9GNmc3cGhrOHR2eGxabFowbGsweUhCMUhsTGh5VDZxTFE3bXFMRjgybm5CbHpZeHl1RnF3?oc=5",
-      "publishedAt": "2026-11-08T11:17:40.000Z",
-      "severity": "info",
-      "titleZh": "“马克龙是个私生子”：8岁孩子侮辱总统",
-      "content": null
-    },
-    {
       "title": "\"Faire acte de présence dans la rue\" : un manifestant raconte sa journée de mobilisation du 7 novembre",
       "source": "Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMnJPaUhJT2RIQVlYZWZxakJ4a2JYaHVNV1VIT1RMZjdYUmo2NWdBXzFrQWROcFdhSVlfN1FCaDNDZU55SUlMWnI1ZWhHSFVwYUlkVkZDVzV1NjR0ZzZkb08xY2c3NWptLUZIdDlkMzhaOFNCZml0UnBudHZrbVgyVTB2SkluTWQ4X1lYY3otOC1qTDVzQkt2aFJaZ2FYOE42aGc3VzluY0FiZ1RBR3E2R1k4T0RDVzJPakJ5MjJBZE9fVUE?oc=5",
@@ -786,24 +803,6 @@
       "publishedAt": "2026-11-08T09:49:03.000Z",
       "severity": "medium",
       "titleZh": "警察、酒精、裁员和罢工：巴黎酒店（摩纳哥）陷入危机",
-      "content": null
-    },
-    {
-      "title": "Paris : une enquête ouverte contre un policier accusé d’agression sexuelle lors d’une manifestation",
-      "source": "Linfo.re",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeE9DTU4wTmtxMm85eUE2QXU4VlhIQUt2X0ZQRG5yQW1rYnp5S0hFV0RKRTVRX2FQWEgzamxsczJ6aS0xWThmTktwNkRwbmxDaVdUSHJzclhtXzR6VkR3VW9TOGctVHhoNTQ4OW5GLWNaMC15dEd6ajAxbTVUM1ZxTXdEbm1oTzlFS2FSZkRzNFVzaGtCcjdDbVVwVWNpYm1jUGpNVHJPTTNNZTBGdFJDN2tDaE1jcnNSZEljalFkZ0x0bjN1Rk9MUlBpXzZqZ3pLVnpIMw?oc=5",
-      "publishedAt": "2026-11-08T09:37:09.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎：对一名被指控在示威期间性侵犯的警察展开调查",
-      "content": null
-    },
-    {
-      "title": "Paris : un homme retrouvé mort dans un appartement du 14e arrondissement, la gorge en partie tranchée",
-      "source": "Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSncyd3JkMU1Ud1JwMEJwaG4zcVZrbnpXUUJ1RXZJdDhJRDg3OTdWZjIyYndDRjF1X19TV0J1SThQcklpamVDeWx5bk1QdUdid3NIM0VSaWdENjV1ZTdnYnpZU3RTRWlrZW5SS2dGRDlmV1RhTHBsSkdaQmNkNDN5TXNnc3JSRHpmVzA3QVR5TGstZnZFWU42cy1fTDJoS0h6bTNrc01mb3lxb2h5N1R0OFNkek1ZYllxbkxVQkJaSktEcXJVMVhacTRnX2drczZFMkRhcEhKUTVaYjNx?oc=5",
-      "publishedAt": "2026-11-08T09:36:03.000Z",
-      "severity": "info",
-      "titleZh": "巴黎：一名男子被发现死在第十四区的一间公寓内，喉咙部分被割断",
       "content": null
     },
     {
