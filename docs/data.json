@@ -1,10 +1,103 @@
 {
   "success": true,
-  "today": "2026-11-09",
-  "updatedAt": "2026-11-09T21:02:50.455Z",
+  "today": "2026-11-10",
+  "updatedAt": "2026-11-10T03:27:56.344Z",
   "events": [
     {
-      "date": "2026-11-10",
+      "date": "2026-11-16",
+      "articles": [
+        {
+          "title": "Concours : Ava Joe à Paris le 16 novembre",
+          "source": "Sound Of Violence",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OdzdRRTFwVVdvX3UtNXZELWZ6YzZTRGJSNXlHV1FKLXY3RDhvTVo3U095R2tDRXZnWnpLdi1TZnJkY0pLT210V3AyWUZHcHpOQlRYT2hkd1V3dTBVaS1OajI5d1F4cG9NMEx2RXN2aEQ?oc=5",
+          "publishedAt": "2026-11-09T15:31:26.000Z",
+          "severity": "info",
+          "titleZh": "比赛：Ava Joe 11 月 16 日在巴黎",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 1,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2026-11-17",
+      "articles": [
+        {
+          "title": "Manifestation à Paris: un parcours et un rassemblement statique mardi",
+          "source": "Le Figaro",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3lOX1hmNDhBd3p5T1E4R2lPRTJFWmtiSEZSdlFmX1hyck9OQ1BmbU1mSkd2VFAtbEZPV241RFh6SnJLVnh2bVhhMFdmYU1GdG5vUDhsMVhJMnZURV9fQ2d6OERmTW9oaThoMmpkSUEtS0d0LUxtb09haVpiU3dBeWFrOXZObkxpalRTZkY3VGlIcEJnczI0SEFMWWYtcGp2RE5aV1Vtdms5ajBNWkt1VURR?oc=5",
+          "publishedAt": "2026-11-09T18:57:19.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎示威：周二的路线和静态集会",
+          "content": null
+        },
+        {
+          "title": "Grève et manifestation du 17 novembre à Paris : ce qui se prépare",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaEJrcFVpamNBa21NOHJiRFRPal90ancwTlhQdE14ZndNbThkNU40by11Qmg3NUs5MXZHeE1SUnliZTBLeXQ5ZVlnVW95NjRhanFhY1dCZldfRTJzRDJXT2h1RzdGdnFyNzlNU0RvMmdBbzB6azVTQ0pyeW1yQlprdFJCT2g1OTJfUkRFZTZ5Umx1Y2pPcjRSbzM3ZlMyUU9fZHV6cWo3MHhBM3lHbXpBTFM3SEN1WHNGZ1dxcHlzeHc5enpCZ2c?oc=5",
+          "publishedAt": "2026-11-09T16:29:36.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 17 日巴黎罢工和示威：正在做什么准备",
+          "content": null
+        },
+        {
+          "title": "Grève générale mardi 17 novembre ! Rassemblement 12h Hôtel de Ville",
+          "source": "supap-fsu",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQmtUZ2VhWnlhYk9nWUxCNHVScFRpaVpjb3RUWXVoc3RIekdWMUhuOUpKRkpHY3dPSENyQW00ajJxcEFSX2dpUWlFcXN2WWJXa3lrQVVxOE1GdUFoRFFNS1MtNU5vMm00ajUzVUotbkNrdnhuV2pqSmpOaGFnbE1hNHY5MmlFUnpNR0tYNmdncThhdU1DMVBkLVJ2QW5SY2tWWHNKWTJR?oc=5",
+          "publishedAt": "2026-11-09T15:00:41.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 17 日星期二总罢工！中午12点集合市政厅",
+          "content": null
+        },
+        {
+          "title": "Grève à Paris mardi : quatre stations de métro et RER pourraient fermer près du cortège",
+          "source": "Stéphane Larue News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWG1PYmV3WFE0d0VBdldMZ0lZTV9wVElCNTd6Z2dJQ1liWjRUelNhc0xxQVhfWDk3R2NkT2lhWXpjUVlLTWVsLWw5Tkw0enlNWnNzWkFGLW1pRm1ZQU54T1BleU00ZFdzY1JLSktYWVpKU1YtY3YxVFIwSi1MYVZyaHNseUdmMkN4N01sdUFpcDlNellCNEpWbnZ5Y0wzZkQ5YlNVNWwxWXBGZFdwT09ucTlB?oc=5",
+          "publishedAt": "2026-11-09T13:38:08.000Z",
+          "severity": "medium",
+          "titleZh": "周二巴黎罢工：游行附近四个地铁站和 RER 车站可能关闭",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 4,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2027-11-09",
+      "articles": [
+        {
+          "title": "Les actualités et infos de ce Lundi 9 novembre 2026 à Paris et en Ile-de-France",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmltME1oYXdST0YxTkQ3R0RRV0FtZVMxTDNJREtYSkxTRXNVUmJhb1pPUjRmY2NKaXNlUW5QdUJaSVh0X3RzTUw1cF9pNDhGaldYQ3c3dnlqOHBqMDhsTFZIUHg4QkR4OHVlZy16NU52MmVVdFR3UllWZ3NQR0sxekhyOUFCdlRScmRNMmpEYlNvTDNYYVBQZkREeFpkcFpLWS1obkNwLTRPQWZVQXRBckVBYS1yUFItWUtJ?oc=5",
+          "publishedAt": "2026-11-09T21:26:35.000Z",
+          "severity": "info",
+          "titleZh": "2026 年 11 月 9 日星期一巴黎和法兰西岛的新闻和信息",
+          "content": null
+        },
+        {
+          "title": "Manifestations du 9 novembre à Paris : un parcours et un rassemblement statique imposés par la préfecture",
+          "source": "franceinfo",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNURWMlY4ZG44ei1yakIzaGNGNW9VM21hSllJbkpzZ2o1Tl91TDltWXZaNjZ0T043eFItODdiNzNfaXlpaktjTUhDM25HdURTQWZwWlBzZG1xMl9qcEx5Q2oyellqMTlBcjlULUk5QnRiSWhsYkNTbEdjXzdjQndyS09xZ0NBX2hZdUZnQkZXX1dMMUZ6NWZnNEM5bFBzVVNtWXNnb2JtUDBxMzk2clBkU3ZNc3g1Ukpmd1VvZmJaSm9qemlOMmdhX1U2UUltbENQQTNsQmt5NnAtUnRpQWh0MlZkUUdBSEsyVUplT2JBYmVEWjJDOGc?oc=5",
+          "publishedAt": "2026-11-09T21:00:37.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 9 日巴黎示威：县政府强行规定的路线和静态集会",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 2,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2027-11-10",
       "articles": [
         {
           "title": "Manifestation du 10 novembre à Paris : quel est le parcours autorisé ?",
@@ -27,19 +120,10 @@
         {
           "title": "Manifestations à Paris ce mardi 10 novembre : un parcours et un rassemblement statique",
           "source": "Europe 1",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOXhmVE1MMlM5eGZUbi1XX242dmxIUjMwc3dnRVdOWjJZSFRJcXlJWWdiamxKTFlMZkVQbHl2MGhVZVdremM0aTdQeE4zODlGTHN1UzROdHdkTXVHbVJyNG9sODRLcllpVHg5NXl4N2tXSmVzQlh5dzJBLVl1THZPSnNWdzd6eFJOcEVtU3IzMU45RkllQXhQZ0hqT3dIYWhqcktDdXlWNVF4S2ZRRl9KWlZtRkcxaVFsMUw2X1JndW_SAcYBQVVfeXFMTVU4MTd1UVRrdElLeExxcmt6VkZBamk0c244TGVQYnNFWmI0VHI2N0NhcUhmWktoT2RTN0Ruck1fTVFRYTd4b3YxclQwZmVLRHNnempCYVF0MEFROFFueDBCMkhGblR5a1NGVVJ1YkFUcm5Bd0pIaWt0eG5Bd0wyLWo5S1M0RGJJSEY2V3V5Tk00Q2daRi02YjgyWEs1YzBUc2dsTGx1blBvRWhmZlRoSWs1M29RQjZSRElRcEhHdTdvcUdlY3Jn?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVTgxN3VRVGt0SUt4THFya3pWRkFqaTRzbjhMZVBic0VaYjRUcjY3Q2FxSGZaS2hPZFM3RG5yTV9NUVFhN3hvdjFyVDBmZUtEc2d6akJhUXQwQVE4UW54MEIySEZuVHlrU0ZVUnViQVRybkF3Skhpa3R4bkF3TDItajlLUzREYklIRjZXdXlOTTRDZ1pGLTZiODJYSzVjMFRzZ2xMbHVuUG9FaGZmVGhJazUzb1FCNlJESVFwSEd1N29xR2VjcmfSAcYBQVVfeXFMTVU4MTd1UVRrdElLeExxcmt6VkZBamk0c244TGVQYnNFWmI0VHI2N0NhcUhmWktoT2RTN0Ruck1fTVFRYTd4b3YxclQwZmVLRHNnempCYVF0MEFROFFueDBCMkhGblR5a1NGVVJ1YkFUcm5Bd0pIaWt0eG5Bd0wyLWo5S1M0RGJJSEY2V3V5Tk00Q2daRi02YjgyWEs1YzBUc2dsTGx1blBvRWhmZlRoSWs1M29RQjZSRElRcEhHdTdvcUdlY3Jn?oc=5",
           "publishedAt": "2026-11-09T19:12:14.000Z",
           "severity": "medium",
           "titleZh": "11 月 10 日星期二，巴黎示威：路线和静态集会",
-          "content": null
-        },
-        {
-          "title": "Manifestation à Paris: un parcours et un rassemblement statique mardi",
-          "source": "Le Figaro",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3lOX1hmNDhBd3p5T1E4R2lPRTJFWmtiSEZSdlFmX1hyck9OQ1BmbU1mSkd2VFAtbEZPV241RFh6SnJLVnh2bVhhMFdmYU1GdG5vUDhsMVhJMnZURV9fQ2d6OERmTW9oaThoMmpkSUEtS0d0LUxtb09haVpiU3dBeWFrOXZObkxpalRTZkY3VGlIcEJnczI0SEFMWWYtcGp2RE5aV1Vtdms5ajBNWkt1VURR?oc=5",
-          "publishedAt": "2026-11-09T18:57:19.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎示威：周二的路线和静态集会",
           "content": null
         },
         {
@@ -86,15 +170,6 @@
           "severity": "medium",
           "titleZh": "11月10日罢工：巴黎再次动员学生、高中生和教师",
           "content": null
-        },
-        {
-          "title": "Grève à Paris mardi : quatre stations de métro et RER pourraient fermer près du cortège",
-          "source": "Stéphane Larue News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWG1PYmV3WFE0d0VBdldMZ0lZTV9wVElCNTd6Z2dJQ1liWjRUelNhc0xxQVhfWDk3R2NkT2lhWXpjUVlLTWVsLWw5Tkw0enlNWnNzWkFGLW1pRm1ZQU54T1BleU00ZFdzY1JLSktYWVpKU1YtY3YxVFIwSi1MYVZyaHNseUdmMkN4N01sdUFpcDlNellCNEpWbnZ5Y0wzZkQ5YlNVNWwxWXBGZFdwT09ucTlB?oc=5",
-          "publishedAt": "2026-11-09T13:38:08.000Z",
-          "severity": "medium",
-          "titleZh": "周二巴黎罢工：游行附近四个地铁站和 RER 车站可能关闭",
-          "content": null
         }
       ],
       "places": [
@@ -105,121 +180,45 @@
         11,
         12
       ],
-      "articleCount": 10,
+      "articleCount": 8,
       "clashCount": 0,
-      "status": "recent"
-    },
-    {
-      "date": "2026-11-14",
-      "articles": [
-        {
-          "title": "Que faire ce samedi à Paris ? Sorties incontournables du 14 novembre 2026",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnlqWjNhQ1dNWmh3V01kRjB1REt2NW9kWmZucUxXMEh0OGhaaGpCd2EteU1uTlY3MHdpUl9qU2lWSG4xUll6X3RZd3RNRURfazlSN2dCZXBBM2trWnBfT0U4RTBjY1A4OExJUkxZNkpzWnpweWNvZEtsc3AxVjJQdHgwNTdGalZNNjBPclVKOWl4R1g3cmFWS3FvZ05kbDVIcDVlNEoyUzZ1OHJ5dnphbXdOY1lla3kxQW1rUXllcWhJUmVEcHpwS1AydUlldw?oc=5",
-          "publishedAt": "2026-11-09T20:01:42.000Z",
-          "severity": "info",
-          "titleZh": "这个星期六在巴黎可以做什么？ 2026 年 11 月 14 日起不可错过的发布",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
-      "date": "2026-11-16",
-      "articles": [
-        {
-          "title": "Concours : Ava Joe à Paris le 16 novembre",
-          "source": "Sound Of Violence",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OdzdRRTFwVVdvX3UtNXZELWZ6YzZTRGJSNXlHV1FKLXY3RDhvTVo3U095R2tDRXZnWnpLdi1TZnJkY0pLT210V3AyWUZHcHpOQlRYT2hkd1V3dTBVaS1OajI5d1F4cG9NMEx2RXN2aEQ?oc=5",
-          "publishedAt": "2026-11-09T15:31:26.000Z",
-          "severity": "info",
-          "titleZh": "比赛：Ava Joe 11 月 16 日在巴黎",
-          "content": null
-        },
-        {
-          "title": "Mouvement lycéen : la mobilisation marque le pas ce lundi, à la veille d’une nouvelle journée de grève",
-          "source": "Le Figaro Etudiant",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSTFJb1VhdUVYQ0xWUmZ2Z0ZmdHFkczI2VENOZ0ZWMVN2Y3VYaTlIdDU2REZsZFZ1U2oyTFE3YndsZHNSb2RwYUpCVkRqQWtOMDFWbk5JS2xnVVRYMmdlT1BvUk9XUUtpWHBfTXBERkRJN3ZVTm1GUDdzcEQ0VlpnSjZZS1M5dm92eFpNNFZxQVNOSEoyZm1aTEcyUTd2RS12RVNKRXhJejhMNmc0blZ6TktHaVUzOF9vODJHWHlMQS1pX2ZWdVo5TDB5LTRoaW9yUWk5QzFaa2VBZXpjYVRIelNuTmVXSkU?oc=5",
-          "publishedAt": "2026-11-09T12:07:40.000Z",
-          "severity": "medium",
-          "titleZh": "高中学生运动：动员标志着本周一，新一天罢工前夕",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 2,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
-      "date": "2026-11-17",
-      "articles": [
-        {
-          "title": "Grève et manifestation du 17 novembre à Paris : ce qui se prépare",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaEJrcFVpamNBa21NOHJiRFRPal90ancwTlhQdE14ZndNbThkNU40by11Qmg3NUs5MXZHeE1SUnliZTBLeXQ5ZVlnVW95NjRhanFhY1dCZldfRTJzRDJXT2h1RzdGdnFyNzlNU0RvMmdBbzB6azVTQ0pyeW1yQlprdFJCT2g1OTJfUkRFZTZ5Umx1Y2pPcjRSbzM3ZlMyUU9fZHV6cWo3MHhBM3lHbXpBTFM3SEN1WHNGZ1dxcHlzeHc5enpCZ2c?oc=5",
-          "publishedAt": "2026-11-09T16:29:36.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 17 日巴黎罢工和示威：正在做什么准备",
-          "content": null
-        },
-        {
-          "title": "Grève du 17 novembre : une intersyndicale de la fonction publique appelle à une nouvelle journée de mobilisation",
-          "source": "Le Monde.fr",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNejRXSEwyOG9XUzhKbHhsdEViampDWVNmYVo5eXo1eFN3cEFMNXBDY0lrVE1qMzBQSEVCTFh2ek83cm1Nb08wQlhrTnhmbzBKVUxJM21SYXZIMHpCcnZZMGV5Q0pUSkhkb1U5TmUwZVA2NTdseDJxZVFFb29sYmYxLUFEOVlZSXFRcXlvdUc4SFl2cHQwaGUtZmZUN3hqcno2UUN0RVZueDRVbXhlbDlMXzQ2bjBESnpaRHZrMUM5ZEpINnhPaVRPak9yS2dyZlVGaUpKVG5Ra0t1OEV2REdTb0tB?oc=5",
-          "publishedAt": "2026-11-09T14:04:49.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 17 日罢工：公共服务工会呼吁新一天的动员",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 2,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
-      "date": "2026-11-30",
-      "articles": [
-        {
-          "title": "Omar Sy jugé le 30 novembre pour violences, menaces et outrages envers des agents SNCF",
-          "source": "Entrevue.fr",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSmh6SHdrcGgzbW1fNThlYjh0a0RvbnlrSkFCVk1ocldiUWR0Z0U1WEMzZ1ZsbHZaS2I5MzBnMUlpU2Jra09LTHVoQzJmWXlmLVB5anhpZU1mVHVKRktydzh4eGFHX25uU2dzVDdIVVJGTlJmLTZwVTRVNDBaeHBCM0ZXdkdhejQ1RXZQaUhqVEJKVG9lT3FNcDQwU08wdw?oc=5",
-          "publishedAt": "2026-11-09T16:04:53.000Z",
-          "severity": "high",
-          "titleZh": "奥马尔·施 (Omar Sy) 因对 SNCF 特工实施暴力、威胁和侮辱而于 11 月 30 日受审",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 1,
       "status": "recent"
     },
     {
       "date": "unknown",
       "articles": [
         {
-          "title": "November 10 demonstration in Paris: new route unveiled",
+          "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
           "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWVEV1BIQXpGTXg0VVdoRXloVTUxWnpBQlc1Y1FiRE9idmdXY2N3SU1fRHNPTm82bDZhNmFudVRWMlZWZHlxa3hVdkFlN2p4SnhabFdfeF9aOWt2NVFNX3BZZjd1QlAzTFJfYTRldVR0a2tVVEZIc2JpdTRQUkNXRHJCc2J0RUxxRlpOYzUxR0h3RmhnUk1TQV8tN3FZczRxc3d2TW9TRHJZZ045SlRRWmt5ZURsQQ?oc=5",
-          "publishedAt": "2026-11-09T19:03:02.000Z",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
+          "publishedAt": "2026-11-10T01:04:55.000Z",
+          "severity": "info",
+          "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
+          "content": null
+        },
+        {
+          "title": "Grève Tour Eiffel : le BAPS au cœur de la polémique à Paris",
+          "source": "horticulture-abadie-pyrenees.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQemRTMXVuY1FLYWdkZG44dnJMV3Bvdzl0bkd0MC1MWllTeEF0YkxtLWNRX044Z2JKTG16RnhsRFY3MkZTUG5xb2ZDb3NQR2lUZzQ3bVZIakkySndqR2Zabl83TEVraVRiMlVNaDN1QWlMbXAyZ1JUVWpJNmZVcWNhLWRB?oc=5",
+          "publishedAt": "2026-11-09T22:46:24.000Z",
           "severity": "medium",
-          "titleZh": "11月10日巴黎示威：新路线揭晓",
+          "titleZh": "埃菲尔铁塔罢工：BAPS 是巴黎争议的核心",
+          "content": null
+        },
+        {
+          "title": "Paris : une enquête ouverte contre un policier accusé d’agression sexuelle lors d’une manifestation",
+          "source": "Linfo.re",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeE9DTU4wTmtxMm85eUE2QXU4VlhIQUt2X0ZQRG5yQW1rYnp5S0hFV0RKRTVRX2FQWEgzamxsczJ6aS0xWThmTktwNkRwbmxDaVdUSHJzclhtXzR6VkR3VW9TOGctVHhoNTQ4OW5GLWNaMC15dEd6ajAxbTVUM1ZxTXdEbm1oTzlFS2FSZkRzNFVzaGtCcjdDbVVwVWNpYm1jUGpNVHJPTTNNZTBGdFJDN2tDaE1jcnNSZEljalFkZ0x0bjN1Rk9MUlBpXzZqZ3pLVnpIMw?oc=5",
+          "publishedAt": "2026-11-09T20:46:23.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎：对一名被指控在示威期间性侵犯的警察展开调查",
           "content": null
         },
         {
           "title": "Selon la France, des pages liées à Israël associent émeutes, islamisme et immigration",
           "source": "The Times of Israël",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYnlZVFJRTkZ5YlZsbExaekFNYmtFWGtKc3NaU0lpcjI4eVpZZWZ3cnRlejE4cEVvTDZqVlo3LWNLYnFCd1JsZFFrWWduNFdNa1ZWTGgzLTdvYmxjcWFKRmxWYVFqakhqR08tQ1RkV3luSl9HczRJYV9Ic0FjMG9uSGprY2Nuc0dHak41RWx4dm9IdnVuVEdVMXRIb0hWN2kzLThhY0N1RDd5RzlVck03V3pNUdIBuAFBVV95cUxNYm0xSUJkczdWc3c5OXFsZTNaQ3lyaldyMnhQNWUyZV95VU01dVg4bEpTZi1XTHNwVmFXeHQ3THBRV1Q4Nkk5S1VhVUI3bFU0Tkw0Z2pDN2IyVFZrdXB4VndzaVRzU2QyRWFSUE1CV3J5bS13cXBQZUl1M2h3MFFtbnFLcG9UNzhISktXSkNyR0h0MXoxVVlDb2NadFIwZWRBVG5DYjRrZDA1TEttOGV0Vjk4WXRjel80?oc=5",
-          "publishedAt": "2026-11-09T18:58:07.000Z",
+          "publishedAt": "2026-11-09T18:56:00.000Z",
           "severity": "info",
           "titleZh": "据法国称，与以色列相关的网页将骚乱、伊斯兰主义和移民联系起来",
           "content": null
@@ -234,12 +233,12 @@
           "content": null
         },
         {
-          "title": "Derrière Parcoursup, la question de la sélection à l'entrée à l'université relancée",
+          "title": "Derrière le remplacement de Parcoursup, la question de la sélection à l'entrée à l'université relancée",
           "source": "Les Echos",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQnNnTUxKTlBkWEZHdXFYdll1YkpkY2RpeVFnWko1blpJWFNXUDE2RkNIaXVLbWNJVGJnbkJ6MmtHUm5rRUFWaVVraHZFbDdCYnR1eld4WHl3djVaNlZTRUlnWnprOWY0QzZoYU52cXhnZmhqaG5ScTV1bFVJWmRMbzJITDN3MnlsMkw3eTM5aTQxbk9feEJRVjJVWHBZd2E5dDM2cGlGU21VVDluUG5QSEVDN1dYUHdVdjFGd3VpbW0zREU4a1MwcE9ZWFBKR083QjVIQlNlYw?oc=5",
           "publishedAt": "2026-11-09T18:03:43.000Z",
           "severity": "info",
-          "titleZh": "Parcoursup背后，大学入学选拔问题重新启动",
+          "titleZh": "Parcoursup更替背后，大学选拔问题重新启动",
           "content": null
         },
         {
@@ -257,7 +256,7 @@
           "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQWlJsakdTc0JkczBUb3lva3VhX1Z5cmpjeFY1X1haRWxaQ1NaaUdfNllHRzZWTWZTWEZsaUtPV3JveV9oQm0tQU9PcHUyclpTRVEtdGxLNDBxQ09yRm90ODJXUkJZaEZOemxtUzZnVDVHUmdnc1pUVU5pZzhtbzVmUVRxMHZ1UFMzVEg2NzlqWExhaEtGcmN6S0tlemFlMTBjZXU2dENKdXE1eU5VVE52Y2QwenhtZUR3cXh6VXJhRENaenBGQWJBSTNabkl1aFNIR2RXeGdVbk9EamxiWEJYbmRQWGtULURveEpCUzQ2bDQzbXJKMnNBNERYSERaWmk3eHhZeXRLY2lmVlM0QjVoRmhlUG56TThwajJBT0NaaWIwbElXUGtJU3NhbkFwUEN6dTlVMW5iaHhTLVhENldHTWVXYzBOTnoxdmhiaDZka2NpbEF1eVpFTnFWeDVtdE1rOFZXUnctX2ZNeXc?oc=5",
           "publishedAt": "2026-11-09T17:55:38.000Z",
           "severity": "info",
-          "titleZh": "针对巴黎放学后丑闻提出的一项新的集体申诉，旨在“打击所有责任人的有罪不罚现象”",
+          "titleZh": "针对巴黎放学后丑闻提出��一项新的集体申诉，旨在“打击所有责任人的有罪不罚现象”",
           "content": null
         },
         {
@@ -315,12 +314,21 @@
           "content": null
         },
         {
+          "title": "Omar Sy devant la justice après une altercation à la gare de Lyon avec la SNCF",
+          "source": "Entrevue.fr",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSmh6SHdrcGgzbW1fNThlYjh0a0RvbnlrSkFCVk1ocldiUWR0Z0U1WEMzZ1ZsbHZaS2I5MzBnMUlpU2Jra09LTHVoQzJmWXlmLVB5anhpZU1mVHVKRktydzh4eGFHX25uU2dzVDdIVVJGTlJmLTZwVTRVNDBaeHBCM0ZXdkdhejQ1RXZQaUhqVEJKVG9lT3FNcDQwU08wdw?oc=5",
+          "publishedAt": "2026-11-09T16:04:53.000Z",
+          "severity": "info",
+          "titleZh": "奥马尔·施 (Omar Sy) 在里昂车站与 SNCF 发生口角后出庭",
+          "content": null
+        },
+        {
           "title": "Menaces et insultes envers des agents de la SNCF : jugé en novembre pour « violences », que risque Omar Sy ?",
           "source": "Paris Match",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZEozWlQydk9ONHN3MEZrS3BFak1EaGpmdGR1bVA0em5QQ055WFZRREVTcjVtdzY4dVJvaGpuaWU1ei1YbjYwSmZGZkJlYldUNkgybWRkT3NFMV8zdEpwV2VlcXNlOVZCbUJlQVdYaTdQMUNHTmhYN1dpczNqQnY3UjhlMFJEdVYwZXZTVXpuaW5fNG9RSnhjaTV3dUFOMF9iM0hObktRV0tEblNzMGJsU0pEeGpMcnVyVmFiTXhoZWNMRG0wbnM3YTZoZ2RBcVRSYkE?oc=5",
           "publishedAt": "2026-11-09T15:36:16.000Z",
           "severity": "high",
-          "titleZh": "对 SNCF 特工的威胁和侮辱：11 月因“暴力”受审，Omar Sy 面临什么风险？",
+          "titleZh": "对 SNCF 特工的威胁和侮辱：11 月因“暴力”受审，Omar Sy 面临什么��险？",
           "content": null
         },
         {
@@ -401,25 +409,7 @@
           "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObjFwWF9HT25ZWDZJRFBzeWFxemY2amN0bDItSlV6dlZ1Y3h6bWdDYzQteTBzVFRwcTVqZTgtM29vVy05ckpOdFJUZGlzNGI5VlZsUUFoYlM2OVp2bmprVzQ2RW1WVk94aGVLMkpzbVhnejVIb2xkSnVuWE9JT3pha2JYNVRfaWg0MWVvUHozc3ZXN0dLOTRVOEpHUnJrRG15b002LXVUS3ItbFpxNWdSUEljTjBsQ2R0Vi1lSkZRb2k2UlNhenNHLXJiaFk1YUdQcXY2OE9HbUN6UG5PRXZPWlZoak01WFpFZjd6dnR4VGN6cmc?oc=5",
           "publishedAt": "2026-11-09T13:38:55.000Z",
           "severity": "high",
-          "titleZh": "L’acteur Omar Sy sera jugé fin novembre pour « violences » sur des agents SNCF en 2025",
-          "content": null
-        },
-        {
-          "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
-          "publishedAt": "2026-11-09T12:14:15.000Z",
-          "severity": "info",
-          "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
-          "content": null
-        },
-        {
-          "title": "Despite protests in Paris, Céline Dion will go on",
-          "source": "Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUld6RGhRUDJ1SXZQOXlxSHQ5aHBJMnA5Y1E3ZzJia19HWVNfbGJWeUVMQ3loeDNJTE4tcjR2Yml4LVlxUFlGZFJQNHo5NGNBVmJRUTUxMDFCLTFkcVgyRUF3MzVQZklGRXlPTU9CNlhQOFRIQWRYeExva0NLc0NVY2FsTTI?oc=5",
-          "publishedAt": "2026-11-09T12:06:19.000Z",
-          "severity": "medium",
-          "titleZh": "尽管巴黎抗议，席琳·迪翁仍将继续",
+          "titleZh": "演员 Omar Sy 将于 11 月底因 2025 年对 SNCF 特工的“暴力”受审",
           "content": null
         }
       ],
@@ -431,12 +421,57 @@
         11,
         12
       ],
-      "articleCount": 24,
+      "articleCount": 25,
       "clashCount": 7,
       "status": "unknown"
     }
   ],
   "latest": [
+    {
+      "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
+      "publishedAt": "2026-11-10T01:04:55.000Z",
+      "severity": "info",
+      "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
+      "content": null
+    },
+    {
+      "title": "Grève Tour Eiffel : le BAPS au cœur de la polémique à Paris",
+      "source": "horticulture-abadie-pyrenees.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQemRTMXVuY1FLYWdkZG44dnJMV3Bvdzl0bkd0MC1MWllTeEF0YkxtLWNRX044Z2JKTG16RnhsRFY3MkZTUG5xb2ZDb3NQR2lUZzQ3bVZIakkySndqR2Zabl83TEVraVRiMlVNaDN1QWlMbXAyZ1JUVWpJNmZVcWNhLWRB?oc=5",
+      "publishedAt": "2026-11-09T22:46:24.000Z",
+      "severity": "medium",
+      "titleZh": "埃菲尔铁塔罢工：BAPS 是巴黎争议的核心",
+      "content": null
+    },
+    {
+      "title": "Les actualités et infos de ce Lundi 9 novembre 2026 à Paris et en Ile-de-France",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmltME1oYXdST0YxTkQ3R0RRV0FtZVMxTDNJREtYSkxTRXNVUmJhb1pPUjRmY2NKaXNlUW5QdUJaSVh0X3RzTUw1cF9pNDhGaldYQ3c3dnlqOHBqMDhsTFZIUHg4QkR4OHVlZy16NU52MmVVdFR3UllWZ3NQR0sxekhyOUFCdlRScmRNMmpEYlNvTDNYYVBQZkREeFpkcFpLWS1obkNwLTRPQWZVQXRBckVBYS1yUFItWUtJ?oc=5",
+      "publishedAt": "2026-11-09T21:26:35.000Z",
+      "severity": "info",
+      "titleZh": "2026 年 11 月 9 日星期一巴黎和法兰西岛的新闻和信息",
+      "content": null
+    },
+    {
+      "title": "Manifestations du 9 novembre à Paris : un parcours et un rassemblement statique imposés par la préfecture",
+      "source": "franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNURWMlY4ZG44ei1yakIzaGNGNW9VM21hSllJbkpzZ2o1Tl91TDltWXZaNjZ0T043eFItODdiNzNfaXlpaktjTUhDM25HdURTQWZwWlBzZG1xMl9qcEx5Q2oyellqMTlBcjlULUk5QnRiSWhsYkNTbEdjXzdjQndyS09xZ0NBX2hZdUZnQkZXX1dMMUZ6NWZnNEM5bFBzVVNtWXNnb2JtUDBxMzk2clBkU3ZNc3g1Ukpmd1VvZmJaSm9qemlOMmdhX1U2UUltbENQQTNsQmt5NnAtUnRpQWh0MlZkUUdBSEsyVUplT2JBYmVEWjJDOGc?oc=5",
+      "publishedAt": "2026-11-09T21:00:37.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 9 日巴黎示威：县政府强行规定的路线和静态集会",
+      "content": null
+    },
+    {
+      "title": "Paris : une enquête ouverte contre un policier accusé d’agression sexuelle lors d’une manifestation",
+      "source": "Linfo.re",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeE9DTU4wTmtxMm85eUE2QXU4VlhIQUt2X0ZQRG5yQW1rYnp5S0hFV0RKRTVRX2FQWEgzamxsczJ6aS0xWThmTktwNkRwbmxDaVdUSHJzclhtXzR6VkR3VW9TOGctVHhoNTQ4OW5GLWNaMC15dEd6ajAxbTVUM1ZxTXdEbm1oTzlFS2FSZkRzNFVzaGtCcjdDbVVwVWNpYm1jUGpNVHJPTTNNZTBGdFJDN2tDaE1jcnNSZEljalFkZ0x0bjN1Rk9MUlBpXzZqZ3pLVnpIMw?oc=5",
+      "publishedAt": "2026-11-09T20:46:23.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎：对一名被指控在示威期间性侵犯的警察展开调查",
+      "content": null
+    },
     {
       "title": "Manifestation du 10 novembre à Paris : quel est le parcours autorisé ?",
       "source": "mesinfos",
@@ -444,15 +479,6 @@
       "publishedAt": "2026-11-09T20:46:00.000Z",
       "severity": "medium",
       "titleZh": "11月10日巴黎示威：授权路线是什么？",
-      "content": null
-    },
-    {
-      "title": "Que faire ce samedi à Paris ? Sorties incontournables du 14 novembre 2026",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnlqWjNhQ1dNWmh3V01kRjB1REt2NW9kWmZucUxXMEh0OGhaaGpCd2EteU1uTlY3MHdpUl9qU2lWSG4xUll6X3RZd3RNRURfazlSN2dCZXBBM2trWnBfT0U4RTBjY1A4OExJUkxZNkpzWnpweWNvZEtsc3AxVjJQdHgwNTdGalZNNjBPclVKOWl4R1g3cmFWS3FvZ05kbDVIcDVlNEoyUzZ1OHJ5dnphbXdOY1lla3kxQW1rUXllcWhJUmVEcHpwS1AydUlldw?oc=5",
-      "publishedAt": "2026-11-09T20:01:42.000Z",
-      "severity": "info",
-      "titleZh": "这个星期六在巴黎可以做什么？ 2026 年 11 月 14 日起不可错过的发布",
       "content": null
     },
     {
@@ -467,28 +493,10 @@
     {
       "title": "Manifestations à Paris ce mardi 10 novembre : un parcours et un rassemblement statique",
       "source": "Europe 1",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOXhmVE1MMlM5eGZUbi1XX242dmxIUjMwc3dnRVdOWjJZSFRJcXlJWWdiamxKTFlMZkVQbHl2MGhVZVdremM0aTdQeE4zODlGTHN1UzROdHdkTXVHbVJyNG9sODRLcllpVHg5NXl4N2tXSmVzQlh5dzJBLVl1THZPSnNWdzd6eFJOcEVtU3IzMU45RkllQXhQZ0hqT3dIYWhqcktDdXlWNVF4S2ZRRl9KWlZtRkcxaVFsMUw2X1JndW_SAcYBQVVfeXFMTVU4MTd1UVRrdElLeExxcmt6VkZBamk0c244TGVQYnNFWmI0VHI2N0NhcUhmWktoT2RTN0Ruck1fTVFRYTd4b3YxclQwZmVLRHNnempCYVF0MEFROFFueDBCMkhGblR5a1NGVVJ1YkFUcm5Bd0pIaWt0eG5Bd0wyLWo5S1M0RGJJSEY2V3V5Tk00Q2daRi02YjgyWEs1YzBUc2dsTGx1blBvRWhmZlRoSWs1M29RQjZSRElRcEhHdTdvcUdlY3Jn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVTgxN3VRVGt0SUt4THFya3pWRkFqaTRzbjhMZVBic0VaYjRUcjY3Q2FxSGZaS2hPZFM3RG5yTV9NUVFhN3hvdjFyVDBmZUtEc2d6akJhUXQwQVE4UW54MEIySEZuVHlrU0ZVUnViQVRybkF3Skhpa3R4bkF3TDItajlLUzREYklIRjZXdXlOTTRDZ1pGLTZiODJYSzVjMFRzZ2xMbHVuUG9FaGZmVGhJazUzb1FCNlJESVFwSEd1N29xR2VjcmfSAcYBQVVfeXFMTVU4MTd1UVRrdElLeExxcmt6VkZBamk0c244TGVQYnNFWmI0VHI2N0NhcUhmWktoT2RTN0Ruck1fTVFRYTd4b3YxclQwZmVLRHNnempCYVF0MEFROFFueDBCMkhGblR5a1NGVVJ1YkFUcm5Bd0pIaWt0eG5Bd0wyLWo5S1M0RGJJSEY2V3V5Tk00Q2daRi02YjgyWEs1YzBUc2dsTGx1blBvRWhmZlRoSWs1M29RQjZSRElRcEhHdTdvcUdlY3Jn?oc=5",
       "publishedAt": "2026-11-09T19:12:14.000Z",
       "severity": "medium",
       "titleZh": "11 月 10 日星期二，巴黎示威：路线和静态集会",
-      "content": null
-    },
-    {
-      "title": "November 10 demonstration in Paris: new route unveiled",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWVEV1BIQXpGTXg0VVdoRXloVTUxWnpBQlc1Y1FiRE9idmdXY2N3SU1fRHNPTm82bDZhNmFudVRWMlZWZHlxa3hVdkFlN2p4SnhabFdfeF9aOWt2NVFNX3BZZjd1QlAzTFJfYTRldVR0a2tVVEZIc2JpdTRQUkNXRHJCc2J0RUxxRlpOYzUxR0h3RmhnUk1TQV8tN3FZczRxc3d2TW9TRHJZZ045SlRRWmt5ZURsQQ?oc=5",
-      "publishedAt": "2026-11-09T19:03:02.000Z",
-      "severity": "medium",
-      "titleZh": "11月10日巴黎示威：新路线揭晓",
-      "content": null
-    },
-    {
-      "title": "Selon la France, des pages liées à Israël associent émeutes, islamisme et immigration",
-      "source": "The Times of Israël",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYnlZVFJRTkZ5YlZsbExaekFNYmtFWGtKc3NaU0lpcjI4eVpZZWZ3cnRlejE4cEVvTDZqVlo3LWNLYnFCd1JsZFFrWWduNFdNa1ZWTGgzLTdvYmxjcWFKRmxWYVFqakhqR08tQ1RkV3luSl9HczRJYV9Ic0FjMG9uSGprY2Nuc0dHak41RWx4dm9IdnVuVEdVMXRIb0hWN2kzLThhY0N1RDd5RzlVck03V3pNUdIBuAFBVV95cUxNYm0xSUJkczdWc3c5OXFsZTNaQ3lyaldyMnhQNWUyZV95VU01dVg4bEpTZi1XTHNwVmFXeHQ3THBRV1Q4Nkk5S1VhVUI3bFU0Tkw0Z2pDN2IyVFZrdXB4VndzaVRzU2QyRWFSUE1CV3J5bS13cXBQZUl1M2h3MFFtbnFLcG9UNzhISktXSkNyR0h0MXoxVVlDb2NadFIwZWRBVG5DYjRrZDA1TEttOGV0Vjk4WXRjel80?oc=5",
-      "publishedAt": "2026-11-09T18:58:07.000Z",
-      "severity": "info",
-      "titleZh": "据法国称，与以色列相关的网页将骚乱、伊斯兰主义和移民联系起来",
       "content": null
     },
     {
@@ -498,6 +506,15 @@
       "publishedAt": "2026-11-09T18:57:19.000Z",
       "severity": "medium",
       "titleZh": "巴黎示威：周二的路线和静态集会",
+      "content": null
+    },
+    {
+      "title": "Selon la France, des pages liées à Israël associent émeutes, islamisme et immigration",
+      "source": "The Times of Israël",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYnlZVFJRTkZ5YlZsbExaekFNYmtFWGtKc3NaU0lpcjI4eVpZZWZ3cnRlejE4cEVvTDZqVlo3LWNLYnFCd1JsZFFrWWduNFdNa1ZWTGgzLTdvYmxjcWFKRmxWYVFqakhqR08tQ1RkV3luSl9HczRJYV9Ic0FjMG9uSGprY2Nuc0dHak41RWx4dm9IdnVuVEdVMXRIb0hWN2kzLThhY0N1RDd5RzlVck03V3pNUdIBuAFBVV95cUxNYm0xSUJkczdWc3c5OXFsZTNaQ3lyaldyMnhQNWUyZV95VU01dVg4bEpTZi1XTHNwVmFXeHQ3THBRV1Q4Nkk5S1VhVUI3bFU0Tkw0Z2pDN2IyVFZrdXB4VndzaVRzU2QyRWFSUE1CV3J5bS13cXBQZUl1M2h3MFFtbnFLcG9UNzhISktXSkNyR0h0MXoxVVlDb2NadFIwZWRBVG5DYjRrZDA1TEttOGV0Vjk4WXRjel80?oc=5",
+      "publishedAt": "2026-11-09T18:56:00.000Z",
+      "severity": "info",
+      "titleZh": "据法国称，与以色列相关的网页将骚乱、伊斯兰主义和移民联系起来",
       "content": null
     },
     {
@@ -537,12 +554,12 @@
       "content": null
     },
     {
-      "title": "Derrière Parcoursup, la question de la sélection à l'entrée à l'université relancée",
+      "title": "Derrière le remplacement de Parcoursup, la question de la sélection à l'entrée à l'université relancée",
       "source": "Les Echos",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQnNnTUxKTlBkWEZHdXFYdll1YkpkY2RpeVFnWko1blpJWFNXUDE2RkNIaXVLbWNJVGJnbkJ6MmtHUm5rRUFWaVVraHZFbDdCYnR1eld4WHl3djVaNlZTRUlnWnprOWY0QzZoYU52cXhnZmhqaG5ScTV1bFVJWmRMbzJITDN3MnlsMkw3eTM5aTQxbk9feEJRVjJVWHBZd2E5dDM2cGlGU21VVDluUG5QSEVDN1dYUHdVdjFGd3VpbW0zREU4a1MwcE9ZWFBKR083QjVIQlNlYw?oc=5",
       "publishedAt": "2026-11-09T18:03:43.000Z",
       "severity": "info",
-      "titleZh": "Parcoursup背后，大学入学选拔问题重新启动",
+      "titleZh": "Parcoursup更替背后，大学选拔问题重新启动",
       "content": null
     },
     {
@@ -560,7 +577,7 @@
       "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQWlJsakdTc0JkczBUb3lva3VhX1Z5cmpjeFY1X1haRWxaQ1NaaUdfNllHRzZWTWZTWEZsaUtPV3JveV9oQm0tQU9PcHUyclpTRVEtdGxLNDBxQ09yRm90ODJXUkJZaEZOemxtUzZnVDVHUmdnc1pUVU5pZzhtbzVmUVRxMHZ1UFMzVEg2NzlqWExhaEtGcmN6S0tlemFlMTBjZXU2dENKdXE1eU5VVE52Y2QwenhtZUR3cXh6VXJhRENaenBGQWJBSTNabkl1aFNIR2RXeGdVbk9EamxiWEJYbmRQWGtULURveEpCUzQ2bDQzbXJKMnNBNERYSERaWmk3eHhZeXRLY2lmVlM0QjVoRmhlUG56TThwajJBT0NaaWIwbElXUGtJU3NhbkFwUEN6dTlVMW5iaHhTLVhENldHTWVXYzBOTnoxdmhiaDZka2NpbEF1eVpFTnFWeDVtdE1rOFZXUnctX2ZNeXc?oc=5",
       "publishedAt": "2026-11-09T17:55:38.000Z",
       "severity": "info",
-      "titleZh": "针对巴黎放学后丑闻提出的一项新的集体申诉，旨在“打击所有责任人的有罪不罚现象”",
+      "titleZh": "针对巴黎放学后丑闻提出��一项新的集体申诉，旨在“打击所有责任人的有罪不罚现象”",
       "content": null
     },
     {
@@ -636,12 +653,12 @@
       "content": null
     },
     {
-      "title": "Omar Sy jugé le 30 novembre pour violences, menaces et outrages envers des agents SNCF",
+      "title": "Omar Sy devant la justice après une altercation à la gare de Lyon avec la SNCF",
       "source": "Entrevue.fr",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSmh6SHdrcGgzbW1fNThlYjh0a0RvbnlrSkFCVk1ocldiUWR0Z0U1WEMzZ1ZsbHZaS2I5MzBnMUlpU2Jra09LTHVoQzJmWXlmLVB5anhpZU1mVHVKRktydzh4eGFHX25uU2dzVDdIVVJGTlJmLTZwVTRVNDBaeHBCM0ZXdkdhejQ1RXZQaUhqVEJKVG9lT3FNcDQwU08wdw?oc=5",
       "publishedAt": "2026-11-09T16:04:53.000Z",
-      "severity": "high",
-      "titleZh": "奥马尔·施 (Omar Sy) 因对 SNCF 特工实施暴力、威胁和侮辱而于 11 月 30 日受审",
+      "severity": "info",
+      "titleZh": "奥马尔·施 (Omar Sy) 在里昂车站与 SNCF 发生口角后出庭",
       "content": null
     },
     {
@@ -659,7 +676,7 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZEozWlQydk9ONHN3MEZrS3BFak1EaGpmdGR1bVA0em5QQ055WFZRREVTcjVtdzY4dVJvaGpuaWU1ei1YbjYwSmZGZkJlYldUNkgybWRkT3NFMV8zdEpwV2VlcXNlOVZCbUJlQVdYaTdQMUNHTmhYN1dpczNqQnY3UjhlMFJEdVYwZXZTVXpuaW5fNG9RSnhjaTV3dUFOMF9iM0hObktRV0tEblNzMGJsU0pEeGpMcnVyVmFiTXhoZWNMRG0wbnM3YTZoZ2RBcVRSYkE?oc=5",
       "publishedAt": "2026-11-09T15:36:16.000Z",
       "severity": "high",
-      "titleZh": "对 SNCF 特工的威胁和侮辱：11 月因“暴力”受审，Omar Sy 面临什么风险？",
+      "titleZh": "对 SNCF 特工的威胁和侮辱：11 月因“暴力”受审，Omar Sy 面临什么��险？",
       "content": null
     },
     {
@@ -678,6 +695,15 @@
       "publishedAt": "2026-11-09T15:04:00.000Z",
       "severity": "info",
       "titleZh": "针对制片人米歇尔·泽克莱尔的暴力袭击：事件发生六年后，三名警察出现......",
+      "content": null
+    },
+    {
+      "title": "Grève générale mardi 17 novembre ! Rassemblement 12h Hôtel de Ville",
+      "source": "supap-fsu",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQmtUZ2VhWnlhYk9nWUxCNHVScFRpaVpjb3RUWXVoc3RIekdWMUhuOUpKRkpHY3dPSENyQW00ajJxcEFSX2dpUWlFcXN2WWJXa3lrQVVxOE1GdUFoRFFNS1MtNU5vMm00ajUzVUotbkNrdnhuV2pqSmpOaGFnbE1hNHY5MmlFUnpNR0tYNmdncThhdU1DMVBkLVJ2QW5SY2tWWHNKWTJR?oc=5",
+      "publishedAt": "2026-11-09T15:00:41.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 17 日星期二总罢工！中午12点集合市政厅",
       "content": null
     },
     {
@@ -717,15 +743,6 @@
       "content": null
     },
     {
-      "title": "Grève du 17 novembre : une intersyndicale de la fonction publique appelle à une nouvelle journée de mobilisation",
-      "source": "Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNejRXSEwyOG9XUzhKbHhsdEViampDWVNmYVo5eXo1eFN3cEFMNXBDY0lrVE1qMzBQSEVCTFh2ek83cm1Nb08wQlhrTnhmbzBKVUxJM21SYXZIMHpCcnZZMGV5Q0pUSkhkb1U5TmUwZVA2NTdseDJxZVFFb29sYmYxLUFEOVlZSXFRcXlvdUc4SFl2cHQwaGUtZmZUN3hqcno2UUN0RVZueDRVbXhlbDlMXzQ2bjBESnpaRHZrMUM5ZEpINnhPaVRPak9yS2dyZlVGaUpKVG5Ra0t1OEV2REdTb0tB?oc=5",
-      "publishedAt": "2026-11-09T14:04:49.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 17 日罢工：公共服务工会呼吁新一天的动员",
-      "content": null
-    },
-    {
       "title": "Video | Paris Protests | Caught On Camera: Riot Police Smash Shop Window During Clashes",
       "source": "NDTV",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRmwtZEl3eW1LNHl2aEFUa3ZkZjdJLUxyMVR6MlFnbzJkcndqeXZvTlBqVjJQSkE2OG9hWjZBVHFHakdaa0cwaEJkd25lQTJzbXZGMGJqYTZINHdFUTJscWRqQzR0Z0oyYnlxd3BfR19vRnR3akQwYzZXQVdmdy1pa1JmM0w5UkpQekRtd2F5SmNLTFNlMlBjaVpQdUxPelh4eXQzOTNMRnMzM2w5eC00NA?oc=5",
@@ -758,7 +775,7 @@
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObjFwWF9HT25ZWDZJRFBzeWFxemY2amN0bDItSlV6dlZ1Y3h6bWdDYzQteTBzVFRwcTVqZTgtM29vVy05ckpOdFJUZGlzNGI5VlZsUUFoYlM2OVp2bmprVzQ2RW1WVk94aGVLMkpzbVhnejVIb2xkSnVuWE9JT3pha2JYNVRfaWg0MWVvUHozc3ZXN0dLOTRVOEpHUnJrRG15b002LXVUS3ItbFpxNWdSUEljTjBsQ2R0Vi1lSkZRb2k2UlNhenNHLXJiaFk1YUdQcXY2OE9HbUN6UG5PRXZPWlZoak01WFpFZjd6dnR4VGN6cmc?oc=5",
       "publishedAt": "2026-11-09T13:38:55.000Z",
       "severity": "high",
-      "titleZh": "L’acteur Omar Sy sera jugé fin novembre pour « violences » sur des agents SNCF en 2025",
+      "titleZh": "演员 Omar Sy 将于 11 月底因 2025 年对 SNCF 特工的“暴力”受审",
       "content": null
     },
     {
@@ -768,33 +785,6 @@
       "publishedAt": "2026-11-09T13:38:08.000Z",
       "severity": "medium",
       "titleZh": "周二巴黎罢工：游行附近四个地铁站和 RER 车站可能关闭",
-      "content": null
-    },
-    {
-      "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
-      "publishedAt": "2026-11-09T12:14:15.000Z",
-      "severity": "info",
-      "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
-      "content": null
-    },
-    {
-      "title": "Mouvement lycéen : la mobilisation marque le pas ce lundi, à la veille d’une nouvelle journée de grève",
-      "source": "Le Figaro Etudiant",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSTFJb1VhdUVYQ0xWUmZ2Z0ZmdHFkczI2VENOZ0ZWMVN2Y3VYaTlIdDU2REZsZFZ1U2oyTFE3YndsZHNSb2RwYUpCVkRqQWtOMDFWbk5JS2xnVVRYMmdlT1BvUk9XUUtpWHBfTXBERkRJN3ZVTm1GUDdzcEQ0VlpnSjZZS1M5dm92eFpNNFZxQVNOSEoyZm1aTEcyUTd2RS12RVNKRXhJejhMNmc0blZ6TktHaVUzOF9vODJHWHlMQS1pX2ZWdVo5TDB5LTRoaW9yUWk5QzFaa2VBZXpjYVRIelNuTmVXSkU?oc=5",
-      "publishedAt": "2026-11-09T12:07:40.000Z",
-      "severity": "medium",
-      "titleZh": "高中学生运动：动员标志着本周一，新一天罢工前夕",
-      "content": null
-    },
-    {
-      "title": "Despite protests in Paris, Céline Dion will go on",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUld6RGhRUDJ1SXZQOXlxSHQ5aHBJMnA5Y1E3ZzJia19HWVNfbGJWeUVMQ3loeDNJTE4tcjR2Yml4LVlxUFlGZFJQNHo5NGNBVmJRUTUxMDFCLTFkcVgyRUF3MzVQZklGRXlPTU9CNlhQOFRIQWRYeExva0NLc0NVY2FsTTI?oc=5",
-      "publishedAt": "2026-11-09T12:06:19.000Z",
-      "severity": "medium",
-      "titleZh": "尽管巴黎抗议，席琳·迪翁仍将继续",
       "content": null
     }
   ]
