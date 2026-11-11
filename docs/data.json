@@ -1,7 +1,7 @@
 {
   "success": true,
   "today": "2026-11-11",
-  "updatedAt": "2026-11-11T00:36:04.738Z",
+  "updatedAt": "2026-11-11T07:05:24.121Z",
   "events": [
     {
       "date": "2026-11-17",
@@ -23,11 +23,20 @@
           "severity": "info",
           "titleZh": "“我们继续战斗”：青年工会发出11月14日至17日示威的新呼吁",
           "content": null
+        },
+        {
+          "title": "Crise dans l'éducation : étudiants, lycéens et enseignants à nouveau mobilisés mardi",
+          "source": "Bourse Direct",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPSUZHbzM1bjlyQ3ZibXo5ZTRkRjJhaDhHeFJIVjNSSEZCSFJWbFktbUFYcFRwb1cwLXZMODVpUlQ3WGlWb2tOS21NbGV5UEgxdWEzcEpIYVAyQVhSd2Nva2g1bmdDSm1XQW1fdUJUQlRKcmlEai1LVmtROURDa0tfNHJtS3V1X01HLU5oclZhR0pyblhxTldrUmtWc3hVTXVFNC00VjdPbVlVR0xzdV9wcEtHS3pDeFo4eEhlWmFHVnk5Z3E1WEtERUtrbTBKRXVvVWNwcm03Zk1idWZzek02bFoybnh6ZVdXanlVVEdnMmhHeXBacWlmMWN3alYxZURHMkhfRVpDdTc2eDJYeGc?oc=5",
+          "publishedAt": "2026-11-10T14:22:00.000Z",
+          "severity": "info",
+          "titleZh": "教育危机：周二学生、高中生和教师再次动员起来",
+          "content": null
         }
       ],
       "places": [],
       "districts": [],
-      "articleCount": 2,
+      "articleCount": 3,
       "clashCount": 0,
       "status": "recent"
     },
@@ -97,12 +106,30 @@
       "date": "2027-11-11",
       "articles": [
         {
+          "title": "11 novembre 2026 dans les Yvelines : les commémorations à vivre dans les villes du 78",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY1lKaHBpYmh3MkxLNUhBWHh1UjVPdGRDQnl4TjVVd013X014OWYxWDFra1Q2U3FlbkxzUC1MMTBYNDJTZzhxTXZFQ203ZzZEU2xlVnFzdWhNMjNuY2FuTUlvdXhrZ0xaVzdDR3JDeXQtTXZmakF6ZWxXSDBxazAwaFU2OWtjVUZ4TWVaTFlUS1p6MlZYUTZJcGhOMG1KRHVwMDFlOHZPYVRkSFZjS2twRmJMYk5DSHZaYXFWR0dqZ3lsUzRzRUtmRzBDTlZMeEZtQjRvakcyaFl2Q3AxRUNMSg?oc=5",
+          "publishedAt": "2026-11-11T04:36:54.000Z",
+          "severity": "info",
+          "titleZh": "2026 年 11 月 11 日在伊夫林：在 78 个城镇中体验纪念活动",
+          "content": null
+        },
+        {
           "title": "Commémoration du 11 novembre à Paris : les étudiants parisiens à l'honneur sous l'Arc de Triomphe",
           "source": "Le Parisien",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWp2WS1HazI0ZlVSOHFEdXN4RzFHV3ZZeGM0eW5DekZRLWUyRGMzdTBKU0hITnJzOEg3SFdzdmNadmEwc01sOTlGOXFwZUljYmJ6RFhVRDgxdkRIS0tFMERad0tOREw0Uzl2LTZpTmxMZFl4WnBlek1XQktlZ1lvNWowQjVvYldoRXc5d1M5Z0I2Q21CcktiOEU1OWFtR21CeUpLcQ?oc=5",
-          "publishedAt": "2026-11-11T00:11:15.000Z",
+          "publishedAt": "2026-11-11T00:14:21.000Z",
           "severity": "info",
           "titleZh": "巴黎 11 月 11 日纪念活动：巴黎学生在凯旋门下成为聚光灯下的焦点",
+          "content": null
+        },
+        {
+          "title": "11 novembre 2026 à Paris : les stations de métro fermées ce mercredi",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcHF6Q0p2RzFJdFQ2TFlveUU0S3lNTjZRVDJFU1dTOUFDWDJNdzVEZUtlLUdpQS03RVRFNUswSTNaenl2Y3NDLVQwMklnMUMwMmFwZ2JRS1RwWE5MbGZPekVvNGQ2UGJoaFg0SUFkXzRuX3Ixc0tBanYzdmlHdEJqQlNpQjlIaWEwN2lOSlJ2bkNtWVo2RXNLNVRZcmdXUTNseTR4WGdzbGg0eE1PMTJmdjVka3VDNElSR2hZc3FJYVhsNkVtY1J6QXh3?oc=5",
+          "publishedAt": "2026-11-10T21:29:00.000Z",
+          "severity": "info",
+          "titleZh": "2026 年 11 月 11 日巴黎：地铁站本周三关闭",
           "content": null
         },
         {
@@ -117,7 +144,7 @@
       ],
       "places": [],
       "districts": [],
-      "articleCount": 2,
+      "articleCount": 4,
       "clashCount": 0,
       "status": "recent"
     },
@@ -128,9 +155,27 @@
           "title": "Fermeture surprise du BHV Marais à Paris et Parly 2, ce qu'on sait",
           "source": "Sortir à Paris",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOWhKb3JzTFBiMWUtbzlXUEIxMklNSkZ5czZBRGtqYXlYc1Fmd1ltVlFMRFFIcHZUYnR6c0JLRGU2ZDN1S25NOUxfVnY4N1ZDeWcxbmxTLTVHcjU3UXhPOUswRC0xNnNKektTMnFPTmw4eVB0MEkwTmw0ckVCUWtmY21VOWY1MmNmak9tYWlMWENvbHhDU0JNMUplclNNX0pKX2JnTWl1cDdFVWU3Z1pORXdkOHM2V0tMOXF2VDJKZ2RWZzRHMDVVMg?oc=5",
-          "publishedAt": "2026-11-11T00:05:37.000Z",
+          "publishedAt": "2026-11-11T07:02:43.000Z",
           "severity": "info",
           "titleZh": "巴黎 BHV Marais 和 Parly 2 意外关闭，我们所知道的",
+          "content": null
+        },
+        {
+          "title": "Metro, RER and Transilien: service disruptions this week, November 9 to 15, 2026",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWnZlV2hxdjgxeDV0TEUtTXlCTVVxUHg1QzlDSG9sZGZuZ21KcV85LWlEVWo0ZTVNcHMtc2Z1QUhZM1NDeVZkMEtvM1pTSElCTnVvS2RwQUlZdHZXY1BWV1VYa1RwWUg2SS1CUFR1a21GR0diMU5YWDg3UldPVFQ5LUU4TU96MUJTaEVMZW1xZ2JrSmlmM25jZ3JyQmNIOUxhTHNNUmtCNUpjelo3bzVMZTY5VXhINldLWWJTV01LMkQwSklHRk5zcTRnUV9xVDNE?oc=5",
+          "publishedAt": "2026-11-11T03:46:16.000Z",
+          "severity": "info",
+          "titleZh": "Metro、RER 和 Transilien：2026 年 11 月 9 日至 15 日本周服务中断",
+          "content": null
+        },
+        {
+          "title": "Journalistes frappés en manif à Paris: vague de plaintes contre la police",
+          "source": "Blick",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUEEtcUVjZ0VDZ0Zob2RmTWdvMFpXRUhVblNIN2VtQnhucm9LamFEX09zdTR1bGtPVEEzdk1jMWduZzNoZ3lQTGdQNGdfNVBCM1pZc0hFd3A0WjBvY2FLTEhRRy00Rkp2NTZPdm40MzBvVXZDMnMwN1hZczBoMW1PU3ZfSEI4dXVkOEtlWloxOXRXMnRBazRWam1VYjRmTUMweU5QYlR3Ql9TbktvaEE?oc=5",
+          "publishedAt": "2026-11-11T02:21:48.000Z",
+          "severity": "info",
+          "titleZh": "巴黎示威期间记者遭殴打：投诉警察浪潮",
           "content": null
         },
         {
@@ -143,12 +188,12 @@
           "content": null
         },
         {
-          "title": "Journalistes frappés en manif à Paris: vague de plaintes contre la police",
-          "source": "Blick",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUEEtcUVjZ0VDZ0Zob2RmTWdvMFpXRUhVblNIN2VtQnhucm9LamFEX09zdTR1bGtPVEEzdk1jMWduZzNoZ3lQTGdQNGdfNVBCM1pZc0hFd3A0WjBvY2FLTEhRRy00Rkp2NTZPdm40MzBvVXZDMnMwN1hZczBoMW1PU3ZfSEI4dXVkOEtlWloxOXRXMnRBazRWam1VYjRmTUMweU5QYlR3Ql9TbktvaEE?oc=5",
-          "publishedAt": "2026-11-10T21:57:57.000Z",
+          "title": "La mobilisation se poursuit en France, une élue visée par une bouteille d’essence",
+          "source": "Le Devoir",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSnJtYjdrcm1mbVdBTTBGMWg5eTRKU0taT1ozWnNiV2dyWWJ0SThJaXZicTdndUZFUGpqUEZzZVhteDFsalZUbUJZaE9yamxqc2pZLTd5T01DYWt0ZHZoZDlGLTJKMkZoWHNVR0F1aTVBV2VMemotdUMxTG9fN3EzTTg5VHNJMDR4R1c5eGlQYWFOZlNHU1IyaV81OWhuRnZpMHZJUjFn?oc=5",
+          "publishedAt": "2026-11-10T22:58:00.000Z",
           "severity": "info",
-          "titleZh": "巴黎示威期间记者遭殴打：投诉警察浪潮",
+          "titleZh": "法国的动员仍在继续，一名民选官员被一瓶汽油瞄准",
           "content": null
         },
         {
@@ -206,21 +251,12 @@
           "content": null
         },
         {
-          "title": "Enquête sur Mohamed Al-Fayed : des perquisitions effectuées sur plusieurs sites prestigieux en France, dont le Ritz à Paris",
-          "source": "TF1 Info",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSUxfNWdtREx0bmJ6ZXU5cXQwSVRuRV9DWVdyT1Zmak5IQnF6N2c2SF9nTjZOeDhoUWl5elloR1BpMHZKY2FRVTRnMzNyOWVGUHB6bzk0UFpnQXdsUzZtdGtoU3FWVkxuSEJqN0NzZ3RROTlWSUFUWVBqeWI1X053ZndNTkpFblpURXRVWGowM19VT2VKS2ZDUExOdlQ0T2lEdEYxYlM2VDlJeXJLdEstLUtXMHA1SVdJUHdUQmRabUVueDRZaU1HZzhQcUtCTGZXYTZuY3BYZG1WZTY4WTBPV21wb0EydXo2LUxWQ3RLU2lxY2ZPLTJZdVdpUGZXWXpLTHJSRDZhc3A?oc=5",
-          "publishedAt": "2026-11-10T17:58:00.000Z",
-          "severity": "info",
-          "titleZh": "对穆罕默���·阿勒法耶德的调查：在法国多个著名场所进行搜查，其中包括巴黎丽兹酒店",
-          "content": null
-        },
-        {
-          "title": "Rama speaks in Paris about the protests in Tirana: They started with Kushner, then a small violent group remained",
-          "source": "Vox News Albania",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNc0Z1emZGYTVCajBKTzlOVHZpcUJseUtKWWZFMXA4OEpiSjVQTXNXbDZFWVVFNzVIQlA5Z3NLYnRPWWRXaGJXZU9Fbl81d0xCaDJjLW1BWUR5RmdQanhMUXpzV2t0cHNIUEJ0RnR2WXE2UVl1SktaTHA4S3VjZXlPcEhpR1hWRnh1SFp0U2J4RDE0NExydUJWRjlDbnJ4T3VLR1VxUVp0OUo2TWgxQXk5NjFsbWlQaXJVVDYwQ21kdkRaNnRZc0hVeW9keXVFZEtPMmZmSnptWFBWQ1pSNUE?oc=5",
-          "publishedAt": "2026-11-10T17:40:53.000Z",
-          "severity": "medium",
-          "titleZh": "拉玛在巴黎谈到地拉那的抗议活动：他们从库什纳开始，然后留下了一小群暴力团体",
+          "title": "Une «plaie abondante et saignante» : une plainte collective d’une dizaine de journalistes dénonce des violences policières lors de manifestations",
+          "source": "Libération",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOMFdaREd1TXQtOVRibWpUOUVGWVYtU0hFNWcxN0pTSGFZd2RtYmNEOUJPRWQ4VlpSRlNWa3hVZVRIcmJPS3M4YlhZSGNlRVZmME5PWkVBU0EtSW1NdHQ0bC15QUxNUHB0WlFjcHA2SWVzZ3p1RV9LX3VpYWV6YXg0cFJUVmFNdEgxQ3BVUkI5QXhRRHg5Q19qY3ZYdzFiRndBNzkwdTNGaUREX25sUVhCRG1EY2pSaGhJa2k1LXdmTmVHVDdwM2hiUGlCSV82RkVkQXdvRjRoU0dCdTMwXzVUOTFncm9YY18tX0RiZVhtckExanBMdWtBX2N3S2FqdW9SNmZkZzExZzQ1THJubXpSRVByQUhvMVJNUEJSbUt2RnlVSWQ2WUlKbXRHeUE4WHFYYXBtYkdhbW1vR05PUm8zaw?oc=5",
+          "publishedAt": "2026-11-10T18:22:00.000Z",
+          "severity": "high",
+          "titleZh": "“大量流血的伤口”：约十名记者集体投诉，谴责示威期间警察的暴力行为",
           "content": null
         },
         {
@@ -260,15 +296,6 @@
           "content": null
         },
         {
-          "title": "Metro, RER and Transilien: service disruptions this week, November 9 to 15, 2026",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWnZlV2hxdjgxeDV0TEUtTXlCTVVxUHg1QzlDSG9sZGZuZ21KcV85LWlEVWo0ZTVNcHMtc2Z1QUhZM1NDeVZkMEtvM1pTSElCTnVvS2RwQUlZdHZXY1BWV1VYa1RwWUg2SS1CUFR1a21GR0diMU5YWDg3UldPVFQ5LUU4TU96MUJTaEVMZW1xZ2JrSmlmM25jZ3JyQmNIOUxhTHNNUmtCNUpjelo3bzVMZTY5VXhINldLWWJTV01LMkQwSklHRk5zcTRnUV9xVDNE?oc=5",
-          "publishedAt": "2026-11-10T16:50:34.000Z",
-          "severity": "info",
-          "titleZh": "Metro、RER 和 Transilien：2026 年 11 月 9 日至 15 日本周服务中断",
-          "content": null
-        },
-        {
           "title": "Comprendre les émeutes : une sociologie de la colère",
           "source": "The Conversation",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXFYZkhTYVpUa0l3cmk4VmRhOVpOd1pMVzM3ZDhSUm1JNi1RY29EaUhGcFFDSGZNZmp3ZnZ0WDA4ZHM3N0JuQmt1eXhRaHB2T2pFWXczNml2dHdsaXd6RnJXWjkySDBnV3JfNXluV0txWTcxSTByWUJaeVZSLXpnRkw2d0ZINng4SUgtVU93?oc=5",
@@ -284,15 +311,6 @@
           "publishedAt": "2026-11-10T16:25:51.000Z",
           "severity": "info",
           "titleZh": "高中运动：被捕并送上法庭的 1,504 名未成年人的情况如何",
-          "content": null
-        },
-        {
-          "title": "Une «plaie abondante et saignante» : une plainte collective d’une dizaine de journalistes dénonce des violences policières lors de manifestations",
-          "source": "Libération",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOMFdaREd1TXQtOVRibWpUOUVGWVYtU0hFNWcxN0pTSGFZd2RtYmNEOUJPRWQ4VlpSRlNWa3hVZVRIcmJPS3M4YlhZSGNlRVZmME5PWkVBU0EtSW1NdHQ0bC15QUxNUHB0WlFjcHA2SWVzZ3p1RV9LX3VpYWV6YXg0cFJUVmFNdEgxQ3BVUkI5QXhRRHg5Q19qY3ZYdzFiRndBNzkwdTNGaUREX25sUVhCRG1EY2pSaGhJa2k1LXdmTmVHVDdwM2hiUGlCSV82RkVkQXdvRjRoU0dCdTMwXzVUOTFncm9YY18tX0RiZVhtckExanBMdWtBX2N3S2FqdW9SNmZkZzExZzQ1THJubXpSRVByQUhvMVJNUEJSbUt2RnlVSWQ2WUlKbXRHeUE4WHFYYXBtYkdhbW1vR05PUm8zaw?oc=5",
-          "publishedAt": "2026-11-10T15:58:00.000Z",
-          "severity": "high",
-          "titleZh": "“大量流血的伤口”：约十名记者集体投诉，谴责示威期间警察的暴力行为",
           "content": null
         },
         {
@@ -328,7 +346,7 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ2dNZE1ic0J1RlJZZENQSFF2YS1MeGdYRWx0R0Iza1JmMXdQaEd2T3U5Uy1oMW9DelgzU2tDZXlCaEtCVFU1Zk1OUmRYdlFkZDVYQXVEQzh5a09reWhpTmtId2RzOFk2WTRqX3Z0YmNTbVFiUktLWFQ1RE1BN3FKMXlzZUhRSWxCdlZmYkVmczB4UUhNblBZZHJIUUVJYWN5ejI2M2YxN1RjVXF1d2JkaQ?oc=5",
           "publishedAt": "2026-11-10T15:20:41.000Z",
           "severity": "info",
-          "titleZh": "巴黎：司法解除对从巴士底狱到萨尔佩特里埃的学生游行的禁令",
+          "titleZh": "巴黎：司法解除对从巴士底狱到萨尔佩特里埃的学生游��的禁令",
           "content": null
         },
         {
@@ -368,15 +386,6 @@
           "content": null
         },
         {
-          "title": "France | Nouvelle journée de mobilisation des lycéens",
-          "source": "La Presse",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmhvajZxMGtyU3JlTkhFRmxwajFBaHVSV2dvcnNFdFh5QzZCVklTc2tMengxbDRSX2F0SmJNN0NVTDFHZXhBcXFVVzJNSjZPZkRhWHRIYldiNjRjX3YyaTlEUElhNVZEeEFHSHRNQXZwTmZOckt2a1VHQ3lXVjgxdFpUM1NEbzRnQm5iNFlnRElGeC0xSEtScXlCSmVFc1FDc1NrMEVFbFgtUTJpbzlhTg?oc=5",
-          "publishedAt": "2026-11-10T13:01:24.000Z",
-          "severity": "info",
-          "titleZh": "法国 |高中生动员的新一天",
-          "content": null
-        },
-        {
           "title": "Manifestations : « Vous pouvez vous masturber si vous voulez »… Un policier visé par une enquête pour outrage sexiste",
           "source": "Yahoo Actualités",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQUQwSE1pMDBJWjVyYVpCNi14Vy1BMElCcjA2d3ZuOHVuaTV5WWYxNUxrOVJPd25hckUyQkxaWlkxSXFBNklsaDN4UlhMY0VfckFNczllRFFuNGVPSDItYkdlZFhUdFRuOG9IQWtBZGRSamc4NUR0NVlscXpfR3RuYzROV0lURF9sak5Yc3JJZ0wzdw?oc=5",
@@ -411,15 +420,6 @@
           "severity": "medium",
           "titleZh": "为什么法国学生抗议活动中飘扬着巴勒斯坦国旗",
           "content": null
-        },
-        {
-          "title": "EN DIRECT : Le cortège parisien doit s’élancer dans les prochaines minutes depuis le Panthéon - Au lyc...",
-          "source": "Jean-Marc Morandini",
-          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQMVlqNTl6ZU50RFFlOHJtS0NlbXk0dWlYazVzZkI5UVFjVFBuWEJFZE50a25xNWRqVlEzam8xS3AtbWJNTVR4U2Q0cWV5RGd5dkxjSExVRVEtdTNIV1BMT2FVcXZfbXUzZkdsblJzUjNHdGVaSkZ5a0lJdkZaZjRHZEIwcUpJOUhvZ0h5WjNEQXYybTYxb2pseFNORFc2T1l6Y2x5eHAxOFM0UVZ3X3BGNnJ3TDFQbGhJWDZ2NU1tMjc4UjE0bEZEQ3V0OW9hRVdScWFKb0I5dHI2OHVpR3pNR0swbGgyMEtDbkNFRnZVYWN3eVA2WFU1U2kwVElFeS00Q0ZjSGRIalZCbkRkQkN0SkNOck9RaG1oQjRiTDRFX0NqT1IyZnY3TUt6MnJ5Q2lVbFBNTFpiLWg3MkpSbVl3MDUwQXBHWUl2WlFaS0lIMEJGVExTSl9WcVViTnNvTVR6ellKWWp0SEY2Z9IB7wJBVV95cUxNSlVqdGM2MkFVSmE2M0pRQkFtT1ZzYzV1aUhOUnBGcU91UEdjTmNaUWJ3MmF5MHBXT0p0T1d0SWk3LUt0ZHRwU2dLU3FLZ2pDUWhqVlpfbkc0dXQtWFptQnMyak9WU0hENVNkSVY5ZjFPYXEyRHpLSTljVHAwQmRuOG9iemxySndmT2FzUUw4Zk5nUEpvRlF3Q1BjeUh4THQ2MEpwWUtDQzhfcUJHTUdaOUZvSl9QLXpycXcyaG0ybG1nc0JUV3ZrdW90NWZPVVZTRklKOElEWVVqaWk0UWZZRUJvSDNEX2VGSWFNZkxjdGdFbndZemVrUmQxTmZHWUs4SnZQUkVNUmpwcm9Hc2FNT21yNGdQUkc4cFowbEo2bW5YTEI2ZVBDakZOczQtQ1FndGpIMVMyTTdzaHY4bHNiTlJDRGR2NTRvM2JGR014NTc4R0plZVY5ZmpkMVR4SEphM0lMVXBSUnZpdWpjTHZB?oc=5",
-          "publishedAt": "2026-11-10T11:58:00.000Z",
-          "severity": "info",
-          "titleZh": "直播：巴黎游行队伍将于几分钟内从万神殿出发 - 在高中......",
-          "content": null
         }
       ],
       "places": [
@@ -432,28 +432,55 @@
         12,
         18
       ],
-      "articleCount": 33,
+      "articleCount": 30,
       "clashCount": 4,
       "status": "unknown"
     }
   ],
   "latest": [
     {
-      "title": "Commémoration du 11 novembre à Paris : les étudiants parisiens à l'honneur sous l'Arc de Triomphe",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWp2WS1HazI0ZlVSOHFEdXN4RzFHV3ZZeGM0eW5DekZRLWUyRGMzdTBKU0hITnJzOEg3SFdzdmNadmEwc01sOTlGOXFwZUljYmJ6RFhVRDgxdkRIS0tFMERad0tOREw0Uzl2LTZpTmxMZFl4WnBlek1XQktlZ1lvNWowQjVvYldoRXc5d1M5Z0I2Q21CcktiOEU1OWFtR21CeUpLcQ?oc=5",
-      "publishedAt": "2026-11-11T00:11:15.000Z",
-      "severity": "info",
-      "titleZh": "巴黎 11 月 11 日纪念活动：巴黎学生在凯旋门下成为聚光灯下的焦点",
-      "content": null
-    },
-    {
       "title": "Fermeture surprise du BHV Marais à Paris et Parly 2, ce qu'on sait",
       "source": "Sortir à Paris",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOWhKb3JzTFBiMWUtbzlXUEIxMklNSkZ5czZBRGtqYXlYc1Fmd1ltVlFMRFFIcHZUYnR6c0JLRGU2ZDN1S25NOUxfVnY4N1ZDeWcxbmxTLTVHcjU3UXhPOUswRC0xNnNKektTMnFPTmw4eVB0MEkwTmw0ckVCUWtmY21VOWY1MmNmak9tYWlMWENvbHhDU0JNMUplclNNX0pKX2JnTWl1cDdFVWU3Z1pORXdkOHM2V0tMOXF2VDJKZ2RWZzRHMDVVMg?oc=5",
-      "publishedAt": "2026-11-11T00:05:37.000Z",
+      "publishedAt": "2026-11-11T07:02:43.000Z",
       "severity": "info",
       "titleZh": "巴黎 BHV Marais 和 Parly 2 意外关闭，我们所知道的",
+      "content": null
+    },
+    {
+      "title": "11 novembre 2026 dans les Yvelines : les commémorations à vivre dans les villes du 78",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY1lKaHBpYmh3MkxLNUhBWHh1UjVPdGRDQnl4TjVVd013X014OWYxWDFra1Q2U3FlbkxzUC1MMTBYNDJTZzhxTXZFQ203ZzZEU2xlVnFzdWhNMjNuY2FuTUlvdXhrZ0xaVzdDR3JDeXQtTXZmakF6ZWxXSDBxazAwaFU2OWtjVUZ4TWVaTFlUS1p6MlZYUTZJcGhOMG1KRHVwMDFlOHZPYVRkSFZjS2twRmJMYk5DSHZaYXFWR0dqZ3lsUzRzRUtmRzBDTlZMeEZtQjRvakcyaFl2Q3AxRUNMSg?oc=5",
+      "publishedAt": "2026-11-11T04:36:54.000Z",
+      "severity": "info",
+      "titleZh": "2026 年 11 月 11 日在伊夫林：在 78 个城镇中体验纪念活动",
+      "content": null
+    },
+    {
+      "title": "Metro, RER and Transilien: service disruptions this week, November 9 to 15, 2026",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWnZlV2hxdjgxeDV0TEUtTXlCTVVxUHg1QzlDSG9sZGZuZ21KcV85LWlEVWo0ZTVNcHMtc2Z1QUhZM1NDeVZkMEtvM1pTSElCTnVvS2RwQUlZdHZXY1BWV1VYa1RwWUg2SS1CUFR1a21GR0diMU5YWDg3UldPVFQ5LUU4TU96MUJTaEVMZW1xZ2JrSmlmM25jZ3JyQmNIOUxhTHNNUmtCNUpjelo3bzVMZTY5VXhINldLWWJTV01LMkQwSklHRk5zcTRnUV9xVDNE?oc=5",
+      "publishedAt": "2026-11-11T03:46:16.000Z",
+      "severity": "info",
+      "titleZh": "Metro、RER 和 Transilien：2026 年 11 月 9 日至 15 日本周服务中断",
+      "content": null
+    },
+    {
+      "title": "Journalistes frappés en manif à Paris: vague de plaintes contre la police",
+      "source": "Blick",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUEEtcUVjZ0VDZ0Zob2RmTWdvMFpXRUhVblNIN2VtQnhucm9LamFEX09zdTR1bGtPVEEzdk1jMWduZzNoZ3lQTGdQNGdfNVBCM1pZc0hFd3A0WjBvY2FLTEhRRy00Rkp2NTZPdm40MzBvVXZDMnMwN1hZczBoMW1PU3ZfSEI4dXVkOEtlWloxOXRXMnRBazRWam1VYjRmTUMweU5QYlR3Ql9TbktvaEE?oc=5",
+      "publishedAt": "2026-11-11T02:21:48.000Z",
+      "severity": "info",
+      "titleZh": "巴黎示威期间记者遭殴打：投诉警察浪潮",
+      "content": null
+    },
+    {
+      "title": "Commémoration du 11 novembre à Paris : les étudiants parisiens à l'honneur sous l'Arc de Triomphe",
+      "source": "Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWp2WS1HazI0ZlVSOHFEdXN4RzFHV3ZZeGM0eW5DekZRLWUyRGMzdTBKU0hITnJzOEg3SFdzdmNadmEwc01sOTlGOXFwZUljYmJ6RFhVRDgxdkRIS0tFMERad0tOREw0Uzl2LTZpTmxMZFl4WnBlek1XQktlZ1lvNWowQjVvYldoRXc5d1M5Z0I2Q21CcktiOEU1OWFtR21CeUpLcQ?oc=5",
+      "publishedAt": "2026-11-11T00:14:21.000Z",
+      "severity": "info",
+      "titleZh": "巴黎 11 月 11 日纪念活动：巴黎学生在凯旋门下成为聚光灯下的焦点",
       "content": null
     },
     {
@@ -466,12 +493,12 @@
       "content": null
     },
     {
-      "title": "Journalistes frappés en manif à Paris: vague de plaintes contre la police",
-      "source": "Blick",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUEEtcUVjZ0VDZ0Zob2RmTWdvMFpXRUhVblNIN2VtQnhucm9LamFEX09zdTR1bGtPVEEzdk1jMWduZzNoZ3lQTGdQNGdfNVBCM1pZc0hFd3A0WjBvY2FLTEhRRy00Rkp2NTZPdm40MzBvVXZDMnMwN1hZczBoMW1PU3ZfSEI4dXVkOEtlWloxOXRXMnRBazRWam1VYjRmTUMweU5QYlR3Ql9TbktvaEE?oc=5",
-      "publishedAt": "2026-11-10T21:57:57.000Z",
+      "title": "La mobilisation se poursuit en France, une élue visée par une bouteille d’essence",
+      "source": "Le Devoir",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSnJtYjdrcm1mbVdBTTBGMWg5eTRKU0taT1ozWnNiV2dyWWJ0SThJaXZicTdndUZFUGpqUEZzZVhteDFsalZUbUJZaE9yamxqc2pZLTd5T01DYWt0ZHZoZDlGLTJKMkZoWHNVR0F1aTVBV2VMemotdUMxTG9fN3EzTTg5VHNJMDR4R1c5eGlQYWFOZlNHU1IyaV81OWhuRnZpMHZJUjFn?oc=5",
+      "publishedAt": "2026-11-10T22:58:00.000Z",
       "severity": "info",
-      "titleZh": "巴黎示威期间记者遭殴打：投诉警察浪潮",
+      "titleZh": "法国的动员仍在继续，一名民选官员被一瓶汽油瞄准",
       "content": null
     },
     {
@@ -481,6 +508,15 @@
       "publishedAt": "2026-11-10T21:33:15.000Z",
       "severity": "info",
       "titleZh": "“我们确实在努力寻找继续下去的解决方案”：在巴黎，高中生正在准备继续运动",
+      "content": null
+    },
+    {
+      "title": "11 novembre 2026 à Paris : les stations de métro fermées ce mercredi",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcHF6Q0p2RzFJdFQ2TFlveUU0S3lNTjZRVDJFU1dTOUFDWDJNdzVEZUtlLUdpQS03RVRFNUswSTNaenl2Y3NDLVQwMklnMUMwMmFwZ2JRS1RwWE5MbGZPekVvNGQ2UGJoaFg0SUFkXzRuX3Ixc0tBanYzdmlHdEJqQlNpQjlIaWEwN2lOSlJ2bkNtWVo2RXNLNVRZcmdXUTNseTR4WGdzbGg0eE1PMTJmdjVka3VDNElSR2hZc3FJYVhsNkVtY1J6QXh3?oc=5",
+      "publishedAt": "2026-11-10T21:29:00.000Z",
+      "severity": "info",
+      "titleZh": "2026 年 11 月 11 日巴黎：地铁站本周三关闭",
       "content": null
     },
     {
@@ -547,21 +583,12 @@
       "content": null
     },
     {
-      "title": "Enquête sur Mohamed Al-Fayed : des perquisitions effectuées sur plusieurs sites prestigieux en France, dont le Ritz à Paris",
-      "source": "TF1 Info",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSUxfNWdtREx0bmJ6ZXU5cXQwSVRuRV9DWVdyT1Zmak5IQnF6N2c2SF9nTjZOeDhoUWl5elloR1BpMHZKY2FRVTRnMzNyOWVGUHB6bzk0UFpnQXdsUzZtdGtoU3FWVkxuSEJqN0NzZ3RROTlWSUFUWVBqeWI1X053ZndNTkpFblpURXRVWGowM19VT2VKS2ZDUExOdlQ0T2lEdEYxYlM2VDlJeXJLdEstLUtXMHA1SVdJUHdUQmRabUVueDRZaU1HZzhQcUtCTGZXYTZuY3BYZG1WZTY4WTBPV21wb0EydXo2LUxWQ3RLU2lxY2ZPLTJZdVdpUGZXWXpLTHJSRDZhc3A?oc=5",
-      "publishedAt": "2026-11-10T17:58:00.000Z",
-      "severity": "info",
-      "titleZh": "对穆罕默���·阿勒法耶德的调查：在法国多个著名场所进行搜查，其中包括巴黎丽兹酒店",
-      "content": null
-    },
-    {
-      "title": "Rama speaks in Paris about the protests in Tirana: They started with Kushner, then a small violent group remained",
-      "source": "Vox News Albania",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNc0Z1emZGYTVCajBKTzlOVHZpcUJseUtKWWZFMXA4OEpiSjVQTXNXbDZFWVVFNzVIQlA5Z3NLYnRPWWRXaGJXZU9Fbl81d0xCaDJjLW1BWUR5RmdQanhMUXpzV2t0cHNIUEJ0RnR2WXE2UVl1SktaTHA4S3VjZXlPcEhpR1hWRnh1SFp0U2J4RDE0NExydUJWRjlDbnJ4T3VLR1VxUVp0OUo2TWgxQXk5NjFsbWlQaXJVVDYwQ21kdkRaNnRZc0hVeW9keXVFZEtPMmZmSnptWFBWQ1pSNUE?oc=5",
-      "publishedAt": "2026-11-10T17:40:53.000Z",
-      "severity": "medium",
-      "titleZh": "拉玛在巴黎谈到地拉那的抗议活动：他们从库什纳开始，然后留下了一小群暴力团体",
+      "title": "Une «plaie abondante et saignante» : une plainte collective d’une dizaine de journalistes dénonce des violences policières lors de manifestations",
+      "source": "Libération",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOMFdaREd1TXQtOVRibWpUOUVGWVYtU0hFNWcxN0pTSGFZd2RtYmNEOUJPRWQ4VlpSRlNWa3hVZVRIcmJPS3M4YlhZSGNlRVZmME5PWkVBU0EtSW1NdHQ0bC15QUxNUHB0WlFjcHA2SWVzZ3p1RV9LX3VpYWV6YXg0cFJUVmFNdEgxQ3BVUkI5QXhRRHg5Q19qY3ZYdzFiRndBNzkwdTNGaUREX25sUVhCRG1EY2pSaGhJa2k1LXdmTmVHVDdwM2hiUGlCSV82RkVkQXdvRjRoU0dCdTMwXzVUOTFncm9YY18tX0RiZVhtckExanBMdWtBX2N3S2FqdW9SNmZkZzExZzQ1THJubXpSRVByQUhvMVJNUEJSbUt2RnlVSWQ2WUlKbXRHeUE4WHFYYXBtYkdhbW1vR05PUm8zaw?oc=5",
+      "publishedAt": "2026-11-10T18:22:00.000Z",
+      "severity": "high",
+      "titleZh": "“大量流血的伤口”：约十名记者集体投诉，谴责示威期间警察的暴力行为",
       "content": null
     },
     {
@@ -619,15 +646,6 @@
       "content": null
     },
     {
-      "title": "Metro, RER and Transilien: service disruptions this week, November 9 to 15, 2026",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWnZlV2hxdjgxeDV0TEUtTXlCTVVxUHg1QzlDSG9sZGZuZ21KcV85LWlEVWo0ZTVNcHMtc2Z1QUhZM1NDeVZkMEtvM1pTSElCTnVvS2RwQUlZdHZXY1BWV1VYa1RwWUg2SS1CUFR1a21GR0diMU5YWDg3UldPVFQ5LUU4TU96MUJTaEVMZW1xZ2JrSmlmM25jZ3JyQmNIOUxhTHNNUmtCNUpjelo3bzVMZTY5VXhINldLWWJTV01LMkQwSklHRk5zcTRnUV9xVDNE?oc=5",
-      "publishedAt": "2026-11-10T16:50:34.000Z",
-      "severity": "info",
-      "titleZh": "Metro、RER 和 Transilien：2026 年 11 月 9 日至 15 日本周服务中断",
-      "content": null
-    },
-    {
       "title": "Comprendre les émeutes : une sociologie de la colère",
       "source": "The Conversation",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXFYZkhTYVpUa0l3cmk4VmRhOVpOd1pMVzM3ZDhSUm1JNi1RY29EaUhGcFFDSGZNZmp3ZnZ0WDA4ZHM3N0JuQmt1eXhRaHB2T2pFWXczNml2dHdsaXd6RnJXWjkySDBnV3JfNXluV0txWTcxSTByWUJaeVZSLXpnRkw2d0ZINng4SUgtVU93?oc=5",
@@ -652,15 +670,6 @@
       "publishedAt": "2026-11-10T16:25:51.000Z",
       "severity": "info",
       "titleZh": "高中运动：被捕并送上法庭的 1,504 名未成年人的情况如何",
-      "content": null
-    },
-    {
-      "title": "Une «plaie abondante et saignante» : une plainte collective d’une dizaine de journalistes dénonce des violences policières lors de manifestations",
-      "source": "Libération",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOMFdaREd1TXQtOVRibWpUOUVGWVYtU0hFNWcxN0pTSGFZd2RtYmNEOUJPRWQ4VlpSRlNWa3hVZVRIcmJPS3M4YlhZSGNlRVZmME5PWkVBU0EtSW1NdHQ0bC15QUxNUHB0WlFjcHA2SWVzZ3p1RV9LX3VpYWV6YXg0cFJUVmFNdEgxQ3BVUkI5QXhRRHg5Q19qY3ZYdzFiRndBNzkwdTNGaUREX25sUVhCRG1EY2pSaGhJa2k1LXdmTmVHVDdwM2hiUGlCSV82RkVkQXdvRjRoU0dCdTMwXzVUOTFncm9YY18tX0RiZVhtckExanBMdWtBX2N3S2FqdW9SNmZkZzExZzQ1THJubXpSRVByQUhvMVJNUEJSbUt2RnlVSWQ2WUlKbXRHeUE4WHFYYXBtYkdhbW1vR05PUm8zaw?oc=5",
-      "publishedAt": "2026-11-10T15:58:00.000Z",
-      "severity": "high",
-      "titleZh": "“大量流血的伤口”：约十名记者集体投诉，谴责示威期间警察的暴力行为",
       "content": null
     },
     {
@@ -696,7 +705,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ2dNZE1ic0J1RlJZZENQSFF2YS1MeGdYRWx0R0Iza1JmMXdQaEd2T3U5Uy1oMW9DelgzU2tDZXlCaEtCVFU1Zk1OUmRYdlFkZDVYQXVEQzh5a09reWhpTmtId2RzOFk2WTRqX3Z0YmNTbVFiUktLWFQ1RE1BN3FKMXlzZUhRSWxCdlZmYkVmczB4UUhNblBZZHJIUUVJYWN5ejI2M2YxN1RjVXF1d2JkaQ?oc=5",
       "publishedAt": "2026-11-10T15:20:41.000Z",
       "severity": "info",
-      "titleZh": "巴黎：司法解除对从巴士底狱到萨尔佩特里埃的学生游行的禁令",
+      "titleZh": "巴黎：司法解除对从巴士底狱到萨尔佩特里埃的学生游��的禁令",
       "content": null
     },
     {
@@ -727,6 +736,15 @@
       "content": null
     },
     {
+      "title": "Crise dans l'éducation : étudiants, lycéens et enseignants à nouveau mobilisés mardi",
+      "source": "Bourse Direct",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPSUZHbzM1bjlyQ3ZibXo5ZTRkRjJhaDhHeFJIVjNSSEZCSFJWbFktbUFYcFRwb1cwLXZMODVpUlQ3WGlWb2tOS21NbGV5UEgxdWEzcEpIYVAyQVhSd2Nva2g1bmdDSm1XQW1fdUJUQlRKcmlEai1LVmtROURDa0tfNHJtS3V1X01HLU5oclZhR0pyblhxTldrUmtWc3hVTXVFNC00VjdPbVlVR0xzdV9wcEtHS3pDeFo4eEhlWmFHVnk5Z3E1WEtERUtrbTBKRXVvVWNwcm03Zk1idWZzek02bFoybnh6ZVdXanlVVEdnMmhHeXBacWlmMWN3alYxZURHMkhfRVpDdTc2eDJYeGc?oc=5",
+      "publishedAt": "2026-11-10T14:22:00.000Z",
+      "severity": "info",
+      "titleZh": "教育危机：周二学生、高中生和教师再次动员起来",
+      "content": null
+    },
+    {
       "title": "Paris : une manifestation étudiante s’élance depuis la Place de Panthéon",
       "source": "Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaUpNU2h1c2VLbnNoTUc5WVcyRWJWbXVXLUkxQlNBZEhDUWtPY1h6RUszdXZRdkRieTRxYU9DOWVwdTgxUzdxc2dJdG92SGdxRGZsd29xWWcyTDgzWHJyWVpwT0JKTmFxa2pFUW8wZDVXWkVYV2hHNHpLME5ONXp0aEE5RFl3V1lPTGxBcXl2M3A3Y1VGQmMtZkNISTY0alpBYWNPU3hXanNMWDJFQk9neHR5R0RDYUJjdVNtRmQ0NWtIMTgxT2Fv?oc=5",
@@ -742,15 +760,6 @@
       "publishedAt": "2026-11-10T13:31:00.000Z",
       "severity": "medium",
       "titleZh": "遭警察殴打：两名记者在示威期间被殴打作证（视频）",
-      "content": null
-    },
-    {
-      "title": "France | Nouvelle journée de mobilisation des lycéens",
-      "source": "La Presse",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNmhvajZxMGtyU3JlTkhFRmxwajFBaHVSV2dvcnNFdFh5QzZCVklTc2tMengxbDRSX2F0SmJNN0NVTDFHZXhBcXFVVzJNSjZPZkRhWHRIYldiNjRjX3YyaTlEUElhNVZEeEFHSHRNQXZwTmZOckt2a1VHQ3lXVjgxdFpUM1NEbzRnQm5iNFlnRElGeC0xSEtScXlCSmVFc1FDc1NrMEVFbFgtUTJpbzlhTg?oc=5",
-      "publishedAt": "2026-11-10T13:01:24.000Z",
-      "severity": "info",
-      "titleZh": "法国 |高中生动员的新一天",
       "content": null
     },
     {
@@ -787,15 +796,6 @@
       "publishedAt": "2026-11-10T12:16:53.000Z",
       "severity": "medium",
       "titleZh": "为什么法国学生抗议活动中飘扬着巴勒斯坦国旗",
-      "content": null
-    },
-    {
-      "title": "EN DIRECT : Le cortège parisien doit s’élancer dans les prochaines minutes depuis le Panthéon - Au lyc...",
-      "source": "Jean-Marc Morandini",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQMVlqNTl6ZU50RFFlOHJtS0NlbXk0dWlYazVzZkI5UVFjVFBuWEJFZE50a25xNWRqVlEzam8xS3AtbWJNTVR4U2Q0cWV5RGd5dkxjSExVRVEtdTNIV1BMT2FVcXZfbXUzZkdsblJzUjNHdGVaSkZ5a0lJdkZaZjRHZEIwcUpJOUhvZ0h5WjNEQXYybTYxb2pseFNORFc2T1l6Y2x5eHAxOFM0UVZ3X3BGNnJ3TDFQbGhJWDZ2NU1tMjc4UjE0bEZEQ3V0OW9hRVdScWFKb0I5dHI2OHVpR3pNR0swbGgyMEtDbkNFRnZVYWN3eVA2WFU1U2kwVElFeS00Q0ZjSGRIalZCbkRkQkN0SkNOck9RaG1oQjRiTDRFX0NqT1IyZnY3TUt6MnJ5Q2lVbFBNTFpiLWg3MkpSbVl3MDUwQXBHWUl2WlFaS0lIMEJGVExTSl9WcVViTnNvTVR6ellKWWp0SEY2Z9IB7wJBVV95cUxNSlVqdGM2MkFVSmE2M0pRQkFtT1ZzYzV1aUhOUnBGcU91UEdjTmNaUWJ3MmF5MHBXT0p0T1d0SWk3LUt0ZHRwU2dLU3FLZ2pDUWhqVlpfbkc0dXQtWFptQnMyak9WU0hENVNkSVY5ZjFPYXEyRHpLSTljVHAwQmRuOG9iemxySndmT2FzUUw4Zk5nUEpvRlF3Q1BjeUh4THQ2MEpwWUtDQzhfcUJHTUdaOUZvSl9QLXpycXcyaG0ybG1nc0JUV3ZrdW90NWZPVVZTRklKOElEWVVqaWk0UWZZRUJvSDNEX2VGSWFNZkxjdGdFbndZemVrUmQxTmZHWUs4SnZQUkVNUmpwcm9Hc2FNT21yNGdQUkc4cFowbEo2bW5YTEI2ZVBDakZOczQtQ1FndGpIMVMyTTdzaHY4bHNiTlJDRGR2NTRvM2JGR014NTc4R0plZVY5ZmpkMVR4SEphM0lMVXBSUnZpdWpjTHZB?oc=5",
-      "publishedAt": "2026-11-10T11:58:00.000Z",
-      "severity": "info",
-      "titleZh": "直播：巴黎游行队伍将于几分钟内从万神殿出发 - 在高中......",
       "content": null
     }
   ]
