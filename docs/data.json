@@ -1,30 +1,29 @@
 {
   "success": true,
   "today": "2026-11-12",
-  "updatedAt": "2026-11-12T10:55:42.460Z",
+  "updatedAt": "2026-11-12T18:50:37.430Z",
   "events": [
-    {
-      "date": "2026-11-13",
-      "articles": [
-        {
-          "title": "Évreux : manifestations interdites au lycée Aristide-Briand les 12 et 13 novembre",
-          "source": "Paris Normandie",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaFE3N18wT1ZjdW1seTdBYVNNQ1l1MERlUjZQYlRPZG9SMDNxbmVBMmhPc2FUaHNjejQ4dUMtYzhIVVIzUEk2MUNyQU5BSGpfX3BfbVpUUnMyRmxSbTFPUUZFMndhcDRZb1ZrXzcxZ0diVm5sUmlCNXRsN1diUlREQWJvN09nZzdYNFNwUUFVUEtaSzJMbE02cjAwcFNJSWlIT01DcFlMeEhFSVJPNkczaTVCbVBELWpaeWpwM1B4eE16Tldscl9rSjBBbEJyQXF1N1pWUQ?oc=5",
-          "publishedAt": "2026-11-11T17:45:00.000Z",
-          "severity": "medium",
-          "titleZh": "埃夫勒：11月12日至13日阿里斯蒂德-布里安高中禁止示威",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
-      "status": "recent"
-    },
     {
       "date": "2026-11-14",
       "articles": [
+        {
+          "title": "Mobilisation sociale : des organisations de jeunesse, des « gilets jaunes » et certains syndicats appellent à manifester le 14 novembre, contre la vie chère et « les violences faites aux enfants »",
+          "source": "Le Monde.fr",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQc0ZQLXc1T3lYbUV0NDJDMU15UUg5THJCcXE5bW9aa2kzZ2tQRUhmbGVTNG1WR2NQd1cxOFlqVDBNVlhaeG4wN2FpYV93QURrQXd2cnc5blBMSXlibjdRWnpDWm9KcmxVaGtneEI4Z00tV0w3T0M1Z0VxTzliMEluRElzT2Y4MnBHN3NJbjNiU2FLc2VTOUcyZ3hhZy1kdnRQVUFreDFvM19jaUh6X0IxMXdtX3dVUUFnLVhQbU1ieWpoS3JlZGJFSUMxREE3ODkyNEN2WUZlTnJCbUxTVkdmUFFwb05kVTlXaklmeE1KRXd4LU9tVXFXOWQwZHM1UEJHZ2lMZjV0Yi0wNmJNblRvQm1LN1ZVdjVrNjdzcXpoMVk1OVUwMmJXZzRB?oc=5",
+          "publishedAt": "2026-11-12T11:59:10.000Z",
+          "severity": "high",
+          "titleZh": "社会动员：青年组织、“黄背心”和某些工会呼吁11月14日举行示威，反对高生活成本和“针对儿童的暴力行为”",
+          "content": null
+        },
+        {
+          "title": "Mouvement social : appel pour un «acte V» samedi, une convergence de différents mots d’ordre prévue",
+          "source": "Le Figaro",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWTVsYVE0N21xSFpHajc4WkJ1WDZwYWQ0WjBRUWJfZ2p6UzlLdks1cHBKQ2NDZFJBYXlhSGpEWkxBT3lMM2RpRFE5SzFyRFkxVjdWeEdTUGlKcG5uRzlkV3ozVFJ6dC01UllCeXc3SF8tazgyM2JnaDNack5xU3lJbkFmUEtJTnA0dTktSFlzNGdDdFI2cU1hZDdhUFAxTUFLSTdINXFmem1GMUpkS0YxLVZwMlBlWTY2UTF1SW1yZ1VUTjdad0pRbHZzRGlMWjNOWnMxTUtqNmJGLXJo?oc=5",
+          "publishedAt": "2026-11-12T11:15:51.000Z",
+          "severity": "info",
+          "titleZh": "社会运动：呼吁周六举行“第五幕”，计划汇集不同口号",
+          "content": null
+        },
         {
           "title": "Manifestations du 14 novembre à Paris : qui défile, où et quand",
           "source": "Sortir à Paris",
@@ -37,8 +36,8 @@
       ],
       "places": [],
       "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
+      "articleCount": 3,
+      "clashCount": 1,
       "status": "recent"
     },
     {
@@ -52,6 +51,66 @@
           "severity": "info",
           "titleZh": "极地涡旋：11 月 14 日至 15 日本周末巴黎出现霜冻和寒冷",
           "content": null
+        },
+        {
+          "title": "Métro, RER : quelles lignes éviter ce week-end des 14 et 15 novembre 2026 ?",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYjBqQUVKdFF4ZnBYTzloRFdJel9uQjlMc0JuLXlwd1V1QXhGZ0xra2NfdFhCMFk4Wmczb2ptRzN3MWE3d2xzWEpRREFuNHFLX2dDR2Fab0x4WldlNjFRNzFITFFmZDgybmRSUEM5cXRMUFlOSkNrLVdWMXA2UXhUV25wc2pxVFEtd2RkZnJyb21OTEk0RTIwZ184amFzRkVodzZQdFlSQi0xcDJQcmpBbzYxM05VQVl1eTBKTjZUY3FXSkVTVk5DNjFuSzlYMWc?oc=5",
+          "publishedAt": "2026-11-12T07:27:00.000Z",
+          "severity": "info",
+          "titleZh": "地铁、RER：2026 年 11 月 14 日至 15 日这个周末应避免乘坐哪些线路？",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 2,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2026-11-17",
+      "articles": [
+        {
+          "title": "Manifestation du 17 novembre à Paris : l’intersyndicale souhaite un parcours entre Invalides et place d’Italie",
+          "source": "Le Parisien",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNWWRPeDF2WG51QnRMUG9UX2RHYV9ycDRaVEhDVF9JZVROOVZWZENWMlVPdGlBdWcxcm1LanMxNzM3SjdDQ00zQUxSNFpYSHZ4R25xS3FRMUFHdThOalBtZzN6NVlwTkZtWngya09ObmRGVmVadnhkZ0tMRmNjazdpMGQ1R1hTTUJ3cV9KWWRCdVpNNW4tWU1SLVlTYWZZMUlCeEExcHRsRzBDVVV1VTFJN2lTejl4cmtBNklQQjg5VDd2d1g1SVhrMXhXOGpmVERGQ2pDc0NkNmM2RGpweU53M0doY0hXOEk2dU0zbVVVdkRxb2JIMnJvelBzYllkNFZ5amdUZ0hTMklvaTUxVC1oMg?oc=5",
+          "publishedAt": "2026-11-12T17:38:23.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 17 日巴黎示威：国际工会希望修建一条往返荣军院和意大利广场的路线",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 17 novembre : à Argentan, un arrêt au rond-point de la route de Paris",
+          "source": "Actu.fr",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNHdLaEVoZXU1WnQxbHF0VjZteDN2TDF0VWpxeGthRkk3NU95THQ1Z0NKOXlKUkI4bG9EV19zb21wMmpmZzVDaTBfMlJPbUZVczN3LXBnSk1Rdk1RZ2JZNDR0SFJjM1dTUDJWS0FUWjRjU25kRHd3S3R4aF8xRFM3aTRzRGZyT2dOYnZyeGZvaXVRMVdINGkxVDlkMnAwTkhZLWRpakZ1Qnh2QTJLVE9YNDRkUUk3QXRMTGJVUDhmSmtqVEFPMjhfbHZCLThaZ2IxSVdrVA?oc=5",
+          "publishedAt": "2026-11-12T11:59:46.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 17 日的示威活动：在 Argentan，在巴黎公路的环岛处停留",
+          "content": null
+        }
+      ],
+      "places": [
+        "荣军院 Invalides"
+      ],
+      "districts": [
+        7
+      ],
+      "articleCount": 2,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2026-11-19",
+      "articles": [
+        {
+          "title": "Le 19 novembre, retraité.es, exprimons notre colère. Toutes et tous à Paris ! (Appel UFSE-CGT)",
+          "source": "CGT État",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZlRQM2NJbEFLc09mZHJITkxyY1ZvRFBqM1luU0FfSGNfNG8wb2Q2NmFldnBZZFlVVEM5NHBjWjdDS3dDZ0J6SklkRmxLMkJKMGI3NzFBSjdpYVJ1Y0dEX2ZSejJ2RU9aQXpYUUhSTU1HdDFJVmk1b1RwV0p3cGlpeDhwMTBEOUVfbVBaUi1oUG0waE1iRTZ0Y0xFYVd0VXdUaFpRMVVwSVJBb29EZ1hYRXNtM0xBUVZOMFJPWGVjdkl6Snc3Q05aOXJiUzdMM3dDa3Y2UEhZaUVsWkJmajNTYjhjN3NiYUlvYklyaXpVWUN4UQ?oc=5",
+          "publishedAt": "2026-11-12T09:45:53.000Z",
+          "severity": "info",
+          "titleZh": "11月19日，退休人员，让我们表达我们的愤怒。巴黎的大家！ （UFSE-CGT 通话）",
+          "content": null
         }
       ],
       "places": [],
@@ -61,15 +120,34 @@
       "status": "recent"
     },
     {
-      "date": "2027-08-15",
+      "date": "2026-11-21",
       "articles": [
         {
-          "title": "SNCF : une nouvelle grève va perturber le trafic vers la Normandie ce week-end du 15 août",
-          "source": "Frontières",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRFk1c09veEdlSFYzRnIwMi05SXFob3JJcWlwUVItRzZSbnp2YWlvNDlqWGZiZGw0SUNROVJDVEE0RHkyZGNsRmdjY2FGYWxSNUkySFBGb0NHLWxOLWxCQ0Zfc1J2eDJIUkF5Wkl0aDVCdnp1VEMwMm5qUnFmQWlzLXV6U2IyVnU1YTl1X2ZWdl92MS11Y0d6NFJTVl9DX29QWHdrcTliU2dPUXd5aThrMHZlaHY2cm9fZ2VEaE83dmIxMW1BdkJMMEpteG9qVGs?oc=5",
-          "publishedAt": "2026-11-11T08:06:30.000Z",
-          "severity": "medium",
-          "titleZh": "SNCF：新的罢工将扰乱 8 月 15 日本周末前往诺曼底的交通",
+          "title": "21 novembre : le Festival de la non-violence à Paris",
+          "source": "Politis.fr",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWFDQTJDVkpRa2VLVGlDYkNmZXdpZWZqeU1ZdTJyOTlGdFBoUDU4Q1hNSlJVQjRieFNSaVpwRUplQXV2NGYwbElueUFycGl6Z2ppcVEzaDFDcks2WHd6akM4b09HaXlPNVc5RzZXcnlaOVVscE1IWXZXWU1PQTkyOV9MdG1vcW1pMVJyN3lfRkNfdDRKQWc?oc=5",
+          "publishedAt": "2026-11-12T12:57:12.000Z",
+          "severity": "high",
+          "titleZh": "11 月 21 日：巴黎非暴力节",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 1,
+      "clashCount": 1,
+      "status": "recent"
+    },
+    {
+      "date": "2027-05-08",
+      "articles": [
+        {
+          "title": "8 maires de Paris réclament des mesures pour éviter les blocages autour des lycées",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTUpTZ2JYMU05ekhGay0zN0d2bjFNQ0JzSEZDNFJMdGNNbE14aVBPUmZkX25TY05uYjNaeDNoVWhLU1JjMUhBTjMwcF9ldjVOSjBZLUFxeEdqSFZkNXotazh3OXRicnBoZkhSLUVtUUFsVk9lWlV3amxtM2FtYy1SU0RjOFVfM2FkU2dleDRFQmpMS242OTNEMG9BTFlWMUgyNkwwaW9MU3Y3Z29TSE92dTNTUS1DTVdNdWdtQmpDTFQ5bFM2WEJoWW9FSVRMVzBUUTVjZ0Y0OE42TlRXQWp5c2VDU3R4eVc5NlE?oc=5",
+          "publishedAt": "2026-11-12T05:37:48.000Z",
+          "severity": "info",
+          "titleZh": "巴黎八位市长要求采取措施避免高中周围出现堵塞",
           "content": null
         }
       ],
@@ -83,41 +161,36 @@
       "date": "2027-10-17",
       "articles": [
         {
-          "title": "Elle veut faire la lumière sur les violences du 17 octobre : à l’Assemblée, une commission d’enquête fragilisée",
+          "title": "TÉMOIGNAGE. Milan, 14 ans : « J’étais à la manif du 17 octobre à Paris »",
           "source": "Ouest-France",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOWHZmSExjQ1RuUkRkZWFRaG81WDdyNEE2TEUxV21nS3h4NDFRMGhiSjlmTXR3THd1by1yN0dNdEN1dmVER2ZmbkM3ZXpnOThpajVqdVVuYS1aSTRLU3Jyd2JhN0VFOE1sWUFhZ2Z4Y1d2RkdKZjFvR3FOZm9DTzYxcmszY1VXTGMzY0RwQ1JRci1LY2RmWWhwQWh4NDM2UTJjTmJWbGlXYVBZckJzWkVCR3FrT2hmbjZSc0RGNzBKZ2lrRXFrd0tNZHIzM29rLXExYXpzWmZieEFnVm5xNTR4eFd4SndpUGdVYWEwemgxZTZDNlVLdzlVQmtBTjdNMHcyNFR2LUNJcElZZE5fYjM4SnR6MUdIMFZ5RnFYOHllY2lLcFlCU3VWY2YxRlpQUDE4SjN2TXNMLWE2Zw?oc=5",
-          "publishedAt": "2026-11-11T15:00:10.000Z",
-          "severity": "high",
-          "titleZh": "她希望揭露 10 月 17 日的暴力事件：在议会，调查委员会被削弱",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOERMd3EwUnBrZlg3a3RlZGstYmVKWUdPVlZ6ZWQ5TE9Yd0Z2WXBXTzZ1bVVfUTlCV3d6NEJiMjZmMU0yQUplX0Z4TVZ0X2toZmYzWG1HQkdiMDVCNDIxZnQwZHlVVDVDbGZPQkJyTkhDTGJYNlZTaU9RMTdnMmstYnRVWEpGa1M3VHctTUlqOFlqOXZveVY0eGJhMGU2bk9sQlg1NEdQcW5IZ2UzTHhNU0ZYR1ZFMm82ZU1NLVRydWR6WXEtakszSUxOUjUtamNIN2tqU3Fzd2k1QTNpS01WYUhfX0NUSkNEWlE?oc=5",
+          "publishedAt": "2026-11-12T13:00:04.000Z",
+          "severity": "info",
+          "titleZh": "见证。米兰，14 岁：“我参加了 10 月 17 日在巴黎举行的示威活动”",
           "content": null
         }
       ],
       "places": [],
       "districts": [],
       "articleCount": 1,
-      "clashCount": 1,
+      "clashCount": 0,
       "status": "recent"
     },
     {
-      "date": "2027-10-19",
+      "date": "2027-11-05",
       "articles": [
         {
-          "title": "Que sait-on de l’homme mort à Châtelet, en marge des manifestations, dans la nuit du 18 au 19 octobre",
-          "source": "Libération",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbnJLRzhmSkVXcVFyMFJ6N1BwdkNRS3N1bHk0OXhWdnpOYXJpZlJqWmhtWnVMR1FsSnh3a2F0LV91YkJtU045RmpBN3NiMEFmLXZxTmJYYlNIR3pHRXhHNmZyTFQ5RHZ4Y1dteWNSUXFYeFhqdTJnS1dPS3FsVlEtRXFMSE9kWWhtUmZxUWFLazU3Vnc0WlpteTdLOHpsZl9ibmFlSFlvbGVIYlBGVjQzTUlldTdFY3FpaWQ3NWhKZkxzMzBibXY1Uk8tRUlSRDlfdmplM3JHVTJmWHlqLThuWmJCWnYwOU9QWTlRdWlaRmdFenRfNkpFTTZBd3Rqb2I3?oc=5",
-          "publishedAt": "2026-11-11T11:41:58.000Z",
+          "title": "Le matériel des « street medics » saisi à la manifestation du 5 novembre : des élus d’Angers interpellent le préfet",
+          "source": "Ouest-France",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQT21JcHJlUDIxdlNDelNrY0RrckVSLWlLSlE2SFJVQlRPRThTcV9xLWktWkpSQ2ZkeElKbUxTNDdhcjB3ZWhwU1JiOUxVVmlDd29RVjNsOV96QlluV0lUWWZrN1NyNFV4Mmk5RzZuYm5EWTZlLTRSWGNXdmVBd0VRdS02ZzgwNWNUVlJldzNUUWxvb09kc1RYSTV4Nk5ZRjNIMmR2dGwzU0ltdXRBbldnbzFGci1ldlpDeTY1X1JZbmU4RGFsbk56ejBZQUJrYUpjYXUzbF80VzdpcXBOVmZnLVVmR3UtRHJQQWVRSFc2VHh1ZTFLS2V5SzZFeVpkU1kzd1FaWnh4X1dGR2s?oc=5",
+          "publishedAt": "2026-11-12T16:06:25.000Z",
           "severity": "medium",
-          "titleZh": "对于 10 月 18 日至 19 日晚在沙特莱示威期间死亡的男子，我们了解多少？",
+          "titleZh": "11月5日示威中缴获的“街头医务人员”装备：昂热民选官员质问省长",
           "content": null
         }
       ],
-      "places": [
-        "夏特雷 Châtelet"
-      ],
-      "districts": [
-        1,
-        4
-      ],
+      "places": [],
+      "districts": [],
       "articleCount": 1,
       "clashCount": 0,
       "status": "recent"
@@ -129,7 +202,7 @@
           "title": "Que faire ce mercredi 11 novembre 2026 à Paris ? Les sorties à ne pas manquer",
           "source": "Sortir à Paris",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZk91aHlLbWR6U2lMbXh6QWpqYXhPSXN4ekdoaEJjcXNPYjk5bmZST2hFTUJTa1hZTDBFYV84RDhvLW9aczdleUVuR0hJLWVONkRkR0JpeG5JeGs3WldnN3RaX0JVOFp2OVdNZ054cjI1Q1ZjamhYN3E4Vnh6UEw5eTM2cEk4X1dOR2R2TGJLQmtMVkxySTJoemx6RGNVdElvM1pkRS1pREhzTXR6N3A5ang4ZWxHUDF5bHE1LXFScmFoQkdSVnhmb2prdmhwbnU1UktN?oc=5",
-          "publishedAt": "2026-11-11T16:02:25.000Z",
+          "publishedAt": "2026-11-12T05:20:08.000Z",
           "severity": "info",
           "titleZh": "2026 年 11 月 11 日星期三在巴黎可以做什么？外出游玩不可错过",
           "content": null
@@ -164,6 +237,105 @@
       "date": "unknown",
       "articles": [
         {
+          "title": "‘Labelled terrorists’: How France is using anti-terror powers to deter protests",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRWFxUzVNVGRRVXhBOTNrQkphSlV3d1dUZjNaOUxBZzlJeDRwdFdoYlhfOERWZzQ5eWtsZ3kwaGZLWUsyc012UWJld0Ryd1BFVEZhRWYyN1FaczNHdFFmQjlaSERNaEpjSTVfMEdOQlplMThLalNsQUUzaEZFUV9SSmpGWVYwdTlhTk9pTWxERjl2UGFZZkJvbWRNcGZCdWVkdXpwazgwcHVIZU5qNjNKNTZsTmtBampCV25vM1RaNHBHblFFYmc?oc=5",
+          "publishedAt": "2026-11-12T17:32:06.000Z",
+          "severity": "medium",
+          "titleZh": "“被贴上恐怖分子标签”：法国如何利用反恐权力来阻止抗议活动",
+          "content": null
+        },
+        {
+          "title": "La préfecture interdit la manifestation des identitaires à Rouen contre le racisme « anti-blancs",
+          "source": "Paris Normandie",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWE92OFNkMjU1TlFIeHNuRWF6anBSU0M0UHpaQWJYSnU3aXpQcVp0UjExd2M1OXkwMG9lOUx3Q0IydjNIY1g2X2N2eV91Ym00RkJ1djJJdWd0WExYZUxGYldTMGZUMGhieHhlUG84U1Y3VXVFblFhRjlXM2I1d1lCbzlycnNqMEpCS0l5UjJFaF8zcmwzdmFmdWNvTk81OFlRTmE1OVRvelowbGZBb0doVVhRMExqQ19pZzdmSDJBb0dTQlM5Yy1MLThJbG5DWnpFSU81OUdR?oc=5",
+          "publishedAt": "2026-11-12T17:26:47.000Z",
+          "severity": "medium",
+          "titleZh": "该省禁止身份活动人士在鲁昂举行反对“反白人”种族主义的示威活动",
+          "content": null
+        },
+        {
+          "title": "Lycées : le gouvernement hausse le ton face à une intensification des violences",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbXcwTFZoaU53YnpQY3BQdm40ODlidTI3ZTJfclY4Z252Z3lfaldIWFRWbzVWSVVMZjVEanc4OXRrRjM2Q0pPMk52Y2RPdGNwM3JMdEM3SE1EeFRESFVtejhlMzdXdGxyb292VzgwVmRFX0dfSVgzSkhsQmd6ZkJpZDllVGQwdEthTDdVMU5aTV9TYTJiTWIyNWZ6d0w2THBET1E3S1dHc1JnUGlIT0VwWWE4UXhGU2ZnVFZHV3VwUXlFNGE4b0dGUFhUYTRZQUFtb0hqbGJrZw?oc=5",
+          "publishedAt": "2026-11-12T17:17:34.000Z",
+          "severity": "high",
+          "titleZh": "高中：暴力加剧政府发声",
+          "content": null
+        },
+        {
+          "title": "Les sorties de ce week-end à ne pas manquer à Paris et en Île-de-France",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZHFMbDRXTERCU3NCVVNfUWtZaDFPVWE0bUJBNE8xN0tkN0tpZmVVbHptNVVZWGFyT2ZCS1FXeUwyNm43N0JyMWJTaGJ1empiR1haQVVNRDh5blFGVDI4aVpBYTgydHFlRDZIcFVESGtqTmhaVEV3MDhXWmI4ZklpMTU1ODdkQ0dfY095NmpZR3JEZ3Q4MkluZ09vaF95Z2FEOU1mNjlJUlprdWJnQ0VVc2xNWFktTDhzRUxaSXB0a2hObmU3UkVFWjdWNG5KcGd4Vk5GQU9Xaw?oc=5",
+          "publishedAt": "2026-11-12T17:12:59.000Z",
+          "severity": "info",
+          "titleZh": "本周末巴黎和法兰西岛不容错过的郊游",
+          "content": null
+        },
+        {
+          "title": "News : Un inédit et une date à Paris pour Kojaque",
+          "source": "Sound Of Violence",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa3FvLVBHX2RkNl9mUHl6U2tjSGx3dGs3cFl4YUhRQnAxUGx4MlpfZ01zRW1SYVRubHBuOVI4U1REUWNCMENic0lzbjBlWXJxbTdteGk5cDVEdzNPcm4tTS1ZQXJISWZpU3lpRUdtSjRfRFpPVTFSU2lvcGVVcTF5REc0TXktV2lyUVVnYm96MjVJTDVTeTBybWdDRQ?oc=5",
+          "publishedAt": "2026-11-12T16:30:30.000Z",
+          "severity": "info",
+          "titleZh": "新闻：Kojaque 的新发布和巴黎日期",
+          "content": null
+        },
+        {
+          "title": "Violences dans les lycées : Lecornu met en cause des complicités dans l'Education nationale",
+          "source": "mesinfos",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVDh6YWlEQlB0c21MTTBMM0JjdmV6amY2VnJ5Q2NUaWJxT0MzNEpDUUZtX3pXYzBZY1ZqYUpZRXA1WmlvTjFEZ3AyMTdjU0lpQnhDVl82V21tVl9pTGE0RG1DZjRmc0lzMmdaYnRvcThIN0FEVnpNcm9ZT3RpdGdBcm4zZGM4VGpvZmVZLXZaR1kzOE1JaTlmU0NTV2d3Z084Yjd5ekVlQ0Vaci1icXVZcVg5emo4RUI2eVBTQ091TUpmTmx2ZWt5ZENuRzZ0M19x?oc=5",
+          "publishedAt": "2026-11-12T14:55:00.000Z",
+          "severity": "high",
+          "titleZh": "高中暴力：勒科尔努质疑国民教育中的共谋",
+          "content": null
+        },
+        {
+          "title": "Live report : Paris, Pitchfork Music Festival - 05.11.2026",
+          "source": "Sound Of Violence",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbmhNQ19OdEpPa1U3bkM5eHlrVDN2cUJGUkJqUC10cDNTSHlVSkwyRFFrZEhvcTV0TVNSMUtIbEczeTB6ajM5bmJ6ZW1JNjNTRGNqc0FBWmFxRHVuQXZvQ3hsdGFDeHVybDF4QkhYNlU4Y1c4c0g4b3p2M3dkMmZqMXJCNk9vUTBjTk9pdWdaeEtOMzg?oc=5",
+          "publishedAt": "2026-11-12T14:00:22.000Z",
+          "severity": "info",
+          "titleZh": "现场报道：巴黎 Pitchfork 音乐节 - 05.11.2026",
+          "content": null
+        },
+        {
+          "title": "Prime de Noël 2026 : montant, date de versement et qui peut la toucher",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdVBCZUwtdVBnRWNSaXZaVGhxVmxFUGRQYjgtNk4zLXdySC1SSVpocEhhWmVtenZmN19HMDE5REZrQThHcU8yUGNkU1RONkdZdF9XZ1dpaVlMNm1MYUFka2IyY2JPZHdTQl8xZlVMOVkta2Zab2toQVczS2FyN3ZudFM3VHpOa21hYmswQXdGRTlwT2x1Rk5QN3lTNEJXSEVkQ2h6a2x1bXJkU0RnMjNWTm1NVk9WS20yX2xDMEZ5Y1NsSzlNZjQtcDZiUQ?oc=5",
+          "publishedAt": "2026-11-12T13:25:02.000Z",
+          "severity": "info",
+          "titleZh": "2026 年圣诞奖金：金额、付款日期以及谁可以领取",
+          "content": null
+        },
+        {
+          "title": "Forum de Paris sur la paix : au Soudan du Sud, l’autonomie financière des femmes comme rempart contre les violences",
+          "source": "Maghreb Émergent",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTEtfMHllemU1UXZCX3gyT3ZBdWhjUEUxcERzMDlKN0tVcC12UjA3YlJZZXJCaEV5U2ItbnU1ZXB0V3pnYUZJSzNxUkEyQXo0QTc3X3dvWU5ySEZuVDNUNVRweXdURFAtQXhTaHg0MFNJZTRIZjl4YTR6N0NBUzV2a2ltTllvMWRJ?oc=5",
+          "publishedAt": "2026-11-12T12:56:26.000Z",
+          "severity": "high",
+          "titleZh": "巴黎和平论坛：在南苏丹，妇女的财务自主权是反对暴力的堡垒",
+          "content": null
+        },
+        {
+          "title": "Violences en marge des blocus lycéens : le gouvernement durcit le ton",
+          "source": "Public Sénat",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeldFS2ZMZlNEUm5uTzgyY1paaEllMXVFeV94MzJTcmdUZkVkMGNGejNOcG9NMXhlSDhFeno2ZjVLdGlBbHY2N3lKZG5SUl9kZ2ZIcmcwR1pSeFNlMEljZUlyWEc0U2cxdHp3VFdPUGtzbF9jNmEwSUxSY2FwaXZpa0NvVE5WVFlrVVVlUHNUbVV4TnZRNjlucWJmUTFmcGY2RHE0THZreWE3WWRSOXg1UUtpQW5uZw?oc=5",
+          "publishedAt": "2026-11-12T11:55:34.000Z",
+          "severity": "high",
+          "titleZh": "高中封锁期间的暴力事件：政府语气变得更强硬",
+          "content": null
+        },
+        {
+          "title": "Oklou, Detente Group et Almond Butyl en concert à Paris pour soutenir les caisses de grève",
+          "source": "Les Inrocks",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMUYxZFhFNE5LblRJSFR4TmdjVE9zaEpudzVGRnNFeHVrejFpZW1fWG02Q0FQaTJ1RmxISTd3TnJUNFh6Q1gteXhuVG91aTY0cjdJS2hubGVTZUNPT3FDbldXMl9NN1ljOVdZbzFrS053S2xNVUZHTkoxa1VHdmdlUnNySVVSQzVaWXp2WktENFJ3amVuZENTN0ZvSk1RMzRkNjUzVl9POXYwQ2l6cFlDLTQtanBDTjZyOUR1TE9ib0k0U21lRDVpUWphQ1dMOUN3alRHcGFIeVhZcGc?oc=5",
+          "publishedAt": "2026-11-12T10:58:00.000Z",
+          "severity": "medium",
+          "titleZh": "Oklou、Detente Group 和 Almond Butyl 在巴黎一致支持罢工基金",
+          "content": null
+        },
+        {
           "title": "Le président d’un syndicat de police interpellé pour un refus d’obtempérer à Paris le soir d’Halloween",
           "source": "Ouest-France",
           "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPc1hiZDliNWNMbFZINWJ5a3VUUTBLQjYzbnl0MlllU1F6NWpienZ3dTdYVnZDOVdXX3pkYmU0SzlrYXJ3UzVvNWpYSFpLTUF4Q3l0dUtxQUxvVHZXTTBWNzVjWURlVFZlcktMOVZUbEpuS25WbU5UekhqR3VfOWEwNHFHdUotb2VMb1B4bVZiN3dQcDgxZXkyOUx3T3pXVUZ2RG1mQnBFcUVHaGdrRldvYnJROGVUWXlNUTVtN0VtQWpzX2QzUk9yd0FDVjZ0UGpXRFF6bjFGcGNCVmhQbmVTZjlWV3VUaWhHQ1hUdmg2Q1FmSzNEM1JDZUlkekpReWg3aFl3Y1BHZ1JLTlE?oc=5",
@@ -182,6 +354,15 @@
           "content": null
         },
         {
+          "title": "Photos : AtticOmatic - Paris, Supersonic - 11.11.2026",
+          "source": "Sound Of Violence",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVNQZS1JLVRxSXZpT2piVjF4TDdNbWNINkZ4SFYwc3lheFg2N3o3SENseHhBMktCMXNwaDRoQUI3RnB2TWNEUE1rLVlXUGVKRlgzZUJjODZtSjBjVEhHVnU1UlN1VDNKenRHYWZzMzBYVlV5R1lYZHZoTTh3SVpkRGVKMkxHYWNMYldNeDBKZDEwUWRJQlE3NVN3UlZsSGUyM1BraFRtcTI?oc=5",
+          "publishedAt": "2026-11-12T09:51:41.000Z",
+          "severity": "info",
+          "titleZh": "照片：AtticOmatic - 巴黎，Supersonic - 11.11.2026",
+          "content": null
+        },
+        {
           "title": "Mouvement lycéen et étudiant: la préfecture prévoit entre 15 000 et 30000 manifestants à Paris",
           "source": "TRT Français",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JbnZxOWdJaEs2VklYN0VOY0ItYXU4ZVp1UjA3ajd4SWJ5WnZwTGloNnpWbXZyVkVXeXdnbi02TE9GZFhtV09TZlhIT1N0LUh5ZjQtSzU3a0xfbFZv?oc=5",
@@ -191,12 +372,12 @@
           "content": null
         },
         {
-          "title": "The evolving geography of Paris protests",
-          "source": "Le Monde.fr",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWlWODl6cFRLN0VqSW14NlZXVjh1SVk1UkFhVGFGdjE5cHNiVDc0ODJDOGNlemx1dmduVkdtWnZnaVQwU3hnTVJJVGFTd3pQNkpfaTBxLThDWmEwYnFwY3doTndhZnAtOGlkeGpRZEJvdGMtWW9VaFpvN1poMkl4R255RV9zZ3JnMjh4Y0NHZlVpUzB4Vng4aXJmMnI0Qmg4NTJFaWtuUUtFOVltbUp4UC11XzJnRndlajhOWUlXMDc5Nmp0TDV2ckpHQllKNkk?oc=5",
-          "publishedAt": "2026-11-12T08:57:27.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎抗议活动不断变化的地理分布",
+          "title": "Insultes d'un enfant visant Emmanuel Macron : \"délirant\" et \"scandaleux\", l'Élysée réagit après les propos de Marcel, 8 ans, tenus en direct sur franceinfo",
+          "source": "ladepeche.fr",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaTNiZ3c4LTJtcWlhaHJEalB2UXgwNEc0TEctQlo5d2QwTFFfZHF0ZVFLY25lTGZBbnRTRDQzc3lpVDd0NHFFdW5HaGMwemhFNUVHQTlURkVHQU00WGxLMThMeFMxUG9aenYwZzY0Mm90YjUtczJWWUNiMmFGalQxWnNiMElqbElfOHlpN3JOaHRPYUJtSkIxcnlKTlBVZkVRR0V6aGxPYkREQmhoUnFfOEhQM0tWWklLbFBseFpWRFhQaDFhMFAzbzBtOElEWW42ZDNBbUZ6SWlsU2hEYVJnaGNMNWYxWElucmV1VGZQWHhMdmZaeVpIcnFPTllVUms3SjdsNDNXZzMwVGJQRlJFaVQ5QnlzN2tI?oc=5",
+          "publishedAt": "2026-11-12T09:29:00.000Z",
+          "severity": "info",
+          "titleZh": "一名儿童针对埃马纽埃尔·马克龙的侮辱：“妄想”和“可耻”，法国资讯网直播 8 岁马塞尔的言论后，爱丽舍宫做出反应",
           "content": null
         },
         {
@@ -205,16 +386,7 @@
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRHdtbU9uaS1kTjl5VFhnNU5QRXlpTVotN0MzUUJyby0yNkJ3REg2cUFmUXFHNGNpNmpPMjExUWRIOF9Ub3pSR3N4Uzc0bE1VQ0tBZ01UTGY1enk0TGNtdlQzMmJCbnFFcmJYQVk2ZHlEX2NwQkttYlR6cE5aOExtSmtrbF9HVTVVb2JQdnpvQ25kd3NvRVQ5Q1MyQ0ZCbU5GTWhISlVXenN2cWRVYmp6Vzc4Q21CbmU2QzVMVC01QWN4TWxf?oc=5",
           "publishedAt": "2026-11-12T08:45:27.000Z",
           "severity": "info",
-          "titleZh": "巴黎本周末初霜：极地涡旋已经来了吗？",
-          "content": null
-        },
-        {
-          "title": "10 millions d’euros de dégâts, 170 lycées touchés… La Région Île-de-France veut durcir les sanctions et couper les aides aux « casseurs",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNYk5UZFpXTDZxaHBDeGppeGpkbkNpb3hzWW01dFQ2M2swUFA5ZExic0pHbTdTT1dmY05ZSFBjaWdhdWRoM1V0Q3lKZmEtS2hETTZEa1pvNmNMOXdVbngzQlExTDVHRnp1MGpZbTFoSEVvX0pINXVaTHFYRG9Kci10UWxNcGdfaU9LQXlRRWhxWU81aUlGRVJzclVrSkEwQ1VjMVd4aWNwbXBwZGRadWJjaVJHSksxOUktUDFLelBJOHVpWDdiRU5XMy1Sc3J3c2g2bmctWVB4QXc0RWV5NHYxbWN5R1ZuYTJVVjBtR3hKTVItZGYxYUFlWDlmc2hVcUw4LVpldEpXUk5jV2FsTVRmM3VSUkxnZlZkRVpqN2FlRkFQY2h6SnlWN09abVpHLU40?oc=5",
-          "publishedAt": "2026-11-12T08:41:21.000Z",
-          "severity": "info",
-          "titleZh": "1000万欧元损失，170所高中受影响……法兰西岛大区希望加强制裁并削减对“暴徒”的援助",
+          "titleZh": "巴黎本周末初霜：极地涡旋已��来了吗？",
           "content": null
         },
         {
@@ -245,6 +417,15 @@
           "content": null
         },
         {
+          "title": "La brigade de protection des mineurs de Paris face à l'afflux de plaintes pour violences sexuelles dans le périscolaire",
+          "source": "Radio France",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQaE9JNjJ2YUNSOFlQQ183LTRWejZsNjBQM2VKR01GNkZDWWszZzUwM3ZGbWlVS3prLThGdlFTZUlBb05xV3k2eFphNlNkclNxbEtUT1BZZEN0NWszTkxBSHlNTkhNN0JjYm5EM0RpcHV2aFlLUXRRVEFwSlBaSlh5SkxuZFR1RHFrdXJDS0doMjlrUF9vV0JPS1Azc05UMzN6WVN3N3Z4eGp1OFNYSERsSnMwdHRFaHlHcDg3SUJmSFFDN2ZseWJrdlotTURvbUx5Wm5KTHJHeUdxTVR1QVc0M1J2Y3RmSXZWZ0F3a2dyZjlZbFlkeVVxU0htVUdfTDFRaTA3RjlLMVJrU01oQXo2MUlEX2l5dkFiZEhpc2Y4OUdTckFwMW9EWTVFTFFac1U?oc=5",
+          "publishedAt": "2026-11-12T06:14:00.000Z",
+          "severity": "high",
+          "titleZh": "La brigade de protection des mineurs de Paris face à l'afflux de plaintes pour violences sexuelles dans le périscolaire",
+          "content": null
+        },
+        {
           "title": "Weekend of fiery protests in France raises questions, costs millions",
           "source": "DW.com",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcFhEay13QkdwLWpfT2lQTm9RVFBEdkFKSWNENUNMQU1xTG02TFpmbUVEb0xCam5kaVVnUGxWREhNTEF1SG40VmkzZGl6ZUpzSXYtMUtBRlc0YmoxT2dxVGNLQlhXMDA5cjJ5elNydDBLYmZOTlZDTVJtb05DaXZDMEpva0VOY3hWSUhzM0FENGZuNGR2V2lFbG4ybkZFNnBzZW5tMm9JR0lNWmdXeUJsOHdR?oc=5",
@@ -254,21 +435,21 @@
           "content": null
         },
         {
-          "title": "Le président du syndicat de police CFTC, Axel Ronde, interpellé pour refus d'obtempérer à Paris",
-          "source": "ici.fr",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdWd5QmFBUEZZMVNLV3NYVTdhVG1tNWxxbm5nUnhNVmhma24xZUJ2b3lWTFJNTHpYcUR6YVJXS1NvUkV0UmZIeHJxdzdmcmtGYU9ONHl4VmpLT0hxNW9fZ0VyajEwTkluM3lFM3J0UzZfQWs1V1ZHSzJZOXpKRlNUN0pkV01tNHk0UjFrQ3RRMHE4bkdRYjNWMzhIU0JaRVE3NURBanBvS1JITERtSkdhUkVnTVJtRjMwbjFjbVEtX3lJVmNSOGFxRldIOFpHcl9ZbDBNUTB6b3lrZXBpLWZGTGdGdw?oc=5",
-          "publishedAt": "2026-11-12T05:03:27.000Z",
-          "severity": "info",
-          "titleZh": "CFTC 警察工会主席阿克塞尔·朗德 (Axel Ronde) 因拒绝遵守巴黎规定而被捕",
-          "content": null
-        },
-        {
           "title": "«Un retour du sabotage»: comment les casseurs perturbent les manifestations en France",
           "source": "Le Nouvelliste",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaDRHSnZFQVhBeTFwZktOeUFhWllEUEVZSkpuaDBRZWJxU05jX3dyaWZVQ3QzTmxyTHRLR3duYVBtT1ZTUjg5dlZkYVd2d21JUlV5NUF5MG1kWi1OTmc4STlReG9WSHNsMEpobmZ4QVBBY1lXdUlhczhRcEhWZ0dxYWg0b1owdzE5QUVUbHNqeWxMMFJzZzFZeEk3QVpyb1gyOF9uY0kzM2k5bm5GUnF2ZmtOSVRRX2FTZjNyZk54XzNqVE0?oc=5",
           "publishedAt": "2026-11-12T04:00:17.000Z",
           "severity": "medium",
           "titleZh": "“破坏活动卷土重来”：暴徒如何扰乱法国示威活动",
+          "content": null
+        },
+        {
+          "title": "The evolving geography of Paris protests",
+          "source": "Le Monde.fr",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWlWODl6cFRLN0VqSW14NlZXVjh1SVk1UkFhVGFGdjE5cHNiVDc0ODJDOGNlemx1dmduVkdtWnZnaVQwU3hnTVJJVGFTd3pQNkpfaTBxLThDWmEwYnFwY3doTndhZnAtOGlkeGpRZEJvdGMtWW9VaFpvN1poMkl4R255RV9zZ3JnMjh4Y0NHZlVpUzB4Vng4aXJmMnI0Qmg4NTJFaWtuUUtFOVltbUp4UC11XzJnRndlajhOWUlXMDc5Nmp0TDV2ckpHQllKNkk?oc=5",
+          "publishedAt": "2026-11-12T04:00:05.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎抗议活动不断变化的地理分布",
           "content": null
         },
         {
@@ -288,168 +469,6 @@
           "severity": "medium",
           "titleZh": "随着抗议活动平息但并未被遗忘，经销商们返回巴黎大皇宫拍照",
           "content": null
-        },
-        {
-          "title": "France is criminalizing critics of Islam — instead of the rioters destroying their cities",
-          "source": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVVVRajVGS041UlJBUGJWMTJGVWVjZ3Z3Zkp5OUxWem1XbmllZ2Zaa1U0WEdPSXVuSEVoa2FTUmV2SkEtYmsxVjBEY3lkcWRTTDlZZWtqeFdraG5fUExnNEpiYnZEN1JJVTgzT0d5dGFnSlRlQmFVSzJxTjVzTGtBcUlITDBNVVBEU1hJS3dZd1pwc21hYmc2MFdDYzhpUW1mWHpVN2hCekZQc2ZFaS1ReGU4OEI2bEtr?oc=5",
-          "publishedAt": "2026-11-11T19:49:00.000Z",
-          "severity": "info",
-          "titleZh": "法国将批评伊斯兰教的人定为犯罪，而不是将破坏城市的骚乱者定为犯罪",
-          "content": null
-        },
-        {
-          "title": "Mortiers et incendies : la contestation lycéenne bascule dans la violence",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd0FlcENERU1ybDE0TGZvNVNma1QxdUxtTERYOUh1RmwwOENOeDVoVllKWDVXZDBTVm5wRzN4TWpTN1dRcG5lYnlRQ0dlbUtTTzlmbXBINmsyOHpmcjFzaU1nZWYtRm5LMFU1Ml80TExrZ3BwcXZ4WUpjU1NLbk50Z1dnNFdyZnhudWQ4R00xU0lZMjJlZGxPMmRCU2RZUi1UazdwZkVYRFVNYU51V01Ra0lqZ1A2NHRiQU51RzhxMlVueVpiS2xrd2o5WVk4WE5wUzg0S1dWR0gwRjRvcm42WEU1MkV0MUMyMHRQeUdJVWpvZ01rN2J3?oc=5",
-          "publishedAt": "2026-11-11T19:13:24.000Z",
-          "severity": "high",
-          "titleZh": "迫击炮和火灾：高中抗议演变成暴力",
-          "content": null
-        },
-        {
-          "title": "Malgré la grève générale, le Barça refuse de s'arrêter et le Camp Nou ouvre ses portes aux supporters",
-          "source": "Goal.com",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONzV2NmxiMkJhd01jTVQzR0pwMUduN05CVy1Yblcxb1NnR2J4UXF2eDVLcDExcVMwWlhSUGVINVJieTNiN3BDRzJlOG9fNWNGQm9vM0NBb0xzc1JEc01IYlM0bTAyWGkwMUdlSTZHQlRZdlJNM3VlcFlfTzF4TWNIaEtLWmxpMlJJeDJROTRHQWlsellrZXY5bkpyWEtwR1ZpeEx0OC1kc09WM0pDZ0Y3RV9XMUxoUnBDMkE2UWMwNHpERTAyVlBvREhEQkdnVHpaYXQ2RzY2TmM5RzRFX0IxeURoZw?oc=5",
-          "publishedAt": "2026-11-11T18:55:12.000Z",
-          "severity": "medium",
-          "titleZh": "尽管发生了总罢工，巴萨仍拒绝停止，诺坎普球场向支持者敞开大门",
-          "content": null
-        },
-        {
-          "title": "Le président du syndicat de police CFTC interpellé pour refus d'obtempérer",
-          "source": "Radio France",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdnNiU1BnbURjTnJwMGxHM0dmN0ZYZ3dsLU83WUNQUG1Fa0JCQnkyaDhmZFdZY3pHQ1dsc3NueXNkSy1Hc3RvNDZycVFnaDQ1Ui0weFdCOGp5Q3ZHeUNqZkRnRVROSGp6Y2FhWHF4Ynd6Q2dpTjRmNGd2OGU4cnpfWGh3bWtLYm1wZFBqMXJvUENpLS1rMkhwSXliYy1jQWJDRkJjVmpIS21DYU5Md0FvYkRJUHgtRnNjNFZZNjlYdDd5NUQ0dGRfSnY5SlYtY3BHdkpiMFJVR0xhTDdUQmF5aHhKVmJldFBUelE?oc=5",
-          "publishedAt": "2026-11-11T17:00:00.000Z",
-          "severity": "info",
-          "titleZh": "CFTC警察工会主席因拒绝遵守而被捕",
-          "content": null
-        },
-        {
-          "title": "\"Nous vous demandons de saisir le préfet\": à Paris, les maires de droite réclament des mesures contre les blocus lycéens",
-          "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOG5JWVNEMTZ1TkJKNURUNGljclE2SDlMZ3U3YmhGLTBXVXhCSDdsckJ5NmVQU09pbFo5ZmNfaVU1NUpQY2R0WmF4U293QlJUWmtpdWdYMXdrMVNBTEg5OEk1S0htVE40dEtDc0sxekZCYkdLUjgxRm02WGkzX2hjLU5ZdjNJMFV2RUNSWXBhRjZYX2oxdXd3UEwyM09zVjk5WlBtbkhtRXlZWEpiU3BGWkVLMExPTFNHSmowNlphOE1WLWJMd3ByTGRIWVdIWjhVVmltbUFvbkMxbS1pXzl3cE1zeW5yTnJNb09ITnkzSHZQOGtIT1NkbkNEM0ZheGtoenc?oc=5",
-          "publishedAt": "2026-11-11T16:35:52.000Z",
-          "severity": "info",
-          "titleZh": "“我们请您联系省长”：巴黎右翼市长要求采取措施应对高中封锁",
-          "content": null
-        },
-        {
-          "title": "« Il y avait eu de la violence entre vous » : quand Rosalie Van Breemen s’inquiète pour Alain Fabien",
-          "source": "Paris Match",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDVYVnB1QlpxY2gzaVRqYzFWMVhhV0tUXzlxWkV4ZGhOM2kzclhSaXFLSFBLa29iS3dJbjlmdzJGYWE0a1BYNTl0eXlNQzlIMFc5NHF2UEZsbkdqUWgwdXNXUmtHeElpQU45OUZWOC1mRW9aMFUyNW1YT0FDd3hTVFF3a1puNlZGQXVkYVVMeWE0bENIdXU3LUFfVEtNYWZCM1NnMmJLRnFRVDdQRld2ZXpkd0tKd3FMMm5GVXlKdUU5R1k4elFCNFNZSTFOUktRSGIw?oc=5",
-          "publishedAt": "2026-11-11T16:04:04.000Z",
-          "severity": "high",
-          "titleZh": "“你们之间曾发生过暴力”：当罗莎莉·范·布雷门担心阿��·法比安时",
-          "content": null
-        },
-        {
-          "title": "\"La guerre hybride de la Russie s'est encore intensifiée depuis le début de l'année\"",
-          "source": "La Libre.be",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNamRYSXcwU3puWVpBeUhQdlNMS2NNWDd6YkdhQWU3UWoxVGMzTDVZSUVjb0dWSFRFTG9XaGJBRGZaWG1FTjVPMXQzeEduZmxFaVQ3Mll4bXc1elFGWFJVS2p2aWNHWGxfSzl5VHJVaTlkbzVua0ExVGxjYk9lanB6Zjg3eTFKR3l0ejhJSi1IZEpJQWRJNDZfRUtyMkRWYV9iODNJNzZmOWlORTZsVktQRU8tVXAzYlVtWW1RbmNST2FGcEhlNjlfN0RiNjctNHJuY0thQ0RPQ0JlVHVkSUxRYlFZdy1BMjdIQ2gzMmtjRXdIM1VYUVRxbUxHOA?oc=5",
-          "publishedAt": "2026-11-11T15:37:00.000Z",
-          "severity": "info",
-          "titleZh": "“今年以来俄罗斯的混合战争进一步加剧”",
-          "content": null
-        },
-        {
-          "title": "\"Dix fois plus douloureux\" : l’impact suspecté des gaz lacrymogènes sur les règles",
-          "source": "France 24",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYVRIVkt0Q2VNNW8yZldfZFJTWVZLTF9TNE9YSEpYT0tUMDZ3N2JDYzQ0UF9nQkcxR1lXUW1RVnU4WlFPZmZtSnVodnZ3YnE0UTJqTjBqOGJ1Njg3SlAzMVZ6LTl3UWxHX2Q0eVBpMXRwVzI1Mk1RRDdBY1ViX3JGN1h0MTkyb3d6UHZXN0hxTGVNSGdsQXVBR2lpc1lWeWlrQ3pHV01jMmQ2STA1OVdaNmJsRFhyU3lHNDJ4Q1M4TVB1WEgyNWprMThzdXVJSE9WZ1Y4?oc=5",
-          "publishedAt": "2026-11-11T14:05:17.000Z",
-          "severity": "info",
-          "titleZh": "“十倍痛苦”：疑似催泪瓦斯对经期的影响",
-          "content": null
-        },
-        {
-          "title": "Geffray appelle à \"la responsabilité collective\" et à une \"condamnation unanime\" des violences",
-          "source": "France 24",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeFBtaExTdF9HMFowVGdBOEQ5YkVOZTg0bGdpMTEybWg1WlNTcG9FTFNjRkNWdXNIcFNfXzdqYUlLNmJJQkNVZVlyWHE0QV9ER3YwcnVvc2JmVWN2akI3RmE2TlBUWVpNaDF1QkpxaHdPdGRJMG5MUXVuMTFzMlkxbVE2Y1hXVzdTVWxMbVpuUHhpdk5hWE1jWFQtVmhYcTMwMGV3YW5LRUYySmhiNVJxbjZ4TFpmWm1JQlZJWVpORU1kbENCLVR2d3czbzdYc3o3ZE5XdUprclowUy04WVZNSERHTDhsSEZ5SEZEMGVJdw?oc=5",
-          "publishedAt": "2026-11-11T12:26:09.000Z",
-          "severity": "high",
-          "titleZh": "杰弗雷呼吁对暴力行为“集体负责”和“一致谴责”",
-          "content": null
-        },
-        {
-          "title": "Un homme condamné pour avoir caillassé des policiers à la fin d’une manifestation à Rouen",
-          "source": "Paris Normandie",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTU5nUXk2Tm9ScHhTckxuQVFOdWNhSE5nQlVkblF4RFN6Y2Z3V3VicjVMZ2pvSmwxU0VGclpUN1RXRFRiOWU3WjV4RHg3SmpTZmNhbUpvM3JvTVhQSG14ZVA3R3BmWjEwYTluMXJIZzNza1liZ1hpbVFDVVdVRHlKME44REFKeERseVNnUC15d2ZmM3Eycm8xRmpSSm5sSk5fckhwaWNXaDd1MkJXT1B6QkJlaWhydFVQZXZRaVdDREpFVE5QMVlZWFhFdnVwWjVKd0VR?oc=5",
-          "publishedAt": "2026-11-11T11:41:00.000Z",
-          "severity": "medium",
-          "titleZh": "一名男子因在鲁昂示威结束时向警察投掷石块而被判刑",
-          "content": null
-        },
-        {
-          "title": "Loi casseur-payeur, une bonne nouvelle pour les assureurs ?",
-          "source": "Paris Normandie",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWhESWw4YmtjWnBuTTUxTDBSUGpLNjc5SERGblRFVjdSbS14eW1La0g0amFRTWZlZFNPcm1XX3N4Y0dIMG5FOWVpSmN2WVBaUW1CX0VxX3NFRHpZSFJrNDFsSXdsNWZRUXZ5eVRTdXRTM1BDS0hEeEl2YWFlYXhPZWp1Z3FWMW4wTGNyREFZSENXanBtOGNVRXgxZHhlN043elZKcGVkZTMtLWxIWWwzdklEOUJrUQ?oc=5",
-          "publishedAt": "2026-11-11T11:40:53.000Z",
-          "severity": "info",
-          "titleZh": "破坏者付费法对保险公司来说是个好消息吗？",
-          "content": null
-        },
-        {
-          "title": "Paris : les conflits sociaux et les manifs n’ont (presque) pas freiné Vélib’",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUlViSVdlWXdrWlVaeDdnZ2czMWRDQk1hVklZRGplWk9qeUZmVEVNVUJPZmE3dmdQaU9MRHJsV25rMzBDUnQwUWtlZFJ4aENrVFp6Szk1dVBzMnZ5Nk5udjM0UzJXeVRkQWNaNjJtRk13TW1qaFVNLVhOSXhaWnJ5T01VYXRiX21OZ3FacndwaVd5QU9BTXpXU1ExcUdyd01YZ0U1cWltVnVUWWRKMWdjcjNxaWZ1THFTbWFnaGQ3X2dYcG5zV0VnZkJVZjVkWnlxclBFR1BlMTFCSEt1Wk1IRWFBWER3SUFCUFdTendrcHgxT0Z6Q0Y4NVlyLV9IVS1uMHNuMlJ6eXVBOW8?oc=5",
-          "publishedAt": "2026-11-11T11:10:25.000Z",
-          "severity": "info",
-          "titleZh": "巴黎：社会冲突和示威活动（几乎）没有减缓 Vélib’",
-          "content": null
-        },
-        {
-          "title": "Violences faites aux femmes : le judo se mobilise en Île-de-France",
-          "source": "sportmag",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOang2RVJZZ0l4Rm5nM3dpa19Ja3hQdGswa2ROaDlMcEIzbENUbWdKR2VISllkTVoxa0FIOXhEUEJhRlhkWU12MGFaS0hSZ3VjdjBudXNIaXBmVE5EVGJwTkx2Z0dPZFNlUHlCdWN6V01mSUdnSUljbmEtVGxpel9PVDAzZFVROTR6SUNGQXQ0RW9QLUFVSHhFUdIBmAFBVV95cUxOang2RVJZZ0l4Rm5nM3dpa19Ja3hQdGswa2ROaDlMcEIzbENUbWdKR2VISllkTVoxa0FIOXhEUEJhRlhkWU12MGFaS0hSZ3VjdjBudXNIaXBmVE5EVGJwTkx2Z0dPZFNlUHlCdWN6V01mSUdnSUljbmEtVGxpel9PVDAzZFVROTR6SUNGQXQ0RW9QLUFVSHhFUQ?oc=5",
-          "publishedAt": "2026-11-11T10:00:57.000Z",
-          "severity": "high",
-          "titleZh": "针对妇女的暴力行为：法兰西岛柔道动员",
-          "content": null
-        },
-        {
-          "title": "Omar Sy sera jugé fin novembre pour « violence, menace et outrage » sur des agents SNCF en 2025",
-          "source": "Le Monde.fr",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbGlsMVRRYkhocXdLa3NBYzFwNkt4QWd6WmU0alVYbklCTWpVVl8zbXMtZExOUHVESzBHQ1hyQm0yaVZIWVQyX1h0emFBWUJsemI2b1lhS3MxZ1RTRzJoa1ZkMWMwREZNOUc4M0RqeXA0b3VqZDlvREE3Q0RtNzVDVzNvQksyUDlEeGpYLThvVXR4aW5QZ01hU2ltM3lNUlNNNFdkY3AtOXdmUDRNSU9ZeExHMkZoaVJVUm83WG9xQ2h4VTN6ZjVVTmh3dXNYMDF3UE1wS004dlpZTGhhcEZnb3pOSmNLa3hTdnFYVmdOUQ?oc=5",
-          "publishedAt": "2026-11-11T09:43:48.000Z",
-          "severity": "high",
-          "titleZh": "奥马尔·施 (Omar Sy) 将于 11 月底因 2025 年针对 SNCF 特工的“暴力、威胁和愤怒”而受审",
-          "content": null
-        },
-        {
-          "title": "News : Une date à Paris pour Prima Queen",
-          "source": "Sound Of Violence",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQajJ3bVlPZGVfVGZ1YWY5a19hREJRUEM2VG5qeGstTWJSR3FrSUw2QThIaU01c2w4Q1ZnbXZMZ2NDQXhKM2ZaTjBTaUs0UnlrVDV2ZnZFdERqVUZiallEbVVISXFUcVhlOUFxZlpLYUxQbHRZU216dFg0NnBEMm1LNGNQNS1KNGQ4bHB3Sll4Zw?oc=5",
-          "publishedAt": "2026-11-11T07:48:13.000Z",
-          "severity": "info",
-          "titleZh": "新闻：Prima Queen 巴黎约会",
-          "content": null
-        },
-        {
-          "title": "\"Un moment pour le blocus, un autre pour les cours\" : en marge des mobilisations, les lycéens tentent de limiter le retard pris sur les programmes",
-          "source": "franceinfo",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQeTlGWUpGVFlGODlJS0REQnpNUHp6QXZQNzktLXFHQTg0eEwtRnBzdzAyYnBvRXRvUEw0a0ZSRC1DV1hJc01DM2pfeEprZ0lXRXBnU1RjZEJTQUlaN3g3NlJkWW5RWkpET2s2Qy1FZWdla0FkMGE0TGxBazlHZnkyM1dRUlZXeDFWM2x6NkdKRnJQaXcwcGlvaWp4TXVhY3lxVlVodnlPeW01dndjaDdISjA1V2FYbi0wY0RMMmVuU3pma0N1MHd6VVRYX1Bpd2pQbjZicVp0S3gydXFXdUZYMGQxVWsySGdwV3JWSzFzYnljRUowaWNvVUN2UGdWLWJlNzV5NVlzbFpOSWhsNTBwbmY5enlvbWdwN0tLUm5vekJyVWZiMmc5aHJJbXoyd2lONWthXzFHUUZYN2NId0ZJc1BaMXE?oc=5",
-          "publishedAt": "2026-11-11T06:03:31.000Z",
-          "severity": "info",
-          "titleZh": "“一会儿封锁，一会儿教训”：在动员的间隙，高中生试图限制项目的延误",
-          "content": null
-        },
-        {
-          "title": "Manifestation parisienne lycéens-étudiants : belle ambiance, malgré la pluie !",
-          "source": "CAPJPO EuroPalestine",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQUNaaC1EMUlDN29TaW9OMkJubkplS1hPQTlxcGsxUmdjOFNpTF9KazB4OWlPbVlqMW1CcFJyaWZZU2xlbHhfX19NZFFWWk1rMGQ4UFM3YWpPUFNVeW5nVDhJZHFrWlRKTGpiZFZka0NYWFJrZndXRmxibFZrdmI0cTdnV25zMVRoYWVIZmw3NTlicEpPV2gxaWJlQUZCUUdISVBaWkVCRExxN25EYW8yUw?oc=5",
-          "publishedAt": "2026-11-11T06:00:00.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎高中生示威：尽管下雨，气氛却很好！",
-          "content": null
-        },
-        {
-          "title": "Affaire Keziah Nuissier : des violences de 2020 au procès à Paris",
-          "source": "martinique.franceantilles.fr",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMTNLYVhoR2JNRVkwNHNhbl85bTNsWDEzZlRyNlBDMjJ0bHFKYXZsMU0zY1p4Wldkb2hiakc3OVBTYXRvaEJON0hOWmZ1QWl6MDVydTkxSWpsQ1BJQnQyRmNfREtHWXBiazZNaEFBci1xMzRyYWxzRmZBNW9lZFlDVVdVQTFTV21NbEhQQUc4MHA0RzAxMnBkVUFCQlRMYk5CeHBKVnRiQTBXVDVKRTJTQ1hNa0JHYk9BWVA1bTNwVDBJNkZuNnFjX2Q0N2NRTUU?oc=5",
-          "publishedAt": "2026-11-11T05:49:46.000Z",
-          "severity": "high",
-          "titleZh": "Keziah Nuissier 事件：2020 年巴黎审判中的暴力事件",
-          "content": null
         }
       ],
       "places": [
@@ -459,12 +478,174 @@
         11,
         12
       ],
-      "articleCount": 32,
-      "clashCount": 6,
+      "articleCount": 26,
+      "clashCount": 5,
       "status": "unknown"
     }
   ],
   "latest": [
+    {
+      "title": "Manifestation du 17 novembre à Paris : l’intersyndicale souhaite un parcours entre Invalides et place d’Italie",
+      "source": "Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNWWRPeDF2WG51QnRMUG9UX2RHYV9ycDRaVEhDVF9JZVROOVZWZENWMlVPdGlBdWcxcm1LanMxNzM3SjdDQ00zQUxSNFpYSHZ4R25xS3FRMUFHdThOalBtZzN6NVlwTkZtWngya09ObmRGVmVadnhkZ0tMRmNjazdpMGQ1R1hTTUJ3cV9KWWRCdVpNNW4tWU1SLVlTYWZZMUlCeEExcHRsRzBDVVV1VTFJN2lTejl4cmtBNklQQjg5VDd2d1g1SVhrMXhXOGpmVERGQ2pDc0NkNmM2RGpweU53M0doY0hXOEk2dU0zbVVVdkRxb2JIMnJvelBzYllkNFZ5amdUZ0hTMklvaTUxVC1oMg?oc=5",
+      "publishedAt": "2026-11-12T17:38:23.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 17 日巴黎示威：国际工会希望修建一条往返荣军院和意大利广场的路线",
+      "content": null
+    },
+    {
+      "title": "‘Labelled terrorists’: How France is using anti-terror powers to deter protests",
+      "source": "France 24",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRWFxUzVNVGRRVXhBOTNrQkphSlV3d1dUZjNaOUxBZzlJeDRwdFdoYlhfOERWZzQ5eWtsZ3kwaGZLWUsyc012UWJld0Ryd1BFVEZhRWYyN1FaczNHdFFmQjlaSERNaEpjSTVfMEdOQlplMThLalNsQUUzaEZFUV9SSmpGWVYwdTlhTk9pTWxERjl2UGFZZkJvbWRNcGZCdWVkdXpwazgwcHVIZU5qNjNKNTZsTmtBampCV25vM1RaNHBHblFFYmc?oc=5",
+      "publishedAt": "2026-11-12T17:32:06.000Z",
+      "severity": "medium",
+      "titleZh": "“被贴上恐怖分子标签”：法国如何利用反恐权力来阻止抗议活动",
+      "content": null
+    },
+    {
+      "title": "La préfecture interdit la manifestation des identitaires à Rouen contre le racisme « anti-blancs",
+      "source": "Paris Normandie",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWE92OFNkMjU1TlFIeHNuRWF6anBSU0M0UHpaQWJYSnU3aXpQcVp0UjExd2M1OXkwMG9lOUx3Q0IydjNIY1g2X2N2eV91Ym00RkJ1djJJdWd0WExYZUxGYldTMGZUMGhieHhlUG84U1Y3VXVFblFhRjlXM2I1d1lCbzlycnNqMEpCS0l5UjJFaF8zcmwzdmFmdWNvTk81OFlRTmE1OVRvelowbGZBb0doVVhRMExqQ19pZzdmSDJBb0dTQlM5Yy1MLThJbG5DWnpFSU81OUdR?oc=5",
+      "publishedAt": "2026-11-12T17:26:47.000Z",
+      "severity": "medium",
+      "titleZh": "该省禁止身份活动人士在鲁昂举行反对“反白人”种族主义的示威活动",
+      "content": null
+    },
+    {
+      "title": "Lycées : le gouvernement hausse le ton face à une intensification des violences",
+      "source": "France 24",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbXcwTFZoaU53YnpQY3BQdm40ODlidTI3ZTJfclY4Z252Z3lfaldIWFRWbzVWSVVMZjVEanc4OXRrRjM2Q0pPMk52Y2RPdGNwM3JMdEM3SE1EeFRESFVtejhlMzdXdGxyb292VzgwVmRFX0dfSVgzSkhsQmd6ZkJpZDllVGQwdEthTDdVMU5aTV9TYTJiTWIyNWZ6d0w2THBET1E3S1dHc1JnUGlIT0VwWWE4UXhGU2ZnVFZHV3VwUXlFNGE4b0dGUFhUYTRZQUFtb0hqbGJrZw?oc=5",
+      "publishedAt": "2026-11-12T17:17:34.000Z",
+      "severity": "high",
+      "titleZh": "高中：暴力加剧政府发声",
+      "content": null
+    },
+    {
+      "title": "Les sorties de ce week-end à ne pas manquer à Paris et en Île-de-France",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZHFMbDRXTERCU3NCVVNfUWtZaDFPVWE0bUJBNE8xN0tkN0tpZmVVbHptNVVZWGFyT2ZCS1FXeUwyNm43N0JyMWJTaGJ1empiR1haQVVNRDh5blFGVDI4aVpBYTgydHFlRDZIcFVESGtqTmhaVEV3MDhXWmI4ZklpMTU1ODdkQ0dfY095NmpZR3JEZ3Q4MkluZ09vaF95Z2FEOU1mNjlJUlprdWJnQ0VVc2xNWFktTDhzRUxaSXB0a2hObmU3UkVFWjdWNG5KcGd4Vk5GQU9Xaw?oc=5",
+      "publishedAt": "2026-11-12T17:12:59.000Z",
+      "severity": "info",
+      "titleZh": "本周末巴黎和法兰西岛不容错过的郊游",
+      "content": null
+    },
+    {
+      "title": "News : Un inédit et une date à Paris pour Kojaque",
+      "source": "Sound Of Violence",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa3FvLVBHX2RkNl9mUHl6U2tjSGx3dGs3cFl4YUhRQnAxUGx4MlpfZ01zRW1SYVRubHBuOVI4U1REUWNCMENic0lzbjBlWXJxbTdteGk5cDVEdzNPcm4tTS1ZQXJISWZpU3lpRUdtSjRfRFpPVTFSU2lvcGVVcTF5REc0TXktV2lyUVVnYm96MjVJTDVTeTBybWdDRQ?oc=5",
+      "publishedAt": "2026-11-12T16:30:30.000Z",
+      "severity": "info",
+      "titleZh": "新闻：Kojaque 的新发布和巴黎日期",
+      "content": null
+    },
+    {
+      "title": "Le matériel des « street medics » saisi à la manifestation du 5 novembre : des élus d’Angers interpellent le préfet",
+      "source": "Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQT21JcHJlUDIxdlNDelNrY0RrckVSLWlLSlE2SFJVQlRPRThTcV9xLWktWkpSQ2ZkeElKbUxTNDdhcjB3ZWhwU1JiOUxVVmlDd29RVjNsOV96QlluV0lUWWZrN1NyNFV4Mmk5RzZuYm5EWTZlLTRSWGNXdmVBd0VRdS02ZzgwNWNUVlJldzNUUWxvb09kc1RYSTV4Nk5ZRjNIMmR2dGwzU0ltdXRBbldnbzFGci1ldlpDeTY1X1JZbmU4RGFsbk56ejBZQUJrYUpjYXUzbF80VzdpcXBOVmZnLVVmR3UtRHJQQWVRSFc2VHh1ZTFLS2V5SzZFeVpkU1kzd1FaWnh4X1dGR2s?oc=5",
+      "publishedAt": "2026-11-12T16:06:25.000Z",
+      "severity": "medium",
+      "titleZh": "11月5日示威中缴获的“街头医务人员”装备：昂热民选官员质问省长",
+      "content": null
+    },
+    {
+      "title": "Violences dans les lycées : Lecornu met en cause des complicités dans l'Education nationale",
+      "source": "mesinfos",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVDh6YWlEQlB0c21MTTBMM0JjdmV6amY2VnJ5Q2NUaWJxT0MzNEpDUUZtX3pXYzBZY1ZqYUpZRXA1WmlvTjFEZ3AyMTdjU0lpQnhDVl82V21tVl9pTGE0RG1DZjRmc0lzMmdaYnRvcThIN0FEVnpNcm9ZT3RpdGdBcm4zZGM4VGpvZmVZLXZaR1kzOE1JaTlmU0NTV2d3Z084Yjd5ekVlQ0Vaci1icXVZcVg5emo4RUI2eVBTQ091TUpmTmx2ZWt5ZENuRzZ0M19x?oc=5",
+      "publishedAt": "2026-11-12T14:55:00.000Z",
+      "severity": "high",
+      "titleZh": "高中暴力：勒科尔努质疑国民教育中的共谋",
+      "content": null
+    },
+    {
+      "title": "Live report : Paris, Pitchfork Music Festival - 05.11.2026",
+      "source": "Sound Of Violence",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbmhNQ19OdEpPa1U3bkM5eHlrVDN2cUJGUkJqUC10cDNTSHlVSkwyRFFrZEhvcTV0TVNSMUtIbEczeTB6ajM5bmJ6ZW1JNjNTRGNqc0FBWmFxRHVuQXZvQ3hsdGFDeHVybDF4QkhYNlU4Y1c4c0g4b3p2M3dkMmZqMXJCNk9vUTBjTk9pdWdaeEtOMzg?oc=5",
+      "publishedAt": "2026-11-12T14:00:22.000Z",
+      "severity": "info",
+      "titleZh": "现场报道：巴黎 Pitchfork 音乐节 - 05.11.2026",
+      "content": null
+    },
+    {
+      "title": "Prime de Noël 2026 : montant, date de versement et qui peut la toucher",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdVBCZUwtdVBnRWNSaXZaVGhxVmxFUGRQYjgtNk4zLXdySC1SSVpocEhhWmVtenZmN19HMDE5REZrQThHcU8yUGNkU1RONkdZdF9XZ1dpaVlMNm1MYUFka2IyY2JPZHdTQl8xZlVMOVkta2Zab2toQVczS2FyN3ZudFM3VHpOa21hYmswQXdGRTlwT2x1Rk5QN3lTNEJXSEVkQ2h6a2x1bXJkU0RnMjNWTm1NVk9WS20yX2xDMEZ5Y1NsSzlNZjQtcDZiUQ?oc=5",
+      "publishedAt": "2026-11-12T13:25:02.000Z",
+      "severity": "info",
+      "titleZh": "2026 年圣诞奖金：金额、付款日期以及谁可以领取",
+      "content": null
+    },
+    {
+      "title": "TÉMOIGNAGE. Milan, 14 ans : « J’étais à la manif du 17 octobre à Paris »",
+      "source": "Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOERMd3EwUnBrZlg3a3RlZGstYmVKWUdPVlZ6ZWQ5TE9Yd0Z2WXBXTzZ1bVVfUTlCV3d6NEJiMjZmMU0yQUplX0Z4TVZ0X2toZmYzWG1HQkdiMDVCNDIxZnQwZHlVVDVDbGZPQkJyTkhDTGJYNlZTaU9RMTdnMmstYnRVWEpGa1M3VHctTUlqOFlqOXZveVY0eGJhMGU2bk9sQlg1NEdQcW5IZ2UzTHhNU0ZYR1ZFMm82ZU1NLVRydWR6WXEtakszSUxOUjUtamNIN2tqU3Fzd2k1QTNpS01WYUhfX0NUSkNEWlE?oc=5",
+      "publishedAt": "2026-11-12T13:00:04.000Z",
+      "severity": "info",
+      "titleZh": "见证。米兰，14 岁：“我参加了 10 月 17 日在巴黎举行的示威活动”",
+      "content": null
+    },
+    {
+      "title": "21 novembre : le Festival de la non-violence à Paris",
+      "source": "Politis.fr",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWFDQTJDVkpRa2VLVGlDYkNmZXdpZWZqeU1ZdTJyOTlGdFBoUDU4Q1hNSlJVQjRieFNSaVpwRUplQXV2NGYwbElueUFycGl6Z2ppcVEzaDFDcks2WHd6akM4b09HaXlPNVc5RzZXcnlaOVVscE1IWXZXWU1PQTkyOV9MdG1vcW1pMVJyN3lfRkNfdDRKQWc?oc=5",
+      "publishedAt": "2026-11-12T12:57:12.000Z",
+      "severity": "high",
+      "titleZh": "11 月 21 日：巴黎非暴力节",
+      "content": null
+    },
+    {
+      "title": "Forum de Paris sur la paix : au Soudan du Sud, l’autonomie financière des femmes comme rempart contre les violences",
+      "source": "Maghreb Émergent",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTEtfMHllemU1UXZCX3gyT3ZBdWhjUEUxcERzMDlKN0tVcC12UjA3YlJZZXJCaEV5U2ItbnU1ZXB0V3pnYUZJSzNxUkEyQXo0QTc3X3dvWU5ySEZuVDNUNVRweXdURFAtQXhTaHg0MFNJZTRIZjl4YTR6N0NBUzV2a2ltTllvMWRJ?oc=5",
+      "publishedAt": "2026-11-12T12:56:26.000Z",
+      "severity": "high",
+      "titleZh": "巴黎和平论坛：在南苏丹，妇女的财务自主权是反对暴力的堡垒",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 17 novembre : à Argentan, un arrêt au rond-point de la route de Paris",
+      "source": "Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNHdLaEVoZXU1WnQxbHF0VjZteDN2TDF0VWpxeGthRkk3NU95THQ1Z0NKOXlKUkI4bG9EV19zb21wMmpmZzVDaTBfMlJPbUZVczN3LXBnSk1Rdk1RZ2JZNDR0SFJjM1dTUDJWS0FUWjRjU25kRHd3S3R4aF8xRFM3aTRzRGZyT2dOYnZyeGZvaXVRMVdINGkxVDlkMnAwTkhZLWRpakZ1Qnh2QTJLVE9YNDRkUUk3QXRMTGJVUDhmSmtqVEFPMjhfbHZCLThaZ2IxSVdrVA?oc=5",
+      "publishedAt": "2026-11-12T11:59:46.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 17 日的示威活动：在 Argentan，在巴黎公路的环岛处停留",
+      "content": null
+    },
+    {
+      "title": "Mobilisation sociale : des organisations de jeunesse, des « gilets jaunes » et certains syndicats appellent à manifester le 14 novembre, contre la vie chère et « les violences faites aux enfants »",
+      "source": "Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQc0ZQLXc1T3lYbUV0NDJDMU15UUg5THJCcXE5bW9aa2kzZ2tQRUhmbGVTNG1WR2NQd1cxOFlqVDBNVlhaeG4wN2FpYV93QURrQXd2cnc5blBMSXlibjdRWnpDWm9KcmxVaGtneEI4Z00tV0w3T0M1Z0VxTzliMEluRElzT2Y4MnBHN3NJbjNiU2FLc2VTOUcyZ3hhZy1kdnRQVUFreDFvM19jaUh6X0IxMXdtX3dVUUFnLVhQbU1ieWpoS3JlZGJFSUMxREE3ODkyNEN2WUZlTnJCbUxTVkdmUFFwb05kVTlXaklmeE1KRXd4LU9tVXFXOWQwZHM1UEJHZ2lMZjV0Yi0wNmJNblRvQm1LN1ZVdjVrNjdzcXpoMVk1OVUwMmJXZzRB?oc=5",
+      "publishedAt": "2026-11-12T11:59:10.000Z",
+      "severity": "high",
+      "titleZh": "社会动员：青年组织、“黄背心”和某些工会呼吁11月14日举行示威，反对高生活成本和“针对儿童的暴力行为”",
+      "content": null
+    },
+    {
+      "title": "Violences en marge des blocus lycéens : le gouvernement durcit le ton",
+      "source": "Public Sénat",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeldFS2ZMZlNEUm5uTzgyY1paaEllMXVFeV94MzJTcmdUZkVkMGNGejNOcG9NMXhlSDhFeno2ZjVLdGlBbHY2N3lKZG5SUl9kZ2ZIcmcwR1pSeFNlMEljZUlyWEc0U2cxdHp3VFdPUGtzbF9jNmEwSUxSY2FwaXZpa0NvVE5WVFlrVVVlUHNUbVV4TnZRNjlucWJmUTFmcGY2RHE0THZreWE3WWRSOXg1UUtpQW5uZw?oc=5",
+      "publishedAt": "2026-11-12T11:55:34.000Z",
+      "severity": "high",
+      "titleZh": "高中封锁期间的暴力事件：政府语气变得更强硬",
+      "content": null
+    },
+    {
+      "title": "Mouvement social : appel pour un «acte V» samedi, une convergence de différents mots d’ordre prévue",
+      "source": "Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWTVsYVE0N21xSFpHajc4WkJ1WDZwYWQ0WjBRUWJfZ2p6UzlLdks1cHBKQ2NDZFJBYXlhSGpEWkxBT3lMM2RpRFE5SzFyRFkxVjdWeEdTUGlKcG5uRzlkV3ozVFJ6dC01UllCeXc3SF8tazgyM2JnaDNack5xU3lJbkFmUEtJTnA0dTktSFlzNGdDdFI2cU1hZDdhUFAxTUFLSTdINXFmem1GMUpkS0YxLVZwMlBlWTY2UTF1SW1yZ1VUTjdad0pRbHZzRGlMWjNOWnMxTUtqNmJGLXJo?oc=5",
+      "publishedAt": "2026-11-12T11:15:51.000Z",
+      "severity": "info",
+      "titleZh": "社会运动：呼吁周六举行“第五幕”，计划汇集不同口号",
+      "content": null
+    },
+    {
+      "title": "Oklou, Detente Group et Almond Butyl en concert à Paris pour soutenir les caisses de grève",
+      "source": "Les Inrocks",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMUYxZFhFNE5LblRJSFR4TmdjVE9zaEpudzVGRnNFeHVrejFpZW1fWG02Q0FQaTJ1RmxISTd3TnJUNFh6Q1gteXhuVG91aTY0cjdJS2hubGVTZUNPT3FDbldXMl9NN1ljOVdZbzFrS053S2xNVUZHTkoxa1VHdmdlUnNySVVSQzVaWXp2WktENFJ3amVuZENTN0ZvSk1RMzRkNjUzVl9POXYwQ2l6cFlDLTQtanBDTjZyOUR1TE9ib0k0U21lRDVpUWphQ1dMOUN3alRHcGFIeVhZcGc?oc=5",
+      "publishedAt": "2026-11-12T10:58:00.000Z",
+      "severity": "medium",
+      "titleZh": "Oklou、Detente Group 和 Almond Butyl 在巴黎一致支持罢工基金",
+      "content": null
+    },
     {
       "title": "Le président d’un syndicat de police interpellé pour un refus d’obtempérer à Paris le soir d’Halloween",
       "source": "Ouest-France",
@@ -484,6 +665,24 @@
       "content": null
     },
     {
+      "title": "Photos : AtticOmatic - Paris, Supersonic - 11.11.2026",
+      "source": "Sound Of Violence",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVNQZS1JLVRxSXZpT2piVjF4TDdNbWNINkZ4SFYwc3lheFg2N3o3SENseHhBMktCMXNwaDRoQUI3RnB2TWNEUE1rLVlXUGVKRlgzZUJjODZtSjBjVEhHVnU1UlN1VDNKenRHYWZzMzBYVlV5R1lYZHZoTTh3SVpkRGVKMkxHYWNMYldNeDBKZDEwUWRJQlE3NVN3UlZsSGUyM1BraFRtcTI?oc=5",
+      "publishedAt": "2026-11-12T09:51:41.000Z",
+      "severity": "info",
+      "titleZh": "照片：AtticOmatic - 巴黎，Supersonic - 11.11.2026",
+      "content": null
+    },
+    {
+      "title": "Le 19 novembre, retraité.es, exprimons notre colère. Toutes et tous à Paris ! (Appel UFSE-CGT)",
+      "source": "CGT État",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZlRQM2NJbEFLc09mZHJITkxyY1ZvRFBqM1luU0FfSGNfNG8wb2Q2NmFldnBZZFlVVEM5NHBjWjdDS3dDZ0J6SklkRmxLMkJKMGI3NzFBSjdpYVJ1Y0dEX2ZSejJ2RU9aQXpYUUhSTU1HdDFJVmk1b1RwV0p3cGlpeDhwMTBEOUVfbVBaUi1oUG0waE1iRTZ0Y0xFYVd0VXdUaFpRMVVwSVJBb29EZ1hYRXNtM0xBUVZOMFJPWGVjdkl6Snc3Q05aOXJiUzdMM3dDa3Y2UEhZaUVsWkJmajNTYjhjN3NiYUlvYklyaXpVWUN4UQ?oc=5",
+      "publishedAt": "2026-11-12T09:45:53.000Z",
+      "severity": "info",
+      "titleZh": "11月19日，退休人员，让我们表达我们的愤怒。巴黎的大家！ （UFSE-CGT 通话）",
+      "content": null
+    },
+    {
       "title": "Mouvement lycéen et étudiant: la préfecture prévoit entre 15 000 et 30000 manifestants à Paris",
       "source": "TRT Français",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JbnZxOWdJaEs2VklYN0VOY0ItYXU4ZVp1UjA3ajd4SWJ5WnZwTGloNnpWbXZyVkVXeXdnbi02TE9GZFhtV09TZlhIT1N0LUh5ZjQtSzU3a0xfbFZv?oc=5",
@@ -493,12 +692,12 @@
       "content": null
     },
     {
-      "title": "The evolving geography of Paris protests",
-      "source": "Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWlWODl6cFRLN0VqSW14NlZXVjh1SVk1UkFhVGFGdjE5cHNiVDc0ODJDOGNlemx1dmduVkdtWnZnaVQwU3hnTVJJVGFTd3pQNkpfaTBxLThDWmEwYnFwY3doTndhZnAtOGlkeGpRZEJvdGMtWW9VaFpvN1poMkl4R255RV9zZ3JnMjh4Y0NHZlVpUzB4Vng4aXJmMnI0Qmg4NTJFaWtuUUtFOVltbUp4UC11XzJnRndlajhOWUlXMDc5Nmp0TDV2ckpHQllKNkk?oc=5",
-      "publishedAt": "2026-11-12T08:57:27.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎抗议活动不断变化的地理分布",
+      "title": "Insultes d'un enfant visant Emmanuel Macron : \"délirant\" et \"scandaleux\", l'Élysée réagit après les propos de Marcel, 8 ans, tenus en direct sur franceinfo",
+      "source": "ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaTNiZ3c4LTJtcWlhaHJEalB2UXgwNEc0TEctQlo5d2QwTFFfZHF0ZVFLY25lTGZBbnRTRDQzc3lpVDd0NHFFdW5HaGMwemhFNUVHQTlURkVHQU00WGxLMThMeFMxUG9aenYwZzY0Mm90YjUtczJWWUNiMmFGalQxWnNiMElqbElfOHlpN3JOaHRPYUJtSkIxcnlKTlBVZkVRR0V6aGxPYkREQmhoUnFfOEhQM0tWWklLbFBseFpWRFhQaDFhMFAzbzBtOElEWW42ZDNBbUZ6SWlsU2hEYVJnaGNMNWYxWElucmV1VGZQWHhMdmZaeVpIcnFPTllVUms3SjdsNDNXZzMwVGJQRlJFaVQ5QnlzN2tI?oc=5",
+      "publishedAt": "2026-11-12T09:29:00.000Z",
+      "severity": "info",
+      "titleZh": "一名儿童针对埃马纽埃尔·马克龙的侮辱：“妄想”和“可耻”，法国资讯网直播 8 岁马塞尔的言论后，爱丽舍宫做出反应",
       "content": null
     },
     {
@@ -507,7 +706,7 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRHdtbU9uaS1kTjl5VFhnNU5QRXlpTVotN0MzUUJyby0yNkJ3REg2cUFmUXFHNGNpNmpPMjExUWRIOF9Ub3pSR3N4Uzc0bE1VQ0tBZ01UTGY1enk0TGNtdlQzMmJCbnFFcmJYQVk2ZHlEX2NwQkttYlR6cE5aOExtSmtrbF9HVTVVb2JQdnpvQ25kd3NvRVQ5Q1MyQ0ZCbU5GTWhISlVXenN2cWRVYmp6Vzc4Q21CbmU2QzVMVC01QWN4TWxf?oc=5",
       "publishedAt": "2026-11-12T08:45:27.000Z",
       "severity": "info",
-      "titleZh": "巴黎本周末初霜：极地涡旋已经来了吗？",
+      "titleZh": "巴黎本周末初霜：极地涡旋已��来了吗？",
       "content": null
     },
     {
@@ -517,15 +716,6 @@
       "publishedAt": "2026-11-12T08:45:00.000Z",
       "severity": "info",
       "titleZh": "极地涡旋：11 月 14 日至 15 日本周末巴黎出现霜冻和寒冷",
-      "content": null
-    },
-    {
-      "title": "10 millions d’euros de dégâts, 170 lycées touchés… La Région Île-de-France veut durcir les sanctions et couper les aides aux « casseurs",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNYk5UZFpXTDZxaHBDeGppeGpkbkNpb3hzWW01dFQ2M2swUFA5ZExic0pHbTdTT1dmY05ZSFBjaWdhdWRoM1V0Q3lKZmEtS2hETTZEa1pvNmNMOXdVbngzQlExTDVHRnp1MGpZbTFoSEVvX0pINXVaTHFYRG9Kci10UWxNcGdfaU9LQXlRRWhxWU81aUlGRVJzclVrSkEwQ1VjMVd4aWNwbXBwZGRadWJjaVJHSksxOUktUDFLelBJOHVpWDdiRU5XMy1Sc3J3c2g2bmctWVB4QXc0RWV5NHYxbWN5R1ZuYTJVVjBtR3hKTVItZGYxYUFlWDlmc2hVcUw4LVpldEpXUk5jV2FsTVRmM3VSUkxnZlZkRVpqN2FlRkFQY2h6SnlWN09abVpHLU40?oc=5",
-      "publishedAt": "2026-11-12T08:41:21.000Z",
-      "severity": "info",
-      "titleZh": "1000万欧元损失，170所高中受影响……法兰西岛大区希望加强制裁并削减对“暴徒”的援助",
       "content": null
     },
     {
@@ -556,12 +746,39 @@
       "content": null
     },
     {
+      "title": "Métro, RER : quelles lignes éviter ce week-end des 14 et 15 novembre 2026 ?",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYjBqQUVKdFF4ZnBYTzloRFdJel9uQjlMc0JuLXlwd1V1QXhGZ0xra2NfdFhCMFk4Wmczb2ptRzN3MWE3d2xzWEpRREFuNHFLX2dDR2Fab0x4WldlNjFRNzFITFFmZDgybmRSUEM5cXRMUFlOSkNrLVdWMXA2UXhUV25wc2pxVFEtd2RkZnJyb21OTEk0RTIwZ184amFzRkVodzZQdFlSQi0xcDJQcmpBbzYxM05VQVl1eTBKTjZUY3FXSkVTVk5DNjFuSzlYMWc?oc=5",
+      "publishedAt": "2026-11-12T07:27:00.000Z",
+      "severity": "info",
+      "titleZh": "地铁、RER：2026 年 11 月 14 日至 15 日这个周末应避免乘坐哪些线路？",
+      "content": null
+    },
+    {
       "title": "Créteil : une sexagénaire retrouvée éviscérée à son domicile, son fils interpellé à Paris",
       "source": "Le Figaro",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX19LekNFQkdpM2o0bEUtSG4wV0RkU01yWUtNRExsZ1c5dXBMR3FyTm9PZVNPREtmSVpILWctS0Z3OVJUcXF1OTU3TGNHUVNVanItclFJV3R1a3kxc2c0N1Jyd1BLMnJYQ2VpZW1uUm4wMDdmVEtYVGNJTTk4dHFIVFZCOHdiNkRwUXo4a1Vhd3BEZERyUFo3R1kyWUU4RTYyNGpoaGx4VWJ3RU5pMVVENUFSVGNrOFg0cUwzZnY4TnhkeTR3Wm5aLTN4aHI?oc=5",
       "publishedAt": "2026-11-12T07:10:38.000Z",
       "severity": "info",
       "titleZh": "克雷泰伊：一名六十岁的妇女在家中被发现内脏被掏空，她的儿子在巴黎被捕",
+      "content": null
+    },
+    {
+      "title": "La brigade de protection des mineurs de Paris face à l'afflux de plaintes pour violences sexuelles dans le périscolaire",
+      "source": "Radio France",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQaE9JNjJ2YUNSOFlQQ183LTRWejZsNjBQM2VKR01GNkZDWWszZzUwM3ZGbWlVS3prLThGdlFTZUlBb05xV3k2eFphNlNkclNxbEtUT1BZZEN0NWszTkxBSHlNTkhNN0JjYm5EM0RpcHV2aFlLUXRRVEFwSlBaSlh5SkxuZFR1RHFrdXJDS0doMjlrUF9vV0JPS1Azc05UMzN6WVN3N3Z4eGp1OFNYSERsSnMwdHRFaHlHcDg3SUJmSFFDN2ZseWJrdlotTURvbUx5Wm5KTHJHeUdxTVR1QVc0M1J2Y3RmSXZWZ0F3a2dyZjlZbFlkeVVxU0htVUdfTDFRaTA3RjlLMVJrU01oQXo2MUlEX2l5dkFiZEhpc2Y4OUdTckFwMW9EWTVFTFFac1U?oc=5",
+      "publishedAt": "2026-11-12T06:14:00.000Z",
+      "severity": "high",
+      "titleZh": "La brigade de protection des mineurs de Paris face à l'afflux de plaintes pour violences sexuelles dans le périscolaire",
+      "content": null
+    },
+    {
+      "title": "8 maires de Paris réclament des mesures pour éviter les blocages autour des lycées",
+      "source": "BFM",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTUpTZ2JYMU05ekhGay0zN0d2bjFNQ0JzSEZDNFJMdGNNbE14aVBPUmZkX25TY05uYjNaeDNoVWhLU1JjMUhBTjMwcF9ldjVOSjBZLUFxeEdqSFZkNXotazh3OXRicnBoZkhSLUVtUUFsVk9lWlV3amxtM2FtYy1SU0RjOFVfM2FkU2dleDRFQmpMS242OTNEMG9BTFlWMUgyNkwwaW9MU3Y3Z29TSE92dTNTUS1DTVdNdWdtQmpDTFQ5bFM2WEJoWW9FSVRMVzBUUTVjZ0Y0OE42TlRXQWp5c2VDU3R4eVc5NlE?oc=5",
+      "publishedAt": "2026-11-12T05:37:48.000Z",
+      "severity": "info",
+      "titleZh": "巴黎八位市长要求采取措施避免高中周围出现堵塞",
       "content": null
     },
     {
@@ -574,12 +791,12 @@
       "content": null
     },
     {
-      "title": "Le président du syndicat de police CFTC, Axel Ronde, interpellé pour refus d'obtempérer à Paris",
-      "source": "ici.fr",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdWd5QmFBUEZZMVNLV3NYVTdhVG1tNWxxbm5nUnhNVmhma24xZUJ2b3lWTFJNTHpYcUR6YVJXS1NvUkV0UmZIeHJxdzdmcmtGYU9ONHl4VmpLT0hxNW9fZ0VyajEwTkluM3lFM3J0UzZfQWs1V1ZHSzJZOXpKRlNUN0pkV01tNHk0UjFrQ3RRMHE4bkdRYjNWMzhIU0JaRVE3NURBanBvS1JITERtSkdhUkVnTVJtRjMwbjFjbVEtX3lJVmNSOGFxRldIOFpHcl9ZbDBNUTB6b3lrZXBpLWZGTGdGdw?oc=5",
-      "publishedAt": "2026-11-12T05:03:27.000Z",
+      "title": "Que faire ce mercredi 11 novembre 2026 à Paris ? Les sorties à ne pas manquer",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZk91aHlLbWR6U2lMbXh6QWpqYXhPSXN4ekdoaEJjcXNPYjk5bmZST2hFTUJTa1hZTDBFYV84RDhvLW9aczdleUVuR0hJLWVONkRkR0JpeG5JeGs3WldnN3RaX0JVOFp2OVdNZ054cjI1Q1ZjamhYN3E4Vnh6UEw5eTM2cEk4X1dOR2R2TGJLQmtMVkxySTJoemx6RGNVdElvM1pkRS1pREhzTXR6N3A5ang4ZWxHUDF5bHE1LXFScmFoQkdSVnhmb2prdmhwbnU1UktN?oc=5",
+      "publishedAt": "2026-11-12T05:20:08.000Z",
       "severity": "info",
-      "titleZh": "CFTC 警察工会主席阿克塞尔·朗德 (Axel Ronde) 因拒绝遵守巴黎规定而被捕",
+      "titleZh": "2026 年 11 月 11 日星期三在巴黎可以做什么？外出游玩不可错过",
       "content": null
     },
     {
@@ -601,6 +818,15 @@
       "content": null
     },
     {
+      "title": "The evolving geography of Paris protests",
+      "source": "Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWlWODl6cFRLN0VqSW14NlZXVjh1SVk1UkFhVGFGdjE5cHNiVDc0ODJDOGNlemx1dmduVkdtWnZnaVQwU3hnTVJJVGFTd3pQNkpfaTBxLThDWmEwYnFwY3doTndhZnAtOGlkeGpRZEJvdGMtWW9VaFpvN1poMkl4R255RV9zZ3JnMjh4Y0NHZlVpUzB4Vng4aXJmMnI0Qmg4NTJFaWtuUUtFOVltbUp4UC11XzJnRndlajhOWUlXMDc5Nmp0TDV2ckpHQllKNkk?oc=5",
+      "publishedAt": "2026-11-12T04:00:05.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎抗议活动不断变化的地理分布",
+      "content": null
+    },
+    {
       "title": "Orchestra plays at Paris protest as strikes sweep France over living costs",
       "source": "The New Arab",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdHU3bGNCTVVmMmZVSUIyUVFqMjJpUTFPYldBWG5zM3h3bDNodXFrZkVXNjVHZFZlSndwR1lycDZYcVZTcUNZeDFOSHJiQkc1bGpwc1RQNlF3UTNReUl1bVVKaE9fMnNBWjh1NXd4UTRRbjlCT09oRVZQNUEwTmgtYTV0RDBLOWo0NS1ndnNoWHMyQnotUW51bHFYcjIwWTNIUlhmMkpDQ2s?oc=5",
@@ -616,213 +842,6 @@
       "publishedAt": "2026-11-11T23:24:00.000Z",
       "severity": "medium",
       "titleZh": "随着抗议活动平息但并未被遗忘，经销商们返回巴黎大皇宫拍照",
-      "content": null
-    },
-    {
-      "title": "France is criminalizing critics of Islam — instead of the rioters destroying their cities",
-      "source": "New York Post",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVVVRajVGS041UlJBUGJWMTJGVWVjZ3Z3Zkp5OUxWem1XbmllZ2Zaa1U0WEdPSXVuSEVoa2FTUmV2SkEtYmsxVjBEY3lkcWRTTDlZZWtqeFdraG5fUExnNEpiYnZEN1JJVTgzT0d5dGFnSlRlQmFVSzJxTjVzTGtBcUlITDBNVVBEU1hJS3dZd1pwc21hYmc2MFdDYzhpUW1mWHpVN2hCekZQc2ZFaS1ReGU4OEI2bEtr?oc=5",
-      "publishedAt": "2026-11-11T19:49:00.000Z",
-      "severity": "info",
-      "titleZh": "法国将批评伊斯兰教的人定为犯罪，而不是将破坏城市的骚乱者定为犯罪",
-      "content": null
-    },
-    {
-      "title": "Mortiers et incendies : la contestation lycéenne bascule dans la violence",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd0FlcENERU1ybDE0TGZvNVNma1QxdUxtTERYOUh1RmwwOENOeDVoVllKWDVXZDBTVm5wRzN4TWpTN1dRcG5lYnlRQ0dlbUtTTzlmbXBINmsyOHpmcjFzaU1nZWYtRm5LMFU1Ml80TExrZ3BwcXZ4WUpjU1NLbk50Z1dnNFdyZnhudWQ4R00xU0lZMjJlZGxPMmRCU2RZUi1UazdwZkVYRFVNYU51V01Ra0lqZ1A2NHRiQU51RzhxMlVueVpiS2xrd2o5WVk4WE5wUzg0S1dWR0gwRjRvcm42WEU1MkV0MUMyMHRQeUdJVWpvZ01rN2J3?oc=5",
-      "publishedAt": "2026-11-11T19:13:24.000Z",
-      "severity": "high",
-      "titleZh": "迫击炮和火灾：高中抗议演变成暴力",
-      "content": null
-    },
-    {
-      "title": "Malgré la grève générale, le Barça refuse de s'arrêter et le Camp Nou ouvre ses portes aux supporters",
-      "source": "Goal.com",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONzV2NmxiMkJhd01jTVQzR0pwMUduN05CVy1Yblcxb1NnR2J4UXF2eDVLcDExcVMwWlhSUGVINVJieTNiN3BDRzJlOG9fNWNGQm9vM0NBb0xzc1JEc01IYlM0bTAyWGkwMUdlSTZHQlRZdlJNM3VlcFlfTzF4TWNIaEtLWmxpMlJJeDJROTRHQWlsellrZXY5bkpyWEtwR1ZpeEx0OC1kc09WM0pDZ0Y3RV9XMUxoUnBDMkE2UWMwNHpERTAyVlBvREhEQkdnVHpaYXQ2RzY2TmM5RzRFX0IxeURoZw?oc=5",
-      "publishedAt": "2026-11-11T18:55:12.000Z",
-      "severity": "medium",
-      "titleZh": "尽管发生了总罢工，巴萨仍拒绝停止，诺坎普球场向支持者敞开大门",
-      "content": null
-    },
-    {
-      "title": "Évreux : manifestations interdites au lycée Aristide-Briand les 12 et 13 novembre",
-      "source": "Paris Normandie",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaFE3N18wT1ZjdW1seTdBYVNNQ1l1MERlUjZQYlRPZG9SMDNxbmVBMmhPc2FUaHNjejQ4dUMtYzhIVVIzUEk2MUNyQU5BSGpfX3BfbVpUUnMyRmxSbTFPUUZFMndhcDRZb1ZrXzcxZ0diVm5sUmlCNXRsN1diUlREQWJvN09nZzdYNFNwUUFVUEtaSzJMbE02cjAwcFNJSWlIT01DcFlMeEhFSVJPNkczaTVCbVBELWpaeWpwM1B4eE16Tldscl9rSjBBbEJyQXF1N1pWUQ?oc=5",
-      "publishedAt": "2026-11-11T17:45:00.000Z",
-      "severity": "medium",
-      "titleZh": "埃夫勒：11月12日至13日阿里斯蒂德-布里安高中禁止示威",
-      "content": null
-    },
-    {
-      "title": "Le président du syndicat de police CFTC interpellé pour refus d'obtempérer",
-      "source": "Radio France",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdnNiU1BnbURjTnJwMGxHM0dmN0ZYZ3dsLU83WUNQUG1Fa0JCQnkyaDhmZFdZY3pHQ1dsc3NueXNkSy1Hc3RvNDZycVFnaDQ1Ui0weFdCOGp5Q3ZHeUNqZkRnRVROSGp6Y2FhWHF4Ynd6Q2dpTjRmNGd2OGU4cnpfWGh3bWtLYm1wZFBqMXJvUENpLS1rMkhwSXliYy1jQWJDRkJjVmpIS21DYU5Md0FvYkRJUHgtRnNjNFZZNjlYdDd5NUQ0dGRfSnY5SlYtY3BHdkpiMFJVR0xhTDdUQmF5aHhKVmJldFBUelE?oc=5",
-      "publishedAt": "2026-11-11T17:00:00.000Z",
-      "severity": "info",
-      "titleZh": "CFTC警察工会主席因拒绝遵守而被捕",
-      "content": null
-    },
-    {
-      "title": "\"Nous vous demandons de saisir le préfet\": à Paris, les maires de droite réclament des mesures contre les blocus lycéens",
-      "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOG5JWVNEMTZ1TkJKNURUNGljclE2SDlMZ3U3YmhGLTBXVXhCSDdsckJ5NmVQU09pbFo5ZmNfaVU1NUpQY2R0WmF4U293QlJUWmtpdWdYMXdrMVNBTEg5OEk1S0htVE40dEtDc0sxekZCYkdLUjgxRm02WGkzX2hjLU5ZdjNJMFV2RUNSWXBhRjZYX2oxdXd3UEwyM09zVjk5WlBtbkhtRXlZWEpiU3BGWkVLMExPTFNHSmowNlphOE1WLWJMd3ByTGRIWVdIWjhVVmltbUFvbkMxbS1pXzl3cE1zeW5yTnJNb09ITnkzSHZQOGtIT1NkbkNEM0ZheGtoenc?oc=5",
-      "publishedAt": "2026-11-11T16:35:52.000Z",
-      "severity": "info",
-      "titleZh": "“我们请您联系省长”：巴黎右翼市长要求采取措施应对高中封锁",
-      "content": null
-    },
-    {
-      "title": "« Il y avait eu de la violence entre vous » : quand Rosalie Van Breemen s’inquiète pour Alain Fabien",
-      "source": "Paris Match",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDVYVnB1QlpxY2gzaVRqYzFWMVhhV0tUXzlxWkV4ZGhOM2kzclhSaXFLSFBLa29iS3dJbjlmdzJGYWE0a1BYNTl0eXlNQzlIMFc5NHF2UEZsbkdqUWgwdXNXUmtHeElpQU45OUZWOC1mRW9aMFUyNW1YT0FDd3hTVFF3a1puNlZGQXVkYVVMeWE0bENIdXU3LUFfVEtNYWZCM1NnMmJLRnFRVDdQRld2ZXpkd0tKd3FMMm5GVXlKdUU5R1k4elFCNFNZSTFOUktRSGIw?oc=5",
-      "publishedAt": "2026-11-11T16:04:04.000Z",
-      "severity": "high",
-      "titleZh": "“你们之间曾发生过暴力”：当罗莎莉·范·布雷门担心阿��·法比安时",
-      "content": null
-    },
-    {
-      "title": "Que faire ce mercredi 11 novembre 2026 à Paris ? Les sorties à ne pas manquer",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZk91aHlLbWR6U2lMbXh6QWpqYXhPSXN4ekdoaEJjcXNPYjk5bmZST2hFTUJTa1hZTDBFYV84RDhvLW9aczdleUVuR0hJLWVONkRkR0JpeG5JeGs3WldnN3RaX0JVOFp2OVdNZ054cjI1Q1ZjamhYN3E4Vnh6UEw5eTM2cEk4X1dOR2R2TGJLQmtMVkxySTJoemx6RGNVdElvM1pkRS1pREhzTXR6N3A5ang4ZWxHUDF5bHE1LXFScmFoQkdSVnhmb2prdmhwbnU1UktN?oc=5",
-      "publishedAt": "2026-11-11T16:02:25.000Z",
-      "severity": "info",
-      "titleZh": "2026 年 11 月 11 日星期三在巴黎可以做什么？外出游玩不可错过",
-      "content": null
-    },
-    {
-      "title": "\"La guerre hybride de la Russie s'est encore intensifiée depuis le début de l'année\"",
-      "source": "La Libre.be",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNamRYSXcwU3puWVpBeUhQdlNMS2NNWDd6YkdhQWU3UWoxVGMzTDVZSUVjb0dWSFRFTG9XaGJBRGZaWG1FTjVPMXQzeEduZmxFaVQ3Mll4bXc1elFGWFJVS2p2aWNHWGxfSzl5VHJVaTlkbzVua0ExVGxjYk9lanB6Zjg3eTFKR3l0ejhJSi1IZEpJQWRJNDZfRUtyMkRWYV9iODNJNzZmOWlORTZsVktQRU8tVXAzYlVtWW1RbmNST2FGcEhlNjlfN0RiNjctNHJuY0thQ0RPQ0JlVHVkSUxRYlFZdy1BMjdIQ2gzMmtjRXdIM1VYUVRxbUxHOA?oc=5",
-      "publishedAt": "2026-11-11T15:37:00.000Z",
-      "severity": "info",
-      "titleZh": "“今年以来俄罗斯的混合战争进一步加剧”",
-      "content": null
-    },
-    {
-      "title": "Elle veut faire la lumière sur les violences du 17 octobre : à l’Assemblée, une commission d’enquête fragilisée",
-      "source": "Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOWHZmSExjQ1RuUkRkZWFRaG81WDdyNEE2TEUxV21nS3h4NDFRMGhiSjlmTXR3THd1by1yN0dNdEN1dmVER2ZmbkM3ZXpnOThpajVqdVVuYS1aSTRLU3Jyd2JhN0VFOE1sWUFhZ2Z4Y1d2RkdKZjFvR3FOZm9DTzYxcmszY1VXTGMzY0RwQ1JRci1LY2RmWWhwQWh4NDM2UTJjTmJWbGlXYVBZckJzWkVCR3FrT2hmbjZSc0RGNzBKZ2lrRXFrd0tNZHIzM29rLXExYXpzWmZieEFnVm5xNTR4eFd4SndpUGdVYWEwemgxZTZDNlVLdzlVQmtBTjdNMHcyNFR2LUNJcElZZE5fYjM4SnR6MUdIMFZ5RnFYOHllY2lLcFlCU3VWY2YxRlpQUDE4SjN2TXNMLWE2Zw?oc=5",
-      "publishedAt": "2026-11-11T15:00:10.000Z",
-      "severity": "high",
-      "titleZh": "她希望揭露 10 月 17 日的暴力事件：在议会，调查委员会被削弱",
-      "content": null
-    },
-    {
-      "title": "\"Dix fois plus douloureux\" : l’impact suspecté des gaz lacrymogènes sur les règles",
-      "source": "France 24",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYVRIVkt0Q2VNNW8yZldfZFJTWVZLTF9TNE9YSEpYT0tUMDZ3N2JDYzQ0UF9nQkcxR1lXUW1RVnU4WlFPZmZtSnVodnZ3YnE0UTJqTjBqOGJ1Njg3SlAzMVZ6LTl3UWxHX2Q0eVBpMXRwVzI1Mk1RRDdBY1ViX3JGN1h0MTkyb3d6UHZXN0hxTGVNSGdsQXVBR2lpc1lWeWlrQ3pHV01jMmQ2STA1OVdaNmJsRFhyU3lHNDJ4Q1M4TVB1WEgyNWprMThzdXVJSE9WZ1Y4?oc=5",
-      "publishedAt": "2026-11-11T14:05:17.000Z",
-      "severity": "info",
-      "titleZh": "“十倍痛苦”：疑似催泪瓦斯对经期的影响",
-      "content": null
-    },
-    {
-      "title": "Geffray appelle à \"la responsabilité collective\" et à une \"condamnation unanime\" des violences",
-      "source": "France 24",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeFBtaExTdF9HMFowVGdBOEQ5YkVOZTg0bGdpMTEybWg1WlNTcG9FTFNjRkNWdXNIcFNfXzdqYUlLNmJJQkNVZVlyWHE0QV9ER3YwcnVvc2JmVWN2akI3RmE2TlBUWVpNaDF1QkpxaHdPdGRJMG5MUXVuMTFzMlkxbVE2Y1hXVzdTVWxMbVpuUHhpdk5hWE1jWFQtVmhYcTMwMGV3YW5LRUYySmhiNVJxbjZ4TFpmWm1JQlZJWVpORU1kbENCLVR2d3czbzdYc3o3ZE5XdUprclowUy04WVZNSERHTDhsSEZ5SEZEMGVJdw?oc=5",
-      "publishedAt": "2026-11-11T12:26:09.000Z",
-      "severity": "high",
-      "titleZh": "杰弗雷呼吁对暴力行为“集体负责”和“一致谴责”",
-      "content": null
-    },
-    {
-      "title": "Que sait-on de l’homme mort à Châtelet, en marge des manifestations, dans la nuit du 18 au 19 octobre",
-      "source": "Libération",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbnJLRzhmSkVXcVFyMFJ6N1BwdkNRS3N1bHk0OXhWdnpOYXJpZlJqWmhtWnVMR1FsSnh3a2F0LV91YkJtU045RmpBN3NiMEFmLXZxTmJYYlNIR3pHRXhHNmZyTFQ5RHZ4Y1dteWNSUXFYeFhqdTJnS1dPS3FsVlEtRXFMSE9kWWhtUmZxUWFLazU3Vnc0WlpteTdLOHpsZl9ibmFlSFlvbGVIYlBGVjQzTUlldTdFY3FpaWQ3NWhKZkxzMzBibXY1Uk8tRUlSRDlfdmplM3JHVTJmWHlqLThuWmJCWnYwOU9QWTlRdWlaRmdFenRfNkpFTTZBd3Rqb2I3?oc=5",
-      "publishedAt": "2026-11-11T11:41:58.000Z",
-      "severity": "medium",
-      "titleZh": "对于 10 月 18 日至 19 日晚在沙特莱示威期间死亡的男子，我们了解多少？",
-      "content": null
-    },
-    {
-      "title": "Un homme condamné pour avoir caillassé des policiers à la fin d’une manifestation à Rouen",
-      "source": "Paris Normandie",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTU5nUXk2Tm9ScHhTckxuQVFOdWNhSE5nQlVkblF4RFN6Y2Z3V3VicjVMZ2pvSmwxU0VGclpUN1RXRFRiOWU3WjV4RHg3SmpTZmNhbUpvM3JvTVhQSG14ZVA3R3BmWjEwYTluMXJIZzNza1liZ1hpbVFDVVdVRHlKME44REFKeERseVNnUC15d2ZmM3Eycm8xRmpSSm5sSk5fckhwaWNXaDd1MkJXT1B6QkJlaWhydFVQZXZRaVdDREpFVE5QMVlZWFhFdnVwWjVKd0VR?oc=5",
-      "publishedAt": "2026-11-11T11:41:00.000Z",
-      "severity": "medium",
-      "titleZh": "一名男子因在鲁昂示威结束时向警察投掷石块而被判刑",
-      "content": null
-    },
-    {
-      "title": "Loi casseur-payeur, une bonne nouvelle pour les assureurs ?",
-      "source": "Paris Normandie",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWhESWw4YmtjWnBuTTUxTDBSUGpLNjc5SERGblRFVjdSbS14eW1La0g0amFRTWZlZFNPcm1XX3N4Y0dIMG5FOWVpSmN2WVBaUW1CX0VxX3NFRHpZSFJrNDFsSXdsNWZRUXZ5eVRTdXRTM1BDS0hEeEl2YWFlYXhPZWp1Z3FWMW4wTGNyREFZSENXanBtOGNVRXgxZHhlN043elZKcGVkZTMtLWxIWWwzdklEOUJrUQ?oc=5",
-      "publishedAt": "2026-11-11T11:40:53.000Z",
-      "severity": "info",
-      "titleZh": "破坏者付费法对保险公司来说是个好消息吗？",
-      "content": null
-    },
-    {
-      "title": "Paris : les conflits sociaux et les manifs n’ont (presque) pas freiné Vélib’",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUlViSVdlWXdrWlVaeDdnZ2czMWRDQk1hVklZRGplWk9qeUZmVEVNVUJPZmE3dmdQaU9MRHJsV25rMzBDUnQwUWtlZFJ4aENrVFp6Szk1dVBzMnZ5Nk5udjM0UzJXeVRkQWNaNjJtRk13TW1qaFVNLVhOSXhaWnJ5T01VYXRiX21OZ3FacndwaVd5QU9BTXpXU1ExcUdyd01YZ0U1cWltVnVUWWRKMWdjcjNxaWZ1THFTbWFnaGQ3X2dYcG5zV0VnZkJVZjVkWnlxclBFR1BlMTFCSEt1Wk1IRWFBWER3SUFCUFdTendrcHgxT0Z6Q0Y4NVlyLV9IVS1uMHNuMlJ6eXVBOW8?oc=5",
-      "publishedAt": "2026-11-11T11:10:25.000Z",
-      "severity": "info",
-      "titleZh": "巴黎：社会冲突和示威活动（几乎）没有减缓 Vélib’",
-      "content": null
-    },
-    {
-      "title": "Violences faites aux femmes : le judo se mobilise en Île-de-France",
-      "source": "sportmag",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOang2RVJZZ0l4Rm5nM3dpa19Ja3hQdGswa2ROaDlMcEIzbENUbWdKR2VISllkTVoxa0FIOXhEUEJhRlhkWU12MGFaS0hSZ3VjdjBudXNIaXBmVE5EVGJwTkx2Z0dPZFNlUHlCdWN6V01mSUdnSUljbmEtVGxpel9PVDAzZFVROTR6SUNGQXQ0RW9QLUFVSHhFUdIBmAFBVV95cUxOang2RVJZZ0l4Rm5nM3dpa19Ja3hQdGswa2ROaDlMcEIzbENUbWdKR2VISllkTVoxa0FIOXhEUEJhRlhkWU12MGFaS0hSZ3VjdjBudXNIaXBmVE5EVGJwTkx2Z0dPZFNlUHlCdWN6V01mSUdnSUljbmEtVGxpel9PVDAzZFVROTR6SUNGQXQ0RW9QLUFVSHhFUQ?oc=5",
-      "publishedAt": "2026-11-11T10:00:57.000Z",
-      "severity": "high",
-      "titleZh": "针对妇女的暴力行为：法兰西岛柔道动员",
-      "content": null
-    },
-    {
-      "title": "Omar Sy sera jugé fin novembre pour « violence, menace et outrage » sur des agents SNCF en 2025",
-      "source": "Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbGlsMVRRYkhocXdLa3NBYzFwNkt4QWd6WmU0alVYbklCTWpVVl8zbXMtZExOUHVESzBHQ1hyQm0yaVZIWVQyX1h0emFBWUJsemI2b1lhS3MxZ1RTRzJoa1ZkMWMwREZNOUc4M0RqeXA0b3VqZDlvREE3Q0RtNzVDVzNvQksyUDlEeGpYLThvVXR4aW5QZ01hU2ltM3lNUlNNNFdkY3AtOXdmUDRNSU9ZeExHMkZoaVJVUm83WG9xQ2h4VTN6ZjVVTmh3dXNYMDF3UE1wS004dlpZTGhhcEZnb3pOSmNLa3hTdnFYVmdOUQ?oc=5",
-      "publishedAt": "2026-11-11T09:43:48.000Z",
-      "severity": "high",
-      "titleZh": "奥马尔·施 (Omar Sy) 将于 11 月底因 2025 年针对 SNCF 特工的“暴力、威胁和愤怒”而受审",
-      "content": null
-    },
-    {
-      "title": "SNCF : une nouvelle grève va perturber le trafic vers la Normandie ce week-end du 15 août",
-      "source": "Frontières",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRFk1c09veEdlSFYzRnIwMi05SXFob3JJcWlwUVItRzZSbnp2YWlvNDlqWGZiZGw0SUNROVJDVEE0RHkyZGNsRmdjY2FGYWxSNUkySFBGb0NHLWxOLWxCQ0Zfc1J2eDJIUkF5Wkl0aDVCdnp1VEMwMm5qUnFmQWlzLXV6U2IyVnU1YTl1X2ZWdl92MS11Y0d6NFJTVl9DX29QWHdrcTliU2dPUXd5aThrMHZlaHY2cm9fZ2VEaE83dmIxMW1BdkJMMEpteG9qVGs?oc=5",
-      "publishedAt": "2026-11-11T08:06:30.000Z",
-      "severity": "medium",
-      "titleZh": "SNCF：新的罢工将扰乱 8 月 15 日本周末前往诺曼底的交通",
-      "content": null
-    },
-    {
-      "title": "News : Une date à Paris pour Prima Queen",
-      "source": "Sound Of Violence",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQajJ3bVlPZGVfVGZ1YWY5a19hREJRUEM2VG5qeGstTWJSR3FrSUw2QThIaU01c2w4Q1ZnbXZMZ2NDQXhKM2ZaTjBTaUs0UnlrVDV2ZnZFdERqVUZiallEbVVISXFUcVhlOUFxZlpLYUxQbHRZU216dFg0NnBEMm1LNGNQNS1KNGQ4bHB3Sll4Zw?oc=5",
-      "publishedAt": "2026-11-11T07:48:13.000Z",
-      "severity": "info",
-      "titleZh": "新闻：Prima Queen 巴黎约会",
-      "content": null
-    },
-    {
-      "title": "\"Un moment pour le blocus, un autre pour les cours\" : en marge des mobilisations, les lycéens tentent de limiter le retard pris sur les programmes",
-      "source": "franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQeTlGWUpGVFlGODlJS0REQnpNUHp6QXZQNzktLXFHQTg0eEwtRnBzdzAyYnBvRXRvUEw0a0ZSRC1DV1hJc01DM2pfeEprZ0lXRXBnU1RjZEJTQUlaN3g3NlJkWW5RWkpET2s2Qy1FZWdla0FkMGE0TGxBazlHZnkyM1dRUlZXeDFWM2x6NkdKRnJQaXcwcGlvaWp4TXVhY3lxVlVodnlPeW01dndjaDdISjA1V2FYbi0wY0RMMmVuU3pma0N1MHd6VVRYX1Bpd2pQbjZicVp0S3gydXFXdUZYMGQxVWsySGdwV3JWSzFzYnljRUowaWNvVUN2UGdWLWJlNzV5NVlzbFpOSWhsNTBwbmY5enlvbWdwN0tLUm5vekJyVWZiMmc5aHJJbXoyd2lONWthXzFHUUZYN2NId0ZJc1BaMXE?oc=5",
-      "publishedAt": "2026-11-11T06:03:31.000Z",
-      "severity": "info",
-      "titleZh": "“一会儿封锁，一会儿教训”：在动员的间隙，高中生试图限制项目的延误",
-      "content": null
-    },
-    {
-      "title": "Manifestation parisienne lycéens-étudiants : belle ambiance, malgré la pluie !",
-      "source": "CAPJPO EuroPalestine",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQUNaaC1EMUlDN29TaW9OMkJubkplS1hPQTlxcGsxUmdjOFNpTF9KazB4OWlPbVlqMW1CcFJyaWZZU2xlbHhfX19NZFFWWk1rMGQ4UFM3YWpPUFNVeW5nVDhJZHFrWlRKTGpiZFZka0NYWFJrZndXRmxibFZrdmI0cTdnV25zMVRoYWVIZmw3NTlicEpPV2gxaWJlQUZCUUdISVBaWkVCRExxN25EYW8yUw?oc=5",
-      "publishedAt": "2026-11-11T06:00:00.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎高中生示威：尽管下雨，气氛却很好！",
-      "content": null
-    },
-    {
-      "title": "Affaire Keziah Nuissier : des violences de 2020 au procès à Paris",
-      "source": "martinique.franceantilles.fr",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMTNLYVhoR2JNRVkwNHNhbl85bTNsWDEzZlRyNlBDMjJ0bHFKYXZsMU0zY1p4Wldkb2hiakc3OVBTYXRvaEJON0hOWmZ1QWl6MDVydTkxSWpsQ1BJQnQyRmNfREtHWXBiazZNaEFBci1xMzRyYWxzRmZBNW9lZFlDVVdVQTFTV21NbEhQQUc4MHA0RzAxMnBkVUFCQlRMYk5CeHBKVnRiQTBXVDVKRTJTQ1hNa0JHYk9BWVA1bTNwVDBJNkZuNnFjX2Q0N2NRTUU?oc=5",
-      "publishedAt": "2026-11-11T05:49:46.000Z",
-      "severity": "high",
-      "titleZh": "Keziah Nuissier 事件：2020 年巴黎审判中的暴力事件",
       "content": null
     }
   ]
