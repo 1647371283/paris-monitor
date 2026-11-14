@@ -1,18 +1,129 @@
 {
   "success": true,
-  "today": "2026-11-13",
-  "updatedAt": "2026-11-13T21:56:41.803Z",
+  "today": "2026-11-14",
+  "updatedAt": "2026-11-14T02:17:20.586Z",
   "events": [
     {
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "articles": [
         {
-          "title": "Manifs à Paris samedi : la RATP ferme 21 stations de métro dès 11h",
+          "title": "Manifestations à Paris : de nouvelles catégories de commerces autorisées à ouvrir le dimanche",
+          "source": "Boursorama",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQYkxwYTlEU2ktNW5YaEVHNjZfeFVRb2ZDRVRkeXdqNkJwOEtwSzhJbWlyUTg5bnBydU1POHRqY0kwaVFWLWFhMl9reUdDNXdROXh4WGJWMExOTkxXbmgtRHBGYnZCQmZNbVZBRVlNbktIRVNuUVk1Z1g2Q2tsa1pVTlQxYnFhOUJZbUEzeG1GRklTUDFYZlhqVmwtaFJQYkQ5X3BiclJDVkttTFgwUUVBT2JNQ3RiSmxfNzhQTmVSX0diS0Y3RXhrQzJJNV9vN2lXdkFELUtscV8yOVdSQmtIRW1XdlJfVU9GMThpY19BUDB4ZzBYRkh1YzRSb3ktUWkyT1F6eW9JenNwcnhOemZoeHZJcG1Dd9IBlgJBVV95cUxQYkxwYTlEU2ktNW5YaEVHNjZfeFVRb2ZDRVRkeXdqNkJwOEtwSzhJbWlyUTg5bnBydU1POHRqY0kwaVFWLWFhMl9reUdDNXdROXh4WGJWMExOTkxXbmgtRHBGYnZCQmZNbVZBRVlNbktIRVNuUVk1Z1g2Q2tsa1pVTlQxYnFhOUJZbUEzeG1GRklTUDFYZlhqVmwtaFJQYkQ5X3BiclJDVkttTFgwUUVBT2JNQ3RiSmxfNzhQTmVSX0diS0Y3RXhrQzJJNV9vN2lXdkFELUtscV8yOVdSQmtIRW1XdlJfVU9GMThpY19BUDB4ZzBYRkh1YzRSb3ktUWkyT1F6eW9JenNwcnhOemZoeHZJcG1Ddw?oc=5",
+          "publishedAt": "2026-11-13T16:20:52.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎示威：新类别企业获准周日开业",
+          "content": null
+        },
+        {
+          "title": "Manifestation samedi à Paris: de nouveaux commerces autorisés à ouvrir le dimanche",
+          "source": "FashionNetwork France",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazBRZXA0YllLeUx5MnhSc1VSM1pUQlpacExGWGhxaHUzbHhtU1pwQ2VsRnZOT1hnbF9jX2NBa2dVYnhXc0g0QktsWWp5Z1hqYXFTUmRsYTl4YUVxM0ZtdlpDdS02emVqVHktdFVLai1ha2swRFBxc0JEUWtYN1R2OU1EYmtjWkctcDNEUlpDY0ZoeVVTUDZPTGJuVWNKd1UxV1JMb0pxVlNWNzJLU3h6SVp2NVhfeDI4NlNUZW5weU5ucGQzVEN6dw?oc=5",
+          "publishedAt": "2026-11-13T15:13:46.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎周六示威：新企业获准周日开业",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 2,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2026-11-17",
+      "articles": [
+        {
+          "title": "Grève du 17 novembre à Paris : la CFDT rejoint le mouvement, ce qui nous attend",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQblFJcmVCNnhSam1pMVlxbjdtdzBwUFBLajB6LUZuUDJmWTY4SXpMQ2xILXYxYU1lZzFDUkVNQ3EzdDBPbmxsVklrQWViTllTbW01UHhfanQ2bWRjWWZRaWVLajBrRFdlWXI2Ump5a2YxTld4VmZ6U3dkVnN0MlZMYjlFQk85Tjl0S1BzekZCYU9xYmVJX3hZT1A2QXA3MGx2d19fNVRlX2dmUEtYY0hnd1M4ZE1fbXFIRXVfREdpNE1raldJT19tOFhURTBoZG53NVctcnozRQ?oc=5",
+          "publishedAt": "2026-11-13T23:06:35.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 17 日巴黎罢工：CFDT 加入运动，等待我们的是什么",
+          "content": null
+        },
+        {
+          "title": "Grève du 17 novembre 2026 : qui se mobilise et à quelles perturbations s’attendre ?",
+          "source": "Démarches Administratives",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMGNlbW9jdHpRcDZHZGdWVGs4Z1dSeG93WFVKcmJzY1B3aC1xM1VXQ1VhVndvSDhmc1NFZjdnYlJuT2JDalItdm9GNnYtVExFSG54cDBnTGo2RjFkeGlsT1liMnpYUm9JQnVvY21QeS0xNUxEbmp4eXZiQWhrQ05FYlBxZFcySVRDZEYxYXYwbXR6dHl4dkpPbTNBNzBfOS12S1UyWG5tSlp2M0haTWlBdVQ2ZUw2MnFyd01Xdi1n0gHDAUFVX3lxTE5icXNpa0ljOU5UQWtoN3YwZU1NblFaT3BHQVU1QlE4Z0xzQWVtNE5wNzk5T2Rha0NQWVNmM0Nhb3pqZmNncHBSdlJjZ1J5NTI1Q1NkLUkzQTVSZ2RHbl92c3IwZFE4NVZWby1oaWpNakk4Z1lxZnBtdmQxZnlsT3h4TDY4MFFvSy0zU3ZiUFBQVlhvUjdiT0d4M2h3Vk5ob3FhakxQQmVHQmtXZE9MYVpCM2ZrV0xwTFpfWFJxa083MGt0Zw?oc=5",
+          "publishedAt": "2026-11-13T16:11:16.000Z",
+          "severity": "medium",
+          "titleZh": "2026 年 11 月 17 日的罢工：谁在动员以及我们预计会受到什么干扰？",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 17 novembre à Paris : parcours, stations de métro potentiellement fermées… ce qu’il faut savoir",
+          "source": "Paris Secret",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1NWVzYtT083TzFHSjAtWjVqR21oNzlHOGpTTzRmNVFsNm8zeU40d0JJdEFyM1JfYkFkQTM0dUowV3FFejk0ci1Ia0ZGdVFVUi1HankwZThCVWxCOV84TDR4ZlB6ZElmcUZiUDUzaDBQRVQ0RlNRQXF4b19sUVNGb1B3NUk?oc=5",
+          "publishedAt": "2026-11-13T16:04:21.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 17 日巴黎示威：路线、可能关闭的地铁站……你需要知道的",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 3,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2026-11-21",
+      "articles": [
+        {
+          "title": "Pour l'acte V du mouvement social samedi, des mobilisations aux revendications variées",
+          "source": "tv5monde",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVVlsdTk0bldwcS01dGRMSS1oRnJEVWlJa1VjV2lESVNBWm0wODY0b1ljTGhkZFRmVVRjT29DU3phdmNqNEZmZGRQME9Ob3MtN0duV2xMM0NyR3gxamFEal9NLXZJeFZVZHktdzVhLUNNQmFqb2hWRGU4S2hMa050WWo2Y2dMN19qc1pUd2dwakNzcTZIOE5Rbnd1VDMxb0Jvc2tBbDl1WlN4VXByb0Yxbm5Mek8tcjU1VFhWYUZrY0lJN1ZKUlNPZ0NMVThaQk5ybWc?oc=5",
+          "publishedAt": "2026-11-13T22:01:00.000Z",
+          "severity": "info",
+          "titleZh": "周六社会运动第五幕，不同诉求的动员",
+          "content": null
+        },
+        {
+          "title": "Manifs à Paris samedi : la liste des 21 stations de métro fermées",
           "source": "Sortir à Paris",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0RNQ3JqMHAwSDgyeXNFVkwyLTdvX0hqWkdhS1FzQWVfNllpOHlHdGZ6YzYzRHgyd2ZpUkdXNENyTDdxNGNqVVVtRzhaZmFCd3lhMEpoNG00UHlUSG5RSmtqTGFiLWpua0VmaE5XVjIwbk9RUmtBRW9uY2FWQVB6Wl9udV9pZlAxUGtXQUg3VnJpQW0yTVVyelJfeE55ckF2TEhuamtGdTY1OWJLaWR6cXBWUEdqckJ3UUpzVGpEOHJQaHVZdldn?oc=5",
           "publishedAt": "2026-11-13T20:52:39.000Z",
           "severity": "info",
-          "titleZh": "巴黎周六举行示威活动：RATP 从上午 11 点起关闭 21 个地铁站",
+          "titleZh": "周六巴黎示威：21个关闭地铁站名单",
+          "content": null
+        },
+        {
+          "title": "Manifestations samedi en France: 70 000 policiers et gendarmes mobilisés",
+          "source": "Noovo Info",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWGw4aW8tMmNXV1UyaUxjLXAxQWlaQXh6aEp4Ym1uOHBhQUt4NXJGSW9IOXNBQ2pXOGNwYlowb0kwU0tCc3lvaVcxelMwMHVJTzJzdThiR3FQamNSbU1iNlpOdnBfTHpYVWE3MUlXcG5Pcm5BNHhHVEhsMXVGdUVaX05HV21SdGdtRVo2U3Q5Y3hYRHZyb2hoMVVmY1hFZmNiV1R6UTVmR0t5WGJvUzhnQXVGdkZ6UkZnQWVzTDltU2JlXzFZUFE?oc=5",
+          "publishedAt": "2026-11-13T16:39:38.000Z",
+          "severity": "medium",
+          "titleZh": "法国周六示威：7万名警察和宪兵出动",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 3,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2027-11-14",
+      "articles": [
+        {
+          "title": "Manifestations du samedi 14 novembre 2026 : la carte de l’acte V des gilets jaunes, Paris, villes et horaires",
+          "source": "Les Voitures",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdHVNbXE1bFdYcWliNWJkSE0yR0RKYmJNRXQ1cDVWZmNvT1JLUlpDUVp5U2xIV3hiWlpHRjN1cXRScEdjMzZrV3dlVzFjX0ZUZnJNMjYtN0NRaVZK?oc=5",
+          "publishedAt": "2026-11-14T01:29:04.000Z",
+          "severity": "medium",
+          "titleZh": "2026年11月14日星期六的示威活动：黄背心第五幕地图、巴黎、城市和时间",
+          "content": null
+        },
+        {
+          "title": "Manifestations du 14 novembre à Paris : qui défile, où et quand, le point",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR29Xc2lOWFcyN0gzcFBaMjdfQ3hDSi1fV2V1N05BVE55ZEZBQzJRTTh4UUdNWmtZWTg5aFE3NWtieXE0VzZwOHp4c2RTVmdLNDVLd05pNkFtNS0tUUd4a2tzNXB1Qi1VYXYtMEF0TUFRMERnYnJqRlhNM3lDdlZUbnNtbW5LZFJVaWZOb1AtcTdBeHZhNHBGS1dWUlZhamZXYlp5NVMxWE94WDhST1pCbE9uNkVvcnBndVRiV2g4SUIzdzBBRkxkenE0NzViQQ?oc=5",
+          "publishedAt": "2026-11-13T22:39:00.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 14 日巴黎示威：谁在游行、地点和时间、要点",
           "content": null
         },
         {
@@ -44,20 +155,11 @@
         },
         {
           "title": "La préfecture de police valide l'itinéraire commun République-Nation à Paris, déclaré par trois organisateurs distincts pour la mobilisation du 14 novembre",
-          "source": "Franceinfo",
+          "source": "franceinfo",
           "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQdldDM1htYlZqSExBSnMxc01WeWhPcDVQM1ZBZEctUzNsQUtjdkJCM2FOV2NFWFpyWlFTU3lmNERrVEdVdjA3SEw4SVRnbDlhNE44M21JZnEtSU1LdV9DT2VVVHBoS2hPY3NXanl4M2N4WVAwUmxKLVFjck1PU2M1TG9RM2toa1F0OW1VeUlTdDJnSDdMbXhqS2VkbWY3dDl3VDRmT0lQMGFneXFCbUJnQzdHNFhIS3pEY0dTcUQwbW1WSTJ6TVd6ZnVaMmJ0bFJtbVhmRExaeVBHTkJXR3J3d25sSzk5emtma2Z3c0RSSVc2UG1YNkVmbG5nMjlqR3YyYU1PWDR5ejBoYVVabUV0UjMwdjItSzVSNzJlbU5zTEw0NVhRZ1hYQTdEWl9ZQUdUcVlURFdDNDNxMEtY?oc=5",
           "publishedAt": "2026-11-13T17:05:55.000Z",
           "severity": "info",
           "titleZh": "警察总部确认了巴黎共和民族路线的有效性，该路线是由三个不同的组织者为 11 月 14 日动员而宣布的",
-          "content": null
-        },
-        {
-          "title": "Manifestations samedi en France: 70 000 policiers et gendarmes mobilisés",
-          "source": "Noovo Info",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWGw4aW8tMmNXV1UyaUxjLXAxQWlaQXh6aEp4Ym1uOHBhQUt4NXJGSW9IOXNBQ2pXOGNwYlowb0kwU0tCc3lvaVcxelMwMHVJTzJzdThiR3FQamNSbU1iNlpOdnBfTHpYVWE3MUlXcG5Pcm5BNHhHVEhsMXVGdUVaX05HV21SdGdtRVo2U3Q5Y3hYRHZyb2hoMVVmY1hFZmNiV1R6UTVmR0t5WGJvUzhnQXVGdkZ6UkZnQWVzTDltU2JlXzFZUFE?oc=5",
-          "publishedAt": "2026-11-13T16:39:38.000Z",
-          "severity": "medium",
-          "titleZh": "法国周六示威：7万名警察和宪兵出动",
           "content": null
         },
         {
@@ -70,30 +172,12 @@
           "content": null
         },
         {
-          "title": "Manifestations du samedi 14 novembre 2026 : la carte de l’acte V des gilets jaunes, Paris, villes et horaires",
-          "source": "Les Voitures",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdHVNbXE1bFdYcWliNWJkSE0yR0RKYmJNRXQ1cDVWZmNvT1JLUlpDUVp5U2xIV3hiWlpHRjN1cXRScEdjMzZrV3dlVzFjX0ZUZnJNMjYtN0NRaVZK?oc=5",
-          "publishedAt": "2026-11-13T16:26:06.000Z",
-          "severity": "medium",
-          "titleZh": "2026年11月14日星期六的示威活动：黄背心第五幕地图、巴黎、城市和时间",
-          "content": null
-        },
-        {
           "title": "Manifestation du 14 novembre à Paris : parcours, sécurité, nombre de manifestants attendus… à quoi s'attendre ce samedi ?",
           "source": "France 3 Régions",
           "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNUnVuT215Y0hYbHhlcjJQdldFOUprbEpCTEdXOEVXVWZ6Q2pyc1hUT2E2dkNLOWFzNnRrY0lUYThZRDJxTjJEcnpFSE80X0VHcFNLcVZtQ2JxbmdySFNQQ00teHY5d0JkN2JFY09Wd182TE5KcWQ1dDZuMHNBdXVHNE9leUhULWJNTEdOQlBlWGFkaGlvT0hfZnJrT28xcm1FZ3lvOEc3TVk1YTFTb2d4SG5CaW9kRXJQMUxPQVZUTG5lSzlYbTFzWVBhY1pzcW1seUZZV2ZKSUxnNUFpcm5jbHBtUU1VYXR2WUhLcm5vOHI2LUFzOEhRU0xPR1duejJrSndZMV9ycDZWRElCTURwX0FRUlI4Z2Rwd3hZ?oc=5",
           "publishedAt": "2026-11-13T16:19:28.000Z",
           "severity": "medium",
-          "titleZh": "11 月 14 日巴黎示威：路线、安全、预计示威者人数……本周六会发生什么？",
-          "content": null
-        },
-        {
-          "title": "Mobilisation du 14 novembre : la Préfecture de police de Paris redoute une manifestation « à forte coloration antipolice »",
-          "source": "Le Monde.fr",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTXlFOU41QmpHRTVBRmdTQkVzZ2l3dDkxeE4xdnFOQTlYakN5eXZXUGNWSnpiaXlSejlUaU5IbTRIbWVLSlEtSFFBaTMtWUZ1bHBxOFJmYkM4ZDhXVHd0U2RqY2pHMWtGQ2ExRjdJZ3JIdjJQYVpGNGdkdmg2Y2ExTjhHLS1YN0ZWdkVyS2k5cmdSZHZpUEhjMGVKUkI0MnRRTXZFZzFUdU5udUNoeVkzSFhNblM0clhHUC0ta1hjNVBUZUItWG0tSHlmX2NKeGxHc0Y2MHY1V1BjUnJKVHpSMDM1YTRIaEI0MVdFZnl5aVg1UlJyenluRnlVWWdSeFFzRHFmcFhldDlkQ1pHcGFLUkkyZw?oc=5",
-          "publishedAt": "2026-11-13T14:37:11.000Z",
-          "severity": "medium",
-          "titleZh": "11月14日动员：巴黎警察局担心“强烈反警察”示威",
+          "titleZh": "11 月 14 日巴黎示��：路线、安全、预计示威者人数……本周六会发生什么？",
           "content": null
         }
       ],
@@ -104,81 +188,7 @@
         11,
         12
       ],
-      "articleCount": 10,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
-      "date": "2026-11-15",
-      "articles": [
-        {
-          "title": "Manifestations à Paris : de nouvelles catégories de commerces autorisées à ouvrir le dimanche",
-          "source": "Boursorama",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQYkxwYTlEU2ktNW5YaEVHNjZfeFVRb2ZDRVRkeXdqNkJwOEtwSzhJbWlyUTg5bnBydU1POHRqY0kwaVFWLWFhMl9reUdDNXdROXh4WGJWMExOTkxXbmgtRHBGYnZCQmZNbVZBRVlNbktIRVNuUVk1Z1g2Q2tsa1pVTlQxYnFhOUJZbUEzeG1GRklTUDFYZlhqVmwtaFJQYkQ5X3BiclJDVkttTFgwUUVBT2JNQ3RiSmxfNzhQTmVSX0diS0Y3RXhrQzJJNV9vN2lXdkFELUtscV8yOVdSQmtIRW1XdlJfVU9GMThpY19BUDB4ZzBYRkh1YzRSb3ktUWkyT1F6eW9JenNwcnhOemZoeHZJcG1Dd9IBlgJBVV95cUxQYkxwYTlEU2ktNW5YaEVHNjZfeFVRb2ZDRVRkeXdqNkJwOEtwSzhJbWlyUTg5bnBydU1POHRqY0kwaVFWLWFhMl9reUdDNXdROXh4WGJWMExOTkxXbmgtRHBGYnZCQmZNbVZBRVlNbktIRVNuUVk1Z1g2Q2tsa1pVTlQxYnFhOUJZbUEzeG1GRklTUDFYZlhqVmwtaFJQYkQ5X3BiclJDVkttTFgwUUVBT2JNQ3RiSmxfNzhQTmVSX0diS0Y3RXhrQzJJNV9vN2lXdkFELUtscV8yOVdSQmtIRW1XdlJfVU9GMThpY19BUDB4ZzBYRkh1YzRSb3ktUWkyT1F6eW9JenNwcnhOemZoeHZJcG1Ddw?oc=5",
-          "publishedAt": "2026-11-13T16:20:52.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎示威：新类别企业获准周日开业",
-          "content": null
-        },
-        {
-          "title": "Manifestation samedi à Paris: de nouveaux commerces autorisés à ouvrir le dimanche",
-          "source": "FashionNetwork France",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazBRZXA0YllLeUx5MnhSc1VSM1pUQlpacExGWGhxaHUzbHhtU1pwQ2VsRnZOT1hnbF9jX2NBa2dVYnhXc0g0QktsWWp5Z1hqYXFTUmRsYTl4YUVxM0ZtdlpDdS02emVqVHktdFVLai1ha2swRFBxc0JEUWtYN1R2OU1EYmtjWkctcDNEUlpDY0ZoeVVTUDZPTGJuVWNKd1UxV1JMb0pxVlNWNzJLU3h6SVp2NVhfeDI4NlNUZW5weU5ucGQzVEN6dw?oc=5",
-          "publishedAt": "2026-11-13T15:13:46.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎周六示威：新企业获准周日开业",
-          "content": null
-        },
-        {
-          "title": "RER D coupé dans Paris, ligne 12 du métro fermée au nord… Les perturbations des 14 et 15 novembre dans les transports en Île-de-France",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPUjNESEFmalVqNjUxOEJoMnFsWmQyXzNWRDd3SzF4WWU1MlY5Uk9OYVMtVkJuSDNVa01yUXpKVTdxVUZsYTBlTUtqd0EzVDQyQXNGUU1rb183S0lXSS1wY2hFdUZsUlczZXlWN09LdFdSWGYxQzNWa2k2Yld5cXBEMnhIS0xsMnY1NmZDUm9UU29mcVRwZGluaXlSVzZ5dHV0cTVzZnRsMnp5RUVEamwwVWpFQ0diQTJDTFdvT1c4eHdqdEt3VGd4NkZCcU9jZFRDRjliUUJqZ1VIOVRjQXkzMkNhUFE4V2RHWk5uVmZqSDNyQmNyd2NSYy1ockRTYml0Y2dPTW9mSENibndzQjRZQ1lBQlVrNWtVaU8xNmRlYkZEMTBfX21hQzd3WDRWbDNjclJCblg3YmMwQ2NjaWRrcHo4dzBjMXlhWVgwcUJyUXlaRlU?oc=5",
-          "publishedAt": "2026-11-13T14:34:20.000Z",
-          "severity": "info",
-          "titleZh": "巴黎 RER D 线中断，地铁 12 号线向北关闭……11 月 14 日至 15 日法兰西岛交通中断",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 3,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
-      "date": "2026-11-17",
-      "articles": [
-        {
-          "title": "Grève du 17 novembre à Paris : la CFDT rejoint le mouvement, ce qui nous attend",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQblFJcmVCNnhSam1pMVlxbjdtdzBwUFBLajB6LUZuUDJmWTY4SXpMQ2xILXYxYU1lZzFDUkVNQ3EzdDBPbmxsVklrQWViTllTbW01UHhfanQ2bWRjWWZRaWVLajBrRFdlWXI2Ump5a2YxTld4VmZ6U3dkVnN0MlZMYjlFQk85Tjl0S1BzekZCYU9xYmVJX3hZT1A2QXA3MGx2d19fNVRlX2dmUEtYY0hnd1M4ZE1fbXFIRXVfREdpNE1raldJT19tOFhURTBoZG53NVctcnozRQ?oc=5",
-          "publishedAt": "2026-11-13T20:05:03.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 17 日巴黎罢工：CFDT 加入运动，等待我们的是什么",
-          "content": null
-        },
-        {
-          "title": "Grève du 17 novembre 2026 : qui se mobilise et à quelles perturbations s’attendre ?",
-          "source": "Démarches Administratives",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMGNlbW9jdHpRcDZHZGdWVGs4Z1dSeG93WFVKcmJzY1B3aC1xM1VXQ1VhVndvSDhmc1NFZjdnYlJuT2JDalItdm9GNnYtVExFSG54cDBnTGo2RjFkeGlsT1liMnpYUm9JQnVvY21QeS0xNUxEbmp4eXZiQWhrQ05FYlBxZFcySVRDZEYxYXYwbXR6dHl4dkpPbTNBNzBfOS12S1UyWG5tSlp2M0haTWlBdVQ2ZUw2MnFyd01Xdi1n0gHDAUFVX3lxTE5icXNpa0ljOU5UQWtoN3YwZU1NblFaT3BHQVU1QlE4Z0xzQWVtNE5wNzk5T2Rha0NQWVNmM0Nhb3pqZmNncHBSdlJjZ1J5NTI1Q1NkLUkzQTVSZ2RHbl92c3IwZFE4NVZWby1oaWpNakk4Z1lxZnBtdmQxZnlsT3h4TDY4MFFvSy0zU3ZiUFBQVlhvUjdiT0d4M2h3Vk5ob3FhakxQQmVHQmtXZE9MYVpCM2ZrV0xwTFpfWFJxa083MGt0Zw?oc=5",
-          "publishedAt": "2026-11-13T16:11:16.000Z",
-          "severity": "medium",
-          "titleZh": "2026 年 11 月 17 日的罢工：谁在动员以及我们预计会受到什么干扰？",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 17 novembre à Paris : parcours, stations de métro potentiellement fermées… ce qu’il faut savoir",
-          "source": "Paris Secret",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1NWVzYtT083TzFHSjAtWjVqR21oNzlHOGpTTzRmNVFsNm8zeU40d0JJdEFyM1JfYkFkQTM0dUowV3FFejk0ci1Ia0ZGdVFVUi1HankwZThCVWxCOV84TDR4ZlB6ZElmcUZiUDUzaDBQRVQ0RlNRQXF4b19sUVNGb1B3NUk?oc=5",
-          "publishedAt": "2026-11-13T16:04:21.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 17 日巴黎示威：路线、可能关闭的地铁站……你需要知道的",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 3,
+      "articleCount": 8,
       "clashCount": 0,
       "status": "recent"
     },
@@ -186,12 +196,48 @@
       "date": "unknown",
       "articles": [
         {
+          "title": "Paris Protest Closes 21 Metro Stations, From Châtelet to Étoile, on Saturday, Nov. 14",
+          "source": "deeparrival.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUpoSmJXcGttb3Y4QUQ2Vl95dDNpS1U4azI3NTNTQm1zWHhxU0VWUUV0UEc2MWc2X0JQMWVxQTZyYnI1cHBsZGR5empJN2hNWlA4bDdCT04taGRoOVFTd1lldmRWQTI3QkdzdGY5R0N2a2dXX0Y3VzdXV2xKM0IwaURmdzFCM1NqRFZN?oc=5",
+          "publishedAt": "2026-11-14T00:48:59.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎抗议活动于 11 月 14 日星期六关闭了从 Châtelet 到 Étoile 的 21 个地铁站",
+          "content": null
+        },
+        {
+          "title": "RER B strike this weekend: what’s changing for travel to Roissy",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbko3SGtPTEZPa2pDRUxaUjNqbndTdXBIR1UxNXJxdHNhQU5iNHp3VHhPdTFFQWs0bnBueExFYUhxZ0dmSlcwcEVzZWdyWXFMVmhDZVNfdUJ2M1hubzRkcndzVGEwTURmSmpPRnNOeWNpX2MyNWd1bGloVVRIOEMzSlJ4d3d4MHZjcXpUdURUVm5XTTBzOHF5eEhEeFQtT25mcVc0UGdGcllTN2ljVjY2R3puMmRXX0RKWjl4S244Ykg?oc=5",
+          "publishedAt": "2026-11-13T23:06:18.000Z",
+          "severity": "medium",
+          "titleZh": "RER B 本周末罢工：前往鲁瓦西 (Roissy) 的旅行有何变化",
+          "content": null
+        },
+        {
+          "title": "RER B en grève ce week-end : ce qui change pour aller à Roissy",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM1BWcUV2RDcyVUdpLXFmZ0RWQUdUMjI1enFHeVgtbnV0Smg5cGZ6aGlPQVhjdGRyd2ZmTHhNa3dyYWJVZjMzMXZKdUdsbHlyRk9UN096UzBaZVNjUUotaVlIcXRiSlFJREZLUjhnVDk4VmZRUW1BdUlQaDc3ZXRka2xUZkNpaDVROTZzQl9VYWpJWEx4SWtWTEJZdnIwbklQX3dudHMyWG5pLXBEMzRaQzZMRnAyRjFMX0JaNEZqYTVGZlU?oc=5",
+          "publishedAt": "2026-11-13T23:06:18.000Z",
+          "severity": "medium",
+          "titleZh": "RER B 本周末罢工：前往 Roissy 有何变化",
+          "content": null
+        },
+        {
+          "title": "Elle projetait d’aller «tirer» lors des manifestations à Paris : la porte-parole d’un groupuscule néonazi espagnol arrêtée, des armes retrouvées à son domicile",
+          "source": "Le Figaro",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPRU1JVEEyaFJCSV85dEZLaW1FV1piU29KcnExM2s5ZjZseXoxNm85TUVXbTc0b292M0lTanBEMnMxemsyQ1dvUU9KRy1sdW8xMWp5NzB2QURVcl9qUWFaX0hVTnJJUzQ2Y1hxWTVKS21ZMlhqTHhXd0Z3WXhOeEFOdkRsRTRRV3ZLV0ZGWjR4ZVgzTlQ5ekNlYWJkN1pBRUdLbklFWWZ1eDZlX2dMRWNUelo3a1NmT1ZSdVhzVkJGYmhuT1FvMmphX09keUhDTVVTVUM2bVV3bmxSLVN6S2dMb3hiM3JJRmFYd0otMlNKY1dIVkNGRmVZSlhiMXhPMTA5V1drVkV0cWVnY195UUFFLUZXUDZrd3VGSjk1RV9PX3pvWDN5Q2thcA?oc=5",
+          "publishedAt": "2026-11-13T22:31:26.000Z",
+          "severity": "medium",
+          "titleZh": "她计划在巴黎示威期间“开枪”：西班牙新纳粹小团体发言人被捕，家中发现武器",
+          "content": null
+        },
+        {
           "title": "« Soirée de soutien aux caisses de grèves », à Paris",
           "source": "Reporterre, le média de l'écologie",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tVWtVM09NY2J3bldzSjllLS1kQll2SHpnelQ0ZUZ0X1dvRTZBR3Rsd1FGWjRZSFV1VUE2VTlYcXhNMHVPQTRxb0Ftb0tiVTVidzk4RHd2Uk45MjdhdTF2M0FjdjcwdEd0S0VXWTlzcldLWnRDNXMzQnhB?oc=5",
           "publishedAt": "2026-11-13T21:19:34.000Z",
           "severity": "medium",
-          "titleZh": "« Soirée de soutien aux caisses de grèves », à Paris",
+          "titleZh": "“支持罢工基金之夜”，巴黎",
           "content": null
         },
         {
@@ -204,12 +250,12 @@
           "content": null
         },
         {
-          "title": "France Has Mobilized 70,000 Security Forces Ahead of a New Wave of Protests — Le Figaro",
-          "source": "UA.NEWS",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNTg4dllRY09zZTk3MXA4LXZ1WUF6SWw5MVVESXFfWjhfeVJ4SG1TLWZjRWlybVNiNUx1bjJBV1NKcHlPV1BYeUdYak5mN3k2NXMyY0RVY256azhVaFQ0ZmJBUmRINGR3cUhJM1Frc3ROdnByWVhKMW9aVW9Fakh5ZnItd0ZHTFU1NDk0dE15QlBfT0xBaFptU0YtWjJjT0RLNzVkNlFTRVF3eFVMTFBV?oc=5",
-          "publishedAt": "2026-11-13T20:35:18.000Z",
+          "title": "Weekend of fiery protests in France raises questions, costs millions",
+          "source": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcFhEay13QkdwLWpfT2lQTm9RVFBEdkFKSWNENUNMQU1xTG02TFpmbUVEb0xCam5kaVVnUGxWREhNTEF1SG40VmkzZGl6ZUpzSXYtMUtBRlc0YmoxT2dxVGNLQlhXMDA5cjJ5elNydDBLYmZOTlZDTVJtb05DaXZDMEpva0VOY3hWSUhzM0FENGZuNGR2V2lFbG4ybkZFNnBzZW5tMm9JR0lNWmdXeUJsOHdR?oc=5",
+          "publishedAt": "2026-11-13T20:34:35.000Z",
           "severity": "medium",
-          "titleZh": "法国动员了 70,000 名安全部队应对新一波抗议活动 — 《费加罗报》",
+          "titleZh": "法国周末激烈抗议引发问题，造成数百万美元损失",
           "content": null
         },
         {
@@ -225,7 +271,7 @@
           "title": "Europe braces for MORE riots as France deploys ring of steel with 70,000 cops & Germany prepares for ‘Gen Z’ fury",
           "source": "The Sun",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOelMzYmVGNk04cXpPa0cyekZhd2V1Y2czeF85ckFWRkhPbVhsZTBrNElpcjVLT1dLc1RLVWUzR01KYzJ2SU9NWXlJNVJXSEQzQUhCVEFXSGdBcmktdGRhbVNnVkt5bk5MTlRCN0FJdU1ZS21IZ0tWbjNLR0ppbEJUaw?oc=5",
-          "publishedAt": "2026-11-13T19:30:00.000Z",
+          "publishedAt": "2026-11-13T19:30:10.000Z",
           "severity": "info",
           "titleZh": "法国部署7万名警察组成的铁环，德国准备应对“Z世代”的愤怒，欧洲准备迎接更多骚乱",
           "content": null
@@ -353,7 +399,7 @@
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORzJXS3hoc3JrZkpWbUYtdFVMdmtEeE5mc1dDOEdXM2psWFp2NU5QMzFVcjFJRDRZOUR3T2Vadng3bkstQXdwb2ZObDlBY0doSFBvOC00ZFlTQnE2eEZjam9BUDNTbmNGS0pMbFJROHJnMEJvdTZ5a2VXMlRRRWltWTY4Qjk0STBROFdubnBnSEpMTWh0OEM1LUFzYkIweGFrLXZ3T3ZuSU5PdnRTbTZqb0pncmRZYkZIdVVvS1hsSGRyekdHRUJsdE1XY2hhZw?oc=5",
           "publishedAt": "2026-11-13T15:23:36.000Z",
           "severity": "high",
-          "titleZh": "在巴黎，校长们在暴力面前动员起来并交出钥匙",
+          "titleZh": "在巴黎，校长们在暴力面前动���起来并交出钥匙",
           "content": null
         },
         {
@@ -363,42 +409,6 @@
           "publishedAt": "2026-11-13T15:22:19.000Z",
           "severity": "info",
           "titleZh": "受伤的 CRS：内部档案削弱了部长的资产负债表",
-          "content": null
-        },
-        {
-          "title": "Néonazis, armes et croix gammées : un groupuscule espagnol d’extrême droite démantelé, sa porte-parole Isabel Peralta voulait « tirer » à Paris",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPZzUteFdBbFlvXzZrVUgwanktTmtkZ2NsVlE2Q2tZTzJWZkpRTGQxbHhlOWx6SHFFRzZFUjc0MlJvbHhpYmRSX1dBaDBtOUhNMVVKUDlQWl9NRldoMW8zRGNDWWdUNGd5Sm9sM242aTRPUml0M2VIaG1rb3VSUGpGUGRFa3JZMjhKLWs2TllfQWJoVEk2dWplZk5nbmpFTDBab0NVcUdNTGNGWmprN00yY0dpZjhUcnZlQVhYeUZ1YzRWXzJESWpqTUFYdFdtYy1OTHNtazRLQmtUeFROWDZmSmJxX18zWnVDcWJpN2c3UGpLXzQtOE5VeXd1U1gxNU9SeFNzb1VrNEdqakE1RGh5UTdFdWZTdkN2cVJNWFI4V0FYZlhaeG5JMFo2ZThqbVhlR2NLQ1RhTXA4cUVj?oc=5",
-          "publishedAt": "2026-11-13T14:46:12.000Z",
-          "severity": "info",
-          "titleZh": "新纳粹分子、武器和纳粹党徽：一个西班牙极右小团体被解散，其发言人伊莎贝尔·佩拉尔塔欲在巴黎“开枪”",
-          "content": null
-        },
-        {
-          "title": "\"Les Misérables\" au théâtre du Châtelet : le grand triomphe",
-          "source": "Franceinfo",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTTMtODR2Q2hpWXc5VDg3Y0JVaHJyYzhZcHdCb3gxYkNGcDZUd3JZSjd4UHBLYnVxamVsekJDa2xPYUJWeDBLNVBPalFGNmxyNFZyRVlIQWc2Zkg2MmFQeVZhWUo5a2R2S2hOc3dLSUlVcXRNaWVrSmN3YzJlQmpENGd3SmNCRWJueHIzY0ZqWVU2SFlyaU41cEVCT0ppeHY5RFZmT0pLelB0ZnVORFQ4VTgzTEUzOGZ5OVhZX3dyX3R3czlkb3plc2I2NVA?oc=5",
-          "publishedAt": "2026-11-13T14:42:48.000Z",
-          "severity": "info",
-          "titleZh": "沙特莱剧院的《悲惨世界》：伟大的胜利",
-          "content": null
-        },
-        {
-          "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
-          "publishedAt": "2026-11-13T14:14:35.000Z",
-          "severity": "info",
-          "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
-          "content": null
-        },
-        {
-          "title": "Manifestation contre la vie chère à Paris : un projet de tuerie néonazi déjoué par les autorités espagnoles",
-          "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWTB4ZldyTUxXNFp6bDdrRGxoVVhXTFJvaUNYT29pQWVMUVBlWEtMaDlyRzJlbjNTVVpWUFpTazRiRjRrZEZCTFJ5Zy1vaEt6RGdJV21JQnhSVmtEZzNuT0FRVEFjZ0FYbk1pZzdQZjhGaTNnX3VzMTVjMVBlVzVoMEhwN2dmLXBscHJzY2hBNGxCdmUzZ1FoOW1YblFQOS1EUHYxalppcHJvTkE3Nk4zQW9EeXNQbDJmZHJFNEtET2RtU2J2SFUtcm5JTEtmYS03MXdzRmMwMVdUMGxHUkgteHdUT1RHcXNKVjBlTi04OU9ia1U?oc=5",
-          "publishedAt": "2026-11-13T14:13:40.000Z",
-          "severity": "medium",
-          "titleZh": "反对巴黎高生活成本的示威：被西班牙当局挫败的新纳粹屠杀计划",
           "content": null
         }
       ],
@@ -416,21 +426,93 @@
   ],
   "latest": [
     {
+      "title": "Manifestations du samedi 14 novembre 2026 : la carte de l’acte V des gilets jaunes, Paris, villes et horaires",
+      "source": "Les Voitures",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdHVNbXE1bFdYcWliNWJkSE0yR0RKYmJNRXQ1cDVWZmNvT1JLUlpDUVp5U2xIV3hiWlpHRjN1cXRScEdjMzZrV3dlVzFjX0ZUZnJNMjYtN0NRaVZK?oc=5",
+      "publishedAt": "2026-11-14T01:29:04.000Z",
+      "severity": "medium",
+      "titleZh": "2026年11月14日星期六的示威活动：黄背心第五幕地图、巴黎、城市和时间",
+      "content": null
+    },
+    {
+      "title": "Paris Protest Closes 21 Metro Stations, From Châtelet to Étoile, on Saturday, Nov. 14",
+      "source": "deeparrival.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUpoSmJXcGttb3Y4QUQ2Vl95dDNpS1U4azI3NTNTQm1zWHhxU0VWUUV0UEc2MWc2X0JQMWVxQTZyYnI1cHBsZGR5empJN2hNWlA4bDdCT04taGRoOVFTd1lldmRWQTI3QkdzdGY5R0N2a2dXX0Y3VzdXV2xKM0IwaURmdzFCM1NqRFZN?oc=5",
+      "publishedAt": "2026-11-14T00:48:59.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎抗议活动于 11 月 14 日星期六关闭了从 Châtelet 到 Étoile 的 21 个地铁站",
+      "content": null
+    },
+    {
+      "title": "Grève du 17 novembre à Paris : la CFDT rejoint le mouvement, ce qui nous attend",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQblFJcmVCNnhSam1pMVlxbjdtdzBwUFBLajB6LUZuUDJmWTY4SXpMQ2xILXYxYU1lZzFDUkVNQ3EzdDBPbmxsVklrQWViTllTbW01UHhfanQ2bWRjWWZRaWVLajBrRFdlWXI2Ump5a2YxTld4VmZ6U3dkVnN0MlZMYjlFQk85Tjl0S1BzekZCYU9xYmVJX3hZT1A2QXA3MGx2d19fNVRlX2dmUEtYY0hnd1M4ZE1fbXFIRXVfREdpNE1raldJT19tOFhURTBoZG53NVctcnozRQ?oc=5",
+      "publishedAt": "2026-11-13T23:06:35.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 17 日巴黎罢工：CFDT 加入运动，等待我们的是什么",
+      "content": null
+    },
+    {
+      "title": "RER B strike this weekend: what’s changing for travel to Roissy",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbko3SGtPTEZPa2pDRUxaUjNqbndTdXBIR1UxNXJxdHNhQU5iNHp3VHhPdTFFQWs0bnBueExFYUhxZ0dmSlcwcEVzZWdyWXFMVmhDZVNfdUJ2M1hubzRkcndzVGEwTURmSmpPRnNOeWNpX2MyNWd1bGloVVRIOEMzSlJ4d3d4MHZjcXpUdURUVm5XTTBzOHF5eEhEeFQtT25mcVc0UGdGcllTN2ljVjY2R3puMmRXX0RKWjl4S244Ykg?oc=5",
+      "publishedAt": "2026-11-13T23:06:18.000Z",
+      "severity": "medium",
+      "titleZh": "RER B 本周末罢工：前往鲁瓦西 (Roissy) 的旅行有何变化",
+      "content": null
+    },
+    {
+      "title": "RER B en grève ce week-end : ce qui change pour aller à Roissy",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM1BWcUV2RDcyVUdpLXFmZ0RWQUdUMjI1enFHeVgtbnV0Smg5cGZ6aGlPQVhjdGRyd2ZmTHhNa3dyYWJVZjMzMXZKdUdsbHlyRk9UN096UzBaZVNjUUotaVlIcXRiSlFJREZLUjhnVDk4VmZRUW1BdUlQaDc3ZXRka2xUZkNpaDVROTZzQl9VYWpJWEx4SWtWTEJZdnIwbklQX3dudHMyWG5pLXBEMzRaQzZMRnAyRjFMX0JaNEZqYTVGZlU?oc=5",
+      "publishedAt": "2026-11-13T23:06:18.000Z",
+      "severity": "medium",
+      "titleZh": "RER B 本周末罢工：前往 Roissy 有何变化",
+      "content": null
+    },
+    {
+      "title": "Manifestations du 14 novembre à Paris : qui défile, où et quand, le point",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR29Xc2lOWFcyN0gzcFBaMjdfQ3hDSi1fV2V1N05BVE55ZEZBQzJRTTh4UUdNWmtZWTg5aFE3NWtieXE0VzZwOHp4c2RTVmdLNDVLd05pNkFtNS0tUUd4a2tzNXB1Qi1VYXYtMEF0TUFRMERnYnJqRlhNM3lDdlZUbnNtbW5LZFJVaWZOb1AtcTdBeHZhNHBGS1dWUlZhamZXYlp5NVMxWE94WDhST1pCbE9uNkVvcnBndVRiV2g4SUIzdzBBRkxkenE0NzViQQ?oc=5",
+      "publishedAt": "2026-11-13T22:39:00.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 14 日巴黎示威：谁在游行、地点和时间、要点",
+      "content": null
+    },
+    {
+      "title": "Elle projetait d’aller «tirer» lors des manifestations à Paris : la porte-parole d’un groupuscule néonazi espagnol arrêtée, des armes retrouvées à son domicile",
+      "source": "Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPRU1JVEEyaFJCSV85dEZLaW1FV1piU29KcnExM2s5ZjZseXoxNm85TUVXbTc0b292M0lTanBEMnMxemsyQ1dvUU9KRy1sdW8xMWp5NzB2QURVcl9qUWFaX0hVTnJJUzQ2Y1hxWTVKS21ZMlhqTHhXd0Z3WXhOeEFOdkRsRTRRV3ZLV0ZGWjR4ZVgzTlQ5ekNlYWJkN1pBRUdLbklFWWZ1eDZlX2dMRWNUelo3a1NmT1ZSdVhzVkJGYmhuT1FvMmphX09keUhDTVVTVUM2bVV3bmxSLVN6S2dMb3hiM3JJRmFYd0otMlNKY1dIVkNGRmVZSlhiMXhPMTA5V1drVkV0cWVnY195UUFFLUZXUDZrd3VGSjk1RV9PX3pvWDN5Q2thcA?oc=5",
+      "publishedAt": "2026-11-13T22:31:26.000Z",
+      "severity": "medium",
+      "titleZh": "她计划在巴黎示威期间“开枪”：西班牙新纳粹小团体发言人被捕，家中发现武器",
+      "content": null
+    },
+    {
+      "title": "Pour l'acte V du mouvement social samedi, des mobilisations aux revendications variées",
+      "source": "tv5monde",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVVlsdTk0bldwcS01dGRMSS1oRnJEVWlJa1VjV2lESVNBWm0wODY0b1ljTGhkZFRmVVRjT29DU3phdmNqNEZmZGRQME9Ob3MtN0duV2xMM0NyR3gxamFEal9NLXZJeFZVZHktdzVhLUNNQmFqb2hWRGU4S2hMa050WWo2Y2dMN19qc1pUd2dwakNzcTZIOE5Rbnd1VDMxb0Jvc2tBbDl1WlN4VXByb0Yxbm5Mek8tcjU1VFhWYUZrY0lJN1ZKUlNPZ0NMVThaQk5ybWc?oc=5",
+      "publishedAt": "2026-11-13T22:01:00.000Z",
+      "severity": "info",
+      "titleZh": "周六社会运动第五幕，不同诉求的动员",
+      "content": null
+    },
+    {
       "title": "« Soirée de soutien aux caisses de grèves », à Paris",
       "source": "Reporterre, le média de l'écologie",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tVWtVM09NY2J3bldzSjllLS1kQll2SHpnelQ0ZUZ0X1dvRTZBR3Rsd1FGWjRZSFV1VUE2VTlYcXhNMHVPQTRxb0Ftb0tiVTVidzk4RHd2Uk45MjdhdTF2M0FjdjcwdEd0S0VXWTlzcldLWnRDNXMzQnhB?oc=5",
       "publishedAt": "2026-11-13T21:19:34.000Z",
       "severity": "medium",
-      "titleZh": "« Soirée de soutien aux caisses de grèves », à Paris",
+      "titleZh": "“支持罢工基金之夜”，巴黎",
       "content": null
     },
     {
-      "title": "Manifs à Paris samedi : la RATP ferme 21 stations de métro dès 11h",
+      "title": "Manifs à Paris samedi : la liste des 21 stations de métro fermées",
       "source": "Sortir à Paris",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0RNQ3JqMHAwSDgyeXNFVkwyLTdvX0hqWkdhS1FzQWVfNllpOHlHdGZ6YzYzRHgyd2ZpUkdXNENyTDdxNGNqVVVtRzhaZmFCd3lhMEpoNG00UHlUSG5RSmtqTGFiLWpua0VmaE5XVjIwbk9RUmtBRW9uY2FWQVB6Wl9udV9pZlAxUGtXQUg3VnJpQW0yTVVyelJfeE55ckF2TEhuamtGdTY1OWJLaWR6cXBWUEdqckJ3UUpzVGpEOHJQaHVZdldn?oc=5",
       "publishedAt": "2026-11-13T20:52:39.000Z",
       "severity": "info",
-      "titleZh": "巴黎周六举行示威活动：RATP 从上午 11 点起关闭 21 个地铁站",
+      "titleZh": "周六巴黎示威：21个关闭地铁站名单",
       "content": null
     },
     {
@@ -443,12 +525,12 @@
       "content": null
     },
     {
-      "title": "France Has Mobilized 70,000 Security Forces Ahead of a New Wave of Protests — Le Figaro",
-      "source": "UA.NEWS",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNTg4dllRY09zZTk3MXA4LXZ1WUF6SWw5MVVESXFfWjhfeVJ4SG1TLWZjRWlybVNiNUx1bjJBV1NKcHlPV1BYeUdYak5mN3k2NXMyY0RVY256azhVaFQ0ZmJBUmRINGR3cUhJM1Frc3ROdnByWVhKMW9aVW9Fakh5ZnItd0ZHTFU1NDk0dE15QlBfT0xBaFptU0YtWjJjT0RLNzVkNlFTRVF3eFVMTFBV?oc=5",
-      "publishedAt": "2026-11-13T20:35:18.000Z",
+      "title": "Weekend of fiery protests in France raises questions, costs millions",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcFhEay13QkdwLWpfT2lQTm9RVFBEdkFKSWNENUNMQU1xTG02TFpmbUVEb0xCam5kaVVnUGxWREhNTEF1SG40VmkzZGl6ZUpzSXYtMUtBRlc0YmoxT2dxVGNLQlhXMDA5cjJ5elNydDBLYmZOTlZDTVJtb05DaXZDMEpva0VOY3hWSUhzM0FENGZuNGR2V2lFbG4ybkZFNnBzZW5tMm9JR0lNWmdXeUJsOHdR?oc=5",
+      "publishedAt": "2026-11-13T20:34:35.000Z",
       "severity": "medium",
-      "titleZh": "法国动员了 70,000 名安全部队应对新一波抗议活动 — 《费加罗报》",
+      "titleZh": "法国周末激烈抗议引发问题，造成数百万美元损失",
       "content": null
     },
     {
@@ -461,19 +543,10 @@
       "content": null
     },
     {
-      "title": "Grève du 17 novembre à Paris : la CFDT rejoint le mouvement, ce qui nous attend",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQblFJcmVCNnhSam1pMVlxbjdtdzBwUFBLajB6LUZuUDJmWTY4SXpMQ2xILXYxYU1lZzFDUkVNQ3EzdDBPbmxsVklrQWViTllTbW01UHhfanQ2bWRjWWZRaWVLajBrRFdlWXI2Ump5a2YxTld4VmZ6U3dkVnN0MlZMYjlFQk85Tjl0S1BzekZCYU9xYmVJX3hZT1A2QXA3MGx2d19fNVRlX2dmUEtYY0hnd1M4ZE1fbXFIRXVfREdpNE1raldJT19tOFhURTBoZG53NVctcnozRQ?oc=5",
-      "publishedAt": "2026-11-13T20:05:03.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 17 日巴黎罢工：CFDT 加入运动，等待我们的是什么",
-      "content": null
-    },
-    {
       "title": "Europe braces for MORE riots as France deploys ring of steel with 70,000 cops & Germany prepares for ‘Gen Z’ fury",
       "source": "The Sun",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOelMzYmVGNk04cXpPa0cyekZhd2V1Y2czeF85ckFWRkhPbVhsZTBrNElpcjVLT1dLc1RLVWUzR01KYzJ2SU9NWXlJNVJXSEQzQUhCVEFXSGdBcmktdGRhbVNnVkt5bk5MTlRCN0FJdU1ZS21IZ0tWbjNLR0ppbEJUaw?oc=5",
-      "publishedAt": "2026-11-13T19:30:00.000Z",
+      "publishedAt": "2026-11-13T19:30:10.000Z",
       "severity": "info",
       "titleZh": "法国部署7万名警察组成的铁环，德国准备应对“Z世代”的愤怒，欧洲准备迎接更多骚乱",
       "content": null
@@ -579,7 +652,7 @@
     },
     {
       "title": "La préfecture de police valide l'itinéraire commun République-Nation à Paris, déclaré par trois organisateurs distincts pour la mobilisation du 14 novembre",
-      "source": "Franceinfo",
+      "source": "franceinfo",
       "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQdldDM1htYlZqSExBSnMxc01WeWhPcDVQM1ZBZEctUzNsQUtjdkJCM2FOV2NFWFpyWlFTU3lmNERrVEdVdjA3SEw4SVRnbDlhNE44M21JZnEtSU1LdV9DT2VVVHBoS2hPY3NXanl4M2N4WVAwUmxKLVFjck1PU2M1TG9RM2toa1F0OW1VeUlTdDJnSDdMbXhqS2VkbWY3dDl3VDRmT0lQMGFneXFCbUJnQzdHNFhIS3pEY0dTcUQwbW1WSTJ6TVd6ZnVaMmJ0bFJtbVhmRExaeVBHTkJXR3J3d25sSzk5emtma2Z3c0RSSVc2UG1YNkVmbG5nMjlqR3YyYU1PWDR5ejBoYVVabUV0UjMwdjItSzVSNzJlbU5zTEw0NVhRZ1hYQTdEWl9ZQUdUcVlURFdDNDNxMEtY?oc=5",
       "publishedAt": "2026-11-13T17:05:55.000Z",
       "severity": "info",
@@ -614,15 +687,6 @@
       "content": null
     },
     {
-      "title": "Manifestations du samedi 14 novembre 2026 : la carte de l’acte V des gilets jaunes, Paris, villes et horaires",
-      "source": "Les Voitures",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdHVNbXE1bFdYcWliNWJkSE0yR0RKYmJNRXQ1cDVWZmNvT1JLUlpDUVp5U2xIV3hiWlpHRjN1cXRScEdjMzZrV3dlVzFjX0ZUZnJNMjYtN0NRaVZK?oc=5",
-      "publishedAt": "2026-11-13T16:26:06.000Z",
-      "severity": "medium",
-      "titleZh": "2026年11月14日星期六的示威活动：黄背心第五幕地图、巴黎、城市和时间",
-      "content": null
-    },
-    {
       "title": "Manifestations à Paris : de nouvelles catégories de commerces autorisées à ouvrir le dimanche",
       "source": "Boursorama",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQYkxwYTlEU2ktNW5YaEVHNjZfeFVRb2ZDRVRkeXdqNkJwOEtwSzhJbWlyUTg5bnBydU1POHRqY0kwaVFWLWFhMl9reUdDNXdROXh4WGJWMExOTkxXbmgtRHBGYnZCQmZNbVZBRVlNbktIRVNuUVk1Z1g2Q2tsa1pVTlQxYnFhOUJZbUEzeG1GRklTUDFYZlhqVmwtaFJQYkQ5X3BiclJDVkttTFgwUUVBT2JNQ3RiSmxfNzhQTmVSX0diS0Y3RXhrQzJJNV9vN2lXdkFELUtscV8yOVdSQmtIRW1XdlJfVU9GMThpY19BUDB4ZzBYRkh1YzRSb3ktUWkyT1F6eW9JenNwcnhOemZoeHZJcG1Dd9IBlgJBVV95cUxQYkxwYTlEU2ktNW5YaEVHNjZfeFVRb2ZDRVRkeXdqNkJwOEtwSzhJbWlyUTg5bnBydU1POHRqY0kwaVFWLWFhMl9reUdDNXdROXh4WGJWMExOTkxXbmgtRHBGYnZCQmZNbVZBRVlNbktIRVNuUVk1Z1g2Q2tsa1pVTlQxYnFhOUJZbUEzeG1GRklTUDFYZlhqVmwtaFJQYkQ5X3BiclJDVkttTFgwUUVBT2JNQ3RiSmxfNzhQTmVSX0diS0Y3RXhrQzJJNV9vN2lXdkFELUtscV8yOVdSQmtIRW1XdlJfVU9GMThpY19BUDB4ZzBYRkh1YzRSb3ktUWkyT1F6eW9JenNwcnhOemZoeHZJcG1Ddw?oc=5",
@@ -637,7 +701,7 @@
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNUnVuT215Y0hYbHhlcjJQdldFOUprbEpCTEdXOEVXVWZ6Q2pyc1hUT2E2dkNLOWFzNnRrY0lUYThZRDJxTjJEcnpFSE80X0VHcFNLcVZtQ2JxbmdySFNQQ00teHY5d0JkN2JFY09Wd182TE5KcWQ1dDZuMHNBdXVHNE9leUhULWJNTEdOQlBlWGFkaGlvT0hfZnJrT28xcm1FZ3lvOEc3TVk1YTFTb2d4SG5CaW9kRXJQMUxPQVZUTG5lSzlYbTFzWVBhY1pzcW1seUZZV2ZKSUxnNUFpcm5jbHBtUU1VYXR2WUhLcm5vOHI2LUFzOEhRU0xPR1duejJrSndZMV9ycDZWRElCTURwX0FRUlI4Z2Rwd3hZ?oc=5",
       "publishedAt": "2026-11-13T16:19:28.000Z",
       "severity": "medium",
-      "titleZh": "11 月 14 日巴黎示威：路线、安全、预计示威者人数……本周六会发生什么？",
+      "titleZh": "11 月 14 日巴黎示��：路线、安全、预计示威者人数……本周六会发生什么？",
       "content": null
     },
     {
@@ -700,7 +764,7 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORzJXS3hoc3JrZkpWbUYtdFVMdmtEeE5mc1dDOEdXM2psWFp2NU5QMzFVcjFJRDRZOUR3T2Vadng3bkstQXdwb2ZObDlBY0doSFBvOC00ZFlTQnE2eEZjam9BUDNTbmNGS0pMbFJROHJnMEJvdTZ5a2VXMlRRRWltWTY4Qjk0STBROFdubnBnSEpMTWh0OEM1LUFzYkIweGFrLXZ3T3ZuSU5PdnRTbTZqb0pncmRZYkZIdVVvS1hsSGRyekdHRUJsdE1XY2hhZw?oc=5",
       "publishedAt": "2026-11-13T15:23:36.000Z",
       "severity": "high",
-      "titleZh": "在巴黎，校长们在暴力面前动员起来并交出钥匙",
+      "titleZh": "在巴黎，校长们在暴力面前动���起来并交出钥匙",
       "content": null
     },
     {
@@ -719,60 +783,6 @@
       "publishedAt": "2026-11-13T15:13:46.000Z",
       "severity": "medium",
       "titleZh": "巴黎周六示威：新企业获准周日开业",
-      "content": null
-    },
-    {
-      "title": "Néonazis, armes et croix gammées : un groupuscule espagnol d’extrême droite démantelé, sa porte-parole Isabel Peralta voulait « tirer » à Paris",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPZzUteFdBbFlvXzZrVUgwanktTmtkZ2NsVlE2Q2tZTzJWZkpRTGQxbHhlOWx6SHFFRzZFUjc0MlJvbHhpYmRSX1dBaDBtOUhNMVVKUDlQWl9NRldoMW8zRGNDWWdUNGd5Sm9sM242aTRPUml0M2VIaG1rb3VSUGpGUGRFa3JZMjhKLWs2TllfQWJoVEk2dWplZk5nbmpFTDBab0NVcUdNTGNGWmprN00yY0dpZjhUcnZlQVhYeUZ1YzRWXzJESWpqTUFYdFdtYy1OTHNtazRLQmtUeFROWDZmSmJxX18zWnVDcWJpN2c3UGpLXzQtOE5VeXd1U1gxNU9SeFNzb1VrNEdqakE1RGh5UTdFdWZTdkN2cVJNWFI4V0FYZlhaeG5JMFo2ZThqbVhlR2NLQ1RhTXA4cUVj?oc=5",
-      "publishedAt": "2026-11-13T14:46:12.000Z",
-      "severity": "info",
-      "titleZh": "新纳粹分子、武器和纳粹党徽：一个西班牙极右小团体被解散，其发言人伊莎贝尔·佩拉尔塔欲在巴黎“开枪”",
-      "content": null
-    },
-    {
-      "title": "\"Les Misérables\" au théâtre du Châtelet : le grand triomphe",
-      "source": "Franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTTMtODR2Q2hpWXc5VDg3Y0JVaHJyYzhZcHdCb3gxYkNGcDZUd3JZSjd4UHBLYnVxamVsekJDa2xPYUJWeDBLNVBPalFGNmxyNFZyRVlIQWc2Zkg2MmFQeVZhWUo5a2R2S2hOc3dLSUlVcXRNaWVrSmN3YzJlQmpENGd3SmNCRWJueHIzY0ZqWVU2SFlyaU41cEVCT0ppeHY5RFZmT0pLelB0ZnVORFQ4VTgzTEUzOGZ5OVhZX3dyX3R3czlkb3plc2I2NVA?oc=5",
-      "publishedAt": "2026-11-13T14:42:48.000Z",
-      "severity": "info",
-      "titleZh": "沙特莱剧院的《悲惨世界》：伟大的胜利",
-      "content": null
-    },
-    {
-      "title": "Mobilisation du 14 novembre : la Préfecture de police de Paris redoute une manifestation « à forte coloration antipolice »",
-      "source": "Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTXlFOU41QmpHRTVBRmdTQkVzZ2l3dDkxeE4xdnFOQTlYakN5eXZXUGNWSnpiaXlSejlUaU5IbTRIbWVLSlEtSFFBaTMtWUZ1bHBxOFJmYkM4ZDhXVHd0U2RqY2pHMWtGQ2ExRjdJZ3JIdjJQYVpGNGdkdmg2Y2ExTjhHLS1YN0ZWdkVyS2k5cmdSZHZpUEhjMGVKUkI0MnRRTXZFZzFUdU5udUNoeVkzSFhNblM0clhHUC0ta1hjNVBUZUItWG0tSHlmX2NKeGxHc0Y2MHY1V1BjUnJKVHpSMDM1YTRIaEI0MVdFZnl5aVg1UlJyenluRnlVWWdSeFFzRHFmcFhldDlkQ1pHcGFLUkkyZw?oc=5",
-      "publishedAt": "2026-11-13T14:37:11.000Z",
-      "severity": "medium",
-      "titleZh": "11月14日动员：巴黎警察局担心“强烈反警察”示威",
-      "content": null
-    },
-    {
-      "title": "RER D coupé dans Paris, ligne 12 du métro fermée au nord… Les perturbations des 14 et 15 novembre dans les transports en Île-de-France",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPUjNESEFmalVqNjUxOEJoMnFsWmQyXzNWRDd3SzF4WWU1MlY5Uk9OYVMtVkJuSDNVa01yUXpKVTdxVUZsYTBlTUtqd0EzVDQyQXNGUU1rb183S0lXSS1wY2hFdUZsUlczZXlWN09LdFdSWGYxQzNWa2k2Yld5cXBEMnhIS0xsMnY1NmZDUm9UU29mcVRwZGluaXlSVzZ5dHV0cTVzZnRsMnp5RUVEamwwVWpFQ0diQTJDTFdvT1c4eHdqdEt3VGd4NkZCcU9jZFRDRjliUUJqZ1VIOVRjQXkzMkNhUFE4V2RHWk5uVmZqSDNyQmNyd2NSYy1ockRTYml0Y2dPTW9mSENibndzQjRZQ1lBQlVrNWtVaU8xNmRlYkZEMTBfX21hQzd3WDRWbDNjclJCblg3YmMwQ2NjaWRrcHo4dzBjMXlhWVgwcUJyUXlaRlU?oc=5",
-      "publishedAt": "2026-11-13T14:34:20.000Z",
-      "severity": "info",
-      "titleZh": "巴黎 RER D 线中断，地铁 12 号线向北关闭……11 月 14 日至 15 日法兰西岛交通中断",
-      "content": null
-    },
-    {
-      "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
-      "publishedAt": "2026-11-13T14:14:35.000Z",
-      "severity": "info",
-      "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
-      "content": null
-    },
-    {
-      "title": "Manifestation contre la vie chère à Paris : un projet de tuerie néonazi déjoué par les autorités espagnoles",
-      "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWTB4ZldyTUxXNFp6bDdrRGxoVVhXTFJvaUNYT29pQWVMUVBlWEtMaDlyRzJlbjNTVVpWUFpTazRiRjRrZEZCTFJ5Zy1vaEt6RGdJV21JQnhSVmtEZzNuT0FRVEFjZ0FYbk1pZzdQZjhGaTNnX3VzMTVjMVBlVzVoMEhwN2dmLXBscHJzY2hBNGxCdmUzZ1FoOW1YblFQOS1EUHYxalppcHJvTkE3Nk4zQW9EeXNQbDJmZHJFNEtET2RtU2J2SFUtcm5JTEtmYS03MXdzRmMwMVdUMGxHUkgteHdUT1RHcXNKVjBlTi04OU9ia1U?oc=5",
-      "publishedAt": "2026-11-13T14:13:40.000Z",
-      "severity": "medium",
-      "titleZh": "反对巴黎高生活成本的示威：被西班牙当局挫败的新纳粹屠杀计划",
       "content": null
     }
   ]
