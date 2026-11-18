@@ -1,8 +1,35 @@
 {
   "success": true,
   "today": "2026-11-18",
-  "updatedAt": "2026-11-18T01:16:27.601Z",
+  "updatedAt": "2026-11-18T09:04:19.196Z",
   "events": [
+    {
+      "date": "2026-11-19",
+      "articles": [
+        {
+          "title": "Manifestation à Paris : après Nation-Italie, les retraités partent jeudi de Montparnasse",
+          "source": "Stéphane Larue News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUtYNEsxZ2pMNUJUZFI2Q2VYRHlGMDdjaW5XTDJmNGpvS0FYLXBBQUFQX3NjVU5ycU5ESkt4SU1wdHg4eVBpeUVZWFJXeWE4bkk2cjM1dWVnVkM4eDRzbHVRdk9lbmhBMkFQNXBMZE9hMGlncU9IQjBBUTh1S0sxMFdGVXZmRENENmRCelVNX2V0V2FPcFdTSHI5MzI4c29wNnhtbVVmMDg1Vmp1YmFYaXd3?oc=5",
+          "publishedAt": "2026-11-18T06:57:30.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎示威：民族-意大利之后，退休人员周四离开蒙帕纳斯",
+          "content": null
+        }
+      ],
+      "places": [
+        "民族广场 Nation",
+        "蒙帕纳斯 Montparnasse"
+      ],
+      "districts": [
+        11,
+        12,
+        14,
+        15
+      ],
+      "articleCount": 1,
+      "clashCount": 0,
+      "status": "recent"
+    },
     {
       "date": "2026-11-24",
       "articles": [
@@ -10,7 +37,7 @@
           "title": "Grève ce mardi : votre enfant aura-t-il classe, cantine et crèche ?",
           "source": "Sortir à Paris",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR21Ua3JaZmxhT1I5akR3a2RDa3VXeFRPdTNBNVFGRl84WmZLbkxQdWF5TzE4c01PM2IxOEZZVGRIZUJtZWtuYWp6UjhKNjhoeXhwQWZabzgzeEt2QmJWVFVDSnlsUTROTHZCLVhiTF9KOEoyNGFkWk5YWjlHOGx1TG9PSE1UMGxuMHdxa3NUcURwM3VKekVLd2RtVVBsRlFfMmRTT3BWTENZSkMwbGFTal9zTjhfUzUtNVdYeE5rV2c4a2llS2tPbA?oc=5",
-          "publishedAt": "2026-11-18T00:44:24.000Z",
+          "publishedAt": "2026-11-18T06:35:55.000Z",
           "severity": "medium",
           "titleZh": "本周二罢工：您的孩子有上课、食堂和托儿所吗？",
           "content": null
@@ -29,18 +56,36 @@
           "title": "Grève du 17 novembre : 28 000 manifestants à Paris, 175 000 selon la CGT",
           "source": "Sortir à Paris",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUZvYXp4OFlOYkp5VmpSODVXS2laWDd6Q2Z3SV9iNTRldFkxLUJzTEszc05zUUJjQmNuZVJjWS1sbzV1bFU4VW5YRHl1YUJyR3lvRmZJdUxnUVFHN1F4V0wwbHdYeXk3R3k3QWlYQ3AxN1d2UDktZHBxMERoeXhwS29aQ2RXQTc3THNTanJRb0NvLXh5eS1QTnNPNVZBajdBN05ZeDdQSXJRSUk2Vld0SklTWkhCNzVrWlA3Mw?oc=5",
-          "publishedAt": "2026-11-17T23:09:47.000Z",
+          "publishedAt": "2026-11-18T07:18:02.000Z",
           "severity": "medium",
           "titleZh": "11 月 17 日罢工：巴黎有 28,000 名示威者，根据总工会的数据为 175,000 人",
+          "content": null
+        },
+        {
+          "title": "Que faire ce mardi 17 novembre 2026 à Paris ? Les sorties à ne pas manquer",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeGl6QnF5T1pqRjJDRHhKS3FPaW9hcm9KS21PUkN0RlRxRWliLXNfN3V4VEllZF9ZSnlUSUQzOWdBc1FpaVpFTHNpUlF2dzFmYzN1NDgyd0xSSEQzX0FDd01INDhocnROQ2tWNEwwNTh4Ml9Zc2I3NGw1N2tzY3g4R29DdzBvaFJ3bFpLeTYtbmZIMWMwMDFnaEt0NmZfX0gzTTFYYzZzb1liUGozRmRnYlljaUthOXpsUU9GeDBBU2VFZWI4eUJlQUdRbHB6VXM?oc=5",
+          "publishedAt": "2026-11-18T06:01:36.000Z",
+          "severity": "info",
+          "titleZh": "2026 年 11 月 17 日星期二在巴黎可以做什么？外出游玩不可错过",
           "content": null
         },
         {
           "title": "Grève du 17 novembre : par où passe le cortège parisien cet après-midi",
           "source": "Sortir à Paris",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaU04ejZsQkRJV1RoUGlDZG1HQ2pvOGwtZFdYcm4yMWdPSEdmOHlGVTRHR2ZoMmxMR2ZyWjhpd1FUU1hMMEI4ZnZNbFVxSW1UTk9uaW9uSGxJZUgzWHU4SWlMZTQ2a3E0ZFM5Wi1fMFdrNmRHa1FmZTFoQ2NjQnRpUGhDOUtoSTQ0WjlqaExXWFlZOXdtNlJTQmdlUTJKTUd3dmFid2xObmFiR2lmamQ4MlhWWWN1RDQwQzNoWTlXcDRHSWg5UldHT1haQ18?oc=5",
-          "publishedAt": "2026-11-17T21:11:13.000Z",
+          "publishedAt": "2026-11-18T05:14:36.000Z",
           "severity": "medium",
           "titleZh": "11 月 17 日罢工：巴黎游行今天下午要去哪里",
+          "content": null
+        },
+        {
+          "title": "Manifestations du 17 novembre : de Paris à Lyon, un mouvement qui regarde vers la présidentielle et veut envoyer « un message au prochain locataire de l’Elysée »",
+          "source": "Le Monde.fr",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPZ1pudzk4eU1RSVFDbk5icU5PbEgzRFQ3Y2dZMzhsbVE0UVhLMkNKb3Zab3Y2SFpmTm5OaGFET29lY3ZUNi14M3V1WHJBLVpHdUFqUlo5eDNXbVJDMFN3TmliZUlodU1PWFZlWmY5TnR2VmhhQ1hMU0d3V3RYeHhOaWtXMUY5X0xzcjVrNkYtSlFLY1RIQVJhbTZJUjlpNDJzZjlvclFyTFZYVXNxM3VLZnAzTHpSQjF1QzkwZkdSZC1qR01jOEl3TXJINzBtLWtlc3JkbS0wbXRkQWd3RGl1UmNlX2c4MURiTmVSZ1NWWnNCYnlyZmtQYmJKM3N5UlJKR3J5YkRrb3VmTXpBUDNiZXlFNUltU3gwNUg5TkRnZENPRXRhanN1R2VXLWhSODBtb2R2Q0lGbVZxdXRUT2pJZXh3?oc=5",
+          "publishedAt": "2026-11-17T20:29:39.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 17 日的示威活动：从巴黎到里昂，这场运动着眼于总统选举，并希望“向爱丽舍宫的下一位房客传达一个信息”",
           "content": null
         },
         {
@@ -53,57 +98,12 @@
           "content": null
         },
         {
-          "title": "Info Metro RER trains, fermetures, travaux et manifestations à Paris ce Mardi 17 novembre 2026",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYk9DNFNuUGJzS2VmOUZ2a0xWV0NVdTlUTmI5N0VqTWNodnJ4d0hfZHRfdm9UODVhTi1RM0hJdV82RktuUTVDaUFDRUFhY2VCNXBSNU82UElDMXZDREZQX0VwYUtjRVBNc0JkeUU3d1JTbHBieGYyTWZ0cjVTdkJwN2JSeWo2UE56NnQ4cEpGV0R6ZFJqeHZpeTJ6Z01JQQ?oc=5",
-          "publishedAt": "2026-11-17T19:30:29.000Z",
-          "severity": "medium",
-          "titleZh": "信息 本周二巴黎 RER 列车、关闭、施工和示威活动 2026 年 11 月 17 日",
-          "content": null
-        },
-        {
           "title": "Grève du 17 novembre : ce qu’il faut retenir de la mobilisation des fonctionnaires, jeunes et salariés du privé",
           "source": "Ouest-France",
           "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOS1J3QXBCNndqNTFsc2hWS0lOcDc5RFYycmVQOVdGOGdORi1LWEdjV2tGcXBhb0NQdy1Dc3VrelN4SWptVEFFZi1zdVJUN200SERZbzgzSmU4UEtlX2V3Y0VQWjJiUlRKLUthbFBaMVpHaV9vaVVJbGNoN2trVlFjcEM5Z3pkQ21OVXJYalFPcnhKR2hhR3Q5QWdxcTAzdUFFZW9YZ1E0UGJLTjFUUHJRbmZhbTA0dk53ZWlBUkZXYlpvVWJUb3hkUTM4MjF4Z2U1OE9PbnhDRWZqa0VvQ3hralRwaU9Pd2FyVmpSRno5NUtHZUt6dk90aWFIdHlUc2c1cGVkam5fVmo5bVJvZ0pSbVhnUTl0ZmhkRjUxbHNUOA?oc=5",
           "publishedAt": "2026-11-17T19:23:31.000Z",
           "severity": "medium",
           "titleZh": "11 月 17 日罢工：公务员、年轻人和私营部门雇员的动员值得记住什么",
-          "content": null
-        },
-        {
-          "title": "17 Novembre - 11e journée de manifestations et encore plus de 500 000 manifestant·es !",
-          "source": "CGT État",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjFCV0FhUlZQbktFM2QzQUl0SXRHM25ZRmhxMmgwdzF6U19VWFNzcXJxMkJYNE53TUJ1bHdFdWt3UnFKeGxMNHhOcWtvNGR4eUtQLVpjbGc3bnRVOHBvbU5pUkRKTVNTUXFqVFhuSGYwbG1oWno1VjIxWGNtUVJVTTVFR0ZwQlhqdUhyTV93TV9lSGg5bHNBQ1l5V0JQUzE2MUZkQ3Nubk5sTmJTSU9lcEZOMEprOEZrMUExNWNBV0sxVERDRHVMOUJ4R1BjVWNhTmc?oc=5",
-          "publishedAt": "2026-11-17T17:44:44.000Z",
-          "severity": "medium",
-          "titleZh": "11月17日——示威第11天，示威人数仍超过50万！",
-          "content": null
-        },
-        {
-          "title": "Grève du 17 novembre: 28.000 manifestants recensés à Paris",
-          "source": "BFM",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb3BILVM4V0kxTFRFVjk5RzltUnFoM3I2X1JQVVlmdDBpRE84eWU4T2p4dG5QUGRPdGpyemhKZE5mNEVESVBsOC1yeDNfYmdzOGxvTUdnTFhZSElMWVB6SGJxeTBXZHZ5d0YySm8wMWFlSk9rRmlkUXU1NXJmeVZTd1dXRTYzc1dnZ0YzQjBKYlY1cjJULURyUDdJSnZYdjJJQUZCcVg3YWJvaFcxSGt1bTZwQk0xTFVqa0ZWbFc5WnZWZkhuaFQxag?oc=5",
-          "publishedAt": "2026-11-17T16:53:34.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 17 日罢工：巴黎有 28,000 名示威者",
-          "content": null
-        },
-        {
-          "title": "EN DIRECT - Mobilisation du 17 novembre: La justice suspend l'interdiction de rassemblements autour de cert...",
-          "source": "Jean-Marc Morandini",
-          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOWUpFUE14bEpvdlZUTmtlSnhaTkxGd2dnWEpEclVNRGtjbURyZFpIRWFtVkE3ZGhiaVRUeHFxd1ZWMC1GZFphdk1WOWRfb2RYeDU0cjBjbUI2Q2loWEd2cG5UMDRlNjBmeHNscW01NHFVOEk3OWdGU1ZPVzdzalZGTXNqZUlBRUh0bFdKWlFsR3B2SndxZWFua0NmMVJfbkRVUkNfMHQ4YTZaNnhLOFR3M3RFUHdJOGx5dGNoZy1iVnctY3NfMUlMbWpycVlkUGs3Zm96bG5sWjZLb1UzcEhXOU1rRjJiTTZldDFJb1hQMmoyUEdFQVNvakJfQWY4OGFxOF8wSkRpNVc4eHRwUklZVVFUdXpfQXJ3UW1WLW54TGhPTjNVcWItaExsVjVHR0FibmkyX2Z5eFptNFNJcDNpNzhpZVI1MEFlWGJHYXRMYlIwdzVVT1lUX3R0U2diMVMxT0plMmc3RGczb2lyTXJ3LVFSX09JRlByVm9zY2g2Y3J0SXlDUzA0dGFtSThjam1TY0FOSmc0R2zSAZ4DQVVfeXFMTURzaERWOVBMY1NleThPMnQyQXZiaXF4Z3VVSk1QcTVKVzNkWTViaEotVXFwYzdpR25uekpWNnQtUmFxWEplTzF3bHZ5WjFRaVAxVDlZVnhvUHBvZ0huVmxkWF9rYnh5X2lqeWZkZDlWSVhyQTc2TjU3VVRCTklDQVZHRVpqbmFIekdvZ3RCRjhTbnRqVTQ0NmJiTjQxbzRDWXo2eVN1VElrWDhNV0ZyTThVQVBoSHFDaXllcC1fSU5OZ3AyNDhOU0lOY3U2UkN0TVBuNjlaWUg5VmE5UFdLUDZzQy1QQ3JwN00tNlp5VWo2QkN6Yzh0RkMxZTE0MHh3RGdOVklNRlB6VnlUYXlpcDB2RXJtWms0RUp5WWxNTnRzZVlUdk9hdUphQ2J3WGo1eEhfM0lLdC0xY1hVVzdvdDcxbEZfaG9wQndKbFBtX1VxYWpidVB3Q0puLVlwS2w2RTFDeFdoZEtrZGRHS2pIY1VqY2NVMGVET0JoTGdrV2RlT05raVBpbl9rV1pYNTNxaklFSXlsWFZKTTBzRV9B?oc=5",
-          "publishedAt": "2026-11-17T16:48:35.000Z",
-          "severity": "info",
-          "titleZh": "直播 - 11 月 17 日动员：司法部暂停了对某些地方集会的禁令……",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 17 novembre à Paris : le cortège défile dans le \"calme\" vers la place d'Italie",
-          "source": "France 3 Régions",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMUIwaU9JeVptR0FOSlBHeEdsZE4waDJTa3dlZUhsWjVYbHBIbURSTUJPYVJYTUQ4VWd2eUVWU0p3bjNHb2N0MC1KekpOUnhqSXBlWENaOWxqS0xMN3Z6SkJVckVGNElWbXIySTA1YnZGZG5yQVE2ODEyUmV2MllrOTdXd2tsYkw3MjNxcVhndmRHZkp3R3lHZG5seWNvNmUzS2l3cTg3RExWUFZqOExhQnJlWENOV0ZuQ1VUUWRUcThOMEFaTDE0aERQRzVwRmdqb2FMU2taRTFrQnA4emNSSVNqYUM4aUtuU00ySVZtZXpEY2JJa0lVbHBkMk0?oc=5",
-          "publishedAt": "2026-11-17T15:08:57.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 17 日巴黎示威：游行队伍“平静”地走向意大利广场",
           "content": null
         }
       ],
@@ -114,13 +114,85 @@
         11,
         12
       ],
-      "articleCount": 9,
+      "articleCount": 6,
       "clashCount": 0,
       "status": "recent"
     },
     {
       "date": "unknown",
       "articles": [
+        {
+          "title": "Manif à Paris pour l'urgence sociale. 500 000 personnes en France | Reportages | Là-bas si j'y suis",
+          "source": "Là-bas.org",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXd5cW1zdFYzejJkcjBjb0R6dGh6Ri1HdWJ5Rm9SZEFpU1F2cUNfZ3dfZlNKd0drVEx4eXZGcVNsai15UEc3SXVmT1Y1ZTZWUUJnVXdkdVY4N084S0FSRlZLYnNkcURzZURGa2FGNC10NUJ5RHYzWUdNSXNyTU1KU0JiVjh3d3M2bU45NzhNbW4xN2tTWlY1NUxFYkhRSHVkbk1WM0xTVHpEUHk4QWJvZ3FR?oc=5",
+          "publishedAt": "2026-11-18T08:50:02.000Z",
+          "severity": "info",
+          "titleZh": "巴黎爆发社会紧急情况示威活动。法国有 500,000 人 |报告|如果我在那里的话",
+          "content": null
+        },
+        {
+          "title": "Passoires thermiques : le vote surprise qui inquiète les locataires",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX0tEWHhlcWc0ajQ0Y21FaTFhTW5mUWt1RjdaTW1uWGIwZGhVejlTVWpaMjdZal9SWHhRdERaakNIS0piU0dTUVBCdjljYlpuTHpQek4zaWJOSVN0dEp6OU95WF93LUM3SDR6bkRmWDhsN0NMRmt5UFgtRFVPSkdoTlhSOE5iTVU4WnlPclRnS245aXpvS3hQdF9mbEV0UWhyS1dXS3dCbmk2ZnM5eERRbjA0Q01hdWp1RWpGc2ZuYzVoQ2hDRDc3TjJXeWV3XzNEX2poVGhlamM0aXVXQ1E?oc=5",
+          "publishedAt": "2026-11-18T08:33:51.000Z",
+          "severity": "info",
+          "titleZh": "热过滤器：令租户担忧的意外投票",
+          "content": null
+        },
+        {
+          "title": "Étudiants : une nouvelle journée de mobilisation se dessine à Paris",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmdnbXFwMFl4TWg0YUtoS05MQkg5UTk2aUxZNHZSOVk5ZXNuNFotb1dLODc1b0hpUUdiSUJWN09VOFhUN01fSmNWUThPZ05jU3p2LW1xZ3VUMjdZMFRoY1FpSF9fMFFnSGFoVTNCTDJlQmc3ckRuanhsbktMVGhOem83QVhuU0wwSDkyTjhRaldDNzd1UXFiRURtTWtxN25ENGpIaUViZUpWSHRtV2RNRFo4SmhBcWduTzR6Nzk3RQ?oc=5",
+          "publishedAt": "2026-11-18T08:20:09.000Z",
+          "severity": "info",
+          "titleZh": "学生们：巴黎新的动员日正在形成",
+          "content": null
+        },
+        {
+          "title": "Students: another day of protests is taking shape in Paris",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2w3RC1ORzNyYzNvSEJ6NVljTlRYWkdaX1JZWm9yRlJWcWt2SDB4ajJsS2NaSGFHUm9IWGk4aEJ4VHhWTTREMFkwTVBHZzJFWk5zbG8weGYzS1A2dkZjS0M2aXZ4OFVneEtnUy1QTHhDOWF5UTRidnZDbk9DYTlXVGl0OTFabGp0Q3VwTjVQd2UyNG9zVzhoX3NpWGRlUERjU3VSOFctUmxMVkhSQVROLTNWTFdyMmtI?oc=5",
+          "publishedAt": "2026-11-18T08:20:09.000Z",
+          "severity": "medium",
+          "titleZh": "学生：巴黎又一天的抗议活动即将来临",
+          "content": null
+        },
+        {
+          "title": "Procès de l’explosion rue de Trévise : les associations dénoncent « la violence inouïe » et « le mépris sidérant » subis par les victimes",
+          "source": "Actu-Juridique",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNY3h4Y1FqN3pfQXNhRlMtNzZsMkNrTGJQbnNlTmZTajFrRWdNb3YxWUpLTXp3YUVTVEhOZTYtNzhVdXN6LS1keC1ZSEVtUHJNTmIzLXEzOGRxTmp3Wlg5S3dUVmE1aWxVQUVfbmdSNFJ0ZW1mNjRnekJoNGh6N2xySC15TE1tZUZEekJmRHotem45OXI2YjUtV0RRdFFiXzgxM0J6cXV6S2N5WGU2RmQyUHgxZ1VBa0o3VUlxa09nUXlibjZEalh6ckd4OGhkS2JtRWVIcUlScVgzZll4OFJlSXBrTmw3WHpqaEY1LU5oTW1YX3NVSlE?oc=5",
+          "publishedAt": "2026-11-18T07:57:00.000Z",
+          "severity": "high",
+          "titleZh": "特雷维斯街爆炸审判：协会谴责受害者遭受的“令人难以置信的暴力”和“令人震惊的蔑视”",
+          "content": null
+        },
+        {
+          "title": "[Podcasts] Manifestations: la longue attente des commerçants pour être indemnisés",
+          "source": "RMC",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ1hxY3U0Vk1MMjBvNUFLeFFsZXZpRTQ4eEhmbi1FOUR5ZlFIaUpwMEtERUxJTzEtbUV5cVZJdXExb1JhV3VuVVo1VkVvaTJmcEl5Y25jNGZiUmRrTUc4a2NFbEVXTUFaV0VVaXA0YlJSQ0lvU2JZWXpJay1mZ0ZJY0tMekkzYnE0S2t5SWZQQTljVWhtWEZsTTZsY1VpTHFUWVY0bVk3ay1fSmFYYXhFYmhRdS1xMWpFWThWbUQyOFpFLU0zZzc3ZUczcThNdTNyVVN2NzVsVFpZUDlWZjFrTVhWOVJQYVlZdHpRYg?oc=5",
+          "publishedAt": "2026-11-18T05:00:00.000Z",
+          "severity": "medium",
+          "titleZh": "[播客] 演示：交易者获得补偿的漫长等待",
+          "content": null
+        },
+        {
+          "title": "November 17 protests: From Paris to Lyon, a movement sends a message to the next 'occupant of the Elysée'",
+          "source": "Le Monde.fr",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORGdtRGlfMG9La0pOTi05dHBfVFpuZTVvVHB0M3N4aXdGbHpDWmZham01OG91Mkl3RWNKdXFwbG9QaGtiajRxLVRMZWxBRjdJb0xiblFWVjJRbzVNT2JMNEFsOEtxTTlXZ01OOXRqREVWT1NGdTJ3ZE0tcko4VHZReVhvYnJYYlBicTlxeDhIZzhVSDdhaDNkZXVCV0RkSlh6Z2F0cnF4aHdjZzMwM21HLUttcU9zdU91d2llNE9JcnBWV0QxOXFFTThXRkkyRHVZdW5RcU0ySXBQZmdEbUtVRi02ajBxeENnaUY2TzNhTUNGaHJ6WkRoNF9qRlIxdEk?oc=5",
+          "publishedAt": "2026-11-18T02:23:44.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 17 日抗议活动：从巴黎到里昂，一场运动向下一位“爱丽舍宫的居住者”发出了信息",
+          "content": null
+        },
+        {
+          "title": "Paris Police Ban Protests at High Schools and University Campuses",
+          "source": "Breitbart News",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTUdqaHhQMXlrei1XNUNhT1FWdDNnSXlJcHJ1RGZrZnA3SnpxeHQxYm52R1VrY0ZoU3VTdUpmQVgzZDl0d2pBb3Y1ek5zanJNblFXWWpMY19lLXliczh4NjNQYy1XcC10b0FZdWx2aVdFZlZXWGJyTEU1aVFWUklrcndwTjdSeEs1bzlMeWpMWXBQT1NPaVFxRHBISkwxeGdvMC14eXM0ZWdsX25aRXEzZnFoNkhFa3kzTEZjY2dNandqck9MaWxraEVVaFZHUUFSekdzSmNxRQ?oc=5",
+          "publishedAt": "2026-11-18T00:37:11.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎警方禁止在高中和大学校园举行抗议活动",
+          "content": null
+        },
         {
           "title": "Christian woman takes prayer to the front line of violent Paris protests",
           "source": "Premier Christian News",
@@ -131,21 +203,21 @@
           "content": null
         },
         {
-          "title": "Paris Police Ban Protests at High Schools and University Campuses",
-          "source": "Breitbart News",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTUdqaHhQMXlrei1XNUNhT1FWdDNnSXlJcHJ1RGZrZnA3SnpxeHQxYm52R1VrY0ZoU3VTdUpmQVgzZDl0d2pBb3Y1ek5zanJNblFXWWpMY19lLXliczh4NjNQYy1XcC10b0FZdWx2aVdFZlZXWGJyTEU1aVFWUklrcndwTjdSeEs1bzlMeWpMWXBQT1NPaVFxRHBISkwxeGdvMC14eXM0ZWdsX25aRXEzZnFoNkhFa3kzTEZjY2dNandqck9MaWxraEVVaFZHUUFSekdzSmNxRQ?oc=5",
-          "publishedAt": "2026-11-17T22:39:10.000Z",
+          "title": "Thousands turn out in new French protests",
+          "source": "RTHK News",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FWkxhQUQzTm1YWHhGWlk0UjFXaGVrZ3pjSTZ5cG5IMHJYXzBRR1dJYmxKcG1aRVNoNVBXRi1zM3FqZWY2cVl1RzJ6eHlEem5iWXFoaUZwVXU4Rm9BNFdwTHlmMjB6a21Lclg5WjNhcw?oc=5",
+          "publishedAt": "2026-11-17T23:17:00.000Z",
           "severity": "medium",
-          "titleZh": "巴黎警方禁止在高中和大学校园举行抗议活动",
+          "titleZh": "法国数千人参加新的抗议活动",
           "content": null
         },
         {
-          "title": "French Riot Police Face Mass Absenteeism Amid Protest Fatigue",
-          "source": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2RNWGctS1UyYnlxN2l2dnFRUG8tcnJRVExURmkzRm9IY1RXRTVpb2RXS3pSNWlHNnZRZGc1RGRLQnotVnhoN0laUDNVemI3NUZ2RTFvQ0ZNYVdNaFJLbWstWk9lWTlDeUZGNEFhVkppeWxtanJYLVp0T0hVN2hXOTRzRnY?oc=5",
-          "publishedAt": "2026-11-17T22:11:48.000Z",
-          "severity": "medium",
-          "titleZh": "法国防暴警察因抗议疲劳而面临大规模缺勤",
+          "title": "Paris : les maires de droite obtiennent l’interdiction de manifester autour de leurs lycées",
+          "source": "Blast",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSE1zaHhkdnJ2Y2lZVHV3WERoYmprRnJjMVBpVGExX0FXTnhzUEp5bl9SUEZjcjZUbmExMVk4cVdNeVdmSW5aQTdSTnQwbnJ5Qm5pSWVCZHVZVlVQSWdVdjNab1BHZDA0aXJmNjQ3bk4yZGFRSF8wN3pPT1VxdHMzc0RDUUhXN002QnhpT0hhOHdKaVVRdnR3aVVocng0ZXdKUTRKbzcwbFgxUG8xV3UzWDkwVVA2OXdNQ0dNbWFaMDhZY3JsQmtrbDdBeXE2elZOczhHQlgxNzgwdG9oQmZVRWRnVVdfQQ?oc=5",
+          "publishedAt": "2026-11-17T23:14:42.000Z",
+          "severity": "info",
+          "titleZh": "巴黎：右翼市长获得禁止高中周围示威的禁令",
           "content": null
         },
         {
@@ -167,6 +239,15 @@
           "content": null
         },
         {
+          "title": "Weekend of fiery protests in France raises questions, costs millions",
+          "source": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcFhEay13QkdwLWpfT2lQTm9RVFBEdkFKSWNENUNMQU1xTG02TFpmbUVEb0xCam5kaVVnUGxWREhNTEF1SG40VmkzZGl6ZUpzSXYtMUtBRlc0YmoxT2dxVGNLQlhXMDA5cjJ5elNydDBLYmZOTlZDTVJtb05DaXZDMEpva0VOY3hWSUhzM0FENGZuNGR2V2lFbG4ybkZFNnBzZW5tMm9JR0lNWmdXeUJsOHdR?oc=5",
+          "publishedAt": "2026-11-17T21:31:20.000Z",
+          "severity": "medium",
+          "titleZh": "法国周末激烈抗议引发问题，造成数百万美元损失",
+          "content": null
+        },
+        {
           "title": "Thousands march through Paris in cost of living protest",
           "source": "Reuters",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIcXhkOXVQYXFSZGFqb0FYVnd1dDRjck15THZ2cnJKd0ZIdTk5dlpUM1RwaEdPYTRYTE1OaGpCb2czamVZUEQxRVdKci11RFRFaHpRbEJXN0prTXR1ZEJ4NmxhX0gwRWc?oc=5",
@@ -185,12 +266,21 @@
           "content": null
         },
         {
-          "title": "New French protests bring more than 100,000 onto the streets",
-          "source": "AFP.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tY0Zqb1o3RVJBeEJzamtQVmhvQVlNaEJNNUNwa1l3VnNGdUo3cXpYYzBkdklvR3JLSXpnZzdaME5LSDZqYkhta3dGbV9uakdFLWs3Sll0TnpucGVZQTR0eDJSY2J1OXhjb0pJNkFCdWlxb1RSQlJn?oc=5",
-          "publishedAt": "2026-11-17T19:23:11.000Z",
-          "severity": "medium",
-          "titleZh": "法国新一轮抗议活动导致超过10万人走上街头",
+          "title": "Face aux violences au lycée de Cachan, des maires appellent au calme et demandes des réponses aux revendications",
+          "source": "Actu.fr",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQV1MtRnIwRFJrWmtYcDJxbXpOR3BnbVltOGJUeElkbUJ6dWpRd0JKd1M2NmhfYVVVcl9VN1Y5XzdTWTR6eDh5TDloUVAyaTU4MnpGa0hfbG8xcHNnMG8xTTNsZXcyUjhkNTk3TmJ2akVaa1d6V25ZUmx3Z1hWcXlPV2pXVTJXcmxXa2tibHF4S01ET1FRQ0h5blpjYVJMX0NXYnUxWmQzVnNDa292eUIyRHp2YTRkUEZuWjBFTXJkUjJVUnhkYzJVLUhGNTZyQmptV1BPSERkZnZ4MFlYRU1OOVdaeWNwYjdXRGMyTjhCcWFKMXJUNXVNQ3ZoWTA?oc=5",
+          "publishedAt": "2026-11-17T19:34:01.000Z",
+          "severity": "high",
+          "titleZh": "面对卡尚高中的暴力事件，市长们呼吁保持冷静并要求回应要求",
+          "content": null
+        },
+        {
+          "title": "Donald Eason: From Paris to American Campuses: Why Black Americans Should Heed the Warning Signs of Socialism",
+          "source": "The National Center for Public Policy Research",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbS1fX1ZjTXVqdkVOYmFWdm8wOU0wWXJKck1JR3hWNURFRlZzallPc2ZoNHVjbDNqd0JfcWpzWGZRM1hfMU5SRXBnbHVWVGp4NHNFbmdSb3owX0hzTlNGLWlHRkFQNXZ0RGhmY0lIbVU0dDhfZ1REY05YVjJtdzRDSldhU0MwM2FKeUNaM3NUeHlWYXpQUXZFZjBqblVtUXFGM3N4MEtVQkFFNFp1VVFHcnJTNGlHaE1jUk5HVWpSU1V4VWpIdHVfT2VLR2xPNDl3SVNUcEN6M010SWh1dnp3?oc=5",
+          "publishedAt": "2026-11-17T19:23:49.000Z",
+          "severity": "info",
+          "titleZh": "唐纳德·伊森：从巴黎到美国校园：为什么美国黑人应该留意社会主义的警告信号",
           "content": null
         },
         {
@@ -226,7 +316,7 @@
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nRkdVa092eWI5UUc0RzQteWZBdDFPeHp3NU56cGlGcGJKNS1hWEFMbmZ3VGpydzczdlg1VElHSU5razVPcl8tdE1xRHR3WGVJMjFILUdMdGYwbjVMZVY3bkVlMjNRb0cxV0JqYm5n?oc=5",
           "publishedAt": "2026-11-17T19:11:17.000Z",
           "severity": "medium",
-          "titleZh": "法国公共部门罢工要求加薪；学生参加 150,000 人的强烈抗议",
+          "titleZh": "法国公��部门罢工要求加薪；学生参加 150,000 人的强烈抗议",
           "content": null
         },
         {
@@ -254,6 +344,15 @@
           "publishedAt": "2026-11-17T18:55:00.000Z",
           "severity": "medium",
           "titleZh": "法国：新一天的罢工和示威抗议高生活成本",
+          "content": null
+        },
+        {
+          "title": "Agression violente de Michel Zecler : les policiers reconnaissent « un fiasco », mais pas leur responsabilité",
+          "source": "L'Humanité",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSWdmdkdMNURDWGtuVTZXbGNPV2w0N3RnSHZDengwdDE1eU5XTG5hd3lGbFRZTkd3NUpzLTVGb0tJdWh2dFhxSUVXUlppaXVDRW1mZ1pySnNaOG5Wd3pTUW5fYWo3MjVfM2hzYmF2c29MNnd4di1JN0dxdHpFeGJpNGxDTnZ2Q1l4NUV5eDQ2aHVHUEhIQXBtVUZHRkhsRHk0YkRTZVBFMV85M0hlc2JaR19iSGpWRkZSLWJmMTAtTjFGZk42N2hUeXkwa3F3Y1NVTThDU1hFbkFHd185aGpDRk9n?oc=5",
+          "publishedAt": "2026-11-17T18:36:16.000Z",
+          "severity": "info",
+          "titleZh": "对米歇尔·泽克莱尔的暴力袭击：警方承认“惨败”，但不承认他们的责任",
           "content": null
         },
         {
@@ -309,87 +408,6 @@
           "severity": "info",
           "titleZh": "巴黎市政厅推出的打击性暴力工具“MascuRadars”是什么？",
           "content": null
-        },
-        {
-          "title": "Agression de Michel Zecler : des \"excuses\" et une justification répétée des coups portés, l'audition de l'ex policier Aurélien Lapersonne suscite l'agacement",
-          "source": "France 3 Régions",
-          "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPMzJUVjBMcl9Wc1plTzJKVElhUjJYeVVOcXItcFZKamxLUkhXQXlhbFFyNDFyLUJTT0F0OUNsMVlBN1I2WFQydTdkZHFmbXZDNDN2MXF6VGRIaGNGSUJqNnNvMmtpUlh0YTNsUW5oSkkyV0x5XzBRV3ZWT3lVV0FHN2hKYk4zZEZvS0VlMnowUlp4OVR5STJpY0E2aXRYTldhUllQQVpuSUcwR3V4Y3NiSXpTU205S3dhOUpTRDZkZE5MemNvSlFfSG93SFZCSFpEUUVkdE1tOTZGem16NXFQcEtmNFdGZDU5eTRDVmJaNFEwVHhzTXpvdXltMHdRb2lZd0d2NzdDcFJOSlhYXy14LVc5ejZ5MzBqenRfb2YxYUZMQXRrU0pqdkZpUzBJczBldl9HNVhOejlzZWhVaGVXdG5fTDJhUXVjSlFBbGxR?oc=5",
-          "publishedAt": "2026-11-17T17:46:43.000Z",
-          "severity": "info",
-          "titleZh": "袭击米歇尔·泽克莱尔：“道歉”并反复为袭击辩解，前警官奥雷利安·拉帕内尔的听证会引起烦恼",
-          "content": null
-        },
-        {
-          "title": "28,000 people take part in protests organized by trade unions in Paris",
-          "source": "Apa.az",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnQ0SGRxUENjR0paVlh1TktpTG04VTNJcGwwTlZyUFRJY0k0b3RrUWpyZXl4UXE1VVMyc0l5R0syY1drZVRLa01ZTFV1dVRpMURuOTB3eDJLYWpRYXR3UjNxN0VCYmNucDV2dlBXX0VHeEYyTGNRZU5WczhWemY1QUZHX2xSMHl1cVduZTFSXzlrTHE3SHZIRU9BcUhicGRkSWNv?oc=5",
-          "publishedAt": "2026-11-17T17:43:00.000Z",
-          "severity": "medium",
-          "titleZh": "28,000人参加巴黎工会组织的抗议活动",
-          "content": null
-        },
-        {
-          "title": "Social Protests in France: 146,000 People Demonstrate",
-          "source": "blue News",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZHJheGZtc3R3bjY0Q0h2TjlEd0lnVS0tZWlDWERJV2U0eldXcmpxWm5DY25YeUpfX3BzSnczd1o4QzVBVGF3enVsWWo0YjJSQVJ6YTliN0ZUaG4wM3ZQTURPQTFnck96UTZFMWRVd3V2TWd3cG9JVGR0QTB2ZVdzZVgwUFRZLThQeVkyLS1NTVp5Yjl2NmlFNUpR?oc=5",
-          "publishedAt": "2026-11-17T17:36:30.000Z",
-          "severity": "medium",
-          "titleZh": "法国社会抗议：14.6万人示威",
-          "content": null
-        },
-        {
-          "title": "November 17 strike: 28,000 protesters in Paris, 175,000 according to the CGT",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcklnOUJScG90WEFNbTl3eXk1ZnlGMU9oWVpwaG9RbEt5azdOODQ3TjFCaDFhQUZTYmZUOUxPcDhYejl3aTZqZUc1V3lBYjA1X1lOcDRuaEplczhDaDNNWmNZWkRwbG5vbE1QRk5rb0lCaFFsT3VWVE9GMjN6V29uMDE5YWc5WE0tcnhCcFJPX3M2OXJoa25ZdEZ6NmQySGpMWWRoOUpRZy1FUjA3S1Bkcg?oc=5",
-          "publishedAt": "2026-11-17T17:32:34.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 17 日罢工：巴黎有 28,000 名抗议者，根据 CGT 数据为 175,000 人",
-          "content": null
-        },
-        {
-          "title": "Mouvement social en France : une mobilisation qui tient malgré des chiffres en baisse",
-          "source": "France 24",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ3c2UldnN1V6ME5BVmtQdF9nUllRRXB5VWR1S2Nvem9meWQyZXpKZzAtOTVYbzUxUUFaUi1QMWFvUmx4VmhnMDNGVW9KWTFCWWd5dElmSVFnU29Fd011QWxLYlIyNnZ4bnhqbVhEVzQycUhJeHZRb1ZoRmRzQTFxMTUtaS1BMjRQYXVyNWZWcktXbzNua202T0dvRFFteVJvekRfdEkzRzhLQnVzb09CNXAyWlBsRTREeU5RbUdGUlpZRDBJNVVzZ1h5dGM?oc=5",
-          "publishedAt": "2026-11-17T16:51:31.000Z",
-          "severity": "info",
-          "titleZh": "法国的社会运动：尽管数字下降，动员仍在继续",
-          "content": null
-        },
-        {
-          "title": "Latest cost-of-living protests bring more than 140,000 onto the streets across France",
-          "source": "France 24",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLXpjOEkyMW9uQ3dXdTUxdG9qV2tCNnNIdFZ4enZaRTJEXzkwNnk0TlpOSm1WMGpBX0VPNjFRZDhLTG1HWUcyNVFqeFdwa0RWdG1OU09DTktQWWdiVlhyMXZaOTROWWRwSW1jQVVST0RPcjRhLS1xSnI2U3BWOHMzall6SUtNYmNKRnpFTE5kNU1USEpna2d4T0NuNVliUjd0QUZYRWhMOXNPS3ZV?oc=5",
-          "publishedAt": "2026-11-17T16:27:21.000Z",
-          "severity": "medium",
-          "titleZh": "最新的生活费抗议活动导致法国各地超过 14 万人走上街头",
-          "content": null
-        },
-        {
-          "title": "They’re Young and Frustrated and Want France to Change. They Disagree on How.",
-          "source": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQVZtTlBfZzlYZGQ5WS1MTFM3VnZSVmFOXzMxWTFrTkxqU3BiQVRDWHdHN2VKWnRLTTc3MDNZRjBWVWVUVUdtS3ZnX0Rsbnd6a3BHdVE4VHVWX3VuY3g0QllYTnZuYXoxaENYczBYUHRSdVZwSGxQTlVMTDU2NTJtVVowcWdlS1lSWTRUbw?oc=5",
-          "publishedAt": "2026-11-17T15:55:02.000Z",
-          "severity": "info",
-          "titleZh": "他们年轻而沮丧，希望法国做出改变。他们在如何做上存在分歧。",
-          "content": null
-        },
-        {
-          "title": "À Évreux, la mobilisation s’essouffle mais les manifestants ne veulent « rien lâcher »",
-          "source": "Paris Normandie",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbk9LMEl0X0tTTldvWFE0Y05YSXFaOVRjTFIwcDRlN1ZuVVRqc0prb2NTc1RzQm5rT0QwejdOc1lES2E5VmVpRHh0UXU1VEFtZkdLY2JUVzA0N1FfWmtoT19OdHBEaDF3dHlqWXJVT2FoMUluM01YS1dVRHBvd3BseVg4MVlSVmNDeENuclFMaXpjeG11Qi1sSnJWMExNQ2twLXdkRmZBRFN3Nm90NjRmSXI2QkRjNnRHMjUyLWVheWsxWnUzT1RqdXNVNG1fb0ZfcjJR?oc=5",
-          "publishedAt": "2026-11-17T15:32:17.000Z",
-          "severity": "info",
-          "titleZh": "在埃夫勒，动员已经失去动力，但示威者不想“放弃任何东西”",
-          "content": null
-        },
-        {
-          "title": "Paris : la justice annule l’interdiction de rassemblement autour de plusieurs lycées et universités",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYVN0Mm8zNlVLUnpPa2N6bXN5NmxkaElKOTgxRzFiYTZCZFFNYlF4YUpEc05EdkRlUk41MWpoWmNaUmcyanotX1A1c251SUxYaWNuVDBJcDV0d2lCamRKSWVPZ2xBNk5SZjAtbXdfMUNMZjREemQydy1XZi0xRzJycWQzQ1BnazJSQlFsaV9JRTBUVHNzMWJlSnYtR2tjQ2lDRVQtRVNCcG5DZ2V5VE8yZTdFdzBCVkx5Umt4TUFxOEtpaFFkT2xWM3dRLW8xR25FNXpLS0ptNjNNYldmV0I4aUV2OFRhUXRPbjVidzZyTmx4N0g3WVRacTdiUHVvOWp6VU13?oc=5",
-          "publishedAt": "2026-11-17T15:25:09.000Z",
-          "severity": "info",
-          "titleZh": "巴黎：司法取消多所高中和大学周围集会的禁令",
-          "content": null
         }
       ],
       "places": [
@@ -399,19 +417,127 @@
         11,
         12
       ],
-      "articleCount": 30,
-      "clashCount": 2,
+      "articleCount": 32,
+      "clashCount": 4,
       "status": "unknown"
     }
   ],
   "latest": [
     {
+      "title": "Manif à Paris pour l'urgence sociale. 500 000 personnes en France | Reportages | Là-bas si j'y suis",
+      "source": "Là-bas.org",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXd5cW1zdFYzejJkcjBjb0R6dGh6Ri1HdWJ5Rm9SZEFpU1F2cUNfZ3dfZlNKd0drVEx4eXZGcVNsai15UEc3SXVmT1Y1ZTZWUUJnVXdkdVY4N084S0FSRlZLYnNkcURzZURGa2FGNC10NUJ5RHYzWUdNSXNyTU1KU0JiVjh3d3M2bU45NzhNbW4xN2tTWlY1NUxFYkhRSHVkbk1WM0xTVHpEUHk4QWJvZ3FR?oc=5",
+      "publishedAt": "2026-11-18T08:50:02.000Z",
+      "severity": "info",
+      "titleZh": "巴黎爆发社会紧急情况示威活动。法国有 500,000 人 |报告|如果我在那里的话",
+      "content": null
+    },
+    {
+      "title": "Passoires thermiques : le vote surprise qui inquiète les locataires",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX0tEWHhlcWc0ajQ0Y21FaTFhTW5mUWt1RjdaTW1uWGIwZGhVejlTVWpaMjdZal9SWHhRdERaakNIS0piU0dTUVBCdjljYlpuTHpQek4zaWJOSVN0dEp6OU95WF93LUM3SDR6bkRmWDhsN0NMRmt5UFgtRFVPSkdoTlhSOE5iTVU4WnlPclRnS245aXpvS3hQdF9mbEV0UWhyS1dXS3dCbmk2ZnM5eERRbjA0Q01hdWp1RWpGc2ZuYzVoQ2hDRDc3TjJXeWV3XzNEX2poVGhlamM0aXVXQ1E?oc=5",
+      "publishedAt": "2026-11-18T08:33:51.000Z",
+      "severity": "info",
+      "titleZh": "热过滤器：令租户担忧的意外投票",
+      "content": null
+    },
+    {
+      "title": "Étudiants : une nouvelle journée de mobilisation se dessine à Paris",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmdnbXFwMFl4TWg0YUtoS05MQkg5UTk2aUxZNHZSOVk5ZXNuNFotb1dLODc1b0hpUUdiSUJWN09VOFhUN01fSmNWUThPZ05jU3p2LW1xZ3VUMjdZMFRoY1FpSF9fMFFnSGFoVTNCTDJlQmc3ckRuanhsbktMVGhOem83QVhuU0wwSDkyTjhRaldDNzd1UXFiRURtTWtxN25ENGpIaUViZUpWSHRtV2RNRFo4SmhBcWduTzR6Nzk3RQ?oc=5",
+      "publishedAt": "2026-11-18T08:20:09.000Z",
+      "severity": "info",
+      "titleZh": "学生们：巴黎新的动员日正在形成",
+      "content": null
+    },
+    {
+      "title": "Students: another day of protests is taking shape in Paris",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2w3RC1ORzNyYzNvSEJ6NVljTlRYWkdaX1JZWm9yRlJWcWt2SDB4ajJsS2NaSGFHUm9IWGk4aEJ4VHhWTTREMFkwTVBHZzJFWk5zbG8weGYzS1A2dkZjS0M2aXZ4OFVneEtnUy1QTHhDOWF5UTRidnZDbk9DYTlXVGl0OTFabGp0Q3VwTjVQd2UyNG9zVzhoX3NpWGRlUERjU3VSOFctUmxMVkhSQVROLTNWTFdyMmtI?oc=5",
+      "publishedAt": "2026-11-18T08:20:09.000Z",
+      "severity": "medium",
+      "titleZh": "学生：巴黎又一天的抗议活动即将来临",
+      "content": null
+    },
+    {
+      "title": "Procès de l’explosion rue de Trévise : les associations dénoncent « la violence inouïe » et « le mépris sidérant » subis par les victimes",
+      "source": "Actu-Juridique",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNY3h4Y1FqN3pfQXNhRlMtNzZsMkNrTGJQbnNlTmZTajFrRWdNb3YxWUpLTXp3YUVTVEhOZTYtNzhVdXN6LS1keC1ZSEVtUHJNTmIzLXEzOGRxTmp3Wlg5S3dUVmE1aWxVQUVfbmdSNFJ0ZW1mNjRnekJoNGh6N2xySC15TE1tZUZEekJmRHotem45OXI2YjUtV0RRdFFiXzgxM0J6cXV6S2N5WGU2RmQyUHgxZ1VBa0o3VUlxa09nUXlibjZEalh6ckd4OGhkS2JtRWVIcUlScVgzZll4OFJlSXBrTmw3WHpqaEY1LU5oTW1YX3NVSlE?oc=5",
+      "publishedAt": "2026-11-18T07:57:00.000Z",
+      "severity": "high",
+      "titleZh": "特雷维斯街爆炸审判：协会谴责受害者遭受的“令人难以置信的暴力”和“令人震惊的蔑视”",
+      "content": null
+    },
+    {
+      "title": "Grève du 17 novembre : 28 000 manifestants à Paris, 175 000 selon la CGT",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUZvYXp4OFlOYkp5VmpSODVXS2laWDd6Q2Z3SV9iNTRldFkxLUJzTEszc05zUUJjQmNuZVJjWS1sbzV1bFU4VW5YRHl1YUJyR3lvRmZJdUxnUVFHN1F4V0wwbHdYeXk3R3k3QWlYQ3AxN1d2UDktZHBxMERoeXhwS29aQ2RXQTc3THNTanJRb0NvLXh5eS1QTnNPNVZBajdBN05ZeDdQSXJRSUk2Vld0SklTWkhCNzVrWlA3Mw?oc=5",
+      "publishedAt": "2026-11-18T07:18:02.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 17 日罢工：巴黎有 28,000 名示威者，根据总工会的数据为 175,000 人",
+      "content": null
+    },
+    {
+      "title": "Manifestation à Paris : après Nation-Italie, les retraités partent jeudi de Montparnasse",
+      "source": "Stéphane Larue News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUtYNEsxZ2pMNUJUZFI2Q2VYRHlGMDdjaW5XTDJmNGpvS0FYLXBBQUFQX3NjVU5ycU5ESkt4SU1wdHg4eVBpeUVZWFJXeWE4bkk2cjM1dWVnVkM4eDRzbHVRdk9lbmhBMkFQNXBMZE9hMGlncU9IQjBBUTh1S0sxMFdGVXZmRENENmRCelVNX2V0V2FPcFdTSHI5MzI4c29wNnhtbVVmMDg1Vmp1YmFYaXd3?oc=5",
+      "publishedAt": "2026-11-18T06:57:30.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎示威：民族-意大利之后，退休人员周四离开蒙帕纳斯",
+      "content": null
+    },
+    {
       "title": "Grève ce mardi : votre enfant aura-t-il classe, cantine et crèche ?",
       "source": "Sortir à Paris",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR21Ua3JaZmxhT1I5akR3a2RDa3VXeFRPdTNBNVFGRl84WmZLbkxQdWF5TzE4c01PM2IxOEZZVGRIZUJtZWtuYWp6UjhKNjhoeXhwQWZabzgzeEt2QmJWVFVDSnlsUTROTHZCLVhiTF9KOEoyNGFkWk5YWjlHOGx1TG9PSE1UMGxuMHdxa3NUcURwM3VKekVLd2RtVVBsRlFfMmRTT3BWTENZSkMwbGFTal9zTjhfUzUtNVdYeE5rV2c4a2llS2tPbA?oc=5",
-      "publishedAt": "2026-11-18T00:44:24.000Z",
+      "publishedAt": "2026-11-18T06:35:55.000Z",
       "severity": "medium",
       "titleZh": "本周二罢工：您的孩子有上课、食堂和托儿所吗？",
+      "content": null
+    },
+    {
+      "title": "Que faire ce mardi 17 novembre 2026 à Paris ? Les sorties à ne pas manquer",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeGl6QnF5T1pqRjJDRHhKS3FPaW9hcm9KS21PUkN0RlRxRWliLXNfN3V4VEllZF9ZSnlUSUQzOWdBc1FpaVpFTHNpUlF2dzFmYzN1NDgyd0xSSEQzX0FDd01INDhocnROQ2tWNEwwNTh4Ml9Zc2I3NGw1N2tzY3g4R29DdzBvaFJ3bFpLeTYtbmZIMWMwMDFnaEt0NmZfX0gzTTFYYzZzb1liUGozRmRnYlljaUthOXpsUU9GeDBBU2VFZWI4eUJlQUdRbHB6VXM?oc=5",
+      "publishedAt": "2026-11-18T06:01:36.000Z",
+      "severity": "info",
+      "titleZh": "2026 年 11 月 17 日星期二在巴黎可以做什么？外出游玩不可错过",
+      "content": null
+    },
+    {
+      "title": "Grève du 17 novembre : par où passe le cortège parisien cet après-midi",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaU04ejZsQkRJV1RoUGlDZG1HQ2pvOGwtZFdYcm4yMWdPSEdmOHlGVTRHR2ZoMmxMR2ZyWjhpd1FUU1hMMEI4ZnZNbFVxSW1UTk9uaW9uSGxJZUgzWHU4SWlMZTQ2a3E0ZFM5Wi1fMFdrNmRHa1FmZTFoQ2NjQnRpUGhDOUtoSTQ0WjlqaExXWFlZOXdtNlJTQmdlUTJKTUd3dmFid2xObmFiR2lmamQ4MlhWWWN1RDQwQzNoWTlXcDRHSWg5UldHT1haQ18?oc=5",
+      "publishedAt": "2026-11-18T05:14:36.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 17 日罢工：巴黎游行今天下午要去哪里",
+      "content": null
+    },
+    {
+      "title": "[Podcasts] Manifestations: la longue attente des commerçants pour être indemnisés",
+      "source": "RMC",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ1hxY3U0Vk1MMjBvNUFLeFFsZXZpRTQ4eEhmbi1FOUR5ZlFIaUpwMEtERUxJTzEtbUV5cVZJdXExb1JhV3VuVVo1VkVvaTJmcEl5Y25jNGZiUmRrTUc4a2NFbEVXTUFaV0VVaXA0YlJSQ0lvU2JZWXpJay1mZ0ZJY0tMekkzYnE0S2t5SWZQQTljVWhtWEZsTTZsY1VpTHFUWVY0bVk3ay1fSmFYYXhFYmhRdS1xMWpFWThWbUQyOFpFLU0zZzc3ZUczcThNdTNyVVN2NzVsVFpZUDlWZjFrTVhWOVJQYVlZdHpRYg?oc=5",
+      "publishedAt": "2026-11-18T05:00:00.000Z",
+      "severity": "medium",
+      "titleZh": "[播客] 演示：交易者获得补偿的漫长等待",
+      "content": null
+    },
+    {
+      "title": "November 17 protests: From Paris to Lyon, a movement sends a message to the next 'occupant of the Elysée'",
+      "source": "Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORGdtRGlfMG9La0pOTi05dHBfVFpuZTVvVHB0M3N4aXdGbHpDWmZham01OG91Mkl3RWNKdXFwbG9QaGtiajRxLVRMZWxBRjdJb0xiblFWVjJRbzVNT2JMNEFsOEtxTTlXZ01OOXRqREVWT1NGdTJ3ZE0tcko4VHZReVhvYnJYYlBicTlxeDhIZzhVSDdhaDNkZXVCV0RkSlh6Z2F0cnF4aHdjZzMwM21HLUttcU9zdU91d2llNE9JcnBWV0QxOXFFTThXRkkyRHVZdW5RcU0ySXBQZmdEbUtVRi02ajBxeENnaUY2TzNhTUNGaHJ6WkRoNF9qRlIxdEk?oc=5",
+      "publishedAt": "2026-11-18T02:23:44.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 17 日抗议活动：从巴黎到里昂，一场运动向下一位“爱丽舍宫的居住者”发出了信息",
+      "content": null
+    },
+    {
+      "title": "Paris Police Ban Protests at High Schools and University Campuses",
+      "source": "Breitbart News",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTUdqaHhQMXlrei1XNUNhT1FWdDNnSXlJcHJ1RGZrZnA3SnpxeHQxYm52R1VrY0ZoU3VTdUpmQVgzZDl0d2pBb3Y1ek5zanJNblFXWWpMY19lLXliczh4NjNQYy1XcC10b0FZdWx2aVdFZlZXWGJyTEU1aVFWUklrcndwTjdSeEs1bzlMeWpMWXBQT1NPaVFxRHBISkwxeGdvMC14eXM0ZWdsX25aRXEzZnFoNkhFa3kzTEZjY2dNandqck9MaWxraEVVaFZHUUFSekdzSmNxRQ?oc=5",
+      "publishedAt": "2026-11-18T00:37:11.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎警方禁止在高中和大学校园举行抗议活动",
       "content": null
     },
     {
@@ -424,30 +550,21 @@
       "content": null
     },
     {
-      "title": "Grève du 17 novembre : 28 000 manifestants à Paris, 175 000 selon la CGT",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUZvYXp4OFlOYkp5VmpSODVXS2laWDd6Q2Z3SV9iNTRldFkxLUJzTEszc05zUUJjQmNuZVJjWS1sbzV1bFU4VW5YRHl1YUJyR3lvRmZJdUxnUVFHN1F4V0wwbHdYeXk3R3k3QWlYQ3AxN1d2UDktZHBxMERoeXhwS29aQ2RXQTc3THNTanJRb0NvLXh5eS1QTnNPNVZBajdBN05ZeDdQSXJRSUk2Vld0SklTWkhCNzVrWlA3Mw?oc=5",
-      "publishedAt": "2026-11-17T23:09:47.000Z",
+      "title": "Thousands turn out in new French protests",
+      "source": "RTHK News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FWkxhQUQzTm1YWHhGWlk0UjFXaGVrZ3pjSTZ5cG5IMHJYXzBRR1dJYmxKcG1aRVNoNVBXRi1zM3FqZWY2cVl1RzJ6eHlEem5iWXFoaUZwVXU4Rm9BNFdwTHlmMjB6a21Lclg5WjNhcw?oc=5",
+      "publishedAt": "2026-11-17T23:17:00.000Z",
       "severity": "medium",
-      "titleZh": "11 月 17 日罢工：巴黎有 28,000 名示威者，根据总工会的数据为 175,000 人",
+      "titleZh": "法国数千人参加新的抗议活动",
       "content": null
     },
     {
-      "title": "Paris Police Ban Protests at High Schools and University Campuses",
-      "source": "Breitbart News",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTUdqaHhQMXlrei1XNUNhT1FWdDNnSXlJcHJ1RGZrZnA3SnpxeHQxYm52R1VrY0ZoU3VTdUpmQVgzZDl0d2pBb3Y1ek5zanJNblFXWWpMY19lLXliczh4NjNQYy1XcC10b0FZdWx2aVdFZlZXWGJyTEU1aVFWUklrcndwTjdSeEs1bzlMeWpMWXBQT1NPaVFxRHBISkwxeGdvMC14eXM0ZWdsX25aRXEzZnFoNkhFa3kzTEZjY2dNandqck9MaWxraEVVaFZHUUFSekdzSmNxRQ?oc=5",
-      "publishedAt": "2026-11-17T22:39:10.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎警方禁止在高中和大学校园举行抗议活动",
-      "content": null
-    },
-    {
-      "title": "French Riot Police Face Mass Absenteeism Amid Protest Fatigue",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2RNWGctS1UyYnlxN2l2dnFRUG8tcnJRVExURmkzRm9IY1RXRTVpb2RXS3pSNWlHNnZRZGc1RGRLQnotVnhoN0laUDNVemI3NUZ2RTFvQ0ZNYVdNaFJLbWstWk9lWTlDeUZGNEFhVkppeWxtanJYLVp0T0hVN2hXOTRzRnY?oc=5",
-      "publishedAt": "2026-11-17T22:11:48.000Z",
-      "severity": "medium",
-      "titleZh": "法国防暴警察因抗议疲劳而面临大规模缺勤",
+      "title": "Paris : les maires de droite obtiennent l’interdiction de manifester autour de leurs lycées",
+      "source": "Blast",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSE1zaHhkdnJ2Y2lZVHV3WERoYmprRnJjMVBpVGExX0FXTnhzUEp5bl9SUEZjcjZUbmExMVk4cVdNeVdmSW5aQTdSTnQwbnJ5Qm5pSWVCZHVZVlVQSWdVdjNab1BHZDA0aXJmNjQ3bk4yZGFRSF8wN3pPT1VxdHMzc0RDUUhXN002QnhpT0hhOHdKaVVRdnR3aVVocng0ZXdKUTRKbzcwbFgxUG8xV3UzWDkwVVA2OXdNQ0dNbWFaMDhZY3JsQmtrbDdBeXE2elZOczhHQlgxNzgwdG9oQmZVRWRnVVdfQQ?oc=5",
+      "publishedAt": "2026-11-17T23:14:42.000Z",
+      "severity": "info",
+      "titleZh": "巴黎：右翼市长获得禁止高中周围示威的禁令",
       "content": null
     },
     {
@@ -469,12 +586,12 @@
       "content": null
     },
     {
-      "title": "Grève du 17 novembre : par où passe le cortège parisien cet après-midi",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaU04ejZsQkRJV1RoUGlDZG1HQ2pvOGwtZFdYcm4yMWdPSEdmOHlGVTRHR2ZoMmxMR2ZyWjhpd1FUU1hMMEI4ZnZNbFVxSW1UTk9uaW9uSGxJZUgzWHU4SWlMZTQ2a3E0ZFM5Wi1fMFdrNmRHa1FmZTFoQ2NjQnRpUGhDOUtoSTQ0WjlqaExXWFlZOXdtNlJTQmdlUTJKTUd3dmFid2xObmFiR2lmamQ4MlhWWWN1RDQwQzNoWTlXcDRHSWg5UldHT1haQ18?oc=5",
-      "publishedAt": "2026-11-17T21:11:13.000Z",
+      "title": "Weekend of fiery protests in France raises questions, costs millions",
+      "source": "DW.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcFhEay13QkdwLWpfT2lQTm9RVFBEdkFKSWNENUNMQU1xTG02TFpmbUVEb0xCam5kaVVnUGxWREhNTEF1SG40VmkzZGl6ZUpzSXYtMUtBRlc0YmoxT2dxVGNLQlhXMDA5cjJ5elNydDBLYmZOTlZDTVJtb05DaXZDMEpva0VOY3hWSUhzM0FENGZuNGR2V2lFbG4ybkZFNnBzZW5tMm9JR0lNWmdXeUJsOHdR?oc=5",
+      "publishedAt": "2026-11-17T21:31:20.000Z",
       "severity": "medium",
-      "titleZh": "11 月 17 日罢工：巴黎游行今天下午要去哪里",
+      "titleZh": "法国周末激烈抗议引发问题，造成数百万美元损失",
       "content": null
     },
     {
@@ -484,6 +601,15 @@
       "publishedAt": "2026-11-17T20:49:59.000Z",
       "severity": "medium",
       "titleZh": "巴黎数千人游行抗议生活费上涨",
+      "content": null
+    },
+    {
+      "title": "Manifestations du 17 novembre : de Paris à Lyon, un mouvement qui regarde vers la présidentielle et veut envoyer « un message au prochain locataire de l’Elysée »",
+      "source": "Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPZ1pudzk4eU1RSVFDbk5icU5PbEgzRFQ3Y2dZMzhsbVE0UVhLMkNKb3Zab3Y2SFpmTm5OaGFET29lY3ZUNi14M3V1WHJBLVpHdUFqUlo5eDNXbVJDMFN3TmliZUlodU1PWFZlWmY5TnR2VmhhQ1hMU0d3V3RYeHhOaWtXMUY5X0xzcjVrNkYtSlFLY1RIQVJhbTZJUjlpNDJzZjlvclFyTFZYVXNxM3VLZnAzTHpSQjF1QzkwZkdSZC1qR01jOEl3TXJINzBtLWtlc3JkbS0wbXRkQWd3RGl1UmNlX2c4MURiTmVSZ1NWWnNCYnlyZmtQYmJKM3N5UlJKR3J5YkRrb3VmTXpBUDNiZXlFNUltU3gwNUg5TkRnZENPRXRhanN1R2VXLWhSODBtb2R2Q0lGbVZxdXRUT2pJZXh3?oc=5",
+      "publishedAt": "2026-11-17T20:29:39.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 17 日的示威活动：从巴黎到里昂，这场运动着眼于总统选举，并希望“向爱丽舍宫的下一位房客传达一个信息”",
       "content": null
     },
     {
@@ -505,12 +631,21 @@
       "content": null
     },
     {
-      "title": "Info Metro RER trains, fermetures, travaux et manifestations à Paris ce Mardi 17 novembre 2026",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYk9DNFNuUGJzS2VmOUZ2a0xWV0NVdTlUTmI5N0VqTWNodnJ4d0hfZHRfdm9UODVhTi1RM0hJdV82RktuUTVDaUFDRUFhY2VCNXBSNU82UElDMXZDREZQX0VwYUtjRVBNc0JkeUU3d1JTbHBieGYyTWZ0cjVTdkJwN2JSeWo2UE56NnQ4cEpGV0R6ZFJqeHZpeTJ6Z01JQQ?oc=5",
-      "publishedAt": "2026-11-17T19:30:29.000Z",
-      "severity": "medium",
-      "titleZh": "信息 本周二巴黎 RER 列车、关闭、施工和示威活动 2026 年 11 月 17 日",
+      "title": "Face aux violences au lycée de Cachan, des maires appellent au calme et demandes des réponses aux revendications",
+      "source": "Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQV1MtRnIwRFJrWmtYcDJxbXpOR3BnbVltOGJUeElkbUJ6dWpRd0JKd1M2NmhfYVVVcl9VN1Y5XzdTWTR6eDh5TDloUVAyaTU4MnpGa0hfbG8xcHNnMG8xTTNsZXcyUjhkNTk3TmJ2akVaa1d6V25ZUmx3Z1hWcXlPV2pXVTJXcmxXa2tibHF4S01ET1FRQ0h5blpjYVJMX0NXYnUxWmQzVnNDa292eUIyRHp2YTRkUEZuWjBFTXJkUjJVUnhkYzJVLUhGNTZyQmptV1BPSERkZnZ4MFlYRU1OOVdaeWNwYjdXRGMyTjhCcWFKMXJUNXVNQ3ZoWTA?oc=5",
+      "publishedAt": "2026-11-17T19:34:01.000Z",
+      "severity": "high",
+      "titleZh": "面对卡尚高中的暴力事件，市长们呼吁保持冷静并要求回应要求",
+      "content": null
+    },
+    {
+      "title": "Donald Eason: From Paris to American Campuses: Why Black Americans Should Heed the Warning Signs of Socialism",
+      "source": "The National Center for Public Policy Research",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbS1fX1ZjTXVqdkVOYmFWdm8wOU0wWXJKck1JR3hWNURFRlZzallPc2ZoNHVjbDNqd0JfcWpzWGZRM1hfMU5SRXBnbHVWVGp4NHNFbmdSb3owX0hzTlNGLWlHRkFQNXZ0RGhmY0lIbVU0dDhfZ1REY05YVjJtdzRDSldhU0MwM2FKeUNaM3NUeHlWYXpQUXZFZjBqblVtUXFGM3N4MEtVQkFFNFp1VVFHcnJTNGlHaE1jUk5HVWpSU1V4VWpIdHVfT2VLR2xPNDl3SVNUcEN6M010SWh1dnp3?oc=5",
+      "publishedAt": "2026-11-17T19:23:49.000Z",
+      "severity": "info",
+      "titleZh": "唐纳德·伊森：从巴黎到美国校园：为什么美国黑人应该留意社会主义的警告信号",
       "content": null
     },
     {
@@ -520,15 +655,6 @@
       "publishedAt": "2026-11-17T19:23:31.000Z",
       "severity": "medium",
       "titleZh": "11 月 17 日罢工：公务员、年轻人和私营部门雇员的动员值得记住什么",
-      "content": null
-    },
-    {
-      "title": "New French protests bring more than 100,000 onto the streets",
-      "source": "AFP.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tY0Zqb1o3RVJBeEJzamtQVmhvQVlNaEJNNUNwa1l3VnNGdUo3cXpYYzBkdklvR3JLSXpnZzdaME5LSDZqYkhta3dGbV9uakdFLWs3Sll0TnpucGVZQTR0eDJSY2J1OXhjb0pJNkFCdWlxb1RSQlJn?oc=5",
-      "publishedAt": "2026-11-17T19:23:11.000Z",
-      "severity": "medium",
-      "titleZh": "法国新一轮抗议活动导致超过10万人走上街头",
       "content": null
     },
     {
@@ -564,7 +690,7 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nRkdVa092eWI5UUc0RzQteWZBdDFPeHp3NU56cGlGcGJKNS1hWEFMbmZ3VGpydzczdlg1VElHSU5razVPcl8tdE1xRHR3WGVJMjFILUdMdGYwbjVMZVY3bkVlMjNRb0cxV0JqYm5n?oc=5",
       "publishedAt": "2026-11-17T19:11:17.000Z",
       "severity": "medium",
-      "titleZh": "法国公共部门罢工要求加薪；学生参加 150,000 人的强烈抗议",
+      "titleZh": "法国公��部门罢工要求加薪；学生参加 150,000 人的强烈抗议",
       "content": null
     },
     {
@@ -592,6 +718,15 @@
       "publishedAt": "2026-11-17T18:55:00.000Z",
       "severity": "medium",
       "titleZh": "法国：新一天的罢工和示威抗议高生活成本",
+      "content": null
+    },
+    {
+      "title": "Agression violente de Michel Zecler : les policiers reconnaissent « un fiasco », mais pas leur responsabilité",
+      "source": "L'Humanité",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSWdmdkdMNURDWGtuVTZXbGNPV2w0N3RnSHZDengwdDE1eU5XTG5hd3lGbFRZTkd3NUpzLTVGb0tJdWh2dFhxSUVXUlppaXVDRW1mZ1pySnNaOG5Wd3pTUW5fYWo3MjVfM2hzYmF2c29MNnd4di1JN0dxdHpFeGJpNGxDTnZ2Q1l4NUV5eDQ2aHVHUEhIQXBtVUZHRkhsRHk0YkRTZVBFMV85M0hlc2JaR19iSGpWRkZSLWJmMTAtTjFGZk42N2hUeXkwa3F3Y1NVTThDU1hFbkFHd185aGpDRk9n?oc=5",
+      "publishedAt": "2026-11-17T18:36:16.000Z",
+      "severity": "info",
+      "titleZh": "对米歇尔·泽克莱尔的暴力袭击：警方承认“惨败”，但不承认他们的责任",
       "content": null
     },
     {
@@ -646,123 +781,6 @@
       "publishedAt": "2026-11-17T17:54:11.000Z",
       "severity": "info",
       "titleZh": "巴黎市政厅推出的打击性暴力工具“MascuRadars”是什么？",
-      "content": null
-    },
-    {
-      "title": "Agression de Michel Zecler : des \"excuses\" et une justification répétée des coups portés, l'audition de l'ex policier Aurélien Lapersonne suscite l'agacement",
-      "source": "France 3 Régions",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPMzJUVjBMcl9Wc1plTzJKVElhUjJYeVVOcXItcFZKamxLUkhXQXlhbFFyNDFyLUJTT0F0OUNsMVlBN1I2WFQydTdkZHFmbXZDNDN2MXF6VGRIaGNGSUJqNnNvMmtpUlh0YTNsUW5oSkkyV0x5XzBRV3ZWT3lVV0FHN2hKYk4zZEZvS0VlMnowUlp4OVR5STJpY0E2aXRYTldhUllQQVpuSUcwR3V4Y3NiSXpTU205S3dhOUpTRDZkZE5MemNvSlFfSG93SFZCSFpEUUVkdE1tOTZGem16NXFQcEtmNFdGZDU5eTRDVmJaNFEwVHhzTXpvdXltMHdRb2lZd0d2NzdDcFJOSlhYXy14LVc5ejZ5MzBqenRfb2YxYUZMQXRrU0pqdkZpUzBJczBldl9HNVhOejlzZWhVaGVXdG5fTDJhUXVjSlFBbGxR?oc=5",
-      "publishedAt": "2026-11-17T17:46:43.000Z",
-      "severity": "info",
-      "titleZh": "袭击米歇尔·泽克莱尔：“道歉”并反复为袭击辩解，前警官奥雷利安·拉帕内尔的听证会引起烦恼",
-      "content": null
-    },
-    {
-      "title": "17 Novembre - 11e journée de manifestations et encore plus de 500 000 manifestant·es !",
-      "source": "CGT État",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjFCV0FhUlZQbktFM2QzQUl0SXRHM25ZRmhxMmgwdzF6U19VWFNzcXJxMkJYNE53TUJ1bHdFdWt3UnFKeGxMNHhOcWtvNGR4eUtQLVpjbGc3bnRVOHBvbU5pUkRKTVNTUXFqVFhuSGYwbG1oWno1VjIxWGNtUVJVTTVFR0ZwQlhqdUhyTV93TV9lSGg5bHNBQ1l5V0JQUzE2MUZkQ3Nubk5sTmJTSU9lcEZOMEprOEZrMUExNWNBV0sxVERDRHVMOUJ4R1BjVWNhTmc?oc=5",
-      "publishedAt": "2026-11-17T17:44:44.000Z",
-      "severity": "medium",
-      "titleZh": "11月17日——示威第11天，示威人数仍超过50万！",
-      "content": null
-    },
-    {
-      "title": "28,000 people take part in protests organized by trade unions in Paris",
-      "source": "Apa.az",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnQ0SGRxUENjR0paVlh1TktpTG04VTNJcGwwTlZyUFRJY0k0b3RrUWpyZXl4UXE1VVMyc0l5R0syY1drZVRLa01ZTFV1dVRpMURuOTB3eDJLYWpRYXR3UjNxN0VCYmNucDV2dlBXX0VHeEYyTGNRZU5WczhWemY1QUZHX2xSMHl1cVduZTFSXzlrTHE3SHZIRU9BcUhicGRkSWNv?oc=5",
-      "publishedAt": "2026-11-17T17:43:00.000Z",
-      "severity": "medium",
-      "titleZh": "28,000人参加巴黎工会组织的抗议活动",
-      "content": null
-    },
-    {
-      "title": "Social Protests in France: 146,000 People Demonstrate",
-      "source": "blue News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZHJheGZtc3R3bjY0Q0h2TjlEd0lnVS0tZWlDWERJV2U0eldXcmpxWm5DY25YeUpfX3BzSnczd1o4QzVBVGF3enVsWWo0YjJSQVJ6YTliN0ZUaG4wM3ZQTURPQTFnck96UTZFMWRVd3V2TWd3cG9JVGR0QTB2ZVdzZVgwUFRZLThQeVkyLS1NTVp5Yjl2NmlFNUpR?oc=5",
-      "publishedAt": "2026-11-17T17:36:30.000Z",
-      "severity": "medium",
-      "titleZh": "法国社会抗议：14.6万人示威",
-      "content": null
-    },
-    {
-      "title": "November 17 strike: 28,000 protesters in Paris, 175,000 according to the CGT",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcklnOUJScG90WEFNbTl3eXk1ZnlGMU9oWVpwaG9RbEt5azdOODQ3TjFCaDFhQUZTYmZUOUxPcDhYejl3aTZqZUc1V3lBYjA1X1lOcDRuaEplczhDaDNNWmNZWkRwbG5vbE1QRk5rb0lCaFFsT3VWVE9GMjN6V29uMDE5YWc5WE0tcnhCcFJPX3M2OXJoa25ZdEZ6NmQySGpMWWRoOUpRZy1FUjA3S1Bkcg?oc=5",
-      "publishedAt": "2026-11-17T17:32:34.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 17 日罢工：巴黎有 28,000 名抗议者，根据 CGT 数据为 175,000 人",
-      "content": null
-    },
-    {
-      "title": "Grève du 17 novembre: 28.000 manifestants recensés à Paris",
-      "source": "BFM",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb3BILVM4V0kxTFRFVjk5RzltUnFoM3I2X1JQVVlmdDBpRE84eWU4T2p4dG5QUGRPdGpyemhKZE5mNEVESVBsOC1yeDNfYmdzOGxvTUdnTFhZSElMWVB6SGJxeTBXZHZ5d0YySm8wMWFlSk9rRmlkUXU1NXJmeVZTd1dXRTYzc1dnZ0YzQjBKYlY1cjJULURyUDdJSnZYdjJJQUZCcVg3YWJvaFcxSGt1bTZwQk0xTFVqa0ZWbFc5WnZWZkhuaFQxag?oc=5",
-      "publishedAt": "2026-11-17T16:53:34.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 17 日罢工：巴黎有 28,000 名示威者",
-      "content": null
-    },
-    {
-      "title": "Mouvement social en France : une mobilisation qui tient malgré des chiffres en baisse",
-      "source": "France 24",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ3c2UldnN1V6ME5BVmtQdF9nUllRRXB5VWR1S2Nvem9meWQyZXpKZzAtOTVYbzUxUUFaUi1QMWFvUmx4VmhnMDNGVW9KWTFCWWd5dElmSVFnU29Fd011QWxLYlIyNnZ4bnhqbVhEVzQycUhJeHZRb1ZoRmRzQTFxMTUtaS1BMjRQYXVyNWZWcktXbzNua202T0dvRFFteVJvekRfdEkzRzhLQnVzb09CNXAyWlBsRTREeU5RbUdGUlpZRDBJNVVzZ1h5dGM?oc=5",
-      "publishedAt": "2026-11-17T16:51:31.000Z",
-      "severity": "info",
-      "titleZh": "法国的社会运动：尽管数字下降，动员仍在继续",
-      "content": null
-    },
-    {
-      "title": "EN DIRECT - Mobilisation du 17 novembre: La justice suspend l'interdiction de rassemblements autour de cert...",
-      "source": "Jean-Marc Morandini",
-      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxOWUpFUE14bEpvdlZUTmtlSnhaTkxGd2dnWEpEclVNRGtjbURyZFpIRWFtVkE3ZGhiaVRUeHFxd1ZWMC1GZFphdk1WOWRfb2RYeDU0cjBjbUI2Q2loWEd2cG5UMDRlNjBmeHNscW01NHFVOEk3OWdGU1ZPVzdzalZGTXNqZUlBRUh0bFdKWlFsR3B2SndxZWFua0NmMVJfbkRVUkNfMHQ4YTZaNnhLOFR3M3RFUHdJOGx5dGNoZy1iVnctY3NfMUlMbWpycVlkUGs3Zm96bG5sWjZLb1UzcEhXOU1rRjJiTTZldDFJb1hQMmoyUEdFQVNvakJfQWY4OGFxOF8wSkRpNVc4eHRwUklZVVFUdXpfQXJ3UW1WLW54TGhPTjNVcWItaExsVjVHR0FibmkyX2Z5eFptNFNJcDNpNzhpZVI1MEFlWGJHYXRMYlIwdzVVT1lUX3R0U2diMVMxT0plMmc3RGczb2lyTXJ3LVFSX09JRlByVm9zY2g2Y3J0SXlDUzA0dGFtSThjam1TY0FOSmc0R2zSAZ4DQVVfeXFMTURzaERWOVBMY1NleThPMnQyQXZiaXF4Z3VVSk1QcTVKVzNkWTViaEotVXFwYzdpR25uekpWNnQtUmFxWEplTzF3bHZ5WjFRaVAxVDlZVnhvUHBvZ0huVmxkWF9rYnh5X2lqeWZkZDlWSVhyQTc2TjU3VVRCTklDQVZHRVpqbmFIekdvZ3RCRjhTbnRqVTQ0NmJiTjQxbzRDWXo2eVN1VElrWDhNV0ZyTThVQVBoSHFDaXllcC1fSU5OZ3AyNDhOU0lOY3U2UkN0TVBuNjlaWUg5VmE5UFdLUDZzQy1QQ3JwN00tNlp5VWo2QkN6Yzh0RkMxZTE0MHh3RGdOVklNRlB6VnlUYXlpcDB2RXJtWms0RUp5WWxNTnRzZVlUdk9hdUphQ2J3WGo1eEhfM0lLdC0xY1hVVzdvdDcxbEZfaG9wQndKbFBtX1VxYWpidVB3Q0puLVlwS2w2RTFDeFdoZEtrZGRHS2pIY1VqY2NVMGVET0JoTGdrV2RlT05raVBpbl9rV1pYNTNxaklFSXlsWFZKTTBzRV9B?oc=5",
-      "publishedAt": "2026-11-17T16:48:35.000Z",
-      "severity": "info",
-      "titleZh": "直播 - 11 月 17 日动员：司法部暂停了对某些地方集会的禁令……",
-      "content": null
-    },
-    {
-      "title": "Latest cost-of-living protests bring more than 140,000 onto the streets across France",
-      "source": "France 24",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLXpjOEkyMW9uQ3dXdTUxdG9qV2tCNnNIdFZ4enZaRTJEXzkwNnk0TlpOSm1WMGpBX0VPNjFRZDhLTG1HWUcyNVFqeFdwa0RWdG1OU09DTktQWWdiVlhyMXZaOTROWWRwSW1jQVVST0RPcjRhLS1xSnI2U3BWOHMzall6SUtNYmNKRnpFTE5kNU1USEpna2d4T0NuNVliUjd0QUZYRWhMOXNPS3ZV?oc=5",
-      "publishedAt": "2026-11-17T16:27:21.000Z",
-      "severity": "medium",
-      "titleZh": "最新的生活费抗议活动导致法国各地超过 14 万人走上街头",
-      "content": null
-    },
-    {
-      "title": "They’re Young and Frustrated and Want France to Change. They Disagree on How.",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQVZtTlBfZzlYZGQ5WS1MTFM3VnZSVmFOXzMxWTFrTkxqU3BiQVRDWHdHN2VKWnRLTTc3MDNZRjBWVWVUVUdtS3ZnX0Rsbnd6a3BHdVE4VHVWX3VuY3g0QllYTnZuYXoxaENYczBYUHRSdVZwSGxQTlVMTDU2NTJtVVowcWdlS1lSWTRUbw?oc=5",
-      "publishedAt": "2026-11-17T15:55:02.000Z",
-      "severity": "info",
-      "titleZh": "他们年轻而沮丧，希望法国做出改变。他们在如何做上存在分歧。",
-      "content": null
-    },
-    {
-      "title": "À Évreux, la mobilisation s’essouffle mais les manifestants ne veulent « rien lâcher »",
-      "source": "Paris Normandie",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbk9LMEl0X0tTTldvWFE0Y05YSXFaOVRjTFIwcDRlN1ZuVVRqc0prb2NTc1RzQm5rT0QwejdOc1lES2E5VmVpRHh0UXU1VEFtZkdLY2JUVzA0N1FfWmtoT19OdHBEaDF3dHlqWXJVT2FoMUluM01YS1dVRHBvd3BseVg4MVlSVmNDeENuclFMaXpjeG11Qi1sSnJWMExNQ2twLXdkRmZBRFN3Nm90NjRmSXI2QkRjNnRHMjUyLWVheWsxWnUzT1RqdXNVNG1fb0ZfcjJR?oc=5",
-      "publishedAt": "2026-11-17T15:32:17.000Z",
-      "severity": "info",
-      "titleZh": "在埃夫勒，动员已经失去动力，但示威者不想“放弃任何东西”",
-      "content": null
-    },
-    {
-      "title": "Paris : la justice annule l’interdiction de rassemblement autour de plusieurs lycées et universités",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYVN0Mm8zNlVLUnpPa2N6bXN5NmxkaElKOTgxRzFiYTZCZFFNYlF4YUpEc05EdkRlUk41MWpoWmNaUmcyanotX1A1c251SUxYaWNuVDBJcDV0d2lCamRKSWVPZ2xBNk5SZjAtbXdfMUNMZjREemQydy1XZi0xRzJycWQzQ1BnazJSQlFsaV9JRTBUVHNzMWJlSnYtR2tjQ2lDRVQtRVNCcG5DZ2V5VE8yZTdFdzBCVkx5Umt4TUFxOEtpaFFkT2xWM3dRLW8xR25FNXpLS0ptNjNNYldmV0I4aUV2OFRhUXRPbjVidzZyTmx4N0g3WVRacTdiUHVvOWp6VU13?oc=5",
-      "publishedAt": "2026-11-17T15:25:09.000Z",
-      "severity": "info",
-      "titleZh": "巴黎：司法取消多所高中和大学周围集会的禁令",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 17 novembre à Paris : le cortège défile dans le \"calme\" vers la place d'Italie",
-      "source": "France 3 Régions",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMUIwaU9JeVptR0FOSlBHeEdsZE4waDJTa3dlZUhsWjVYbHBIbURSTUJPYVJYTUQ4VWd2eUVWU0p3bjNHb2N0MC1KekpOUnhqSXBlWENaOWxqS0xMN3Z6SkJVckVGNElWbXIySTA1YnZGZG5yQVE2ODEyUmV2MllrOTdXd2tsYkw3MjNxcVhndmRHZkp3R3lHZG5seWNvNmUzS2l3cTg3RExWUFZqOExhQnJlWENOV0ZuQ1VUUWRUcThOMEFaTDE0aERQRzVwRmdqb2FMU2taRTFrQnA4emNSSVNqYUM4aUtuU00ySVZtZXpEY2JJa0lVbHBkMk0?oc=5",
-      "publishedAt": "2026-11-17T15:08:57.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 17 日巴黎示威：游行队伍“平静”地走向意大利广场",
       "content": null
     }
   ]
