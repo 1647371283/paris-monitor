@@ -1,37 +1,18 @@
 {
   "success": true,
-  "today": "2026-11-19",
-  "updatedAt": "2026-11-19T23:46:31.822Z",
+  "today": "2026-11-20",
+  "updatedAt": "2026-11-20T07:02:26.795Z",
   "events": [
-    {
-      "date": "2026-11-20",
-      "articles": [
-        {
-          "title": "Grève du 20 novembre 2026 : école fermée, qui accueille votre enfant et pouvez-vous vous absenter du travail",
-          "source": "Hassan KOHEN",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSGppeXlxMTlDYm5LTk5hVUlmWFNCTDZaS2V0T3V5eW5kcFYzcEgySXhJNVNFQ0tJSVFwcS1wLWh3amFjOERNMXNmRDhOUXhLUnBhNlZVWkwzWlpxTkpYZTFXc2lYMFlwWncyNzFnQUdPNzBXNTdQcnZ3U1RPN1FEM01DaDc4S0FMdEZZN2UwVHZsTDBVN3dV?oc=5",
-          "publishedAt": "2026-11-19T12:34:00.000Z",
-          "severity": "medium",
-          "titleZh": "2026年11月20日罢工：学校停课，谁来迎接你的孩子，你能请假吗",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
-      "status": "recent"
-    },
     {
       "date": "2026-11-21",
       "articles": [
         {
-          "title": "Manifestation du 21 novembre à Paris : syndicats, jeunes et défenseurs du droit au logement défileront ensemble ; les « gilets jaunes » devraient les rejoindre",
-          "source": "Le Monde.fr",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPb1IyM0txQzdTamRxaDZsR29SUkpJOEtkSEJsSHdqTW5aWnlYSTM0TjhYaU1OanZLV0RsYXh4aWw1QXVQTG5pNmIzdDhZdnpRa2wzUTA4d1huRWVMTlRab3NtY095V0JOTmVxdHYwNzQ4bG54ODQzMzdWV0hudzZRZlNjelJ6ZVAzR3oyTEgwVm9nZTNvU2pvTlFacU1OT2pycXFWdkRGM0FqMUhFY1NfU0kwUW1xNzI2LXl5eXRKZ1RzdUEyZUdyekpDMS13b0E1UV8wMTFjN1hUa2NoVFE5SUhfVTExUEt1VkRxNXg5UG9aOFpPTTZIUWhYZUJsOXFKWUtDOFBDa2NjWDAzck1tMlVoVFhBc1c5a0dMRVFoT01ROFhoaUd6SzZsRnlsR2xXeHc3TldZQVJqUQ?oc=5",
-          "publishedAt": "2026-11-19T16:07:19.000Z",
-          "severity": "medium",
-          "titleZh": "11月21日巴黎示威：工会、年轻人和住房权捍卫者一起游行； “黄背心”应该加入他们",
+          "title": "21 novembre : le Festival de la non-violence à Paris",
+          "source": "Politis.fr",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWFDQTJDVkpRa2VLVGlDYkNmZXdpZWZqeU1ZdTJyOTlGdFBoUDU4Q1hNSlJVQjRieFNSaVpwRUplQXV2NGYwbElueUFycGl6Z2ppcVEzaDFDcks2WHd6akM4b09HaXlPNVc5RzZXcnlaOVVscE1IWXZXWU1PQTkyOV9MdG1vcW1pMVJyN3lfRkNfdDRKQWc?oc=5",
+          "publishedAt": "2026-11-19T23:44:32.000Z",
+          "severity": "high",
+          "titleZh": "11 月 21 日：巴黎非暴力节",
           "content": null
         },
         {
@@ -51,62 +32,17 @@
           "severity": "info",
           "titleZh": "在巴黎，工会、年轻人和住房权捍卫者将于本周六一起示威",
           "content": null
-        },
-        {
-          "title": "\"Acte VI\" des Gilets jaunes : actions, parcours... à quoi s'attendre pour la journée de mobilisation du 21 novembre",
-          "source": "TF1 Info",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdmlXZ3FSVWFTaHJGVExRUlFJMm50c3MtQlpsV1ZXb25DQU9HNTgwQW9xcHVpX01RRkxzZGZGcWNEMTd4b1RmZzRMdXBaX3E4U2tTN3dXWV9QQ2NtbGp2TjBWdWV0WVRrTEdWSVBUVmowTmNGM25Fek9yTGhBN0habVVJQnVWYTZtNWR6NXRVRFVLeGhKNE83aWQ1bTZmRE8tdmthRUctYWhwQnFMOUhWbm9ITnkweGRpVjFFTHpGb0xfc01vX2puZ0FTQ21rdFA5Ylp2YWczbGJYTjZkLTdyN3huTHFSUQ?oc=5",
-          "publishedAt": "2026-11-19T11:44:26.000Z",
-          "severity": "info",
-          "titleZh": "黄背心“第六幕”：行动、旅程……11 月 21 日动员日有何期待",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 21 novembre à Paris : à quoi s'attendre ce samedi ?",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbFVteUxlZVZoRFNtY1ZNdUJNeFZDLVNfbGhYQWFhSHhoMXVEVy1Td2ZuX0VldGxUQXlvRm9ua19rY1U5ci1fcTVuMVNMVTFkQmxFRjNOU2trZXFudm5YZDkwcTBFOTlpU29RVVdJOGlqdzA3QjZUZzZQakkyVkRiZnlvc3A5d3dKUDFzeDJUMTBJX1kzUGJNMnBQeG9GVXNObzdQUzQ1dEI3TEItQ09uQnM4Uy1oa1BjVGJwcGgzX25PZzFVV3Rv?oc=5",
-          "publishedAt": "2026-11-19T09:08:50.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 21 日巴黎示威：本周六会发生什么？",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 21 novembre à Paris : le parcours déclaré pour ce samedi",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT21wQ2tFX0RXNnd0VDBYVXc2eXFSOFVzWDN6YVd3akJKRnBhRlIzS2ZIQTctcTNnRnR4bW9VUWVTYkg0dk45XzI4b2J6WlZNaW1mbWdoQWhsUk5WOTVnWGx0d3Y5aTctWnotRHB4cE1nZWszSHN4SzdKZERIR1o3U0JOam01b0J3VndXOFBfdklUZUVzb2RIeFVLcUhfdHFKV2xwOHdrUWkycHExbk1WaGc5ZFpyTjNZSU53STFELXhHb0gwOEJQaS01WVBnelBa?oc=5",
-          "publishedAt": "2026-11-19T07:25:11.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 21 日巴黎示威：本周六宣布路线",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 21 novembre à Paris : le parcours des Gilets Jaunes déclaré",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSVJEMTZSb25BZEVSSXg1OHk4SFEyaHdmUkdNUDk0NURJUXZVeFRhNWJfb0J1dWZWYkpPZm5sRXhhdUp5QjdaZlJjVTVCTzQwMHBKZmc1cjg2OUdwTXZQa0ctdU5xeFl0UllTZ29jc1ZHT1FDWjl6ZHFEYmFyRHFJUjgxN3MtRHF0WjhvSWJBRGN1TTNKbkdBN2dUNXJubGNXdFlacDNGb01IUkxyYlpvcG9FVWRGQzExUkN0X0xQcE94NEdQamlkOGpCRmFZZjVlcVZibg?oc=5",
-          "publishedAt": "2026-11-19T07:25:11.000Z",
-          "severity": "medium",
-          "titleZh": "11月21日巴黎示威：黄背心路线宣告",
-          "content": null
         }
       ],
       "places": [],
       "districts": [],
-      "articleCount": 7,
-      "clashCount": 0,
+      "articleCount": 3,
+      "clashCount": 1,
       "status": "recent"
     },
     {
       "date": "2026-11-26",
       "articles": [
-        {
-          "title": "Retraités : neuf organisations défilent jeudi à Paris, l’abattement de 10 % en jeu",
-          "source": "Stéphane Larue News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNallpS3V2SFV4S3V4aHEwOUhKUHV2RVpod1dxNHlmcmx2aU5Kd2xlN3BtSHlnVzNNNzBYWUU5Qjh5WVUtRlVXSjlhUXNsdDQxaE15RG9YdTJiUkN0WThKeGladGdvV05Xc1Z6b0tlRHhDYnVLSm1uWWltUktUSVVBQTQ0ZHhmMzRrSERzSzJMYm1UYnFzRmhDYnJsWEM5ODJjSlgtcXM0MA?oc=5",
-          "publishedAt": "2026-11-19T22:52:00.000Z",
-          "severity": "info",
-          "titleZh": "退休人员：周四，九家组织在巴黎举行游行，裁员 10% 岌岌可危",
-          "content": null
-        },
         {
           "title": "« Il y a une espèce d’obscénité à faire croire que les retraités sont des nantis » : c’était quoi cette manifestation ce jeudi à Nice, place Garibaldi ?",
           "source": "Nice-Matin",
@@ -115,21 +51,40 @@
           "severity": "medium",
           "titleZh": "“让人们相信退休人员很富有是一种淫秽”：本周四在尼斯加里波第广场举行的示威活动是什么？",
           "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 1,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2027-10-17",
+      "articles": [
+        {
+          "title": "«Un montant particulièrement élevé» : les violences du 17 octobre auraient coûté 207 millions d’euros, selon France Assureurs",
+          "source": "CNews",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTDZ2V2pjaVJqaEZOaUZpVUFkbEYzRUJXbWZ4UElISlBEMEl6dzltVVBjSTZOQ0cwb2lWR2J5U3VUajZzZUs1S000WXJfSGFjcFdTMnJURmFsRmJlSUp1S0VnZXVWX0psR0VnRTZJdXl6WlowTWxhdVl4OGxTWkJ6TFJRNkF4c2FWblJTMVJfWUkyakNHTUFlU0dreE1EYkF6UHZwR0NCM04tZG96bkVzQ0cwLUZLbHNmNEhj0gHAAUFVX3lxTE12ODNfcXE4SGtJYkJQVVRBOVZZVDVfM1FsdUJ4Y0xQNTFVWWlENi1odnN4Y3gxTUk5V193ZG1qSnVzTUphTTl5SVM4ZXJ5MURzTzNhLTYxV0w3bWs3dHpYVmg4Rjc0YTJkcmRvZFFYNmVtTFFQcnlhM0k5MXlRTDRMa05yQjVOMjZmM2JNb3RMV0RTMDJ5TXNoS3dyYnUyb2JYbmJqaVBNNExlU3lUQVdGdEJPVnU4WTJzWF9rRk9ROA?oc=5",
+          "publishedAt": "2026-11-19T15:20:13.000Z",
+          "severity": "high",
+          "titleZh": "“数额特别高”：据 France Assureurs 称，10 月 17 日的暴力事件将造成 2.07 亿欧元的损失",
+          "content": null
         },
         {
-          "title": "«Vivre dignement après des années de travail» : des organisations syndicales et associatives de retraités manifestent jeudi à Paris",
-          "source": "Le Figaro",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZ2sxb3JKeTl4S2dFdGlLM1BaUFNhNnBlaGtyb1RIU0NpYzlNZVpPVFZuZlMtSFRqWTVtY1hHTU5lOWo5MlkzRFZtemF2Y3lXWGhrRmFsNXJQTHJVSVFRTEZSQjI4T2dtWWtCaFRsT3Nfc1VtRFhVZnY3bFJfTGI5TTRHdnQtay1BNl82U1prNnAxSm9XZFBmb2N4V0xBa01GU25WRnY3NTNpcWJOOTBRRmdPYlJzWXZpN2Z3RUN2YnFIOFJ5clRvajBhT1FQZGVKSUVaaFFaa2lzajFuZmtjZDltQ1pBeTJLRUpmNnhyYVFVb1RnVksxWXhpZ3JBbGdvYk1xRnltQUI?oc=5",
-          "publishedAt": "2026-11-19T05:00:14.000Z",
+          "title": "Assurance : le coût des émeutes du 17 octobre dépasse déjà les 200 millions d'euros",
+          "source": "Les Echos",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcUxVNTRMX2ZsM2ZLdFJBMWlvUlhhNFpDTncwQXU0Wk1pQUUteUpyS0w5OHdnUUQ0YkdGWl9GaFZiYjRlb1h1MzFJUTZqUl9RWU9aRFBKRzA5d08tYk8zNml4NmhvdnYyZmJWVE1ud1NqZDZzZF81bUtEOEUzeGtvd2hIS21vTTZYYVYyX1JXSEJTQjJlQTFPUV9ldG5mTWhlQkVFcHZ3QnRpa1ZkVTJxZmpuTjZwQVJXcnVzempmb09zclVFOEpSUXdJNA?oc=5",
+          "publishedAt": "2026-11-19T12:41:09.000Z",
           "severity": "info",
-          "titleZh": "“多年工作后有尊严地生活”：退休人员工会和协会周四在巴黎举行示威",
+          "titleZh": "保险：10月17日骚乱造成的损失已超过2亿欧元",
           "content": null
         }
       ],
       "places": [],
       "districts": [],
-      "articleCount": 3,
-      "clashCount": 0,
+      "articleCount": 2,
+      "clashCount": 1,
       "status": "recent"
     },
     {
@@ -158,24 +113,34 @@
           "title": "Manifestation des retraités ce 19 novembre à Paris : parcours, métro",
           "source": "Sortir à Paris",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeVdYZHVEOHM5RV9FekVVVFZ3NTA1OFVscDE4ZXhlc3Jzc1QxR1NxOVI3WGxEdHg2OTR2QkV0UzdKa2NtMjRtMlNnc2NmME9SdXpuZ1NGR0JyZUYtNkg2MW84SUMtS2xsZXNtME45SWlIbTJYczNJUXV3RXBvcTN3OFVqSy1TVTloWW1HTG9KNnhsaU4tWFp3NVR6a0F1ajhBd0hCMmJrUTMza0RzZjQ3RkM0ZHI1bEVJY21EWDdwM0xyWkpPNUZVRQ?oc=5",
-          "publishedAt": "2026-11-19T23:21:03.000Z",
+          "publishedAt": "2026-11-20T05:10:35.000Z",
           "severity": "medium",
           "titleZh": "11 月 19 日巴黎退休人员示威：路线、地铁",
-          "content": null
-        },
-        {
-          "title": "Que faire ce jeudi 19 novembre 2026 à Paris ? Les sorties à ne pas manquer",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcnZrTHlCckFSRS11UTJNNF9MNHNyeU5hb3NfQ2czYXYxVmJVSTVmT2RLZzdacDJBaktBQ2FNQXhUd3l3enQ4c3NtR29wb0Z0cDRaaWlFVmU0NkRwV0VpMWQ4RjgwUEFPZkRuTjIybzV5U00zMTVwUXRzbGJyU1I3UVF1SkpFbWVQSG92aGdma05IZk9UZndZTG5iNzZqcWdMcThTbTJhNDR6blQ5ZFlhUnkxbEFxMVVMdGNBbkVYUzlBZXFoY2ZNdFJjbmhibW9vaFE?oc=5",
-          "publishedAt": "2026-11-19T04:00:00.000Z",
-          "severity": "info",
-          "titleZh": "2026 年 11 月 19 日星期四在巴黎可以做什么？外出游玩不可错过",
           "content": null
         }
       ],
       "places": [],
       "districts": [],
-      "articleCount": 2,
+      "articleCount": 1,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2027-11-20",
+      "articles": [
+        {
+          "title": "Grève du 20 novembre 2026 : école fermée, qui accueille votre enfant et pouvez-vous vous absenter du travail",
+          "source": "Hassan KOHEN",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSGppeXlxMTlDYm5LTk5hVUlmWFNCTDZaS2V0T3V5eW5kcFYzcEgySXhJNVNFQ0tJSVFwcS1wLWh3amFjOERNMXNmRDhOUXhLUnBhNlZVWkwzWlpxTkpYZTFXc2lYMFlwWncyNzFnQUdPNzBXNTdQcnZ3U1RPN1FEM01DaDc4S0FMdEZZN2UwVHZsTDBVN3dV?oc=5",
+          "publishedAt": "2026-11-19T12:34:00.000Z",
+          "severity": "medium",
+          "titleZh": "2026年11月20日罢工：学校停课，谁来迎接你的孩子，你能请假吗",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 1,
       "clashCount": 0,
       "status": "recent"
     },
@@ -183,12 +148,111 @@
       "date": "unknown",
       "articles": [
         {
+          "title": "mobilisations jeunesse Europe : des manifestations prévues ce ...",
+          "source": "Sud Radio",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZFhLWEtvVEhiRnpZNDdFTWZTeFRGYXIwVGtPNWlHZ3VwN3ZqeXc4emNLbzBBQ2FjcmdHVUhZYXd5OUlPMThybmdPVEllTWpJd3hXT2hfSy1hVXFCUlhrTF9IcUg0VF9BOGZpcFpDTTJjT041Z0h6a3dLekNpOWM3MDdNV29fSVkyZEJnWVVJZUhUdDhQbGpPaDVsWXVVcXBFdlI1czBHRWMxNUczU3U2WkRfWXM0WExrRkRlSXFhVE9WRnZZX0I4?oc=5",
+          "publishedAt": "2026-11-20T06:44:06.000Z",
+          "severity": "medium",
+          "titleZh": "欧洲青年动员：计划示威游行......",
+          "content": null
+        },
+        {
+          "title": "Hé ! Manu ! Après la Santé, la Justice, l’Enseignement, les Finances… tu détruis notre Police",
+          "source": "Résistance Républicaine",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbFZBZGdqRWppNm1hMlZOS294MFIwUnRITDUwRWEydWM2YjJDdlhiTE44a1VueXZBU25JamZFZkpWLW5LVWpsUjNldUZseGZmZzJTOURDWWg2bTFWWE9DLUNUWVBTZFlIYXlUbk85MHlseVhUX3kzYlI4bnk1Tkl2QWs0UmtpaHhyeUZCVUZpa0dYZDFqUU5xdnJmNkhUQnNXR0FFOHBFS0Nrbnh3dHhQTF91Qi1JV09mS0E5RWY4LW9YMGxRekFqVGlzWQ?oc=5",
+          "publishedAt": "2026-11-20T06:10:21.000Z",
+          "severity": "info",
+          "titleZh": "嘿 ！马努！在健康、正义、教育、金融之后……你摧毁了我们的警察",
+          "content": null
+        },
+        {
+          "title": "Une grève perlée des maîtres nageurs continue de pénaliser les usagers des piscines de l’agglo d’Elbeuf",
+          "source": "Paris Normandie",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdmgzRkpaZHFRMHZtRkVsb2Z5eU5GcmJBVU1rYmRyZGNmYU9GakR5TnJxQlpxTGFoVDlieWEzU3Qtbll4QVpwVWtjV0Z3QzMwSWhkZmRVRUJEcE83ZVRMend0X0ZtTHhNNDJDaUhaVlVLUkV6WWk5NDJjd09KWUVxQkhFTWlEZHlKYnk2THZHbzM1QUFybW1LeG9JOGlITWx4dnNPM0UxNTg5eVYwcVBKTWZ5Qm9WQjEzeEwyRElOSkg5Wl9ZeDJvU096YlRNQQ?oc=5",
+          "publishedAt": "2026-11-20T06:01:00.000Z",
+          "severity": "medium",
+          "titleZh": "救生员的永久性罢工继续对埃尔伯夫地区游泳池的使用者造成惩罚",
+          "content": null
+        },
+        {
+          "title": "Qu'est-ce qu'une émeute ? Les projets de décret sur la « taxe casseurs » suscitent de vifs débats",
+          "source": "Les Echos",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQVk2RWd3VnRiQi1EeDJ0OUxDR2RvTlBFWjlyYmhWZGhHTWlaczhVcGFqQzNrSzNvZ3hQdUQ5ZkV5RmU2REx1RldkRWIwV3V5emc5MVd5MGFpRFJlWGRSRFA4ZTJ2QXRITU1RZXpGYjU2a25TaWJscmtqSDdxZGdCbkNqUXBJOHo4WlBDUjlHWkxuc2JQY2ZSVXN0T0xWcE5vQ3NSRHdjZ3ktcFQwS2Fta19BNWk3TVNBOHVYNDRiTElwc1EtWktfZ1NHbldPZzJiLXFLZVFYTzRHNlhXY2dnTnBZaVlXMDU5NnlF?oc=5",
+          "publishedAt": "2026-11-20T05:40:08.000Z",
+          "severity": "info",
+          "titleZh": "什么是骚乱？ “暴徒税”法令草案引发热议",
+          "content": null
+        },
+        {
           "title": "BHV Marais fermé : la réouverture repoussée pour des travaux",
           "source": "Sortir à Paris",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORWg3blB3WFN1Y0p0MHJaV3pVZ090ZFpfVzhsbHhIYktFQmNkSzNWNlZwa2dyelVaZHF4ZG9Ea2l6QmZFdGcxZnBheEc3WWx6SmlKRUJHc0FHWVlaYUVwaHNWcFVsZlh6Z0ZVODZYS1ZzYm9qRVAyN3NFZ29mN0FmNnFIdzNEb0tiZ0tQbXh4ZUdYd2NEOWlqMllYTl9FRlcySnlkU1FxUG4zOVdJaHJ6N1Z4T0hYMEdNSFk1NTlpbw?oc=5",
-          "publishedAt": "2026-11-19T21:49:07.000Z",
+          "publishedAt": "2026-11-20T04:50:16.000Z",
           "severity": "info",
           "titleZh": "BHV Marais 关闭：重新开放因工作而推迟",
+          "content": null
+        },
+        {
+          "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
+          "publishedAt": "2026-11-20T02:51:01.000Z",
+          "severity": "info",
+          "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
+          "content": null
+        },
+        {
+          "title": "Forum « lutte contre les violences faites aux femmes » dans le 11ème",
+          "source": "jds.fr",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnJHTE13M2Q4SVlmTVo3QUF1Z3B3c2UyRFUxZnZnTG5xUnVTS0pmUkd6MV96VEF4d1pNci02aUJaRnlmeUo1aHlDWFNzNlJGaThYWDlfUjljc3luTHJocGNnRXYtd3RNb1haUkNHdlF3bDU4V3djd2p2ZzdCZS1qTW5Vd21mZ1lUS3hYZGNiOXZyTlBaRG1hYXpaT2NaNWZGXzhOUlkxT2pYcjVubnNJWXF4QkxqdnZtWVp4M2hnc3dBekJo?oc=5",
+          "publishedAt": "2026-11-20T02:40:49.000Z",
+          "severity": "high",
+          "titleZh": "第十一届“打击暴力侵害妇女行为”论坛",
+          "content": null
+        },
+        {
+          "title": "Six ans après l'agression de Michel Zecler, verdict pour trois policiers",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSGxuRDBiaEtYUGNOWnI3MTBsX1R6bXZpbUp2Vmh2SUlXUllGWHFwRkpWS1pfS1V6bWxYdGdjazhHTGF5MW5CODVwUXd1WVNQTE43N2tPRVNZNWw4b1ZpZmplWVBEZGhmMG9La2pHQkZwVVRaMWhLdUtMTFJCYm5IMkRjRktsSzFaaUpNWUhvZUpqclh3dzdSamVmSXlJSWxtTjBkX2piR1NkRUFKZW5YMlZlSHVHSExIUVJWQVJYRC1GXzFUemRpeQ?oc=5",
+          "publishedAt": "2026-11-20T01:42:27.000Z",
+          "severity": "info",
+          "titleZh": "米歇尔·泽克莱尔遇袭六年后，对三名警察的判决",
+          "content": null
+        },
+        {
+          "title": "Matthieu Poitevin visé par une plainte pour violences sexuelles : plainte, enquête et prescription, ce que dit la loi",
+          "source": "Hassan KOHEN",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV0t1azZYWGlWUEdqU1BJUUZjQ3pONGpsODRQS0FqTGlZTnpqTEQtVU1Pd283RFhMVnd6SmVXWFZKNkppdW1LLWRSdDdJR3M0TGFHQWdzZlFSS1FSalE2LS1MNUhvZjA4bk9hVlRaanNfUHkwa2o4WklUZk1JYVF5eDI3YTJ2VjdRMk9VRjZfWTJSZ2U2clhtcWNsTFIzSXlYVE9hXzZsX3FmUF84a0pyU3Rjdw?oc=5",
+          "publishedAt": "2026-11-20T00:45:00.000Z",
+          "severity": "high",
+          "titleZh": "Matthieu Poitevin visé par une plainte pour violences sexuelles : plainte, enquête et prescription, ce que dit la loi",
+          "content": null
+        },
+        {
+          "title": "Périscolaire : à Paris, un centre inédit pour les familles ébranlées par les violences sexuelles",
+          "source": "Notre Temps",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV2RoamNpQzhhNFc0QTU1eUZPY2ZaMTM1LTlRTGFQaUNWWE9YYXV1SmV5ZFVpN0lFclM2dThROW1iV19QcFZVWDE1THZ4R2dHUjB2TVR2LUtkdnRhRjRUU2Q3VGY3WDYzQzZPRVJxcjAwaEVEWUFqUjRXMXJ4bG5nVXZMWmVxMFBaTW0ydEVRbTd0akNpeFFoZG12ZDdGaWZicnpKYTdWNkRvUWU0Q01KOXNwcEZXd1k2WUFWUHIwWVpWV3ZEbEFWa190cGZhc3VDVHc?oc=5",
+          "publishedAt": "2026-11-20T00:21:07.000Z",
+          "severity": "high",
+          "titleZh": "课外活动：在巴黎，一个独特的中心，为遭受性暴力的家庭提供服务",
+          "content": null
+        },
+        {
+          "title": "Le guide des courses à pied solidaires en 2026 à Paris et en Île-de-France",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWVp3ZnlDREM5ajFNMmFwNVZEX1NaV3lhcmZaVk15UnUwVlJIYkZibjlqTUY4RFU2cUthTjhEeFFtR0tqZW4xVl9HUDNmUFZ0WWh6Ym12UEhydjY5ZU54NGdWWmVkeDdRTVBnTWItc0ZOekdiR2duWGJHa1Ftem05NlFIRmFPLXlBS05VNjdMNEc1b1hpZ21zd0dlUFNmc05KSC16bUk5U3VlY3JuQ0tzUjJycXF0bW1VZm5yelR5bUctb2hVQWhKRVUzOA?oc=5",
+          "publishedAt": "2026-11-19T21:40:41.000Z",
+          "severity": "info",
+          "titleZh": "2026 年巴黎和法兰西岛团结跑比赛指南",
+          "content": null
+        },
+        {
+          "title": "Une centaine de sans-abri expulsés à Stalingrad : la mairie de Paris poursuit son « nettoyage » raciste",
+          "source": "Revolution Permanente",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbmhha1lOTFFxRzBCUTREbDFjdlc3VjBsVHlKdGVPd25qZEtQTks0RU9VdTJsMFFKZU9Kd29BWTIxNE5LeTlVUTlERHl6WVdRM29MQnp1ak5sdVlYWkhkYm1oS0xaa3VETHA2NjdmZmdtUHlNcWFhWW9lVFp1ZjA2T19QdTVOYWx0M2FYaVNQczhrRUExai00NER0QmJVUm10WVJPVGxXREIzVFdkN29qTDRZUDJhVFhjOEhWU3N2dVZzWTRicGFVWHBNRHhTN2R6d3paY1lR0gHWAUFVX3lxTE9uaGFrWU5MUXFHMEJRNERsMWN2VzdWMGxUeUp0ZU93bmpkS1BOSzRFT1V1MmwwUUplT0p3b0FZMjE0Tkt5OVVROUREeXpZV1Ezb0xCenVqTmx1WVhaSGRibWhLTFprdURMcDY2N2ZmZ21QeU1xYWFZb2VUWnVmMDZPX1B1NU5hbHQzYVhpU1BzOGtFQTFqLTQ0RHRCYlVSbXRZUk9UbFdEQjNUV2Q3b2pMNFlQMmFUWGM4SFZTc3Z1VnNZNGJwYVVYcE1EeFM3ZHp3elpjWVE?oc=5",
+          "publishedAt": "2026-11-19T21:09:25.000Z",
+          "severity": "info",
+          "titleZh": "斯大林格勒一百名无家可归者被驱逐：巴黎市政厅继续种族主义“清洗”",
           "content": null
         },
         {
@@ -228,6 +292,15 @@
           "content": null
         },
         {
+          "title": "Attentats et haine racistes et antireligieux : l’engagement de la Ville de Paris",
+          "source": "Ville de Paris",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkJ6UW1qb1VveVFLcWlXbXhaVTdiN1J1Nlk0SUFEU01LSDhfMW5LM2xvNFd5SGdybmtQcXVvcnFjRDJVX21QZjdoTXNJa19MN1lOMjdXTmw5dFd4eU5Jb1djc2taeTNJTnh5OUQ3dnZ5WFNSWjlRbVZhYVNmQjJPeS1adG03aEVOZDBOLVdMLW1vc19qcDRyWTNlQjAzOGgyUnVjTzhSTU5GaHNtWnpQWQ?oc=5",
+          "publishedAt": "2026-11-19T16:50:56.000Z",
+          "severity": "info",
+          "titleZh": "种族主义和反宗教攻击和仇恨：巴黎市的承诺",
+          "content": null
+        },
+        {
           "title": "Grenoble : Une prof d’économie convoquée pour avoir donné un devoir faisant écho au mouvement lycéen",
           "source": "Yahoo Actualités",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQckVRdEpfcjJ6VXZaOE15Yk1xdUtOS2JIc18wSDVyZHpIZnd1X05SYmIzTkViZ3l0V295RUpxX2VqWk1sczVSZEx0cTBxSXBCWGs1c0dwVDJKRlZ2NzhtWUdhdXBBNDBpMzVkUDg0al9jUmZSdXdkWGdxaGE3Rng4VF9xXzFWam5PZ0FtdWpR?oc=5",
@@ -237,21 +310,21 @@
           "content": null
         },
         {
-          "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
-          "publishedAt": "2026-11-19T16:00:47.000Z",
+          "title": "Affaire Femmeblancherie : 34 masculinistes jugés à Paris",
+          "source": "The Women's Voices",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX2FCb1lZNklUSE9ZbUgtcGVCRzNkemxob2Q2cW1vcDQyQVkzU0k0UHpITzMtNndEWG5pWTNCNC1uYzk0czNlVGhhcHVOUS1MdTFUZmtvR01oYzZ1cGN1NVZsM3luM25zVWl0eTBwRVVVQ0txSlBTNmJldENQTjZmRGk1VXc1Y196ZVZFNmRtOUJkcVE?oc=5",
+          "publishedAt": "2026-11-19T15:30:00.000Z",
           "severity": "info",
-          "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
+          "titleZh": "Femmeblancherie事件：34名男性主义者在巴黎受审",
           "content": null
         },
         {
-          "title": "«Je gagne moins que Bernard Arnault en 15 minutes» : à Paris, un cortège de retraités manifeste contre les mesures budgétaires les concernant",
-          "source": "Libération",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOdjVqbFJfcFpTTURhV0cyaW5JdnpRLW9kSmFYVkxHaExtcHgza0hIMU5NZWhvaGdEbDdyVXByWVpwMTJUa2NOQjRHRVNReVNUdXR2VVpmQ1FhS1ZIdWgyblJLUmZ1SGVwcWJhNERNWmh6eXo0Y1ZFVW95eWpkS1NSOTY5MFpwQklCeVBfRDVIaGNmeGR2aXd4MmdNNGFDbU8zTnVneUhZdHBMT1FUN082YzNrMUF3RkJBSk1TSVlwRmNxR1BxMlU5MWxsd3hBNnRXRXljdUlBdUJ4Y1ZaXzF2VVFLcEduODlQOERjU2pna25TMzh2UkJUUlJINGo3ZWoyUEpTY3F5QjFSZFVJNlREYWVwZmF6U3I2TzZQUWZSRXo5NUV3cjlLTU5aSWNKaWZVbXc?oc=5",
-          "publishedAt": "2026-11-19T15:05:30.000Z",
-          "severity": "info",
-          "titleZh": "“我15分钟内赚的钱还比伯纳德·阿诺特还少”：在巴黎，退休人员游行反对涉及他们的预算措��",
+          "title": "« Le Serment d'Europe », la violence en héritage selon Wajdi Mouawad",
+          "source": "Les Echos",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVWpJNUZMMHJOYndVSnd0T2c2OUVaaWxkYkRkMzhKOUJfRXZRMzBFQUlXUnN3Y3N1OVpVQ3ZiS0lqZmpxbkkzNEZJU1pZbUZsNHZfNk53WHdZM3dVaHNZamR5d04xNzRfRkhoaURNNjYwMzFkdlBoN010a3RkbzZ5WDZwNjVVdW9ndFl3VnloMXhGZlRsY3B6aXhVdlktYmRWakZoR2c3V0hIQjVCU003b0hMTWJ6eEItalFBQ1BB?oc=5",
+          "publishedAt": "2026-11-19T14:55:34.000Z",
+          "severity": "high",
+          "titleZh": "瓦吉迪·懋婉 (Wajdi Mouawad) 的《欧洲誓言》将暴力视为遗产",
           "content": null
         },
         {
@@ -264,18 +337,9 @@
           "content": null
         },
         {
-          "title": "Budget 2027 : manifestation des retraités à Paris contre les mesures sociales et fiscales les visant",
-          "source": "Le Monde.fr",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTkZrVXVBUkh4T0VOQjhXOGd5cDgwekhzY29aejN0aXgzWWNuOXBQX2RRLWxJbkdIOFduM041dTF4ZmVLb3poVmQ0c1RubmhoLXNUSFkxc1hHZGdDdXc5TXViWVZwLVFrTC0tbzVYUkRsQk1VQ3lXZ3VoZ3ZMaldiTWVpNllhUXdTVHRWbXFUX1FfT3dLNUJwcmVaZlV5MzZDZXh0UktxeWhFb3lxekhjYUxucXdjbnZWRVc0bHZDWWxfTUU5cHNtV09sb3ZMZ1M2NGdFb080NWdWd0wwd1VNT0lxWTBsV3dGSGxHSTltRjJFdWY4TG5YSFZ3?oc=5",
-          "publishedAt": "2026-11-19T14:31:50.000Z",
-          "severity": "medium",
-          "titleZh": "2027 年预算：巴黎退休人员示威反对针对他们的社会和税收措施",
-          "content": null
-        },
-        {
           "title": "Violences policières: action contre le \"permis de tuer\" devant le Sénat à Paris",
           "source": "Orange Actualités",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWFUtcVZib2dFeGNYU0NscGNiS1ZsT3JNZXdOZ19TT3JLQzZJWHVGZ05OYWFacnZVRFE3WDFna05UQVNiWHdJTFg0emRSUGpGc1lPNDFnQTRHcThpZ2NfTjVFT0llcWNYSnphclJ0S1VQOU5ldVJJX0pCZ3JkdS1ISVJ3czEza092S3V2ek5ScnVkekxIVUR2VmxNMjJJSEpqdnJCcnBYT0pwMV9IaHhDbmp1aTRGWXpsZTlrNnI3VUE1RS1xYkJSbXRxYnJXZw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOTk3NG5WOEstYmF4V2ZtM1BMbGR0SmI4dXVTQlRhTFhRT3lCcnNWUlJuVHN1SmVwLVJ3QzljUDRwc2xfUnpqOEowZ185MXRnQy11YTJQUXVxd0o0dTRVTlhtREdZd1BoZGRraEtNd1ZDa0FzSjR0TUJpc0VSd01qWWdqY3VUeWxFQ1BwazQwSXZzd1BLMDJnRmsxc191Ulg2dlRfM1RPcGpCQ0dSV0R0S2tUY0thNHNRSlRoU1Eya2R1QVRGb0hYRUJTOUg?oc=5",
           "publishedAt": "2026-11-19T14:28:18.000Z",
           "severity": "high",
           "titleZh": "警察暴力：巴黎参议院针对“杀人许可证”采取行动",
@@ -320,19 +384,19 @@
         {
           "title": "Procès Zecler : Des peines de quatre, cinq et six ans de prison requises contre les trois policiers",
           "source": "Yahoo Actualités",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVhOWjZEZ3lNNndWVVZYeVFQNW1qajJ4ZWhUWjhmdDVUUkx2NXQycUVRSWU3d0laeDVHWDI1SEpZbXFzeU5vZTBDcEk3NWRSRmNUZEZTTG1US1NrcHlnNTNzaWtZMUlUOUxqUVQwMUppVXpLWnJab0JNY283Z1FLTmJ1SS0?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2tpb3ZLREVOWHdZX2RiY01zRUU2RjJkMWlPbmludXlQcDlIV01kM3RqRExlc3hEQWpmWmpyV2JHQ3pTcWpTcWZtaGJ6UTZTZzM4dWtsak1JcXo4TkRMeml0VEJWYVh5bi02ZzFOX19vc3FHck1UMk9pNTl6QlI4V25SbWhZVXl1Ul9NWQ?oc=5",
           "publishedAt": "2026-11-19T12:12:36.000Z",
           "severity": "info",
           "titleZh": "泽克莱尔审判：三名警察分别被判处四年、五年和六年监禁",
           "content": null
         },
         {
-          "title": "Retraités : 80 Auvergnats ont pris le train pour manifester à Paris",
-          "source": "France 3 Régions",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQenFJNjgybk5zR244WU54OFJOcFFBRjdObW5WdkpwVFItd0dyNTFyU095VVBnTmU3YlVZb0IyeE1uSWhZcmZ1Sk5pVWMxTVNQVEFEbDFqc1FZSjBKLVpRLWFPZm5nZlFvU21ILU1XOVlPQTBSRHdIQXUwUHYwWlFxN0ZmX0MzSEdpXzNaUkRjOGw2aFNkWXVpNTJMY1ZmdkV6UUYwT2pXc0d4dW9VOWVqZno5OHdIUE5OT3pBSFhyMUQ0UW50ZTNuNHZrbVpZUklFUUJXaXZrUjh4RnpUT2VmMnJ5M2RZdHB2cUFUb05ZcXdWSUNsWTlYRGlR?oc=5",
-          "publishedAt": "2026-11-19T11:57:16.000Z",
-          "severity": "info",
-          "titleZh": "退休人员：80名奥弗涅人乘坐火车在巴黎示威",
+          "title": "Violences urbaines d’octobre : France Assureurs estime le coût des dégâts assurés à 207 millions d’euros, loin des premières projections avancées",
+          "source": "L'Argus de l'assurance",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNa0lMS2lLSXBkcWg3VHZuMGFRWGg0TkhFSE0tNFM1TU0zMGVKTDBReHlmUFhTaktZcGk2Zjg5RkF6VzF1WHFIUHpqVGl5S3RrbGhySF9YOTlOa1NDQTFXLXIxa3Vua0MxOHVMWVdYMGNfb0R2VTZlMXpnV1ROdlBzYUtLWUFGbzBtSHRkLTY2RmNVR0xLMjZnTklyeHhrbzVCZGRVQ1A5ZDdaLTZQVUNYa2hPRkY5VnhLRzBSbjhOV3gyaUVEa3lmejlOZmlEeFY1RE9ZUGNKcW0wdUxZeERQYUFYODlUcXYtcF9YWTJ6aFcyZUJTYmktT0xZbGRpSUx4RS1BSk9ZYUJqSjJ4MXh3Z1p3SjUwRTV4N01LT0k5OW5hUjBpY1pLcVZCVTdCdDlkVVRDdU1kR3UtbTBKUWJKLXR0V0dUUFhNcHVrbUl5d1U3T0picEg2X2RWbVU2ZTdPSGRIQkVn?oc=5",
+          "publishedAt": "2026-11-19T12:01:06.000Z",
+          "severity": "high",
+          "titleZh": "10 月城市暴力：法国保险公司估计保险损失成本为 2.07 亿欧元，远低于最初的预测",
           "content": null
         },
         {
@@ -345,6 +409,15 @@
           "content": null
         },
         {
+          "title": "Affaire Zecler : 4 à 6 ans requis contre les 3 policiers poursuivis pour violences aggravées en réunion et faux en écriture publique",
+          "source": "RCI",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORExmWmFjR0JhTDEzei16UmJGWXRSeG1VMFFaeS1YTVVNREp2MERWR2JjbzFPcjlXMjVIbERqLVl6R2JTdEVEbWFtaUs4ZXFKVW96TXNMZDgzT3VPYllodnloT0dEMHhoUkVWLW9LYUNqOS1IQkcyZVM2dE1zTktMWVpZU0VScVBPWjlfZjJJellNWkNyMVkzNkp1QUJvWHM1N0d5Rkl2N2Y0dFpGY3ZGUmZTbW45MHM?oc=5",
+          "publishedAt": "2026-11-19T11:35:33.000Z",
+          "severity": "high",
+          "titleZh": "泽克莱尔案：3名警察因会议中严重暴力行为和伪造公共文件被起诉，需判处4至6年徒刑",
+          "content": null
+        },
+        {
           "title": "Procès de l’agression de Michel Zecler : le parquet affirme le caractère raciste et requiert de la prison ferme contre les trois policiers",
           "source": "Libération",
           "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQZVJfWkhSVzNMbTU1V2F1RUlDUHhrbDBJTkpmbV9Lam84N3J1dW41dnY3M2hGNHhHYUV5ZmxSc1Fac3ZLR0ZveXgyN0ItOGNSbGFmUDJJYUpUdlpBSzl1Z0FfWWdDU2tkMEtRUk5YQm5mMVotek5VQzRxSGNZVkJVaURnYmNhQW5BOEdpd0FGZGhQRWtpbU12c2dyVE9PNHlLODV6WC1odlJNT1dSZDhKSFZBV1hTWlZxdnRLcE1HcklPOHJSSl9qT3RieFJVTVBHNFJuSWxickRvY2pkRW1nclU0d0Y4dEdpVmdvMlpCcjYyWHVqdU1nclpEa3ZkcGJzcEtWYWRGc2RvTnhuRmZhbEt5M2xvWmdhU0FmcHU2NEpzOXhhcEpXYThXSXcxOXRxZUdzMFE2S0t5X0xUN2lmQ0tVdw?oc=5",
@@ -352,104 +425,140 @@
           "severity": "info",
           "titleZh": "米歇尔·泽克莱尔遇袭案审判：检方确认三名警察的种族主义性质并要求入狱",
           "content": null
-        },
-        {
-          "title": "À Paris, un homme armé d’un couteau s’introduit dans un parc et frappe un enfant : il est placé en garde à vue",
-          "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcUtSeWtRUkhZcV9reWxkMzNCSlQ5ZHZqb2pyVUNqZGpOWnZ6ZEhHSXd6NHAta1VmWWxlZ0tBUnp6aXVzTnpDa25Ldk5XNl91bUx4dngweEFENkZVcy1yYkdfMngxVnIzZGlEMkhCbEoyTFdyM2dnUXpub3ljUUZwY29wenExcngzQzN5Q2pzWTRqalNoQ28teC0wVUJONmdvQjY4eHVEUklSUGlSa2FwUGZZTklaT2NTaXc1ZmlveUlfV1JURjZMbHJ1SXNQTDY4dWdfclNSZ1d0ZDYtT3luRjBpbnFCcVBuMGtEN04tUVpPZ3ZLTkE?oc=5",
-          "publishedAt": "2026-11-19T11:11:45.000Z",
-          "severity": "info",
-          "titleZh": "在巴黎，一名持刀男子进入公园殴打一名儿童：他被警方拘留",
-          "content": null
-        },
-        {
-          "title": "Grève Tour Eiffel : le BAPS au cœur de la polémique à Paris",
-          "source": "horticulture-abadie-pyrenees.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQemRTMXVuY1FLYWdkZG44dnJMV3Bvdzl0bkd0MC1MWllTeEF0YkxtLWNRX044Z2JKTG16RnhsRFY3MkZTUG5xb2ZDb3NQR2lUZzQ3bVZIakkySndqR2Zabl83TEVraVRiMlVNaDN1QWlMbXAyZ1JUVWpJNmZVcWNhLWRB?oc=5",
-          "publishedAt": "2026-11-19T10:48:32.000Z",
-          "severity": "medium",
-          "titleZh": "埃菲尔铁塔罢工：BAPS 是巴黎争议的核心",
-          "content": null
-        },
-        {
-          "title": "Une grève collective pour faire tomber Infantino : Messi, Ronaldo et Mbappé répondront-ils à l'appel révolutionnaire ?",
-          "source": "Goal.com",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcms3eG9veE5XcThVQ2FzUDBwYjRDVVRlSHl2MlpSUENHNGQwdnNzeVR3VHlmWm5GM3U3TnhuVmtfOC0xTVFSTWRXUnk0c19jVUJmNGZldHVlOUdzYmJRdkRtRkdfZC1RT0hta3NBd1hOc1NJVFU3VmJPenNyazNTTTJiZ05lY1JXZ1FmZ2cwbmVadGFUeDM4bzdBNGVUWGp3bHFIZDdLX1p2R1pqejFCOEZIZ1JPYW1PUFF3SDI4TWdBVHVvblVZdWJLTk5zMDZ0c29CTXdwblVqVk5OWFNQNWpyaUptd2lsR3NRWTAxSXYxUEJT?oc=5",
-          "publishedAt": "2026-11-19T08:39:51.000Z",
-          "severity": "medium",
-          "titleZh": "集体罢工打倒因凡蒂诺：梅西、C罗和姆巴佩会响应革命号召吗？",
-          "content": null
-        },
-        {
-          "title": "Agression sexuelle : il plaide le consentement devant la cour d’appel",
-          "source": "mesinfos",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODdzMWVLVVRUNTRzczduSUhwOV9QOFRZSmJkVENvdXg2MDc0eXpkZ0JQM3I1MmM1SjdFaXUwV0tPQlZsRmJCWmJ2WWR4NWljaWttNndsMlI1ZkphZ1B3SzBJcERxVkhvUjNxUEJ0XzlHQW90bGRVcHoxVUxoTk1SdVZNSnRLWGJpWU1hOXppekxDSWxwNkp4VWN2S3UwTjRpMkdkLXZMQzkwQ0gtQ0MycQ?oc=5",
-          "publishedAt": "2026-11-19T08:26:00.000Z",
-          "severity": "info",
-          "titleZh": "性侵犯：他在上诉法院请求同意",
-          "content": null
-        },
-        {
-          "title": "Acte VI des Gilets jaunes : ce qui se prépare pour les 8 ans du mouvement",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFMyRmR6ZU9wTEllNlNaQkZyMjZYOVlfajZReUJYT19LYlVuc1N2cmM4aktuMThvN1hHQXhrOFczMnMtNW5IM3lDQWRMRkxMMTlESjREamlBYlhIMTU2enFOcXk1S1ppcWxCaFJQTlJxSnM3VWxWVWZOaHdrRkF5LXFlMW4yRmVDUjZMRlFJaGxEY3J3R3Fka2dMN0ptTkJlWDR4NWQ5S3oyX1dZeDJhc1NjUk9icU1Lb1VnQVl6LW9jRnNGbnpJ?oc=5",
-          "publishedAt": "2026-11-19T07:30:00.000Z",
-          "severity": "info",
-          "titleZh": "黄背心第六幕：为运动八周年正在准备什么",
-          "content": null
-        },
-        {
-          "title": "« On a cotisé, on veut que la solidarité des actifs continue » : des retraités de la Marne à la manifestation parisienne",
-          "source": "L'Union",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFBYeFN1ZEt2ZGV1Z1hDY3JWV2tGeXY2eXdoSE5XWU9tNG1jVmtwNlBDUmw3MXlNVE9pLWJwTk5CYlYyWkYyeUtoVXR3Q1VZSHY2VERrUi1DMlRjZDk0RlZqNEZoQjVpRThWNy1VUVZmekdqUDNxam5JRmgzOW5UZmNuZ0d2NWVzOWhmNjkxeE8wXzZJeEFPR1Nmc0k0MGZBR19YNE01a0NNcElDaExwSXo3ZkxDSTZUeU1PRm53eE5rRHhBbVRj?oc=5",
-          "publishedAt": "2026-11-19T04:31:00.000Z",
-          "severity": "medium",
-          "titleZh": "“我们做出了贡献，我们希望劳动人民继续团结一致”：巴黎示威中的马恩河退休人员",
-          "content": null
-        },
-        {
-          "title": "Être mère face aux violences : protéger, préserver les liens, reconstruire Mairie de Paris Centre Paris",
-          "source": "Unidivers",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeGlZLTMxSW1hVG4yQ0N1UkZPX3k2cEhoUXNvVzJfX2VTTDZ6LVFreWRVb2JySFdycHNHOVpoRDRBckdvUkxCcmZJaDR0Qk1PQlJma0xVVFN6X0dlTW1SWWszMFQyZktrVlV2UEFkVEd0RGs0T2U2Ynp0Q1JWaWM1MDdKWjEwVkY4d0tCellRUVM5a1RYUTJYUHdGM1lWLUR4X3JDUDdUaUNGSmJVcnhHMkRHS2tvMFhfUmxDQWIxY2ZROGZETHlvdkxkZjdWU0JuemozTWMxUmhNdGo1Q21HZ0Z1LVF6ekptUXdJ?oc=5",
-          "publishedAt": "2026-11-19T03:23:26.000Z",
-          "severity": "high",
-          "titleZh": "作为一名面对暴力的母亲：保护、维持联系、重建巴黎市政厅 巴黎中心",
-          "content": null
         }
       ],
       "places": [],
       "districts": [],
-      "articleCount": 26,
-      "clashCount": 5,
+      "articleCount": 31,
+      "clashCount": 10,
       "status": "unknown"
     }
   ],
   "latest": [
     {
-      "title": "Manifestation des retraités ce 19 novembre à Paris : parcours, métro",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeVdYZHVEOHM5RV9FekVVVFZ3NTA1OFVscDE4ZXhlc3Jzc1QxR1NxOVI3WGxEdHg2OTR2QkV0UzdKa2NtMjRtMlNnc2NmME9SdXpuZ1NGR0JyZUYtNkg2MW84SUMtS2xsZXNtME45SWlIbTJYczNJUXV3RXBvcTN3OFVqSy1TVTloWW1HTG9KNnhsaU4tWFp3NVR6a0F1ajhBd0hCMmJrUTMza0RzZjQ3RkM0ZHI1bEVJY21EWDdwM0xyWkpPNUZVRQ?oc=5",
-      "publishedAt": "2026-11-19T23:21:03.000Z",
+      "title": "mobilisations jeunesse Europe : des manifestations prévues ce ...",
+      "source": "Sud Radio",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZFhLWEtvVEhiRnpZNDdFTWZTeFRGYXIwVGtPNWlHZ3VwN3ZqeXc4emNLbzBBQ2FjcmdHVUhZYXd5OUlPMThybmdPVEllTWpJd3hXT2hfSy1hVXFCUlhrTF9IcUg0VF9BOGZpcFpDTTJjT041Z0h6a3dLekNpOWM3MDdNV29fSVkyZEJnWVVJZUhUdDhQbGpPaDVsWXVVcXBFdlI1czBHRWMxNUczU3U2WkRfWXM0WExrRkRlSXFhVE9WRnZZX0I4?oc=5",
+      "publishedAt": "2026-11-20T06:44:06.000Z",
       "severity": "medium",
-      "titleZh": "11 月 19 日巴黎退休人员示威：路线、地铁",
+      "titleZh": "欧洲青年动员：计划示威游行......",
       "content": null
     },
     {
-      "title": "Retraités : neuf organisations défilent jeudi à Paris, l’abattement de 10 % en jeu",
-      "source": "Stéphane Larue News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNallpS3V2SFV4S3V4aHEwOUhKUHV2RVpod1dxNHlmcmx2aU5Kd2xlN3BtSHlnVzNNNzBYWUU5Qjh5WVUtRlVXSjlhUXNsdDQxaE15RG9YdTJiUkN0WThKeGladGdvV05Xc1Z6b0tlRHhDYnVLSm1uWWltUktUSVVBQTQ0ZHhmMzRrSERzSzJMYm1UYnFzRmhDYnJsWEM5ODJjSlgtcXM0MA?oc=5",
-      "publishedAt": "2026-11-19T22:52:00.000Z",
+      "title": "Hé ! Manu ! Après la Santé, la Justice, l’Enseignement, les Finances… tu détruis notre Police",
+      "source": "Résistance Républicaine",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbFZBZGdqRWppNm1hMlZOS294MFIwUnRITDUwRWEydWM2YjJDdlhiTE44a1VueXZBU25JamZFZkpWLW5LVWpsUjNldUZseGZmZzJTOURDWWg2bTFWWE9DLUNUWVBTZFlIYXlUbk85MHlseVhUX3kzYlI4bnk1Tkl2QWs0UmtpaHhyeUZCVUZpa0dYZDFqUU5xdnJmNkhUQnNXR0FFOHBFS0Nrbnh3dHhQTF91Qi1JV09mS0E5RWY4LW9YMGxRekFqVGlzWQ?oc=5",
+      "publishedAt": "2026-11-20T06:10:21.000Z",
       "severity": "info",
-      "titleZh": "退休人员：周四，九家组织在巴黎举行游行，裁员 10% 岌岌可危",
+      "titleZh": "嘿 ！马努！在健康、正义、教育、金融之后……你摧毁了我们的警察",
+      "content": null
+    },
+    {
+      "title": "Une grève perlée des maîtres nageurs continue de pénaliser les usagers des piscines de l’agglo d’Elbeuf",
+      "source": "Paris Normandie",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdmgzRkpaZHFRMHZtRkVsb2Z5eU5GcmJBVU1rYmRyZGNmYU9GakR5TnJxQlpxTGFoVDlieWEzU3Qtbll4QVpwVWtjV0Z3QzMwSWhkZmRVRUJEcE83ZVRMend0X0ZtTHhNNDJDaUhaVlVLUkV6WWk5NDJjd09KWUVxQkhFTWlEZHlKYnk2THZHbzM1QUFybW1LeG9JOGlITWx4dnNPM0UxNTg5eVYwcVBKTWZ5Qm9WQjEzeEwyRElOSkg5Wl9ZeDJvU096YlRNQQ?oc=5",
+      "publishedAt": "2026-11-20T06:01:00.000Z",
+      "severity": "medium",
+      "titleZh": "救生员的永久性罢工继续对埃尔伯夫地区游泳池的使用者造成惩罚",
+      "content": null
+    },
+    {
+      "title": "Qu'est-ce qu'une émeute ? Les projets de décret sur la « taxe casseurs » suscitent de vifs débats",
+      "source": "Les Echos",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQVk2RWd3VnRiQi1EeDJ0OUxDR2RvTlBFWjlyYmhWZGhHTWlaczhVcGFqQzNrSzNvZ3hQdUQ5ZkV5RmU2REx1RldkRWIwV3V5emc5MVd5MGFpRFJlWGRSRFA4ZTJ2QXRITU1RZXpGYjU2a25TaWJscmtqSDdxZGdCbkNqUXBJOHo4WlBDUjlHWkxuc2JQY2ZSVXN0T0xWcE5vQ3NSRHdjZ3ktcFQwS2Fta19BNWk3TVNBOHVYNDRiTElwc1EtWktfZ1NHbldPZzJiLXFLZVFYTzRHNlhXY2dnTnBZaVlXMDU5NnlF?oc=5",
+      "publishedAt": "2026-11-20T05:40:08.000Z",
+      "severity": "info",
+      "titleZh": "什么是骚乱？ “暴徒税”法令草案引发热议",
+      "content": null
+    },
+    {
+      "title": "Manifestation des retraités ce 19 novembre à Paris : parcours, métro",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeVdYZHVEOHM5RV9FekVVVFZ3NTA1OFVscDE4ZXhlc3Jzc1QxR1NxOVI3WGxEdHg2OTR2QkV0UzdKa2NtMjRtMlNnc2NmME9SdXpuZ1NGR0JyZUYtNkg2MW84SUMtS2xsZXNtME45SWlIbTJYczNJUXV3RXBvcTN3OFVqSy1TVTloWW1HTG9KNnhsaU4tWFp3NVR6a0F1ajhBd0hCMmJrUTMza0RzZjQ3RkM0ZHI1bEVJY21EWDdwM0xyWkpPNUZVRQ?oc=5",
+      "publishedAt": "2026-11-20T05:10:35.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 19 日巴黎退休人员示威：路线、地铁",
       "content": null
     },
     {
       "title": "BHV Marais fermé : la réouverture repoussée pour des travaux",
       "source": "Sortir à Paris",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORWg3blB3WFN1Y0p0MHJaV3pVZ090ZFpfVzhsbHhIYktFQmNkSzNWNlZwa2dyelVaZHF4ZG9Ea2l6QmZFdGcxZnBheEc3WWx6SmlKRUJHc0FHWVlaYUVwaHNWcFVsZlh6Z0ZVODZYS1ZzYm9qRVAyN3NFZ29mN0FmNnFIdzNEb0tiZ0tQbXh4ZUdYd2NEOWlqMllYTl9FRlcySnlkU1FxUG4zOVdJaHJ6N1Z4T0hYMEdNSFk1NTlpbw?oc=5",
-      "publishedAt": "2026-11-19T21:49:07.000Z",
+      "publishedAt": "2026-11-20T04:50:16.000Z",
       "severity": "info",
       "titleZh": "BHV Marais 关闭：重新开放因工作而推迟",
+      "content": null
+    },
+    {
+      "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
+      "publishedAt": "2026-11-20T02:51:01.000Z",
+      "severity": "info",
+      "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
+      "content": null
+    },
+    {
+      "title": "Forum « lutte contre les violences faites aux femmes » dans le 11ème",
+      "source": "jds.fr",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnJHTE13M2Q4SVlmTVo3QUF1Z3B3c2UyRFUxZnZnTG5xUnVTS0pmUkd6MV96VEF4d1pNci02aUJaRnlmeUo1aHlDWFNzNlJGaThYWDlfUjljc3luTHJocGNnRXYtd3RNb1haUkNHdlF3bDU4V3djd2p2ZzdCZS1qTW5Vd21mZ1lUS3hYZGNiOXZyTlBaRG1hYXpaT2NaNWZGXzhOUlkxT2pYcjVubnNJWXF4QkxqdnZtWVp4M2hnc3dBekJo?oc=5",
+      "publishedAt": "2026-11-20T02:40:49.000Z",
+      "severity": "high",
+      "titleZh": "第十一届“打击暴力侵害妇女行为”论坛",
+      "content": null
+    },
+    {
+      "title": "Six ans après l'agression de Michel Zecler, verdict pour trois policiers",
+      "source": "France 24",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSGxuRDBiaEtYUGNOWnI3MTBsX1R6bXZpbUp2Vmh2SUlXUllGWHFwRkpWS1pfS1V6bWxYdGdjazhHTGF5MW5CODVwUXd1WVNQTE43N2tPRVNZNWw4b1ZpZmplWVBEZGhmMG9La2pHQkZwVVRaMWhLdUtMTFJCYm5IMkRjRktsSzFaaUpNWUhvZUpqclh3dzdSamVmSXlJSWxtTjBkX2piR1NkRUFKZW5YMlZlSHVHSExIUVJWQVJYRC1GXzFUemRpeQ?oc=5",
+      "publishedAt": "2026-11-20T01:42:27.000Z",
+      "severity": "info",
+      "titleZh": "米歇尔·泽克莱尔遇袭六年后，对三名警察的判决",
+      "content": null
+    },
+    {
+      "title": "Matthieu Poitevin visé par une plainte pour violences sexuelles : plainte, enquête et prescription, ce que dit la loi",
+      "source": "Hassan KOHEN",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV0t1azZYWGlWUEdqU1BJUUZjQ3pONGpsODRQS0FqTGlZTnpqTEQtVU1Pd283RFhMVnd6SmVXWFZKNkppdW1LLWRSdDdJR3M0TGFHQWdzZlFSS1FSalE2LS1MNUhvZjA4bk9hVlRaanNfUHkwa2o4WklUZk1JYVF5eDI3YTJ2VjdRMk9VRjZfWTJSZ2U2clhtcWNsTFIzSXlYVE9hXzZsX3FmUF84a0pyU3Rjdw?oc=5",
+      "publishedAt": "2026-11-20T00:45:00.000Z",
+      "severity": "high",
+      "titleZh": "Matthieu Poitevin visé par une plainte pour violences sexuelles : plainte, enquête et prescription, ce que dit la loi",
+      "content": null
+    },
+    {
+      "title": "Périscolaire : à Paris, un centre inédit pour les familles ébranlées par les violences sexuelles",
+      "source": "Notre Temps",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV2RoamNpQzhhNFc0QTU1eUZPY2ZaMTM1LTlRTGFQaUNWWE9YYXV1SmV5ZFVpN0lFclM2dThROW1iV19QcFZVWDE1THZ4R2dHUjB2TVR2LUtkdnRhRjRUU2Q3VGY3WDYzQzZPRVJxcjAwaEVEWUFqUjRXMXJ4bG5nVXZMWmVxMFBaTW0ydEVRbTd0akNpeFFoZG12ZDdGaWZicnpKYTdWNkRvUWU0Q01KOXNwcEZXd1k2WUFWUHIwWVpWV3ZEbEFWa190cGZhc3VDVHc?oc=5",
+      "publishedAt": "2026-11-20T00:21:07.000Z",
+      "severity": "high",
+      "titleZh": "课外活动：在巴黎，一个独特的中心，为遭受性暴力的家庭提供服务",
+      "content": null
+    },
+    {
+      "title": "21 novembre : le Festival de la non-violence à Paris",
+      "source": "Politis.fr",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWFDQTJDVkpRa2VLVGlDYkNmZXdpZWZqeU1ZdTJyOTlGdFBoUDU4Q1hNSlJVQjRieFNSaVpwRUplQXV2NGYwbElueUFycGl6Z2ppcVEzaDFDcks2WHd6akM4b09HaXlPNVc5RzZXcnlaOVVscE1IWXZXWU1PQTkyOV9MdG1vcW1pMVJyN3lfRkNfdDRKQWc?oc=5",
+      "publishedAt": "2026-11-19T23:44:32.000Z",
+      "severity": "high",
+      "titleZh": "11 月 21 日：巴黎非暴力节",
+      "content": null
+    },
+    {
+      "title": "Le guide des courses à pied solidaires en 2026 à Paris et en Île-de-France",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWVp3ZnlDREM5ajFNMmFwNVZEX1NaV3lhcmZaVk15UnUwVlJIYkZibjlqTUY4RFU2cUthTjhEeFFtR0tqZW4xVl9HUDNmUFZ0WWh6Ym12UEhydjY5ZU54NGdWWmVkeDdRTVBnTWItc0ZOekdiR2duWGJHa1Ftem05NlFIRmFPLXlBS05VNjdMNEc1b1hpZ21zd0dlUFNmc05KSC16bUk5U3VlY3JuQ0tzUjJycXF0bW1VZm5yelR5bUctb2hVQWhKRVUzOA?oc=5",
+      "publishedAt": "2026-11-19T21:40:41.000Z",
+      "severity": "info",
+      "titleZh": "2026 年巴黎和法兰西岛团结跑比赛指南",
+      "content": null
+    },
+    {
+      "title": "Une centaine de sans-abri expulsés à Stalingrad : la mairie de Paris poursuit son « nettoyage » raciste",
+      "source": "Revolution Permanente",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbmhha1lOTFFxRzBCUTREbDFjdlc3VjBsVHlKdGVPd25qZEtQTks0RU9VdTJsMFFKZU9Kd29BWTIxNE5LeTlVUTlERHl6WVdRM29MQnp1ak5sdVlYWkhkYm1oS0xaa3VETHA2NjdmZmdtUHlNcWFhWW9lVFp1ZjA2T19QdTVOYWx0M2FYaVNQczhrRUExai00NER0QmJVUm10WVJPVGxXREIzVFdkN29qTDRZUDJhVFhjOEhWU3N2dVZzWTRicGFVWHBNRHhTN2R6d3paY1lR0gHWAUFVX3lxTE9uaGFrWU5MUXFHMEJRNERsMWN2VzdWMGxUeUp0ZU93bmpkS1BOSzRFT1V1MmwwUUplT0p3b0FZMjE0Tkt5OVVROUREeXpZV1Ezb0xCenVqTmx1WVhaSGRibWhLTFprdURMcDY2N2ZmZ21QeU1xYWFZb2VUWnVmMDZPX1B1NU5hbHQzYVhpU1BzOGtFQTFqLTQ0RHRCYlVSbXRZUk9UbFdEQjNUV2Q3b2pMNFlQMmFUWGM4SFZTc3Z1VnNZNGJwYVVYcE1EeFM3ZHp3elpjWVE?oc=5",
+      "publishedAt": "2026-11-19T21:09:25.000Z",
+      "severity": "info",
+      "titleZh": "斯大林格勒一百名无家可归者被驱逐：巴黎市政厅继续种族主义“清洗”",
       "content": null
     },
     {
@@ -498,6 +607,15 @@
       "content": null
     },
     {
+      "title": "Attentats et haine racistes et antireligieux : l’engagement de la Ville de Paris",
+      "source": "Ville de Paris",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkJ6UW1qb1VveVFLcWlXbXhaVTdiN1J1Nlk0SUFEU01LSDhfMW5LM2xvNFd5SGdybmtQcXVvcnFjRDJVX21QZjdoTXNJa19MN1lOMjdXTmw5dFd4eU5Jb1djc2taeTNJTnh5OUQ3dnZ5WFNSWjlRbVZhYVNmQjJPeS1adG03aEVOZDBOLVdMLW1vc19qcDRyWTNlQjAzOGgyUnVjTzhSTU5GaHNtWnpQWQ?oc=5",
+      "publishedAt": "2026-11-19T16:50:56.000Z",
+      "severity": "info",
+      "titleZh": "种族主义和反宗教攻击和仇恨：巴黎市的承诺",
+      "content": null
+    },
+    {
       "title": "En deux jours, les manifestations du 17 et 18 octobre ont coûté aussi cher aux assureurs français que l'ensemble des émeutes de 2005",
       "source": "Le Temps",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSjltUE5GSU40MUNMckpueDFoekdCczRXc19JeURFbTI0dlhqelVFMlJHbnpRdlZDcGFObGJYNWo5YzFOWFpXQXpZaG1abXZ0c3lpVzlGMjRLakpTcl9NMWlLQ3pnZmIwNDZTM1h0TlBEaEQxUHB4VzVYc0lnSEduZW5aYWZOWkZpOHItc3RzUm5XQUNMeldLa19ROFp4Ujdhakh4bmhyOW1maXJQR05jY184ZEtKOW9DQ2ZPemJXaVQ2b01raUo4aDlkaDdCbXZOLVVTS2xKRHlkYmMtTUZvMlY2UkM4ZXdLeVZ2ck1ObGRfSTdxaHRqMXVjMA?oc=5",
@@ -513,24 +631,6 @@
       "publishedAt": "2026-11-19T16:23:04.000Z",
       "severity": "info",
       "titleZh": "格勒诺布尔：一名经济学老师因布置与高中运动相呼应的作业而被传唤",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 21 novembre à Paris : syndicats, jeunes et défenseurs du droit au logement défileront ensemble ; les « gilets jaunes » devraient les rejoindre",
-      "source": "Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPb1IyM0txQzdTamRxaDZsR29SUkpJOEtkSEJsSHdqTW5aWnlYSTM0TjhYaU1OanZLV0RsYXh4aWw1QXVQTG5pNmIzdDhZdnpRa2wzUTA4d1huRWVMTlRab3NtY095V0JOTmVxdHYwNzQ4bG54ODQzMzdWV0hudzZRZlNjelJ6ZVAzR3oyTEgwVm9nZTNvU2pvTlFacU1OT2pycXFWdkRGM0FqMUhFY1NfU0kwUW1xNzI2LXl5eXRKZ1RzdUEyZUdyekpDMS13b0E1UV8wMTFjN1hUa2NoVFE5SUhfVTExUEt1VkRxNXg5UG9aOFpPTTZIUWhYZUJsOXFKWUtDOFBDa2NjWDAzck1tMlVoVFhBc1c5a0dMRVFoT01ROFhoaUd6SzZsRnlsR2xXeHc3TldZQVJqUQ?oc=5",
-      "publishedAt": "2026-11-19T16:07:19.000Z",
-      "severity": "medium",
-      "titleZh": "11月21日巴黎示威：工会、年轻人和住房权捍卫者一起游行； “黄背心”应该加入他们",
-      "content": null
-    },
-    {
-      "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
-      "publishedAt": "2026-11-19T16:00:47.000Z",
-      "severity": "info",
-      "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
       "content": null
     },
     {
@@ -552,12 +652,30 @@
       "content": null
     },
     {
-      "title": "«Je gagne moins que Bernard Arnault en 15 minutes» : à Paris, un cortège de retraités manifeste contre les mesures budgétaires les concernant",
-      "source": "Libération",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOdjVqbFJfcFpTTURhV0cyaW5JdnpRLW9kSmFYVkxHaExtcHgza0hIMU5NZWhvaGdEbDdyVXByWVpwMTJUa2NOQjRHRVNReVNUdXR2VVpmQ1FhS1ZIdWgyblJLUmZ1SGVwcWJhNERNWmh6eXo0Y1ZFVW95eWpkS1NSOTY5MFpwQklCeVBfRDVIaGNmeGR2aXd4MmdNNGFDbU8zTnVneUhZdHBMT1FUN082YzNrMUF3RkJBSk1TSVlwRmNxR1BxMlU5MWxsd3hBNnRXRXljdUlBdUJ4Y1ZaXzF2VVFLcEduODlQOERjU2pna25TMzh2UkJUUlJINGo3ZWoyUEpTY3F5QjFSZFVJNlREYWVwZmF6U3I2TzZQUWZSRXo5NUV3cjlLTU5aSWNKaWZVbXc?oc=5",
-      "publishedAt": "2026-11-19T15:05:30.000Z",
+      "title": "Affaire Femmeblancherie : 34 masculinistes jugés à Paris",
+      "source": "The Women's Voices",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX2FCb1lZNklUSE9ZbUgtcGVCRzNkemxob2Q2cW1vcDQyQVkzU0k0UHpITzMtNndEWG5pWTNCNC1uYzk0czNlVGhhcHVOUS1MdTFUZmtvR01oYzZ1cGN1NVZsM3luM25zVWl0eTBwRVVVQ0txSlBTNmJldENQTjZmRGk1VXc1Y196ZVZFNmRtOUJkcVE?oc=5",
+      "publishedAt": "2026-11-19T15:30:00.000Z",
       "severity": "info",
-      "titleZh": "“我15分钟内赚的钱还比伯纳德·阿诺特还少”：在巴黎，退休人员游行反对涉及他们的预算措��",
+      "titleZh": "Femmeblancherie事件：34名男性主义者在巴黎受审",
+      "content": null
+    },
+    {
+      "title": "«Un montant particulièrement élevé» : les violences du 17 octobre auraient coûté 207 millions d’euros, selon France Assureurs",
+      "source": "CNews",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTDZ2V2pjaVJqaEZOaUZpVUFkbEYzRUJXbWZ4UElISlBEMEl6dzltVVBjSTZOQ0cwb2lWR2J5U3VUajZzZUs1S000WXJfSGFjcFdTMnJURmFsRmJlSUp1S0VnZXVWX0psR0VnRTZJdXl6WlowTWxhdVl4OGxTWkJ6TFJRNkF4c2FWblJTMVJfWUkyakNHTUFlU0dreE1EYkF6UHZwR0NCM04tZG96bkVzQ0cwLUZLbHNmNEhj0gHAAUFVX3lxTE12ODNfcXE4SGtJYkJQVVRBOVZZVDVfM1FsdUJ4Y0xQNTFVWWlENi1odnN4Y3gxTUk5V193ZG1qSnVzTUphTTl5SVM4ZXJ5MURzTzNhLTYxV0w3bWs3dHpYVmg4Rjc0YTJkcmRvZFFYNmVtTFFQcnlhM0k5MXlRTDRMa05yQjVOMjZmM2JNb3RMV0RTMDJ5TXNoS3dyYnUyb2JYbmJqaVBNNExlU3lUQVdGdEJPVnU4WTJzWF9rRk9ROA?oc=5",
+      "publishedAt": "2026-11-19T15:20:13.000Z",
+      "severity": "high",
+      "titleZh": "“数额特别高”：据 France Assureurs 称，10 月 17 日的暴力事件将造成 2.07 亿欧元的损失",
+      "content": null
+    },
+    {
+      "title": "« Le Serment d'Europe », la violence en héritage selon Wajdi Mouawad",
+      "source": "Les Echos",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVWpJNUZMMHJOYndVSnd0T2c2OUVaaWxkYkRkMzhKOUJfRXZRMzBFQUlXUnN3Y3N1OVpVQ3ZiS0lqZmpxbkkzNEZJU1pZbUZsNHZfNk53WHdZM3dVaHNZamR5d04xNzRfRkhoaURNNjYwMzFkdlBoN010a3RkbzZ5WDZwNjVVdW9ndFl3VnloMXhGZlRsY3B6aXhVdlktYmRWakZoR2c3V0hIQjVCU003b0hMTWJ6eEItalFBQ1BB?oc=5",
+      "publishedAt": "2026-11-19T14:55:34.000Z",
+      "severity": "high",
+      "titleZh": "瓦吉迪·懋婉 (Wajdi Mouawad) 的《欧洲誓言》将暴力视为遗产",
       "content": null
     },
     {
@@ -570,18 +688,9 @@
       "content": null
     },
     {
-      "title": "Budget 2027 : manifestation des retraités à Paris contre les mesures sociales et fiscales les visant",
-      "source": "Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTkZrVXVBUkh4T0VOQjhXOGd5cDgwekhzY29aejN0aXgzWWNuOXBQX2RRLWxJbkdIOFduM041dTF4ZmVLb3poVmQ0c1RubmhoLXNUSFkxc1hHZGdDdXc5TXViWVZwLVFrTC0tbzVYUkRsQk1VQ3lXZ3VoZ3ZMaldiTWVpNllhUXdTVHRWbXFUX1FfT3dLNUJwcmVaZlV5MzZDZXh0UktxeWhFb3lxekhjYUxucXdjbnZWRVc0bHZDWWxfTUU5cHNtV09sb3ZMZ1M2NGdFb080NWdWd0wwd1VNT0lxWTBsV3dGSGxHSTltRjJFdWY4TG5YSFZ3?oc=5",
-      "publishedAt": "2026-11-19T14:31:50.000Z",
-      "severity": "medium",
-      "titleZh": "2027 年预算：巴黎退休人员示威反对针对他们的社会和税收措施",
-      "content": null
-    },
-    {
       "title": "Violences policières: action contre le \"permis de tuer\" devant le Sénat à Paris",
       "source": "Orange Actualités",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWFUtcVZib2dFeGNYU0NscGNiS1ZsT3JNZXdOZ19TT3JLQzZJWHVGZ05OYWFacnZVRFE3WDFna05UQVNiWHdJTFg0emRSUGpGc1lPNDFnQTRHcThpZ2NfTjVFT0llcWNYSnphclJ0S1VQOU5ldVJJX0pCZ3JkdS1ISVJ3czEza092S3V2ek5ScnVkekxIVUR2VmxNMjJJSEpqdnJCcnBYT0pwMV9IaHhDbmp1aTRGWXpsZTlrNnI3VUE1RS1xYkJSbXRxYnJXZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOTk3NG5WOEstYmF4V2ZtM1BMbGR0SmI4dXVTQlRhTFhRT3lCcnNWUlJuVHN1SmVwLVJ3QzljUDRwc2xfUnpqOEowZ185MXRnQy11YTJQUXVxd0o0dTRVTlhtREdZd1BoZGRraEtNd1ZDa0FzSjR0TUJpc0VSd01qWWdqY3VUeWxFQ1BwazQwSXZzd1BLMDJnRmsxc191Ulg2dlRfM1RPcGpCQ0dSV0R0S2tUY0thNHNRSlRoU1Eya2R1QVRGb0hYRUJTOUg?oc=5",
       "publishedAt": "2026-11-19T14:28:18.000Z",
       "severity": "high",
       "titleZh": "警察暴力：巴黎参议院针对“杀人许可证”采取行动",
@@ -624,6 +733,15 @@
       "content": null
     },
     {
+      "title": "Assurance : le coût des émeutes du 17 octobre dépasse déjà les 200 millions d'euros",
+      "source": "Les Echos",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcUxVNTRMX2ZsM2ZLdFJBMWlvUlhhNFpDTncwQXU0Wk1pQUUteUpyS0w5OHdnUUQ0YkdGWl9GaFZiYjRlb1h1MzFJUTZqUl9RWU9aRFBKRzA5d08tYk8zNml4NmhvdnYyZmJWVE1ud1NqZDZzZF81bUtEOEUzeGtvd2hIS21vTTZYYVYyX1JXSEJTQjJlQTFPUV9ldG5mTWhlQkVFcHZ3QnRpa1ZkVTJxZmpuTjZwQVJXcnVzempmb09zclVFOEpSUXdJNA?oc=5",
+      "publishedAt": "2026-11-19T12:41:09.000Z",
+      "severity": "info",
+      "titleZh": "保险：10月17日骚乱造成的损失已超过2亿欧元",
+      "content": null
+    },
+    {
       "title": "Grève du 20 novembre 2026 : école fermée, qui accueille votre enfant et pouvez-vous vous absenter du travail",
       "source": "Hassan KOHEN",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSGppeXlxMTlDYm5LTk5hVUlmWFNCTDZaS2V0T3V5eW5kcFYzcEgySXhJNVNFQ0tJSVFwcS1wLWh3amFjOERNMXNmRDhOUXhLUnBhNlZVWkwzWlpxTkpYZTFXc2lYMFlwWncyNzFnQUdPNzBXNTdQcnZ3U1RPN1FEM01DaDc4S0FMdEZZN2UwVHZsTDBVN3dV?oc=5",
@@ -635,19 +753,19 @@
     {
       "title": "Procès Zecler : Des peines de quatre, cinq et six ans de prison requises contre les trois policiers",
       "source": "Yahoo Actualités",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVhOWjZEZ3lNNndWVVZYeVFQNW1qajJ4ZWhUWjhmdDVUUkx2NXQycUVRSWU3d0laeDVHWDI1SEpZbXFzeU5vZTBDcEk3NWRSRmNUZEZTTG1US1NrcHlnNTNzaWtZMUlUOUxqUVQwMUppVXpLWnJab0JNY283Z1FLTmJ1SS0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2tpb3ZLREVOWHdZX2RiY01zRUU2RjJkMWlPbmludXlQcDlIV01kM3RqRExlc3hEQWpmWmpyV2JHQ3pTcWpTcWZtaGJ6UTZTZzM4dWtsak1JcXo4TkRMeml0VEJWYVh5bi02ZzFOX19vc3FHck1UMk9pNTl6QlI4V25SbWhZVXl1Ul9NWQ?oc=5",
       "publishedAt": "2026-11-19T12:12:36.000Z",
       "severity": "info",
       "titleZh": "泽克莱尔审判：三名警察分别被判处四年、五年和六年监禁",
       "content": null
     },
     {
-      "title": "Retraités : 80 Auvergnats ont pris le train pour manifester à Paris",
-      "source": "France 3 Régions",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQenFJNjgybk5zR244WU54OFJOcFFBRjdObW5WdkpwVFItd0dyNTFyU095VVBnTmU3YlVZb0IyeE1uSWhZcmZ1Sk5pVWMxTVNQVEFEbDFqc1FZSjBKLVpRLWFPZm5nZlFvU21ILU1XOVlPQTBSRHdIQXUwUHYwWlFxN0ZmX0MzSEdpXzNaUkRjOGw2aFNkWXVpNTJMY1ZmdkV6UUYwT2pXc0d4dW9VOWVqZno5OHdIUE5OT3pBSFhyMUQ0UW50ZTNuNHZrbVpZUklFUUJXaXZrUjh4RnpUT2VmMnJ5M2RZdHB2cUFUb05ZcXdWSUNsWTlYRGlR?oc=5",
-      "publishedAt": "2026-11-19T11:57:16.000Z",
-      "severity": "info",
-      "titleZh": "退休人员：80名奥弗涅人乘坐火车在巴黎示威",
+      "title": "Violences urbaines d’octobre : France Assureurs estime le coût des dégâts assurés à 207 millions d’euros, loin des premières projections avancées",
+      "source": "L'Argus de l'assurance",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNa0lMS2lLSXBkcWg3VHZuMGFRWGg0TkhFSE0tNFM1TU0zMGVKTDBReHlmUFhTaktZcGk2Zjg5RkF6VzF1WHFIUHpqVGl5S3RrbGhySF9YOTlOa1NDQTFXLXIxa3Vua0MxOHVMWVdYMGNfb0R2VTZlMXpnV1ROdlBzYUtLWUFGbzBtSHRkLTY2RmNVR0xLMjZnTklyeHhrbzVCZGRVQ1A5ZDdaLTZQVUNYa2hPRkY5VnhLRzBSbjhOV3gyaUVEa3lmejlOZmlEeFY1RE9ZUGNKcW0wdUxZeERQYUFYODlUcXYtcF9YWTJ6aFcyZUJTYmktT0xZbGRpSUx4RS1BSk9ZYUJqSjJ4MXh3Z1p3SjUwRTV4N01LT0k5OW5hUjBpY1pLcVZCVTdCdDlkVVRDdU1kR3UtbTBKUWJKLXR0V0dUUFhNcHVrbUl5d1U3T0picEg2X2RWbVU2ZTdPSGRIQkVn?oc=5",
+      "publishedAt": "2026-11-19T12:01:06.000Z",
+      "severity": "high",
+      "titleZh": "10 月城市暴力：法国保险公司估计保险损失成本为 2.07 亿欧元，远低于最初的预测",
       "content": null
     },
     {
@@ -660,12 +778,12 @@
       "content": null
     },
     {
-      "title": "\"Acte VI\" des Gilets jaunes : actions, parcours... à quoi s'attendre pour la journée de mobilisation du 21 novembre",
-      "source": "TF1 Info",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdmlXZ3FSVWFTaHJGVExRUlFJMm50c3MtQlpsV1ZXb25DQU9HNTgwQW9xcHVpX01RRkxzZGZGcWNEMTd4b1RmZzRMdXBaX3E4U2tTN3dXWV9QQ2NtbGp2TjBWdWV0WVRrTEdWSVBUVmowTmNGM25Fek9yTGhBN0habVVJQnVWYTZtNWR6NXRVRFVLeGhKNE83aWQ1bTZmRE8tdmthRUctYWhwQnFMOUhWbm9ITnkweGRpVjFFTHpGb0xfc01vX2puZ0FTQ21rdFA5Ylp2YWczbGJYTjZkLTdyN3huTHFSUQ?oc=5",
-      "publishedAt": "2026-11-19T11:44:26.000Z",
-      "severity": "info",
-      "titleZh": "黄背心“第六幕”：行动、旅程……11 月 21 日动员日有何期待",
+      "title": "Affaire Zecler : 4 à 6 ans requis contre les 3 policiers poursuivis pour violences aggravées en réunion et faux en écriture publique",
+      "source": "RCI",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORExmWmFjR0JhTDEzei16UmJGWXRSeG1VMFFaeS1YTVVNREp2MERWR2JjbzFPcjlXMjVIbERqLVl6R2JTdEVEbWFtaUs4ZXFKVW96TXNMZDgzT3VPYllodnloT0dEMHhoUkVWLW9LYUNqOS1IQkcyZVM2dE1zTktMWVpZU0VScVBPWjlfZjJJellNWkNyMVkzNkp1QUJvWHM1N0d5Rkl2N2Y0dFpGY3ZGUmZTbW45MHM?oc=5",
+      "publishedAt": "2026-11-19T11:35:33.000Z",
+      "severity": "high",
+      "titleZh": "泽克莱尔案：3名警察因会议中严重暴力行为和伪造公共文件被起诉，需判处4至6年徒刑",
       "content": null
     },
     {
@@ -675,114 +793,6 @@
       "publishedAt": "2026-11-19T11:25:00.000Z",
       "severity": "info",
       "titleZh": "米歇尔·泽克莱尔遇袭案审判：检方确认三名警察的种族主义性质并要求入狱",
-      "content": null
-    },
-    {
-      "title": "À Paris, un homme armé d’un couteau s’introduit dans un parc et frappe un enfant : il est placé en garde à vue",
-      "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcUtSeWtRUkhZcV9reWxkMzNCSlQ5ZHZqb2pyVUNqZGpOWnZ6ZEhHSXd6NHAta1VmWWxlZ0tBUnp6aXVzTnpDa25Ldk5XNl91bUx4dngweEFENkZVcy1yYkdfMngxVnIzZGlEMkhCbEoyTFdyM2dnUXpub3ljUUZwY29wenExcngzQzN5Q2pzWTRqalNoQ28teC0wVUJONmdvQjY4eHVEUklSUGlSa2FwUGZZTklaT2NTaXc1ZmlveUlfV1JURjZMbHJ1SXNQTDY4dWdfclNSZ1d0ZDYtT3luRjBpbnFCcVBuMGtEN04tUVpPZ3ZLTkE?oc=5",
-      "publishedAt": "2026-11-19T11:11:45.000Z",
-      "severity": "info",
-      "titleZh": "在巴黎，一名持刀男子进入公园殴打一名儿童：他被警方拘留",
-      "content": null
-    },
-    {
-      "title": "Grève Tour Eiffel : le BAPS au cœur de la polémique à Paris",
-      "source": "horticulture-abadie-pyrenees.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQemRTMXVuY1FLYWdkZG44dnJMV3Bvdzl0bkd0MC1MWllTeEF0YkxtLWNRX044Z2JKTG16RnhsRFY3MkZTUG5xb2ZDb3NQR2lUZzQ3bVZIakkySndqR2Zabl83TEVraVRiMlVNaDN1QWlMbXAyZ1JUVWpJNmZVcWNhLWRB?oc=5",
-      "publishedAt": "2026-11-19T10:48:32.000Z",
-      "severity": "medium",
-      "titleZh": "埃菲尔铁塔罢工：BAPS 是巴黎争议的核心",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 21 novembre à Paris : à quoi s'attendre ce samedi ?",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbFVteUxlZVZoRFNtY1ZNdUJNeFZDLVNfbGhYQWFhSHhoMXVEVy1Td2ZuX0VldGxUQXlvRm9ua19rY1U5ci1fcTVuMVNMVTFkQmxFRjNOU2trZXFudm5YZDkwcTBFOTlpU29RVVdJOGlqdzA3QjZUZzZQakkyVkRiZnlvc3A5d3dKUDFzeDJUMTBJX1kzUGJNMnBQeG9GVXNObzdQUzQ1dEI3TEItQ09uQnM4Uy1oa1BjVGJwcGgzX25PZzFVV3Rv?oc=5",
-      "publishedAt": "2026-11-19T09:08:50.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 21 日巴黎示威：本周六会发生什么？",
-      "content": null
-    },
-    {
-      "title": "Une grève collective pour faire tomber Infantino : Messi, Ronaldo et Mbappé répondront-ils à l'appel révolutionnaire ?",
-      "source": "Goal.com",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcms3eG9veE5XcThVQ2FzUDBwYjRDVVRlSHl2MlpSUENHNGQwdnNzeVR3VHlmWm5GM3U3TnhuVmtfOC0xTVFSTWRXUnk0c19jVUJmNGZldHVlOUdzYmJRdkRtRkdfZC1RT0hta3NBd1hOc1NJVFU3VmJPenNyazNTTTJiZ05lY1JXZ1FmZ2cwbmVadGFUeDM4bzdBNGVUWGp3bHFIZDdLX1p2R1pqejFCOEZIZ1JPYW1PUFF3SDI4TWdBVHVvblVZdWJLTk5zMDZ0c29CTXdwblVqVk5OWFNQNWpyaUptd2lsR3NRWTAxSXYxUEJT?oc=5",
-      "publishedAt": "2026-11-19T08:39:51.000Z",
-      "severity": "medium",
-      "titleZh": "集体罢工打倒因凡蒂诺：梅西、C罗和姆巴佩会响应革命号召吗？",
-      "content": null
-    },
-    {
-      "title": "Agression sexuelle : il plaide le consentement devant la cour d’appel",
-      "source": "mesinfos",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODdzMWVLVVRUNTRzczduSUhwOV9QOFRZSmJkVENvdXg2MDc0eXpkZ0JQM3I1MmM1SjdFaXUwV0tPQlZsRmJCWmJ2WWR4NWljaWttNndsMlI1ZkphZ1B3SzBJcERxVkhvUjNxUEJ0XzlHQW90bGRVcHoxVUxoTk1SdVZNSnRLWGJpWU1hOXppekxDSWxwNkp4VWN2S3UwTjRpMkdkLXZMQzkwQ0gtQ0MycQ?oc=5",
-      "publishedAt": "2026-11-19T08:26:00.000Z",
-      "severity": "info",
-      "titleZh": "性侵犯：他在上诉法院请求同意",
-      "content": null
-    },
-    {
-      "title": "Acte VI des Gilets jaunes : ce qui se prépare pour les 8 ans du mouvement",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFMyRmR6ZU9wTEllNlNaQkZyMjZYOVlfajZReUJYT19LYlVuc1N2cmM4aktuMThvN1hHQXhrOFczMnMtNW5IM3lDQWRMRkxMMTlESjREamlBYlhIMTU2enFOcXk1S1ppcWxCaFJQTlJxSnM3VWxWVWZOaHdrRkF5LXFlMW4yRmVDUjZMRlFJaGxEY3J3R3Fka2dMN0ptTkJlWDR4NWQ5S3oyX1dZeDJhc1NjUk9icU1Lb1VnQVl6LW9jRnNGbnpJ?oc=5",
-      "publishedAt": "2026-11-19T07:30:00.000Z",
-      "severity": "info",
-      "titleZh": "黄背心第六幕：为运动八周年正在准备什么",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 21 novembre à Paris : le parcours déclaré pour ce samedi",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT21wQ2tFX0RXNnd0VDBYVXc2eXFSOFVzWDN6YVd3akJKRnBhRlIzS2ZIQTctcTNnRnR4bW9VUWVTYkg0dk45XzI4b2J6WlZNaW1mbWdoQWhsUk5WOTVnWGx0d3Y5aTctWnotRHB4cE1nZWszSHN4SzdKZERIR1o3U0JOam01b0J3VndXOFBfdklUZUVzb2RIeFVLcUhfdHFKV2xwOHdrUWkycHExbk1WaGc5ZFpyTjNZSU53STFELXhHb0gwOEJQaS01WVBnelBa?oc=5",
-      "publishedAt": "2026-11-19T07:25:11.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 21 日巴黎示威：本周六宣布路线",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 21 novembre à Paris : le parcours des Gilets Jaunes déclaré",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSVJEMTZSb25BZEVSSXg1OHk4SFEyaHdmUkdNUDk0NURJUXZVeFRhNWJfb0J1dWZWYkpPZm5sRXhhdUp5QjdaZlJjVTVCTzQwMHBKZmc1cjg2OUdwTXZQa0ctdU5xeFl0UllTZ29jc1ZHT1FDWjl6ZHFEYmFyRHFJUjgxN3MtRHF0WjhvSWJBRGN1TTNKbkdBN2dUNXJubGNXdFlacDNGb01IUkxyYlpvcG9FVWRGQzExUkN0X0xQcE94NEdQamlkOGpCRmFZZjVlcVZibg?oc=5",
-      "publishedAt": "2026-11-19T07:25:11.000Z",
-      "severity": "medium",
-      "titleZh": "11月21日巴黎示威：黄背心路线宣告",
-      "content": null
-    },
-    {
-      "title": "«Vivre dignement après des années de travail» : des organisations syndicales et associatives de retraités manifestent jeudi à Paris",
-      "source": "Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZ2sxb3JKeTl4S2dFdGlLM1BaUFNhNnBlaGtyb1RIU0NpYzlNZVpPVFZuZlMtSFRqWTVtY1hHTU5lOWo5MlkzRFZtemF2Y3lXWGhrRmFsNXJQTHJVSVFRTEZSQjI4T2dtWWtCaFRsT3Nfc1VtRFhVZnY3bFJfTGI5TTRHdnQtay1BNl82U1prNnAxSm9XZFBmb2N4V0xBa01GU25WRnY3NTNpcWJOOTBRRmdPYlJzWXZpN2Z3RUN2YnFIOFJ5clRvajBhT1FQZGVKSUVaaFFaa2lzajFuZmtjZDltQ1pBeTJLRUpmNnhyYVFVb1RnVksxWXhpZ3JBbGdvYk1xRnltQUI?oc=5",
-      "publishedAt": "2026-11-19T05:00:14.000Z",
-      "severity": "info",
-      "titleZh": "“多年工作后有尊严地生活”：退休人员工会和协会周四在巴黎举行示威",
-      "content": null
-    },
-    {
-      "title": "« On a cotisé, on veut que la solidarité des actifs continue » : des retraités de la Marne à la manifestation parisienne",
-      "source": "L'Union",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFBYeFN1ZEt2ZGV1Z1hDY3JWV2tGeXY2eXdoSE5XWU9tNG1jVmtwNlBDUmw3MXlNVE9pLWJwTk5CYlYyWkYyeUtoVXR3Q1VZSHY2VERrUi1DMlRjZDk0RlZqNEZoQjVpRThWNy1VUVZmekdqUDNxam5JRmgzOW5UZmNuZ0d2NWVzOWhmNjkxeE8wXzZJeEFPR1Nmc0k0MGZBR19YNE01a0NNcElDaExwSXo3ZkxDSTZUeU1PRm53eE5rRHhBbVRj?oc=5",
-      "publishedAt": "2026-11-19T04:31:00.000Z",
-      "severity": "medium",
-      "titleZh": "“我们做出了贡献，我们希望劳动人民继续团结一致”：巴黎示威中的马恩河退休人员",
-      "content": null
-    },
-    {
-      "title": "Que faire ce jeudi 19 novembre 2026 à Paris ? Les sorties à ne pas manquer",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcnZrTHlCckFSRS11UTJNNF9MNHNyeU5hb3NfQ2czYXYxVmJVSTVmT2RLZzdacDJBaktBQ2FNQXhUd3l3enQ4c3NtR29wb0Z0cDRaaWlFVmU0NkRwV0VpMWQ4RjgwUEFPZkRuTjIybzV5U00zMTVwUXRzbGJyU1I3UVF1SkpFbWVQSG92aGdma05IZk9UZndZTG5iNzZqcWdMcThTbTJhNDR6blQ5ZFlhUnkxbEFxMVVMdGNBbkVYUzlBZXFoY2ZNdFJjbmhibW9vaFE?oc=5",
-      "publishedAt": "2026-11-19T04:00:00.000Z",
-      "severity": "info",
-      "titleZh": "2026 年 11 月 19 日星期四在巴黎可以做什么？外出游玩不可错过",
-      "content": null
-    },
-    {
-      "title": "Être mère face aux violences : protéger, préserver les liens, reconstruire Mairie de Paris Centre Paris",
-      "source": "Unidivers",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeGlZLTMxSW1hVG4yQ0N1UkZPX3k2cEhoUXNvVzJfX2VTTDZ6LVFreWRVb2JySFdycHNHOVpoRDRBckdvUkxCcmZJaDR0Qk1PQlJma0xVVFN6X0dlTW1SWWszMFQyZktrVlV2UEFkVEd0RGs0T2U2Ynp0Q1JWaWM1MDdKWjEwVkY4d0tCellRUVM5a1RYUTJYUHdGM1lWLUR4X3JDUDdUaUNGSmJVcnhHMkRHS2tvMFhfUmxDQWIxY2ZROGZETHlvdkxkZjdWU0JuemozTWMxUmhNdGo1Q21HZ0Z1LVF6ekptUXdJ?oc=5",
-      "publishedAt": "2026-11-19T03:23:26.000Z",
-      "severity": "high",
-      "titleZh": "作为一名面对暴力的母亲：保护、维持联系、重建巴黎市政厅 巴黎中心",
       "content": null
     }
   ]
