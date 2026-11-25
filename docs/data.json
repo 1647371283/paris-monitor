@@ -1,39 +1,20 @@
 {
   "success": true,
-  "today": "2026-11-24",
-  "updatedAt": "2026-11-24T18:51:00.256Z",
+  "today": "2026-11-25",
+  "updatedAt": "2026-11-25T03:00:42.855Z",
   "events": [
-    {
-      "date": "2026-11-25",
-      "articles": [
-        {
-          "title": "SUBALTERNATIVE, BARLONE, Paris – 25 novembre 2026",
-          "source": "Unidivers",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDBaMFFsdVN2Z2hVVXJ0NjlOcE9sTEFnUTlVQXVRRG9xWkpqRjBXbkIxTWc2SXRUNEVaMkM1OEJQS2I3RjZwc1padkhjeExUbldSYmk2alQ3MnZXQjJadER3aE1pSE1ZbTlKdlZKdUJHdzV6dlVUZGZrdUpuekhlcHJEVEU?oc=5",
-          "publishedAt": "2026-11-24T18:14:35.000Z",
-          "severity": "info",
-          "titleZh": "SUBALTERNATIVE，巴隆，巴黎 – 2026 年 11 月 25 日",
-          "content": null
-        },
-        {
-          "title": "25 novembre : la carte des mobilisations contre les violences faites aux femmes",
-          "source": "Basta Media",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWpESmdENzh1WDRhQVZhTjNiSHVCSTJnSFR3cFQySnl1U0M4WlNxRnVHTEJOTy1zWnAzREJHbFpjMV9tTWxpWkhfaGMwc1NmaUUxcUppZkFOQXhsLVpWQWlaaFNfcHdpZVh6cFl6YlU2d3hTYXJha3BqdG9IZDdaVXljZnlIVC1zbWh1TWxtSWp4MTIy?oc=5",
-          "publishedAt": "2026-11-24T10:01:53.000Z",
-          "severity": "high",
-          "titleZh": "11 月 25 日：反对暴力侵害妇女行为动员图",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 2,
-      "clashCount": 1,
-      "status": "recent"
-    },
     {
       "date": "2026-11-26",
       "articles": [
+        {
+          "title": "Contre la répression : En grève le jeudi 26 novembre ! Communiqué",
+          "source": "SUD éducation Paris",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFJrbHVJeEtFNDRpeWhfcldhMXEwWFJKMjlGeHgyZ25kOExMdThGWG1ZQm5TSGNUdFItU2xzZnNiVzQzZlE2aWtxbUxzU3ZVcWJkWFY2d3BaVnMyUXlZSkxvQ2R3UHNYTFA0MHZYV2pQZjB1UmVhUl8yRGIwRm0wT0RUTjB6WnloTFlWckhiNVJRWDltNzRhTQ?oc=5",
+          "publishedAt": "2026-11-24T21:16:07.000Z",
+          "severity": "medium",
+          "titleZh": "反对镇压：11 月 26 日星期四罢工！新闻稿",
+          "content": null
+        },
         {
           "title": "\"Nos collègues tombent\" : les policiers appellent à la mobilisation nationale ce jeudi, voici les actions prévues",
           "source": "Actu.fr",
@@ -51,7 +32,7 @@
         11,
         12
       ],
-      "articleCount": 1,
+      "articleCount": 2,
       "clashCount": 0,
       "status": "recent"
     },
@@ -75,27 +56,98 @@
       "status": "recent"
     },
     {
-      "date": "2026-12-12",
-      "articles": [
-        {
-          "title": "«Débranchons CNews» : un appel à manifester contre le maintien de la chaîne le 12 décembre",
-          "source": "Libération",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQVN5WFlRSFp2MWZobVRzcTl3OFYxdVJCbGVieE5vdmlXaVVDdGItYU5CWXFYNXRfMEM1UXN4VzFfSlZLSE9qcndPS3RYdUZWNWw3RF9yVWhMSmk3XzZfOFJ3M0tnVjlRYTZIVHNpbkNPaFZLZDF3eEgxN0VVRjlLb0I0R1JpQU1QODFqbFNUSXE2c2N2blBMZ3A2eE8tcUwydWwxbTlqbEs3dFFqN1ZfYlpTUkVoM0NVTkQ3SEZnZ0laMzRRVk1XS3JQajJYVzZjRkdHLTZERTlNSGllSUpBbDAtSHF5MlVzMUI5ZENRU1pzMHotRGhnZQ?oc=5",
-          "publishedAt": "2026-11-24T11:13:00.000Z",
-          "severity": "info",
-          "titleZh": "“让我们拔掉CNews”：12月12日呼吁示威反对频道维护",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
       "date": "2027-10-17",
       "articles": [
+        {
+          "title": "Manifestation du 17 octobre : une enquête ouverte à Paris pour « tentative de meurtre » sur un adolescent blessé",
+          "source": "Ouest-France",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNUTdRYjlZRVJNb0FoZ3RBejZFQ21sMUVJd0tUWlpjWXBpZXM1QTVIbzZocEY2dXV6bWdjX3FGa3FpRmJCa25xZVFNdmI0UFYyei1OdTFDS245TzNHU05hNXduYy1fUzNlUG9heTY3MmVBNlNqck5YaDVQc2haOEVoSFVQZTVoMHBGVG9JdUticVptSnFZM3dWVEhCRmZqeWtfQ2FPSG1wS1U0bkM1c0dIMTNRU0lBUDl6WkZ1NHc4ZEVsNV9BYUVtTGRha1h4NnJvTmxLZ2pzOXpnaUZFaDl5QzBrY1MyU09XaDhkcXcydkFocjY1em9uUlhyMDV6QTJqRkxtZDBGb2liOXR5WDB3OGNYbkRkY0taRVZGSXpB?oc=5",
+          "publishedAt": "2026-11-24T21:51:18.000Z",
+          "severity": "medium",
+          "titleZh": "10月17日示威：巴黎对受伤青少年“谋杀未遂”展开调查",
+          "content": null
+        },
+        {
+          "title": "17 octobre : une enquête ouverte pour tentative de meurtre sur un adolescent à Paris",
+          "source": "Le HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFJGdVV0Vmh2NFowTWNEN2V6THZBdnpYWmRXcFhEMXB4RW8zbm1wWU4zT3BsT3RXcXZVNS1jWTB5UTQyeUhJRFlkdjB2Mk5xWkJwOTJFVEVqTVMyS2k0dlhRVnUzUl96amtBVklRZi1yNEplNEI3bHF4ZjYzdm9PMnJGdG1wNC1oN1B4V2RqTTQwdFY1NjVGUExEOUVadm85QzZEdWVKNzkzMDZPVEdENWN1M1EyR0VvWXBKcVRYS0FnX09zdk12Z2ZRNnFVT25KZjJNWDBR?oc=5",
+          "publishedAt": "2026-11-24T21:15:23.000Z",
+          "severity": "info",
+          "titleZh": "10 月 17 日：针对巴黎一名青少年谋杀未遂事件展开调查",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 17 octobre : enquête ouverte pour tentative de meurtre sur un adolescent à Paris",
+          "source": "Libération",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObmVpYUs4b21DYTBMWDVPMUx5U0g0RnFOLXJnTllBNV9kSmY3WEZtSzItVFJzbHp2eWJrQkJNeUJ6TGJZekg4eHNMSWcxU1g2dUpZdVdVcjhNM0JwbXdySlVBcGJYNE13UE5NQjZGOEtOZkUzdzZDUWxxX2VBMS11ZDB4ckc1YlhhREVXdW1RQ0RmOGgyT3duSlVhU3F4Tm9qR0hxWU5PMkN4S3VfemFEVzAxZllqbFFoOFhURHhMY2VEeU03OC01Tk5kSmc3dUp0Tlk5OXAxcFc4YkdneS1jMXRISXV6VkxKVzByUDRQNXJqX2ZrODR0NjNWSHNmNkl1MjJSNU9POVcybWdRWEE?oc=5",
+          "publishedAt": "2026-11-24T21:11:51.000Z",
+          "severity": "medium",
+          "titleZh": "10 月 17 日示威：巴黎一名青少年谋杀未遂事件展开调查",
+          "content": null
+        },
+        {
+          "title": "Paris. Manifestation du 17 octobre : un adolescent touché par un tir, enquête pour tentative de meurtre",
+          "source": "L'Alsace",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ3dBYXJpUzhJNWstaW5teDlXZHVCWklMVzc5TTh5SmZMd0trN0dxSkRoMGpBdWRlbmNFU2t6OGY0LThwNGhBTE1uUThqOGtBbXI3cU1nSzZSX3c0MG8xLUdPUUd5Z2xNaUU2d0E5QjNTZVZhNUc5N09ZM1Jsdnppb0xVOC1kYVdCZWJuSG5pRUpRTkVrUFMyeEZrMWwxM1NCVTZiVzJvQWx6dFBJTGxUT2ZYQzRUd2oxbnVILWhnNUxwUUluLW10TTFTMS03U01zcUZRRnQ2ZE1YazFSZUZFcEVR?oc=5",
+          "publishedAt": "2026-11-24T20:52:18.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎。 10月17日示威：一名少年中枪，因谋杀未遂接受调查",
+          "content": null
+        },
+        {
+          "title": "Paris : Un manifestant de 15 ans touché par une balle le 17 octobre, une enquête pour tentative de meurtre ouverte",
+          "source": "Yahoo Actualités",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5peHdhYU84eHBmT09oWFdJZmRrcEloMHZnVjZrcjJfWUlNZFBiRnl6UHYzTlUtQVdGSzdzZ2JUUG1VTC1kaWRuM1JibjBIVnV3LXl6M1lmdlVLS1Fscnd0ekdCbDJHbFFuM3NJeWxOYUdqa0tsYVE?oc=5",
+          "publishedAt": "2026-11-24T20:27:29.000Z",
+          "severity": "info",
+          "titleZh": "巴黎：10月17日一名15岁抗议者中弹，对谋杀未遂展开调查",
+          "content": null
+        },
+        {
+          "title": "Un jeune manifestant visé par une balle de plomb le 17 octobre à Paris",
+          "source": "20 Minutes",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQmRqZm5zbXpKZlY0ZklvY0Fxelo4dVk2VTBQcXliNHhhd28yeHdEa092T3pzNkN4VGFrX3NCQW5TWkpWU0tYdmRmRk9jYXI4bUg0aUktVjAwMWsyR1JWcWFWQ1hvY083a19HSjFDY1FJcXFrV3p0MnVZeVFVMy10N2NuVFlxa1YxcWczcHktbThnNU5seHpTX3BnRlctRFRUQXIxYmpnWnBLVjRCLTVhUm42RHROZVZRejAtaVRuLWhFQWNIRUhV?oc=5",
+          "publishedAt": "2026-11-24T20:27:00.000Z",
+          "severity": "info",
+          "titleZh": "10 月 17 日，巴黎一名年轻示威者被铅弹袭击",
+          "content": null
+        },
+        {
+          "title": "Une enquête ouverte pour tentative de meurtre sur un adolescent à Paris lors de la manifestation du 17 octobre",
+          "source": "Franceinfo",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNMlZDWjRWdkRUMGNPZGlLQlRmc3Q4UDJVOFFTU1FvU0hHcUtsbk1FNzVfaEJ1U3lTdWtmZjFnNmMxZUc3MWpXSnY2TU5zNWhoZTBCaHYyRnB4YzczcnhjTkIydjU4TmZtVzNzcDdlanltMUV5emNHMzJBRkVMSnpVMnhZWHFQajkwSWxVNU1uT1RIRExRcW1lZHN5Q3VwOGZmV0FLQ3RSTHI2d3RpTFlBT0t3cWZMbzRGejl5S1U5T1l0R2Zsd1FOSkE4TmluYnJQSnFfNnFnV09mZXJGNWZPRDJDWVBUa0RvYlhoMEpQYmNVeG1nalpLVVRIbkxRYzMzSzVhd0V5bDd1cTYtTzRhX0JR?oc=5",
+          "publishedAt": "2026-11-24T20:24:27.000Z",
+          "severity": "medium",
+          "titleZh": "对 10 月 17 日示威期间巴黎一名青少年企图谋杀案展开调查",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 17 octobre 2026 : adolescent blessé par balle place de la Nation, tentative de meurtre et droits de la victime mineure",
+          "source": "Hassan KOHEN",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZklfZXBfSGlBOGJUVVBDVmFFLVBVWm9aQTVjVVdiTGVlMDV0S2hKU3FtVVo2TTZzV2puUHZKSWF5X3Q1a2ZoSWVNZjdfdkRfUWJnVkNxejdubmppZDF6RVNzRGFTVmplMHpaRTAxQjlweTNaSzh2b2hzSEdnVnpkY0VXendGZVp2ZHpNdUFrTXVpUldpQm52eEt0WTRHZlFibmRjWS1ReVF5VlhaRVAtRjlaaTNGRzZ1ZzNYeXpjNGRMVWVoZWc?oc=5",
+          "publishedAt": "2026-11-24T19:37:00.000Z",
+          "severity": "medium",
+          "titleZh": "2026 年 10 月 17 日示威：青少年在民族广场被子弹击伤、谋杀未遂和未成年受害者的权利",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 17 octobre à Paris : \"Il aurait pu y rester\", un adolescent blessé par balle sur la place de la Nation",
+          "source": "Actu.fr",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeFNCbEN1dlB1Z1hRd2NsS184YXQ4MkZ3Mjd0YkJiTVdvazcxdGRmelZZaXVocFRtalNacGx5TWYyNUVRVjFwaEVkVHJ5WWZfVUxHdWhnMDB1OEVseEc3SUNWcjZmZEloRjB5Z01aSW1PbHdpaE56bnNCQjVhZG9NbnZ2TVlhXzdLWjRiRTc1dFFpcE9DOEQ1VjF3Mm1TWFR0dlgtdVptb3VyRlc0bDNKTWl6N0ltOHFpZDZ6UUZ3Q3ZhMGQteVY5dURvZTBIYjd4NlNPcWtzcVJ3b3dHamhlT05tdWZ2MG85VVRJdEUtUmpzbXE0YjVJVXVBbF9INFE?oc=5",
+          "publishedAt": "2026-11-24T19:30:02.000Z",
+          "severity": "medium",
+          "titleZh": "10 月 17 日巴黎示威：“他本可以留在那里”，一名青少年在民族广场遭枪击受伤",
+          "content": null
+        },
+        {
+          "title": "17 octobre à Paris : un adolescent de 15 ans blessé par balle en marge de la manifestation, une enquête ouverte pour tentative de meurtre",
+          "source": "Le Parisien",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPUWVHanM4UEcwekc0aWVpSVJpYUxvaUZJWlJ5TGJ1U3lCWXJEZGJPbUVKOTB3WmFmUGtvX0dhdEhMSncyNkJnSW5Sd1c4RXlndUJaaTZ3c2cwWU80bmRTWU90OS03LVFGQm00MGpERTIycGplMjNJdHUtM05Qb1RscGFVdjVOOV9YSTFqdGZFRWFkWDRzSkx6NThwdkVOOFZyMW1GalNqMmw2ajRXNnhUUU45QlF2SzBGNjlUdWpadWV1LS1oV0JMWDVScHdMMFZrTF9ObThhZ1FyVDgtQ1o2SGJUYXQwTGxyTjVLT1BQd0FSTFNCV251MHM5cXliNzZjMHh3VU93Z2hGaFNYeDlQR1BoSlQtMzdmWE14VlpqODhsT3ZrMmYtQURDaDl2WDFFTFFvNTZn?oc=5",
+          "publishedAt": "2026-11-24T19:07:26.000Z",
+          "severity": "medium",
+          "titleZh": "10月17日巴黎：一名15岁少年在示威场外遭枪击受伤，因谋杀未遂展开调查",
+          "content": null
+        },
         {
           "title": "Violences du 17 octobre : devant la commission d'enquête, trois procureurs nuancent la portée des circulaires du garde des Sceaux",
           "source": "AEF info",
@@ -122,7 +174,7 @@
         11,
         12
       ],
-      "articleCount": 2,
+      "articleCount": 12,
       "clashCount": 1,
       "status": "recent"
     },
@@ -130,12 +182,31 @@
       "date": "2027-11-05",
       "articles": [
         {
-          "title": "Paris - grève du 5 novembre : la tour Eiffel contrainte de fermer ses portes au public",
-          "source": "Centre Presse Aveyron",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYWRRQjVjYnI0NFlPb1NseTY2LWNmZlE2QjRGV2NlNmxjVmdHcU1JQzAtLXcyVDBxRWZKS0tsTmpDbkhjQmU4RFlRdnlCSnFYc0dsampVY2tqWjZDWFdNQkhJZ01tbTl6aXVwbldLZFB0NFJZTkxTVnpTbnEzLXhZRTUtZzZPYllSZFFnTGFJR1BKSkdMc3FIdlFXcVlnRk9EdExnX1pUWTc2QlFLZU54U1VadTZGQnNDZGZUZXZfWkFrRngwc2x5R3VBeThzOEpHZTF3eTJJNng?oc=5",
-          "publishedAt": "2026-11-24T18:31:00.000Z",
+          "title": "Grève SNCF : les trains circulent-ils le 5 novembre ?",
+          "source": "horticulture-abadie-pyrenees.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeU91VkxhWmhiMlZmbVVWaDdPMXQtbUZTTmtyU09aeEJVcHJmNXd3WHhteUg5MFc4WUpmblIwdWlWNml1TEh1R2RLYXRsUnAtS3dLY0pKZGNGZW80SXllQjkzdnlEbm5uQmVDM255QUFYdUFNMG10dGhPUXJFTEg5OVFudk1vZGJmd1RPQzhTcWhhZw?oc=5",
+          "publishedAt": "2026-11-24T23:40:38.000Z",
           "severity": "medium",
-          "titleZh": "巴黎 - 11 月 5 日罢工：埃菲尔铁塔被迫向公众关闭大门",
+          "titleZh": "SNCF罢工：11月5日火车运行吗？",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 1,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2027-11-24",
+      "articles": [
+        {
+          "title": "L’ANGLE MORT la Rotonde Stalingrad Paris – 24 novembre 2026",
+          "source": "Unidivers",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZElSWnQ2ZmMyUkRfdEk2U1RRNjAxdmNpc3pBdnpnTXlaeWZxODJ2eGliN2NWT3l0MllSNFp2TXBHekpNblRUWDc2ZlVmejgzRUFyTW9WN2lZYy12dXVrblFmMURRQ3BNQVlLajUwc1M0dk5IZW5LV0l6d19qcHRpTjNYMUZsSWJEcEV6aHBmeVhHRTNGOVBGY2kxaw?oc=5",
+          "publishedAt": "2026-11-24T19:10:56.000Z",
+          "severity": "info",
+          "titleZh": "L'ANGLE MORT la Rotonde 斯大林格勒 巴黎 – 2026 年 11 月 24 日",
           "content": null
         }
       ],
@@ -149,12 +220,57 @@
       "date": "unknown",
       "articles": [
         {
-          "title": "Mouvement lycéen et étudiant : la violence des foules comme cliché persistant",
-          "source": "Libération",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVnRZQWRwYUFlRWM5VlNDeTVBYmxPWjliVi15WkhQaW90NUZzSV9HSzg4cndrYXBUN1lXQUpsMURDeHJZUUhSUUVGNEpfbG5IclBVdGRQajk1Qm5YSEJHZmNqR2NERmtJS2NveUkxQm9INThneWFucXdfWldnMlR6TkplWHJQWThLTS1DUTBZM0dHa2VEbFlGMFNlM0UwOHZrSnVSdjhRSExOSDNtMk5lN3VHVW9DcjlQQzc0RmxqQ2w3TFJxWUU0NjNmNjhPUTJVOGNWZXNoS3ZOY2hjWXQw?oc=5",
-          "publishedAt": "2026-11-24T17:57:08.000Z",
+          "title": "À Paris, manifestation féministe antifasciste et antisioniste",
+          "source": "Union Juive Française pour la Paix",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMkdVQ1paWldWMFRWV241N1lOM2xPX0dSRXFwcExKWHZZVmxSWHBBeWxmNVZmb2tmSHVhVUVfZFBUeGlMRWd5M3RoSGtwNEgxek5LTlROeFZoRXNPZGJUUERmUkQ0ZWVZdkJtVldlalA0SGF3NUVHeGxHWDI4cWVITjh5OEsxeXF6MDRqMEJVTUhPTkE?oc=5",
+          "publishedAt": "2026-11-25T00:44:59.000Z",
+          "severity": "medium",
+          "titleZh": "在巴黎，反法西斯和反犹太复国主义女权主义示威",
+          "content": null
+        },
+        {
+          "title": "Le syndicat de Mercédès parmi la jeunesse en lutte à Paris !",
+          "source": "Presse-toi à gauche",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ueDYxN3R0ZGpXUFQwNno4Q0RLdjNpZkZWc0dGdXhTOVNEOUdlTlg2REFuWmtNM252RDVtMXFRdTBhVVJiWnNBa2VIRkdrWDVNNFhQYVZ4UlFrYnZy?oc=5",
+          "publishedAt": "2026-11-24T23:07:41.000Z",
+          "severity": "info",
+          "titleZh": "巴黎青年斗争中的梅赛德斯工会！",
+          "content": null
+        },
+        {
+          "title": "Armstrong Williams: The world feels like it's coming apart. Here's what we can do. | STAFF COMMENTARY",
+          "source": "Baltimore Sun",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95ZkgwMWNXNGx4UllqclhhSkhfSmlPMDZKQkpPWUJ5dXRxc3NPb0NEMFVnVUVHQWgwN1JBVjRodjJHU25telhVaEVRWk9aejd2SXVyQmFQd2REU3pkaTVUck9CYkVCRk16Mk15Yk00a1g3bEZmN3A4Z0RmTndtdw?oc=5",
+          "publishedAt": "2026-11-24T20:01:01.000Z",
+          "severity": "info",
+          "titleZh": "Armstrong Williams: The world feels like it's coming apart.这是我们可以做的。 |员工评论",
+          "content": null
+        },
+        {
+          "title": "Santé des jeunes : une enquête sur les violences remise à Sarah El Haïry",
+          "source": "Presse Agence",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeF9OMFJVUUhyWENKZGlVWE1EaUt5dVF2LWdhOS1HeElzMFFWeGx5M3o5dW5QZGY2WUxUZjZoSWdsYXh1dnlxQWZXWS1SUlUtYU1rVk03aDdsSEY2WGJnVWdJVXZBcW1jVGV4SXBaY3NCRWdFQTlRSFlqUDBnMTB2T3FyZW85NzNLQVVZRGRwSVIzdXhWWXBva3A0VjZ5RGUyU3FQaTFHWTAwcFNSQW82SzFSRkl2UUFSTFE?oc=5",
+          "publishedAt": "2026-11-24T19:00:00.000Z",
           "severity": "high",
-          "titleZh": "高中和学生运动：人群暴力是一种长期的陈词滥调",
+          "titleZh": "青少年健康：向 Sarah El Haïry 提交的暴力调查",
+          "content": null
+        },
+        {
+          "title": "Lolita Séchan, fille de Renaud, bouleversée par la manifestation à Paris, elle lance un cri du cœur : « Ces images me retournent le bide »",
+          "source": "MSN",
+          "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOOC0tdnh4RFEtTWdVZnI2RlhybmN4Vm9CTFpkTElqcWFwTVN0aWtUTk5sdjB3OThDYlpNRlhkT1plQVlYMTRGdnJwUVNPZ2k1bzh6ZmlnbmREREVDTEkxWGRXd3pyS05URjh6SnBaS2VMUndfVnNmNXp6LUo2cjd6RmZvczhfNU9va29wQjk4UGF5c3JSNlBnYkVHWnJLeUgtMERzVEpDaEVIYkI1b0tlb3JHdGFZVzI4VVMxSGk5OUU5S1JuN205WnZwT0tLMVhKTVlVTkxjc2J4MmxRVHhuUkJMYjJtQ1BsYjNrTWtYZXRjMDJNc2g3c3UzU1RRTVNma2gtbFd4TnJWM3NKZXNzRVNWMkZJbV9xZWp1cHhVbU5KUHpMOHFncmtoMTJ3c29iN0FRMkhwSmxya1lEYTVjeFpRMUczRjJ2VUg0Z3dmNml6dWZ4VmwtY3BpY0FxdXI0Xzh3TXFCaFRjUFhIS2MxQW1obTFpdEx0VWpPWUtDSmNpUjRHY2dlSzNnNkFCUQ?oc=5",
+          "publishedAt": "2026-11-24T18:40:42.000Z",
+          "severity": "medium",
+          "titleZh": "雷诺的女儿洛丽塔·塞尚 (Lolita Séchan) 对巴黎的示威感到不安，她发自内心地呼喊：“这些图像让我感到恶心”",
+          "content": null
+        },
+        {
+          "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
+          "publishedAt": "2026-11-24T18:34:30.000Z",
+          "severity": "info",
+          "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
           "content": null
         },
         {
@@ -167,30 +283,12 @@
           "content": null
         },
         {
-          "title": "Accents d'Europe - Quelles sanctions face aux violences policières?",
-          "source": "RFI",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWtHVHgyV21SYUdIU0dkdnloeFo2dm1LdFhtanZ3M3RRUmVFYVpmU0N3cnU5NXJtVzk0MWpNc3hGOXNDYUp0VFhoVXdnUzRWTGt3SDFRS0lFeXllWXB3RGFxa1RaM0JVdkVuOElabDFVNUh4d1Nub19CV3dnRHBqbUh0cnFUV3EzMDJaU3EwWjNoUXYxTmZXNXNhQ28tV0REZ3Ywd1BHMmNMV08xSHc?oc=5",
-          "publishedAt": "2026-11-24T17:16:28.000Z",
-          "severity": "high",
-          "titleZh": "Accents d'Europe - 针对警察暴力的制裁措施有哪些？",
-          "content": null
-        },
-        {
           "title": "Violences conjugales : Le « prix de la liberté » pour quitter un conjoint violent évalué à 16.800 euros",
           "source": "Yahoo Actualités",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOenc5c3VIWnFweWhJbkNmdzFQT2xTbmpub09QTXdVWU9CREZHcWZycmQ0SG5SU3pGeW8td1FOQzNiTlAta21TbnZrb1gycWdqbENzUzc0emk5d1RzdXhEUElhZmNqa3BUMzllZmJjM1dHU21Fb3lSeVhCczZ2Q2huR0RpZVRZRi01OF90VDVRVDE?oc=5",
           "publishedAt": "2026-11-24T17:00:51.000Z",
           "severity": "high",
           "titleZh": "家庭暴力：离开暴力配偶的“自由代价”估计为 16,800 欧元",
-          "content": null
-        },
-        {
-          "title": "Journée internationale de lutte contre les violences faites aux femmes 2026",
-          "source": "www.francetelevisions.fr",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaFhRQVJHS1VHcmtvOWZTdkxrNHZXa0hsVW5KNHJNZ3Rkd0VWbFpPZTZ1M2tIdDVLVGs0LXJma3ZQV0kyMlprZDkzc1p1OUxXWXlveUw2U2hpa21ON1M1Y3RkNE9rbWkxX1FWbzdoRTJvNVR5a1ZscDBtWHp1Nzk4OXhFamJxWlBmRjBxTVlqYXVQYVRfQ2phLTJERXFMRHpUZkUwX2RIdkdIUWVQbEd2UDlVdURSREZPekI5XzdOUkdWLXpsLXpxOVVpWnpXbGVVV3Y4bXA3dEdXVkJ1RnM4Y1dPRVRyUF9IbDE1LTNRWnFod0ZEcm1GdEFIc0o?oc=5",
-          "publishedAt": "2026-11-24T17:00:33.000Z",
-          "severity": "high",
-          "titleZh": "2026 年反对暴力侵害妇女行为国际日",
           "content": null
         },
         {
@@ -212,12 +310,12 @@
           "content": null
         },
         {
-          "title": "Un producteur de radio connu dans le milieu du doublage des films condamné à huit ans de prison pour viol",
-          "source": "Ouest-France",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNNkFnT2luQjBXdklLZ29DbjNtc2xQZjhfTm5fbFpIbVA1bldicG5oVTQ4YTFpcEFweUgtZlpSMzNLYnFLelhneTduZVFVZGtvVTctUFlIOVVMbnNoQ2xJVUNOS2Q3VnppbklvTVpqYmxVa2JTUUZubV9BVk40cjFzR0hfbWRHUlliYzBQSVpJd1Q1a3RYUzR0Wm9qX2hRcFhnalN6OTlvTjlUU1hBVUo4MS1QU3lvV3puenJ4Z3lBLXU3ZFVkbVF5YlUtRGRIeFNlOEVPdmtVMy1fQUE2WmItUFF1VHhnVFhhUWpKT2dVQmVXYWF2bzQ4eE9SRjdrOUttQm5zOTVmYUlXbnFzQ1ZRUEJwazV6TWVJRE5lRGd0aEpLNUhiX05aTkU2V2luTE0?oc=5",
-          "publishedAt": "2026-11-24T16:47:33.000Z",
-          "severity": "info",
-          "titleZh": "一位在电影配音界闻名的广播制作人因强奸被判入狱八年",
+          "title": "Paris : les salariés d’une pizzeria des Champs-Élysées en grève contre leurs conditions de travail",
+          "source": "Centre Presse Aveyron",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYXozQ2wzVVFkTnRoQTdZa2s0cTVOR014bllqSU1fQ3VFWjkyQ0V6VlBkU1RGTXJtdE41WjVCZklKZUZyMkpyeGpKRTdEM2ZPRWFiVlJxdDdacFFPSkdnWXJ0SUJnbEd1a2N6U3BNN1NtcV8xWU1NanpmRWFlV3o4TmI4U2wwdmJyQlg2bWFrc2lEVTUzTUNuakdfQXQzak43c2J0cERZYktKZ1FiMC1QMVFxeWtsR2ppc25JaF8xcHRhZUpUcHZsLVBJejdOM21FN2wzRm5Bcjh6VmQzY3lMeG1KQ3FTaE4wekE?oc=5",
+          "publishedAt": "2026-11-24T16:47:00.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎：香榭丽舍大街一家比萨饼店的员工因工作条件举行罢工",
           "content": null
         },
         {
@@ -258,29 +356,11 @@
         },
         {
           "title": "French protesters bear scars of police violence",
-          "source": "KMVU FOX 26 Medford",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRG4tc2ZZUmZhYl84MU5DNllmeV9aeHpSOHZpeTlGQUU2UGdxdDFscHJoYXAtWW9KbXpfR2JObklTVVdMMEltZWZuM0xhbGdENGJQTjRyNTNpUF9tcFNJQnJ3di1qeUxVcTlBNkx3alY1M1lYQXZ3Y0FYUV9Tamd5Y2pIcGJCRTVaY0w0bHhCN3dNcE5YUWFXejlyemoxWjhIa29aaEJCdVh0aWVmS2w3VnU3c0tja3pYVGhDT281WU1ZLWNMTzdXN25iUE9QeEFqSDJmUzY3SQ?oc=5",
-          "publishedAt": "2026-11-24T16:03:46.000Z",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQS1fMWNaTDdPbENCZDNiUWFtWnJjUXA5MEFYR2ExN3czSkk3NVk5T2lFZ2R1OVMtZ1MxcVhxMm1iQXFNanR1LXY1VTRZQkNtSlJBdzNpTDhESjd6cDdnYjdiTjYzVEFQYkVZMjlvbTF2Qy1nMFJreWVIa2tjaDVrdzltTEM4SVdqdzNyNXA1U1pROUlheVZKaURR?oc=5",
+          "publishedAt": "2026-11-24T16:07:19.000Z",
           "severity": "high",
           "titleZh": "法国抗议者因警察暴力而伤痕累累",
-          "content": null
-        },
-        {
-          "title": "Youth Strike : partout en Europe, la jeunesse se mobilise pour son avenir !",
-          "source": "www.unsa.org",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVjA3N285UmplN0lOMHZuVFU3ZVE0dFowRmFMYzZGaWNza0VMTlpWS2VTVnI4anY5ZjlkR0stWDBMZXRBd0F2c1RuQXdkMWhuU252cmNLMFVDLS1nTFoxSzdCcTBBbGloeE5oOHBaRmlCb0VnanB1c2x4cXVLYVRIUEJtYXhvV2JJSE1hYW1iWEVGTzcxcFBJ?oc=5",
-          "publishedAt": "2026-11-24T15:32:29.000Z",
-          "severity": "medium",
-          "titleZh": "青年罢工：整个欧洲，年轻人正在为他们的未来动员起来！",
-          "content": null
-        },
-        {
-          "title": "Rachel Keke appelle les Nîmois à soutenir financièrement les grévistes de l’Imperator",
-          "source": "ici.fr",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGtISVZKMnlwUlZBdEVPVEM0S2pWcFhJdldqNEliWFZjSXJpOVdmMS10dndxOVhVaUlNTmdaMDV1ZTB3cG16Ry1zY2hXbWVfSmRIRWZVSGZuVXExMTRnSDBsMlgzWjQ4M3djVHZwbzhpTGNFQTB1UFZWV0oyVXZ2cEhldUZDSWxteC12VC1Fd1dwUkttdjg1WWcwZU1RVktkbW9NYnRzYTZRWHNIRXdGdGgtZ1B0SVBwM1lYekZ2dTNHQmZrQWMxMGdITmJDNVdxOHc?oc=5",
-          "publishedAt": "2026-11-24T15:20:13.000Z",
-          "severity": "info",
-          "titleZh": "雷切尔·科科呼吁尼姆人民为“皇帝”罢工者提供经济支持",
           "content": null
         },
         {
@@ -302,30 +382,12 @@
           "content": null
         },
         {
-          "title": "« Plus de 16 femmes par heure » : les violences domestiques ont atteint un niveau record en 2025 en Allemagne",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPVnFZZmtqOTh5cFU0SWQ3cjNTMWozSFFWWFhOWUpvcTVoQVBNTUpCSm9qVFNHZmNnN1lSZ1NwQUxnM3FBei1aWGJvQS1rU3piVkRDMXA3SDQ2MFY4U3Q1Ui14ZE9rd1BWckFFWWJ2c3RsemtTV1FIOTZLMEE0Y2w3YXZSMnVSU0RZVFEzT3U1SDlCTnBFOWhoRUVsdkxGME9HT3NmRk8yU215WEVRR0ppX1BDSHMxSXVkN0Y1VVBqeGFyTGRZa2h3ajVDWmJ3UTdPS3gzWDJRcGhZRVQ4bm1fR3EtNlItbjVReFRCMWhoMFZZcVFyLTZFMnFoblV2SUlab0NESnFUYTdfZ3RFVElXVlZxVUFydmlWem1kVFppMkk?oc=5",
-          "publishedAt": "2026-11-24T14:21:12.000Z",
-          "severity": "high",
-          "titleZh": "“每小时超过16名女性”：2025年德国家庭暴力创历史新高",
-          "content": null
-        },
-        {
           "title": "Parisian Riots",
           "source": "The Guilfordian",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RQ0x2V3BPN1JwdEZWVWVjU1BNVC16a3F5YzBCMFpiWjlYNVR4MXE3RDBlUS0tc25ZZ1FlMXl5cDEtNlpRNW93TXlVQUdqWndfUkR6RUxuTExTZ0ZJMUlhNG1zR1o0UldBSkxXaFFCUm92VDhO?oc=5",
           "publishedAt": "2026-11-24T14:16:21.000Z",
           "severity": "info",
           "titleZh": "巴黎骚乱",
-          "content": null
-        },
-        {
-          "title": "Acte VII contre les violences de genre, sociales et d’État : retrouvez la liste des manifs en Normandie",
-          "source": "Paris Normandie",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYmthejZYbnMzWk04dy1iUEZqenZQN0NScFRfRkVFdURYcGhMMVViVlVPN3d0Y1drR2laS0I3Q1YycjJhNkpTc0VFbDVWZDdmNXNvTm1TT0RuWnNFdEh3V0FVLUR6VFZPSmhGa0lNTHBtZ3lNX0JOOGFTTHc0TXNad3hGMUVBUnZQdENUWTIzdjVhMzFBb2l3a3YydlpqdDdtWkhaN2plaGM0U0F1THJuaUZ0aXV5WjgwaVBDQXA0cEhPVmdQMmdkWmprVUtRQklxbEVXQg?oc=5",
-          "publishedAt": "2026-11-24T13:30:00.000Z",
-          "severity": "high",
-          "titleZh": "反对性别、社会和国家暴力的第七幕：查找诺曼底示威活动清单",
           "content": null
         },
         {
@@ -350,27 +412,9 @@
           "title": "News : Ex:Re à Paris en mars 2027",
           "source": "Sound Of Violence",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2VnMGdPZTJpaENzcWg1UlJuWDFxUHlpU21uNThDRlVLM2VRa0VzNVhhQnc3WXlsT3VCVkNaNmJKU0FzOFc2aGRfdXZpUDV3d08tOXlIN1VYT0pGbjJlNmhIb01QNkhsY1RmZlJKTWpMY29fYUJia1haQ1loY3czZ2RWVExvUQ?oc=5",
-          "publishedAt": "2026-11-24T12:56:59.000Z",
+          "publishedAt": "2026-11-24T12:58:46.000Z",
           "severity": "info",
           "titleZh": "新闻：Ex:Re 将于 2027 年 3 月在巴黎举行",
-          "content": null
-        },
-        {
-          "title": "Artichaut, le café créatif pour découvrir la mosaïque, la gravure, l'aquarelle...dans le 18e",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaDNlQW1YTHpvUmhIbWJFNHZCSEl2a1haR2owdDRkenVHYXRoWDQwaEZFZHpnWC1jd251dGpsMnJndExBeXZLSlJURG1pb1pVWXFMTENCUWVJNGljNXZreER4ZmE3U0dVOTI1VHRkY0p4aVJBbTQtZGpXdjdNVHpWSHRkaU9faklVOU1PbkpXV19PSWR1d2xXWHotWkt0T2tHMkU3RE92RTBaVXdNUkVpLVdLc3ZoQ3JfVy02Y1NkZ2tmenZHdC1nM2U5YWlKUlV3aC1WVThfXzFmekdydEFscE1ZRnQ2VEdIRElQYjBDSVZuXzA?oc=5",
-          "publishedAt": "2026-11-24T12:55:55.000Z",
-          "severity": "info",
-          "titleZh": "Artichoke，一家探索 18 世纪马赛克、雕刻、水彩画的创意咖啡馆",
-          "content": null
-        },
-        {
-          "title": "Politique. Inégalités, services publics, IA : le social pèse sur la présidentielle",
-          "source": "lamanchelibre.fr",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFNCUzk0VWVCZXp2NzVPeWtRUlJ1b3FfLVFzSDgyZnZ0TmhGUEs1RE5ZYXRQYXRrV0dtRENGN2xIX19fdnhYY0pXWkQ2S25oeUVQOXhBMC02eVFjUnhxV3Vaamw5Nnc3RHc3enRSaGRjVTJ2Snk2OVA2Q3U2a1d6NTNvOVRyODJhdFJKbm50b0Y2Y0loSlRPVjFHVjRNM1dueUNla0tNc0d2cWs2bXJaLWZmUVlEcHlMbzlvTFFnVFBzUQ?oc=5",
-          "publishedAt": "2026-11-24T12:10:00.000Z",
-          "severity": "info",
-          "titleZh": "政策。不平等、公共服务、人工智能：社会问题影响总统选举",
           "content": null
         },
         {
@@ -381,102 +425,190 @@
           "severity": "high",
           "titleZh": "海外：宪兵警告人口贩运助长武装暴力",
           "content": null
-        },
-        {
-          "title": "Boutique dégradée par des black blocs en manifestation : l'État doit-il payer ?",
-          "source": "Hassan KOHEN",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVmtyVjFURGZyUzVweDNnSS1kSDFEa0FPd3YxWVlVbWxnay0yMVJjVkgwODNwSzNxUWhid25lZzNlUVhnNjBLV194SGNjTFdKTzdHQUdVSWphOElpTG5TSE5iVERHaGprWHlnQnhuTUFHZjdEUlVkRkhWdzJET2lXQUZmVnZ2Y001UnFOTmVEekh2NEx4cE9GQldLMnlFd2k2RDZud3hhakFEM2h5QTYxVHBwcw?oc=5",
-          "publishedAt": "2026-11-24T11:54:00.000Z",
-          "severity": "medium",
-          "titleZh": "商店因抗议黑人团体而受损：国家应该赔偿吗？",
-          "content": null
-        },
-        {
-          "title": "« Ça arrive de toute la France »… Un million de chèques destinés au Trésor public bloqués depuis un mois à Rennes",
-          "source": "20 Minutes",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQc1NPRTY0SWJSRUxuNFljdzJhUUd1Ny1CNXo1dVhYQmVZRkdTTm5zY3R2QmxrZWUwcnc4NEtzWVYxaXBQN3YwODM1XzRiLWozREdSMGpLZVVGODk0TGZVZ0YwbE1nNzVuamMzVmNnSmlpR2FweWJ2Tm1ZRWdJRmxNakhxV3EyUW1oN3RKNUx6akdwZnFqbWpwWFVkMVVNS0gxX1poWlRUWnVwR3lyU1NhR2NEdkJZVjRRekxfQVJ0TnV6YnFtT2x6bHVNQ1V6bW0yZlo0OE1VY0dUSVl0?oc=5",
-          "publishedAt": "2026-11-24T11:32:00.000Z",
-          "severity": "info",
-          "titleZh": "“这种事正在法国各地发生”……一张原本用于公共财政部的支票在雷恩被冻结一个月",
-          "content": null
-        },
-        {
-          "title": "Manif à Paris",
-          "source": "Presse-toi à gauche",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ueDYxN3R0ZGpXUFQwNno4Q0RLdjNpZkZWc0dGdXhTOVNEOUdlTlg2REFuWmtNM252RDVtMXFRdTBhVVJiWnNBa2VIRkdrWDVNNFhQYVZ4UlFrYnZy?oc=5",
-          "publishedAt": "2026-11-24T11:23:12.000Z",
-          "severity": "info",
-          "titleZh": "巴黎示威",
-          "content": null
-        },
-        {
-          "title": "Yannick Jadot et des écologistes pro-Glucksmann fondent leur parti politique",
-          "source": "Reporterre, le média de l'écologie",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTE4xNjZBbWtxMkRLMF9jV1BVSC1yd21yRkcyYWhpSFJfSHdJanVHNjk4SUVwNmpjNHVEV3FTN09rLXoyYjlzU2JNWDVvdXpuTmhySDRQb0x0dDI2LWVrWTNqbUxSTmpFUGUzN3Y4RkFIdVFjX0R5YVR1Yld2YjFwa2tOang1RGVYQ0t5SmFMZFh1aGVYLW9DSGhKZDR3VEZS?oc=5",
-          "publishedAt": "2026-11-24T11:16:00.000Z",
-          "severity": "info",
-          "titleZh": "雅尼克·贾多特 (Yannick Jadot) 和支持格鲁克斯曼的环保主义者成立了他们的政党",
-          "content": null
-        },
-        {
-          "title": "Photos : The Wedding Present - Paris, Trabendo - 23.11.2026",
-          "source": "Sound Of Violence",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazhnMExuRkpFSUVYWVFLaVo0UzQ4c2ZIX2czTm1SejBYV2pOZVhCRXR0Z1RpRkNidGJLdnlnUGlqVjZEZWdhUC1QcElnZi14enRtZkR6N2h4OVdJZm5hSE1QSHVPbC1nMzN1NV9IenlZRF9SVlV1VTZyMm9INjlVajIyU0lfbGtSY3JoM0N1NmthUXZpc0xPWllIM2hJVk43aXpQWnAwU1NsUUgxUXVJ?oc=5",
-          "publishedAt": "2026-11-24T10:30:43.000Z",
-          "severity": "info",
-          "titleZh": "照片：结婚礼物 - 巴黎，特拉本多 - 23.11.2026",
-          "content": null
-        },
-        {
-          "title": "Ligne 18 : mauvaise nouvelle pour le nouveau métro du Grand Paris Express",
-          "source": "Journal du Geek",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHlOZkpPNFo5T2JZdU1GS3o5WlJDdHlXcnpJUE01cWJUVDBfdGEzVlZqaFp5Y2xaWU5XNjV0cWdNRXJOczdUOHgwVzl3Z3BSZGRsZko5R1J3N1c1blY0dW9mRzlSTkR2R2V6dXM5bVlsQjBDR091cHhkZGtVS1dMZ29wWHFCSmtWWjM2U2dMTkMyX252eGluX3ZnV0ZoelBWQUlISTF1eFNKNjEtc3Q5VVdhRQ?oc=5",
-          "publishedAt": "2026-11-24T09:30:39.000Z",
-          "severity": "info",
-          "titleZh": "18号线：新巴黎快线地铁的坏消息",
-          "content": null
         }
       ],
       "places": [
-        "民族广场 Nation"
+        "香榭丽舍 Champs-Élysées"
       ],
       "districts": [
         1,
-        11,
-        12,
-        18
+        8
       ],
-      "articleCount": 32,
-      "clashCount": 11,
+      "articleCount": 23,
+      "clashCount": 7,
       "status": "unknown"
     }
   ],
   "latest": [
     {
-      "title": "Paris - grève du 5 novembre : la tour Eiffel contrainte de fermer ses portes au public",
-      "source": "Centre Presse Aveyron",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYWRRQjVjYnI0NFlPb1NseTY2LWNmZlE2QjRGV2NlNmxjVmdHcU1JQzAtLXcyVDBxRWZKS0tsTmpDbkhjQmU4RFlRdnlCSnFYc0dsampVY2tqWjZDWFdNQkhJZ01tbTl6aXVwbldLZFB0NFJZTkxTVnpTbnEzLXhZRTUtZzZPYllSZFFnTGFJR1BKSkdMc3FIdlFXcVlnRk9EdExnX1pUWTc2QlFLZU54U1VadTZGQnNDZGZUZXZfWkFrRngwc2x5R3VBeThzOEpHZTF3eTJJNng?oc=5",
-      "publishedAt": "2026-11-24T18:31:00.000Z",
+      "title": "À Paris, manifestation féministe antifasciste et antisioniste",
+      "source": "Union Juive Française pour la Paix",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMkdVQ1paWldWMFRWV241N1lOM2xPX0dSRXFwcExKWHZZVmxSWHBBeWxmNVZmb2tmSHVhVUVfZFBUeGlMRWd5M3RoSGtwNEgxek5LTlROeFZoRXNPZGJUUERmUkQ0ZWVZdkJtVldlalA0SGF3NUVHeGxHWDI4cWVITjh5OEsxeXF6MDRqMEJVTUhPTkE?oc=5",
+      "publishedAt": "2026-11-25T00:44:59.000Z",
       "severity": "medium",
-      "titleZh": "巴黎 - 11 月 5 日罢工：埃菲尔铁塔被迫向公众关闭大门",
+      "titleZh": "在巴黎，反法西斯和反犹太复国主义女权主义示威",
       "content": null
     },
     {
-      "title": "SUBALTERNATIVE, BARLONE, Paris – 25 novembre 2026",
-      "source": "Unidivers",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDBaMFFsdVN2Z2hVVXJ0NjlOcE9sTEFnUTlVQXVRRG9xWkpqRjBXbkIxTWc2SXRUNEVaMkM1OEJQS2I3RjZwc1padkhjeExUbldSYmk2alQ3MnZXQjJadER3aE1pSE1ZbTlKdlZKdUJHdzV6dlVUZGZrdUpuekhlcHJEVEU?oc=5",
-      "publishedAt": "2026-11-24T18:14:35.000Z",
+      "title": "Grève SNCF : les trains circulent-ils le 5 novembre ?",
+      "source": "horticulture-abadie-pyrenees.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeU91VkxhWmhiMlZmbVVWaDdPMXQtbUZTTmtyU09aeEJVcHJmNXd3WHhteUg5MFc4WUpmblIwdWlWNml1TEh1R2RLYXRsUnAtS3dLY0pKZGNGZW80SXllQjkzdnlEbm5uQmVDM255QUFYdUFNMG10dGhPUXJFTEg5OVFudk1vZGJmd1RPQzhTcWhhZw?oc=5",
+      "publishedAt": "2026-11-24T23:40:38.000Z",
+      "severity": "medium",
+      "titleZh": "SNCF罢工：11月5日火车运行吗？",
+      "content": null
+    },
+    {
+      "title": "Le syndicat de Mercédès parmi la jeunesse en lutte à Paris !",
+      "source": "Presse-toi à gauche",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ueDYxN3R0ZGpXUFQwNno4Q0RLdjNpZkZWc0dGdXhTOVNEOUdlTlg2REFuWmtNM252RDVtMXFRdTBhVVJiWnNBa2VIRkdrWDVNNFhQYVZ4UlFrYnZy?oc=5",
+      "publishedAt": "2026-11-24T23:07:41.000Z",
       "severity": "info",
-      "titleZh": "SUBALTERNATIVE，巴隆，巴黎 – 2026 年 11 月 25 日",
+      "titleZh": "巴黎青年斗争中的梅赛德斯工会！",
       "content": null
     },
     {
-      "title": "Mouvement lycéen et étudiant : la violence des foules comme cliché persistant",
+      "title": "Manifestation du 17 octobre : une enquête ouverte à Paris pour « tentative de meurtre » sur un adolescent blessé",
+      "source": "Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNUTdRYjlZRVJNb0FoZ3RBejZFQ21sMUVJd0tUWlpjWXBpZXM1QTVIbzZocEY2dXV6bWdjX3FGa3FpRmJCa25xZVFNdmI0UFYyei1OdTFDS245TzNHU05hNXduYy1fUzNlUG9heTY3MmVBNlNqck5YaDVQc2haOEVoSFVQZTVoMHBGVG9JdUticVptSnFZM3dWVEhCRmZqeWtfQ2FPSG1wS1U0bkM1c0dIMTNRU0lBUDl6WkZ1NHc4ZEVsNV9BYUVtTGRha1h4NnJvTmxLZ2pzOXpnaUZFaDl5QzBrY1MyU09XaDhkcXcydkFocjY1em9uUlhyMDV6QTJqRkxtZDBGb2liOXR5WDB3OGNYbkRkY0taRVZGSXpB?oc=5",
+      "publishedAt": "2026-11-24T21:51:18.000Z",
+      "severity": "medium",
+      "titleZh": "10月17日示威：巴黎对受伤青少年“谋杀未遂”展开调查",
+      "content": null
+    },
+    {
+      "title": "Contre la répression : En grève le jeudi 26 novembre ! Communiqué",
+      "source": "SUD éducation Paris",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFJrbHVJeEtFNDRpeWhfcldhMXEwWFJKMjlGeHgyZ25kOExMdThGWG1ZQm5TSGNUdFItU2xzZnNiVzQzZlE2aWtxbUxzU3ZVcWJkWFY2d3BaVnMyUXlZSkxvQ2R3UHNYTFA0MHZYV2pQZjB1UmVhUl8yRGIwRm0wT0RUTjB6WnloTFlWckhiNVJRWDltNzRhTQ?oc=5",
+      "publishedAt": "2026-11-24T21:16:07.000Z",
+      "severity": "medium",
+      "titleZh": "反对镇压：11 月 26 日星期四罢工！新闻稿",
+      "content": null
+    },
+    {
+      "title": "17 octobre : une enquête ouverte pour tentative de meurtre sur un adolescent à Paris",
+      "source": "Le HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFJGdVV0Vmh2NFowTWNEN2V6THZBdnpYWmRXcFhEMXB4RW8zbm1wWU4zT3BsT3RXcXZVNS1jWTB5UTQyeUhJRFlkdjB2Mk5xWkJwOTJFVEVqTVMyS2k0dlhRVnUzUl96amtBVklRZi1yNEplNEI3bHF4ZjYzdm9PMnJGdG1wNC1oN1B4V2RqTTQwdFY1NjVGUExEOUVadm85QzZEdWVKNzkzMDZPVEdENWN1M1EyR0VvWXBKcVRYS0FnX09zdk12Z2ZRNnFVT25KZjJNWDBR?oc=5",
+      "publishedAt": "2026-11-24T21:15:23.000Z",
+      "severity": "info",
+      "titleZh": "10 月 17 日：针对巴黎一名青少年谋杀未遂事件展开调查",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 17 octobre : enquête ouverte pour tentative de meurtre sur un adolescent à Paris",
       "source": "Libération",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVnRZQWRwYUFlRWM5VlNDeTVBYmxPWjliVi15WkhQaW90NUZzSV9HSzg4cndrYXBUN1lXQUpsMURDeHJZUUhSUUVGNEpfbG5IclBVdGRQajk1Qm5YSEJHZmNqR2NERmtJS2NveUkxQm9INThneWFucXdfWldnMlR6TkplWHJQWThLTS1DUTBZM0dHa2VEbFlGMFNlM0UwOHZrSnVSdjhRSExOSDNtMk5lN3VHVW9DcjlQQzc0RmxqQ2w3TFJxWUU0NjNmNjhPUTJVOGNWZXNoS3ZOY2hjWXQw?oc=5",
-      "publishedAt": "2026-11-24T17:57:08.000Z",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObmVpYUs4b21DYTBMWDVPMUx5U0g0RnFOLXJnTllBNV9kSmY3WEZtSzItVFJzbHp2eWJrQkJNeUJ6TGJZekg4eHNMSWcxU1g2dUpZdVdVcjhNM0JwbXdySlVBcGJYNE13UE5NQjZGOEtOZkUzdzZDUWxxX2VBMS11ZDB4ckc1YlhhREVXdW1RQ0RmOGgyT3duSlVhU3F4Tm9qR0hxWU5PMkN4S3VfemFEVzAxZllqbFFoOFhURHhMY2VEeU03OC01Tk5kSmc3dUp0Tlk5OXAxcFc4YkdneS1jMXRISXV6VkxKVzByUDRQNXJqX2ZrODR0NjNWSHNmNkl1MjJSNU9POVcybWdRWEE?oc=5",
+      "publishedAt": "2026-11-24T21:11:51.000Z",
+      "severity": "medium",
+      "titleZh": "10 月 17 日示威：巴黎一名青少年谋杀未遂事件展开调查",
+      "content": null
+    },
+    {
+      "title": "Paris. Manifestation du 17 octobre : un adolescent touché par un tir, enquête pour tentative de meurtre",
+      "source": "L'Alsace",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ3dBYXJpUzhJNWstaW5teDlXZHVCWklMVzc5TTh5SmZMd0trN0dxSkRoMGpBdWRlbmNFU2t6OGY0LThwNGhBTE1uUThqOGtBbXI3cU1nSzZSX3c0MG8xLUdPUUd5Z2xNaUU2d0E5QjNTZVZhNUc5N09ZM1Jsdnppb0xVOC1kYVdCZWJuSG5pRUpRTkVrUFMyeEZrMWwxM1NCVTZiVzJvQWx6dFBJTGxUT2ZYQzRUd2oxbnVILWhnNUxwUUluLW10TTFTMS03U01zcUZRRnQ2ZE1YazFSZUZFcEVR?oc=5",
+      "publishedAt": "2026-11-24T20:52:18.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎。 10月17日示威：一名少年中枪，因谋杀未遂接受调查",
+      "content": null
+    },
+    {
+      "title": "Paris : Un manifestant de 15 ans touché par une balle le 17 octobre, une enquête pour tentative de meurtre ouverte",
+      "source": "Yahoo Actualités",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5peHdhYU84eHBmT09oWFdJZmRrcEloMHZnVjZrcjJfWUlNZFBiRnl6UHYzTlUtQVdGSzdzZ2JUUG1VTC1kaWRuM1JibjBIVnV3LXl6M1lmdlVLS1Fscnd0ekdCbDJHbFFuM3NJeWxOYUdqa0tsYVE?oc=5",
+      "publishedAt": "2026-11-24T20:27:29.000Z",
+      "severity": "info",
+      "titleZh": "巴黎：10月17日一名15岁抗议者中弹，对谋杀未遂展开调查",
+      "content": null
+    },
+    {
+      "title": "Un jeune manifestant visé par une balle de plomb le 17 octobre à Paris",
+      "source": "20 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQmRqZm5zbXpKZlY0ZklvY0Fxelo4dVk2VTBQcXliNHhhd28yeHdEa092T3pzNkN4VGFrX3NCQW5TWkpWU0tYdmRmRk9jYXI4bUg0aUktVjAwMWsyR1JWcWFWQ1hvY083a19HSjFDY1FJcXFrV3p0MnVZeVFVMy10N2NuVFlxa1YxcWczcHktbThnNU5seHpTX3BnRlctRFRUQXIxYmpnWnBLVjRCLTVhUm42RHROZVZRejAtaVRuLWhFQWNIRUhV?oc=5",
+      "publishedAt": "2026-11-24T20:27:00.000Z",
+      "severity": "info",
+      "titleZh": "10 月 17 日，巴黎一名年轻示威者被铅弹袭击",
+      "content": null
+    },
+    {
+      "title": "Une enquête ouverte pour tentative de meurtre sur un adolescent à Paris lors de la manifestation du 17 octobre",
+      "source": "Franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNMlZDWjRWdkRUMGNPZGlLQlRmc3Q4UDJVOFFTU1FvU0hHcUtsbk1FNzVfaEJ1U3lTdWtmZjFnNmMxZUc3MWpXSnY2TU5zNWhoZTBCaHYyRnB4YzczcnhjTkIydjU4TmZtVzNzcDdlanltMUV5emNHMzJBRkVMSnpVMnhZWHFQajkwSWxVNU1uT1RIRExRcW1lZHN5Q3VwOGZmV0FLQ3RSTHI2d3RpTFlBT0t3cWZMbzRGejl5S1U5T1l0R2Zsd1FOSkE4TmluYnJQSnFfNnFnV09mZXJGNWZPRDJDWVBUa0RvYlhoMEpQYmNVeG1nalpLVVRIbkxRYzMzSzVhd0V5bDd1cTYtTzRhX0JR?oc=5",
+      "publishedAt": "2026-11-24T20:24:27.000Z",
+      "severity": "medium",
+      "titleZh": "对 10 月 17 日示威期间巴黎一名青少年企图谋杀案展开调查",
+      "content": null
+    },
+    {
+      "title": "Armstrong Williams: The world feels like it's coming apart. Here's what we can do. | STAFF COMMENTARY",
+      "source": "Baltimore Sun",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95ZkgwMWNXNGx4UllqclhhSkhfSmlPMDZKQkpPWUJ5dXRxc3NPb0NEMFVnVUVHQWgwN1JBVjRodjJHU25telhVaEVRWk9aejd2SXVyQmFQd2REU3pkaTVUck9CYkVCRk16Mk15Yk00a1g3bEZmN3A4Z0RmTndtdw?oc=5",
+      "publishedAt": "2026-11-24T20:01:01.000Z",
+      "severity": "info",
+      "titleZh": "Armstrong Williams: The world feels like it's coming apart.这是我们可以做的。 |员工评论",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 17 octobre 2026 : adolescent blessé par balle place de la Nation, tentative de meurtre et droits de la victime mineure",
+      "source": "Hassan KOHEN",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZklfZXBfSGlBOGJUVVBDVmFFLVBVWm9aQTVjVVdiTGVlMDV0S2hKU3FtVVo2TTZzV2puUHZKSWF5X3Q1a2ZoSWVNZjdfdkRfUWJnVkNxejdubmppZDF6RVNzRGFTVmplMHpaRTAxQjlweTNaSzh2b2hzSEdnVnpkY0VXendGZVp2ZHpNdUFrTXVpUldpQm52eEt0WTRHZlFibmRjWS1ReVF5VlhaRVAtRjlaaTNGRzZ1ZzNYeXpjNGRMVWVoZWc?oc=5",
+      "publishedAt": "2026-11-24T19:37:00.000Z",
+      "severity": "medium",
+      "titleZh": "2026 年 10 月 17 日示威：青少年在民族广场被子弹击伤、谋杀未遂和未成年受害者的权利",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 17 octobre à Paris : \"Il aurait pu y rester\", un adolescent blessé par balle sur la place de la Nation",
+      "source": "Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeFNCbEN1dlB1Z1hRd2NsS184YXQ4MkZ3Mjd0YkJiTVdvazcxdGRmelZZaXVocFRtalNacGx5TWYyNUVRVjFwaEVkVHJ5WWZfVUxHdWhnMDB1OEVseEc3SUNWcjZmZEloRjB5Z01aSW1PbHdpaE56bnNCQjVhZG9NbnZ2TVlhXzdLWjRiRTc1dFFpcE9DOEQ1VjF3Mm1TWFR0dlgtdVptb3VyRlc0bDNKTWl6N0ltOHFpZDZ6UUZ3Q3ZhMGQteVY5dURvZTBIYjd4NlNPcWtzcVJ3b3dHamhlT05tdWZ2MG85VVRJdEUtUmpzbXE0YjVJVXVBbF9INFE?oc=5",
+      "publishedAt": "2026-11-24T19:30:02.000Z",
+      "severity": "medium",
+      "titleZh": "10 月 17 日巴黎示威：“他本可以留在那里”，一名青少年在民族广场遭枪击受伤",
+      "content": null
+    },
+    {
+      "title": "L’ANGLE MORT la Rotonde Stalingrad Paris – 24 novembre 2026",
+      "source": "Unidivers",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZElSWnQ2ZmMyUkRfdEk2U1RRNjAxdmNpc3pBdnpnTXlaeWZxODJ2eGliN2NWT3l0MllSNFp2TXBHekpNblRUWDc2ZlVmejgzRUFyTW9WN2lZYy12dXVrblFmMURRQ3BNQVlLajUwc1M0dk5IZW5LV0l6d19qcHRpTjNYMUZsSWJEcEV6aHBmeVhHRTNGOVBGY2kxaw?oc=5",
+      "publishedAt": "2026-11-24T19:10:56.000Z",
+      "severity": "info",
+      "titleZh": "L'ANGLE MORT la Rotonde 斯大林格勒 巴黎 – 2026 年 11 月 24 日",
+      "content": null
+    },
+    {
+      "title": "17 octobre à Paris : un adolescent de 15 ans blessé par balle en marge de la manifestation, une enquête ouverte pour tentative de meurtre",
+      "source": "Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPUWVHanM4UEcwekc0aWVpSVJpYUxvaUZJWlJ5TGJ1U3lCWXJEZGJPbUVKOTB3WmFmUGtvX0dhdEhMSncyNkJnSW5Sd1c4RXlndUJaaTZ3c2cwWU80bmRTWU90OS03LVFGQm00MGpERTIycGplMjNJdHUtM05Qb1RscGFVdjVOOV9YSTFqdGZFRWFkWDRzSkx6NThwdkVOOFZyMW1GalNqMmw2ajRXNnhUUU45QlF2SzBGNjlUdWpadWV1LS1oV0JMWDVScHdMMFZrTF9ObThhZ1FyVDgtQ1o2SGJUYXQwTGxyTjVLT1BQd0FSTFNCV251MHM5cXliNzZjMHh3VU93Z2hGaFNYeDlQR1BoSlQtMzdmWE14VlpqODhsT3ZrMmYtQURDaDl2WDFFTFFvNTZn?oc=5",
+      "publishedAt": "2026-11-24T19:07:26.000Z",
+      "severity": "medium",
+      "titleZh": "10月17日巴黎：一名15岁少年在示威场外遭枪击受伤，因谋杀未遂展开调查",
+      "content": null
+    },
+    {
+      "title": "Santé des jeunes : une enquête sur les violences remise à Sarah El Haïry",
+      "source": "Presse Agence",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeF9OMFJVUUhyWENKZGlVWE1EaUt5dVF2LWdhOS1HeElzMFFWeGx5M3o5dW5QZGY2WUxUZjZoSWdsYXh1dnlxQWZXWS1SUlUtYU1rVk03aDdsSEY2WGJnVWdJVXZBcW1jVGV4SXBaY3NCRWdFQTlRSFlqUDBnMTB2T3FyZW85NzNLQVVZRGRwSVIzdXhWWXBva3A0VjZ5RGUyU3FQaTFHWTAwcFNSQW82SzFSRkl2UUFSTFE?oc=5",
+      "publishedAt": "2026-11-24T19:00:00.000Z",
       "severity": "high",
-      "titleZh": "高中和学生运动：人群暴力是一种长期的陈词滥调",
+      "titleZh": "青少年健康：向 Sarah El Haïry 提交的暴力调查",
+      "content": null
+    },
+    {
+      "title": "Lolita Séchan, fille de Renaud, bouleversée par la manifestation à Paris, elle lance un cri du cœur : « Ces images me retournent le bide »",
+      "source": "MSN",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOOC0tdnh4RFEtTWdVZnI2RlhybmN4Vm9CTFpkTElqcWFwTVN0aWtUTk5sdjB3OThDYlpNRlhkT1plQVlYMTRGdnJwUVNPZ2k1bzh6ZmlnbmREREVDTEkxWGRXd3pyS05URjh6SnBaS2VMUndfVnNmNXp6LUo2cjd6RmZvczhfNU9va29wQjk4UGF5c3JSNlBnYkVHWnJLeUgtMERzVEpDaEVIYkI1b0tlb3JHdGFZVzI4VVMxSGk5OUU5S1JuN205WnZwT0tLMVhKTVlVTkxjc2J4MmxRVHhuUkJMYjJtQ1BsYjNrTWtYZXRjMDJNc2g3c3UzU1RRTVNma2gtbFd4TnJWM3NKZXNzRVNWMkZJbV9xZWp1cHhVbU5KUHpMOHFncmtoMTJ3c29iN0FRMkhwSmxya1lEYTVjeFpRMUczRjJ2VUg0Z3dmNml6dWZ4VmwtY3BpY0FxdXI0Xzh3TXFCaFRjUFhIS2MxQW1obTFpdEx0VWpPWUtDSmNpUjRHY2dlSzNnNkFCUQ?oc=5",
+      "publishedAt": "2026-11-24T18:40:42.000Z",
+      "severity": "medium",
+      "titleZh": "雷诺的女儿洛丽塔·塞尚 (Lolita Séchan) 对巴黎的示威感到不安，她发自内心地呼喊：“这些图像让我感到恶心”",
+      "content": null
+    },
+    {
+      "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
+      "publishedAt": "2026-11-24T18:34:30.000Z",
+      "severity": "info",
+      "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
       "content": null
     },
     {
@@ -489,30 +621,12 @@
       "content": null
     },
     {
-      "title": "Accents d'Europe - Quelles sanctions face aux violences policières?",
-      "source": "RFI",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWtHVHgyV21SYUdIU0dkdnloeFo2dm1LdFhtanZ3M3RRUmVFYVpmU0N3cnU5NXJtVzk0MWpNc3hGOXNDYUp0VFhoVXdnUzRWTGt3SDFRS0lFeXllWXB3RGFxa1RaM0JVdkVuOElabDFVNUh4d1Nub19CV3dnRHBqbUh0cnFUV3EzMDJaU3EwWjNoUXYxTmZXNXNhQ28tV0REZ3Ywd1BHMmNMV08xSHc?oc=5",
-      "publishedAt": "2026-11-24T17:16:28.000Z",
-      "severity": "high",
-      "titleZh": "Accents d'Europe - 针对警察暴力的制裁措施有哪些？",
-      "content": null
-    },
-    {
       "title": "Violences conjugales : Le « prix de la liberté » pour quitter un conjoint violent évalué à 16.800 euros",
       "source": "Yahoo Actualités",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOenc5c3VIWnFweWhJbkNmdzFQT2xTbmpub09QTXdVWU9CREZHcWZycmQ0SG5SU3pGeW8td1FOQzNiTlAta21TbnZrb1gycWdqbENzUzc0emk5d1RzdXhEUElhZmNqa3BUMzllZmJjM1dHU21Fb3lSeVhCczZ2Q2huR0RpZVRZRi01OF90VDVRVDE?oc=5",
       "publishedAt": "2026-11-24T17:00:51.000Z",
       "severity": "high",
       "titleZh": "家庭暴力：离开暴力配偶的“自由代价”估计为 16,800 欧元",
-      "content": null
-    },
-    {
-      "title": "Journée internationale de lutte contre les violences faites aux femmes 2026",
-      "source": "www.francetelevisions.fr",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaFhRQVJHS1VHcmtvOWZTdkxrNHZXa0hsVW5KNHJNZ3Rkd0VWbFpPZTZ1M2tIdDVLVGs0LXJma3ZQV0kyMlprZDkzc1p1OUxXWXlveUw2U2hpa21ON1M1Y3RkNE9rbWkxX1FWbzdoRTJvNVR5a1ZscDBtWHp1Nzk4OXhFamJxWlBmRjBxTVlqYXVQYVRfQ2phLTJERXFMRHpUZkUwX2RIdkdIUWVQbEd2UDlVdURSREZPekI5XzdOUkdWLXpsLXpxOVVpWnpXbGVVV3Y4bXA3dEdXVkJ1RnM4Y1dPRVRyUF9IbDE1LTNRWnFod0ZEcm1GdEFIc0o?oc=5",
-      "publishedAt": "2026-11-24T17:00:33.000Z",
-      "severity": "high",
-      "titleZh": "2026 年反对暴力侵害妇女行为国际日",
       "content": null
     },
     {
@@ -543,12 +657,12 @@
       "content": null
     },
     {
-      "title": "Un producteur de radio connu dans le milieu du doublage des films condamné à huit ans de prison pour viol",
-      "source": "Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNNkFnT2luQjBXdklLZ29DbjNtc2xQZjhfTm5fbFpIbVA1bldicG5oVTQ4YTFpcEFweUgtZlpSMzNLYnFLelhneTduZVFVZGtvVTctUFlIOVVMbnNoQ2xJVUNOS2Q3VnppbklvTVpqYmxVa2JTUUZubV9BVk40cjFzR0hfbWRHUlliYzBQSVpJd1Q1a3RYUzR0Wm9qX2hRcFhnalN6OTlvTjlUU1hBVUo4MS1QU3lvV3puenJ4Z3lBLXU3ZFVkbVF5YlUtRGRIeFNlOEVPdmtVMy1fQUE2WmItUFF1VHhnVFhhUWpKT2dVQmVXYWF2bzQ4eE9SRjdrOUttQm5zOTVmYUlXbnFzQ1ZRUEJwazV6TWVJRE5lRGd0aEpLNUhiX05aTkU2V2luTE0?oc=5",
-      "publishedAt": "2026-11-24T16:47:33.000Z",
-      "severity": "info",
-      "titleZh": "一位在电影配音界闻名的广播制作人因强奸被判入狱八年",
+      "title": "Paris : les salariés d’une pizzeria des Champs-Élysées en grève contre leurs conditions de travail",
+      "source": "Centre Presse Aveyron",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYXozQ2wzVVFkTnRoQTdZa2s0cTVOR014bllqSU1fQ3VFWjkyQ0V6VlBkU1RGTXJtdE41WjVCZklKZUZyMkpyeGpKRTdEM2ZPRWFiVlJxdDdacFFPSkdnWXJ0SUJnbEd1a2N6U3BNN1NtcV8xWU1NanpmRWFlV3o4TmI4U2wwdmJyQlg2bWFrc2lEVTUzTUNuakdfQXQzak43c2J0cERZYktKZ1FiMC1QMVFxeWtsR2ppc25JaF8xcHRhZUpUcHZsLVBJejdOM21FN2wzRm5Bcjh6VmQzY3lMeG1KQ3FTaE4wekE?oc=5",
+      "publishedAt": "2026-11-24T16:47:00.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎：香榭丽舍大街一家比萨饼店的员工因工作条件举行罢工",
       "content": null
     },
     {
@@ -589,29 +703,11 @@
     },
     {
       "title": "French protesters bear scars of police violence",
-      "source": "KMVU FOX 26 Medford",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRG4tc2ZZUmZhYl84MU5DNllmeV9aeHpSOHZpeTlGQUU2UGdxdDFscHJoYXAtWW9KbXpfR2JObklTVVdMMEltZWZuM0xhbGdENGJQTjRyNTNpUF9tcFNJQnJ3di1qeUxVcTlBNkx3alY1M1lYQXZ3Y0FYUV9Tamd5Y2pIcGJCRTVaY0w0bHhCN3dNcE5YUWFXejlyemoxWjhIa29aaEJCdVh0aWVmS2w3VnU3c0tja3pYVGhDT281WU1ZLWNMTzdXN25iUE9QeEFqSDJmUzY3SQ?oc=5",
-      "publishedAt": "2026-11-24T16:03:46.000Z",
+      "source": "France 24",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQS1fMWNaTDdPbENCZDNiUWFtWnJjUXA5MEFYR2ExN3czSkk3NVk5T2lFZ2R1OVMtZ1MxcVhxMm1iQXFNanR1LXY1VTRZQkNtSlJBdzNpTDhESjd6cDdnYjdiTjYzVEFQYkVZMjlvbTF2Qy1nMFJreWVIa2tjaDVrdzltTEM4SVdqdzNyNXA1U1pROUlheVZKaURR?oc=5",
+      "publishedAt": "2026-11-24T16:07:19.000Z",
       "severity": "high",
       "titleZh": "法国抗议者因警察暴力而伤痕累累",
-      "content": null
-    },
-    {
-      "title": "Youth Strike : partout en Europe, la jeunesse se mobilise pour son avenir !",
-      "source": "www.unsa.org",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVjA3N285UmplN0lOMHZuVFU3ZVE0dFowRmFMYzZGaWNza0VMTlpWS2VTVnI4anY5ZjlkR0stWDBMZXRBd0F2c1RuQXdkMWhuU252cmNLMFVDLS1nTFoxSzdCcTBBbGloeE5oOHBaRmlCb0VnanB1c2x4cXVLYVRIUEJtYXhvV2JJSE1hYW1iWEVGTzcxcFBJ?oc=5",
-      "publishedAt": "2026-11-24T15:32:29.000Z",
-      "severity": "medium",
-      "titleZh": "青年罢工：整个欧洲，年轻人正在为他们的未来动员起来！",
-      "content": null
-    },
-    {
-      "title": "Rachel Keke appelle les Nîmois à soutenir financièrement les grévistes de l’Imperator",
-      "source": "ici.fr",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGtISVZKMnlwUlZBdEVPVEM0S2pWcFhJdldqNEliWFZjSXJpOVdmMS10dndxOVhVaUlNTmdaMDV1ZTB3cG16Ry1zY2hXbWVfSmRIRWZVSGZuVXExMTRnSDBsMlgzWjQ4M3djVHZwbzhpTGNFQTB1UFZWV0oyVXZ2cEhldUZDSWxteC12VC1Fd1dwUkttdjg1WWcwZU1RVktkbW9NYnRzYTZRWHNIRXdGdGgtZ1B0SVBwM1lYekZ2dTNHQmZrQWMxMGdITmJDNVdxOHc?oc=5",
-      "publishedAt": "2026-11-24T15:20:13.000Z",
-      "severity": "info",
-      "titleZh": "雷切尔·科科呼吁尼姆人民为“皇帝”罢工者提供经济支持",
       "content": null
     },
     {
@@ -651,30 +747,12 @@
       "content": null
     },
     {
-      "title": "« Plus de 16 femmes par heure » : les violences domestiques ont atteint un niveau record en 2025 en Allemagne",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPVnFZZmtqOTh5cFU0SWQ3cjNTMWozSFFWWFhOWUpvcTVoQVBNTUpCSm9qVFNHZmNnN1lSZ1NwQUxnM3FBei1aWGJvQS1rU3piVkRDMXA3SDQ2MFY4U3Q1Ui14ZE9rd1BWckFFWWJ2c3RsemtTV1FIOTZLMEE0Y2w3YXZSMnVSU0RZVFEzT3U1SDlCTnBFOWhoRUVsdkxGME9HT3NmRk8yU215WEVRR0ppX1BDSHMxSXVkN0Y1VVBqeGFyTGRZa2h3ajVDWmJ3UTdPS3gzWDJRcGhZRVQ4bm1fR3EtNlItbjVReFRCMWhoMFZZcVFyLTZFMnFoblV2SUlab0NESnFUYTdfZ3RFVElXVlZxVUFydmlWem1kVFppMkk?oc=5",
-      "publishedAt": "2026-11-24T14:21:12.000Z",
-      "severity": "high",
-      "titleZh": "“每小时超过16名女性”：2025年德国家庭暴力创历史新高",
-      "content": null
-    },
-    {
       "title": "Parisian Riots",
       "source": "The Guilfordian",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RQ0x2V3BPN1JwdEZWVWVjU1BNVC16a3F5YzBCMFpiWjlYNVR4MXE3RDBlUS0tc25ZZ1FlMXl5cDEtNlpRNW93TXlVQUdqWndfUkR6RUxuTExTZ0ZJMUlhNG1zR1o0UldBSkxXaFFCUm92VDhO?oc=5",
       "publishedAt": "2026-11-24T14:16:21.000Z",
       "severity": "info",
       "titleZh": "巴黎骚乱",
-      "content": null
-    },
-    {
-      "title": "Acte VII contre les violences de genre, sociales et d’État : retrouvez la liste des manifs en Normandie",
-      "source": "Paris Normandie",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYmthejZYbnMzWk04dy1iUEZqenZQN0NScFRfRkVFdURYcGhMMVViVlVPN3d0Y1drR2laS0I3Q1YycjJhNkpTc0VFbDVWZDdmNXNvTm1TT0RuWnNFdEh3V0FVLUR6VFZPSmhGa0lNTHBtZ3lNX0JOOGFTTHc0TXNad3hGMUVBUnZQdENUWTIzdjVhMzFBb2l3a3YydlpqdDdtWkhaN2plaGM0U0F1THJuaUZ0aXV5WjgwaVBDQXA0cEhPVmdQMmdkWmprVUtRQklxbEVXQg?oc=5",
-      "publishedAt": "2026-11-24T13:30:00.000Z",
-      "severity": "high",
-      "titleZh": "反对性别、社会和国家暴力的第七幕：查找诺曼底示威活动清单",
       "content": null
     },
     {
@@ -708,27 +786,9 @@
       "title": "News : Ex:Re à Paris en mars 2027",
       "source": "Sound Of Violence",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2VnMGdPZTJpaENzcWg1UlJuWDFxUHlpU21uNThDRlVLM2VRa0VzNVhhQnc3WXlsT3VCVkNaNmJKU0FzOFc2aGRfdXZpUDV3d08tOXlIN1VYT0pGbjJlNmhIb01QNkhsY1RmZlJKTWpMY29fYUJia1haQ1loY3czZ2RWVExvUQ?oc=5",
-      "publishedAt": "2026-11-24T12:56:59.000Z",
+      "publishedAt": "2026-11-24T12:58:46.000Z",
       "severity": "info",
       "titleZh": "新闻：Ex:Re 将于 2027 年 3 月在巴黎举行",
-      "content": null
-    },
-    {
-      "title": "Artichaut, le café créatif pour découvrir la mosaïque, la gravure, l'aquarelle...dans le 18e",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaDNlQW1YTHpvUmhIbWJFNHZCSEl2a1haR2owdDRkenVHYXRoWDQwaEZFZHpnWC1jd251dGpsMnJndExBeXZLSlJURG1pb1pVWXFMTENCUWVJNGljNXZreER4ZmE3U0dVOTI1VHRkY0p4aVJBbTQtZGpXdjdNVHpWSHRkaU9faklVOU1PbkpXV19PSWR1d2xXWHotWkt0T2tHMkU3RE92RTBaVXdNUkVpLVdLc3ZoQ3JfVy02Y1NkZ2tmenZHdC1nM2U5YWlKUlV3aC1WVThfXzFmekdydEFscE1ZRnQ2VEdIRElQYjBDSVZuXzA?oc=5",
-      "publishedAt": "2026-11-24T12:55:55.000Z",
-      "severity": "info",
-      "titleZh": "Artichoke，一家探索 18 世纪马赛克、雕刻、水彩画的创意咖啡馆",
-      "content": null
-    },
-    {
-      "title": "Politique. Inégalités, services publics, IA : le social pèse sur la présidentielle",
-      "source": "lamanchelibre.fr",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFNCUzk0VWVCZXp2NzVPeWtRUlJ1b3FfLVFzSDgyZnZ0TmhGUEs1RE5ZYXRQYXRrV0dtRENGN2xIX19fdnhYY0pXWkQ2S25oeUVQOXhBMC02eVFjUnhxV3Vaamw5Nnc3RHc3enRSaGRjVTJ2Snk2OVA2Q3U2a1d6NTNvOVRyODJhdFJKbm50b0Y2Y0loSlRPVjFHVjRNM1dueUNla0tNc0d2cWs2bXJaLWZmUVlEcHlMbzlvTFFnVFBzUQ?oc=5",
-      "publishedAt": "2026-11-24T12:10:00.000Z",
-      "severity": "info",
-      "titleZh": "政策。不平等、公共服务、人工智能：社会问题影响总统选举",
       "content": null
     },
     {
@@ -738,78 +798,6 @@
       "publishedAt": "2026-11-24T12:09:27.000Z",
       "severity": "high",
       "titleZh": "海外：宪兵警告人口贩运助长武装暴力",
-      "content": null
-    },
-    {
-      "title": "Boutique dégradée par des black blocs en manifestation : l'État doit-il payer ?",
-      "source": "Hassan KOHEN",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVmtyVjFURGZyUzVweDNnSS1kSDFEa0FPd3YxWVlVbWxnay0yMVJjVkgwODNwSzNxUWhid25lZzNlUVhnNjBLV194SGNjTFdKTzdHQUdVSWphOElpTG5TSE5iVERHaGprWHlnQnhuTUFHZjdEUlVkRkhWdzJET2lXQUZmVnZ2Y001UnFOTmVEekh2NEx4cE9GQldLMnlFd2k2RDZud3hhakFEM2h5QTYxVHBwcw?oc=5",
-      "publishedAt": "2026-11-24T11:54:00.000Z",
-      "severity": "medium",
-      "titleZh": "商店因抗议黑人团体而受损：国家应该赔偿吗？",
-      "content": null
-    },
-    {
-      "title": "« Ça arrive de toute la France »… Un million de chèques destinés au Trésor public bloqués depuis un mois à Rennes",
-      "source": "20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQc1NPRTY0SWJSRUxuNFljdzJhUUd1Ny1CNXo1dVhYQmVZRkdTTm5zY3R2QmxrZWUwcnc4NEtzWVYxaXBQN3YwODM1XzRiLWozREdSMGpLZVVGODk0TGZVZ0YwbE1nNzVuamMzVmNnSmlpR2FweWJ2Tm1ZRWdJRmxNakhxV3EyUW1oN3RKNUx6akdwZnFqbWpwWFVkMVVNS0gxX1poWlRUWnVwR3lyU1NhR2NEdkJZVjRRekxfQVJ0TnV6YnFtT2x6bHVNQ1V6bW0yZlo0OE1VY0dUSVl0?oc=5",
-      "publishedAt": "2026-11-24T11:32:00.000Z",
-      "severity": "info",
-      "titleZh": "“这种事正在法国各地发生”……一张原本用于公共财政部的支票在雷恩被冻结一个月",
-      "content": null
-    },
-    {
-      "title": "Manif à Paris",
-      "source": "Presse-toi à gauche",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ueDYxN3R0ZGpXUFQwNno4Q0RLdjNpZkZWc0dGdXhTOVNEOUdlTlg2REFuWmtNM252RDVtMXFRdTBhVVJiWnNBa2VIRkdrWDVNNFhQYVZ4UlFrYnZy?oc=5",
-      "publishedAt": "2026-11-24T11:23:12.000Z",
-      "severity": "info",
-      "titleZh": "巴黎示威",
-      "content": null
-    },
-    {
-      "title": "Yannick Jadot et des écologistes pro-Glucksmann fondent leur parti politique",
-      "source": "Reporterre, le média de l'écologie",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTE4xNjZBbWtxMkRLMF9jV1BVSC1yd21yRkcyYWhpSFJfSHdJanVHNjk4SUVwNmpjNHVEV3FTN09rLXoyYjlzU2JNWDVvdXpuTmhySDRQb0x0dDI2LWVrWTNqbUxSTmpFUGUzN3Y4RkFIdVFjX0R5YVR1Yld2YjFwa2tOang1RGVYQ0t5SmFMZFh1aGVYLW9DSGhKZDR3VEZS?oc=5",
-      "publishedAt": "2026-11-24T11:16:00.000Z",
-      "severity": "info",
-      "titleZh": "雅尼克·贾多特 (Yannick Jadot) 和支持格鲁克斯曼的环保主义者成立了他们的政党",
-      "content": null
-    },
-    {
-      "title": "«Débranchons CNews» : un appel à manifester contre le maintien de la chaîne le 12 décembre",
-      "source": "Libération",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQVN5WFlRSFp2MWZobVRzcTl3OFYxdVJCbGVieE5vdmlXaVVDdGItYU5CWXFYNXRfMEM1UXN4VzFfSlZLSE9qcndPS3RYdUZWNWw3RF9yVWhMSmk3XzZfOFJ3M0tnVjlRYTZIVHNpbkNPaFZLZDF3eEgxN0VVRjlLb0I0R1JpQU1QODFqbFNUSXE2c2N2blBMZ3A2eE8tcUwydWwxbTlqbEs3dFFqN1ZfYlpTUkVoM0NVTkQ3SEZnZ0laMzRRVk1XS3JQajJYVzZjRkdHLTZERTlNSGllSUpBbDAtSHF5MlVzMUI5ZENRU1pzMHotRGhnZQ?oc=5",
-      "publishedAt": "2026-11-24T11:13:00.000Z",
-      "severity": "info",
-      "titleZh": "“让我们拔掉CNews”：12月12日呼吁示威反对频道维护",
-      "content": null
-    },
-    {
-      "title": "Photos : The Wedding Present - Paris, Trabendo - 23.11.2026",
-      "source": "Sound Of Violence",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazhnMExuRkpFSUVYWVFLaVo0UzQ4c2ZIX2czTm1SejBYV2pOZVhCRXR0Z1RpRkNidGJLdnlnUGlqVjZEZWdhUC1QcElnZi14enRtZkR6N2h4OVdJZm5hSE1QSHVPbC1nMzN1NV9IenlZRF9SVlV1VTZyMm9INjlVajIyU0lfbGtSY3JoM0N1NmthUXZpc0xPWllIM2hJVk43aXpQWnAwU1NsUUgxUXVJ?oc=5",
-      "publishedAt": "2026-11-24T10:30:43.000Z",
-      "severity": "info",
-      "titleZh": "照片：结婚礼物 - 巴黎，特拉本多 - 23.11.2026",
-      "content": null
-    },
-    {
-      "title": "25 novembre : la carte des mobilisations contre les violences faites aux femmes",
-      "source": "Basta Media",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWpESmdENzh1WDRhQVZhTjNiSHVCSTJnSFR3cFQySnl1U0M4WlNxRnVHTEJOTy1zWnAzREJHbFpjMV9tTWxpWkhfaGMwc1NmaUUxcUppZkFOQXhsLVpWQWlaaFNfcHdpZVh6cFl6YlU2d3hTYXJha3BqdG9IZDdaVXljZnlIVC1zbWh1TWxtSWp4MTIy?oc=5",
-      "publishedAt": "2026-11-24T10:01:53.000Z",
-      "severity": "high",
-      "titleZh": "11 月 25 日：反对暴力侵害妇女行为动员图",
-      "content": null
-    },
-    {
-      "title": "Ligne 18 : mauvaise nouvelle pour le nouveau métro du Grand Paris Express",
-      "source": "Journal du Geek",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHlOZkpPNFo5T2JZdU1GS3o5WlJDdHlXcnpJUE01cWJUVDBfdGEzVlZqaFp5Y2xaWU5XNjV0cWdNRXJOczdUOHgwVzl3Z3BSZGRsZko5R1J3N1c1blY0dW9mRzlSTkR2R2V6dXM5bVlsQjBDR091cHhkZGtVS1dMZ29wWHFCSmtWWjM2U2dMTkMyX252eGluX3ZnV0ZoelBWQUlISTF1eFNKNjEtc3Q5VVdhRQ?oc=5",
-      "publishedAt": "2026-11-24T09:30:39.000Z",
-      "severity": "info",
-      "titleZh": "18号线：新巴黎快线地铁的坏消息",
       "content": null
     }
   ]
