@@ -1,53 +1,16 @@
 {
   "success": true,
-  "today": "2026-11-25",
-  "updatedAt": "2026-11-25T22:27:15.016Z",
+  "today": "2026-11-26",
+  "updatedAt": "2026-11-26T04:20:21.698Z",
   "events": [
-    {
-      "date": "2026-11-26",
-      "articles": [
-        {
-          "title": "Manifestation étudiante du 26 novembre à Paris : quel parcours pour le cortège ?",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVAxNFRuS3VKRnZTTFBITUIyZzJNNXZ1RWhTS3pVcHBtYldmNzNZUzNhdGJ3cXRPMnBvaHl1Z1hOb1FqS3dOamktYk1KazJIc1A2cl9jRGg1enMtNlRXNXM2X09ELWRqcDBDZWhnTUdGR3BBbENwU3VFRlpxeEszUUQ3djk0MzFXbEdnZGVQVXY1ZHVoWkNjSVpSREVKNWpfaUJ6MXJVZ1lGQnVuc2JPWGZ6VXljSGJfVnpDNjZ2MG90aUlvaldsbTNlTHpWNHBZWmJiUDFHRQ?oc=5",
-          "publishedAt": "2026-11-25T18:53:25.000Z",
-          "severity": "medium",
-          "titleZh": "11月26日巴黎学生示威：游行路线是哪条？",
-          "content": null
-        },
-        {
-          "title": "Manifestation étudiante et enseignants du 26 novembre à Paris : à quoi s'attendre ?",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORl9iVHhkNDVDNl9OZnN0NUZSV2E2WlBrZW1VRmVacVdmYVJXeVJOTlNISk5RbldqUXl4TDFCc25TM0FjOEVQcEJVU2s4bU1selVyYVZCdWY4azVwaUZiVWtxLU84dkIwUm14ell0ZmcwVWNwRjlEMDl1dHpCTWp0a0EyMDNMSnBueGhOWTI2UWgwZzVXMFVvc01wLS05amNOOXI1QXVqclptMGZyRmZsTWdMZnU5RllPdWVUa0lEaUF2Q01OQTUyUlk4dHo5ZENtRlh0NnZjYnc3VlU?oc=5",
-          "publishedAt": "2026-11-25T18:48:00.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 26 日巴黎学生和教师示威：会发生什么？",
-          "content": null
-        },
-        {
-          "title": "Etudiants, enseignants du supérieur, policiers... A quoi faut-il s'attendre pour la mobilisation de jeudi",
-          "source": "Franceinfo",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVDZIeGlOX1hVMFB1c0diZGFKNjhfUHdheGxpVjAwUVFsOHRKcDJlVldSbE5UVW92clhCTVgwV1FjM2g2ak5HUEZQMDdHQTNBWHU5Ym5GRWZLQ2ZBNV90VHo1SVZaS0M3UnFScDMtM050ZzM4eXFUbHVVQXBIQ2xDa2xwbnBvb1dQcFhTZXh0X1VwUHdMaFo3cGpIR1JselI1OV9IWnM3eDZRVXZfNkFraGNzMFd5YkdSYkVHaHY2QmpqUVpVNlgzYVR6Zk52TlFMbjV5blNnTlFSUjZBNHZVd0pEcm82VVA0T2JUaWxsbV9pS0J1RDljVkpMR0RWQXRZVHRiSzRFVQ?oc=5",
-          "publishedAt": "2026-11-25T15:45:48.000Z",
-          "severity": "info",
-          "titleZh": "学生、高等教育教师、警察……周四的动员我们应该期待什么",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 3,
-      "clashCount": 0,
-      "status": "recent"
-    },
     {
       "date": "2026-11-28",
       "articles": [
         {
           "title": "Violences faites aux femmes: de premiers rassemblements avant une journée d'action samedi",
-          "source": "tv5monde",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVEVlMUdaeVRDM3RaSkxBLWw1MkFpd1JXMmdYd1pPaFFfQm1sSVRjczhCV0stLWNVN29rTTl3UGVJQzhlb2FqTkVLcWhqYXZCVWhFdEl1X2xGNDVicmZEdUFHcnNHS2Q3cXh4M3hMb2VUemp6cFBRTWdURTFjYkhrSDZJVnVlQlMtM3BZVUtNa20zVDRTRE1BMXYtODBYNUtsZTI4UUY4akkwY2lld2diSlYyam1MZ1dfb1RrYU1JQTJjcnVNM2xGemxIZWloRnVkNXA3YUZn?oc=5",
-          "publishedAt": "2026-11-25T20:07:09.000Z",
+          "source": "La Provence",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeFIzYWRsOWo4MUVhQTBaSWRJQk1JeTU0eVRuTlZvcTRiTm9yTWVrQ08ycHlEWjNnb3NmaDN2LXRkQmNuaXp3QU1RUU5sQklhR2JYZGdjUnhiRjh3TUJvWHZZU2VmRkhaMDJvQ1plVExMZGVfR1FxTnd4UVdCWF9saVdiMGpQalRIemZNMEZGelN5SlphaURUZ3V0MmsyaEJLRlNITXdqd1ZfY2hwcml4SVZ5ZEhuWHJJbktWR2h2M29WTDZXOS1QdEZhMTJicEVSM1dIQU5UYXl4bkFKTzlyemhrRzY?oc=5",
+          "publishedAt": "2026-11-25T20:07:32.000Z",
           "severity": "high",
           "titleZh": "针对妇女的暴力行为：周六行动日之前的首次集会",
           "content": null
@@ -60,20 +23,11 @@
           "severity": "high",
           "titleZh": "针对妇女的暴力行为：周六下午 2 点有两支游行队伍出发。在巴黎",
           "content": null
-        },
-        {
-          "title": "Manifestation 28 novembre 2026 à Paris : parcours, horaire",
-          "source": "Fondation des Femmes",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeDc4Qk1zTk9TV0E1M3ZabGxiMWpoV0tSdk1SbkZVM3lYTmU2YmlwX0lPbGNYdExVZ3VvMTRULXVMemlrWG1NcHFSdGNYS3d3N1kyeGg4dVpUdUhPU3k1ckNXdThqU2s3d0FCY0RlUEE1YlpGa2gteWdNZWVuM2pKU2FjeHE2QQ?oc=5",
-          "publishedAt": "2026-11-25T13:03:32.000Z",
-          "severity": "medium",
-          "titleZh": "2026 年 11 月 28 日在巴黎举行的示威活动：路线、时间表",
-          "content": null
         }
       ],
       "places": [],
       "districts": [],
-      "articleCount": 3,
+      "articleCount": 2,
       "clashCount": 2,
       "status": "recent"
     },
@@ -84,9 +38,47 @@
           "title": "Météo à Paris ce week-end des 28 et 29 novembre, gel puis redoux",
           "source": "Sortir à Paris",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNanZ4eUZuOUN2aHZTR2pKUmlSOU11cHYxNGhOLWV3TWk0ZHlvMkJ3V1UyTzR0aHU0bmVWVDFvS2lLZHdocVQ2U29uYTladFp6RVl5eGRBUWdPZXR6a0xKOEhiam5ncVFtcDhjVDQ5UkF3czhwbndja2hoc3hBR0FDZ1QyZU83M0pidFZ0cXdORmptV09vek1tdllCTFJUVEYtMGhuY29mUXhIY1VtWFpYVFl0d1Q3V1BqYkkzOHlVa1lfN250QkE?oc=5",
-          "publishedAt": "2026-11-25T14:30:00.000Z",
+          "publishedAt": "2026-11-25T14:32:31.000Z",
           "severity": "info",
           "titleZh": "11 月 28 日至 29 日本周末巴黎天气先霜后温和",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 1,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2026-12-03",
+      "articles": [
+        {
+          "title": "Etudiants, enseignants du supérieur, policiers... A quoi faut-il s'attendre pour la mobilisation de jeudi",
+          "source": "franceinfo",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVDZIeGlOX1hVMFB1c0diZGFKNjhfUHdheGxpVjAwUVFsOHRKcDJlVldSbE5UVW92clhCTVgwV1FjM2g2ak5HUEZQMDdHQTNBWHU5Ym5GRWZLQ2ZBNV90VHo1SVZaS0M3UnFScDMtM050ZzM4eXFUbHVVQXBIQ2xDa2xwbnBvb1dQcFhTZXh0X1VwUHdMaFo3cGpIR1JselI1OV9IWnM3eDZRVXZfNkFraGNzMFd5YkdSYkVHaHY2QmpqUVpVNlgzYVR6Zk52TlFMbjV5blNnTlFSUjZBNHZVd0pEcm82VVA0T2JUaWxsbV9pS0J1RDljVkpMR0RWQXRZVHRiSzRFVQ?oc=5",
+          "publishedAt": "2026-11-25T15:45:48.000Z",
+          "severity": "info",
+          "titleZh": "学生、高等教育教师、警察……周四的动员我们应该期待什么",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 1,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
+      "date": "2026-12-09",
+      "articles": [
+        {
+          "title": "Manifestation le 9 décembre en Belgique contre les exécutions massives en Iran",
+          "source": "CSDHI",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXVGbHJCanBTZnYxOUFZbS02N3FFVkVMUDMyUXlKbG1CSGVMOE5NYVlOVUdXMFlnUVNmYmhXb0pMXzY2b1AxWEV5VUtWSE5XRm0zUERZdVhSWlN0eUpKLTNmSk1kMjQ2NWtueV9kZEM3VlNrWHYzS1pqRkJSLUhrVmhXOTRndUlCWkRwNHhLamUxUkpLSXFWemNmX3ZCM2NLT1hLYUVfNDJVQ18xdGcyT0hoMA?oc=5",
+          "publishedAt": "2026-11-25T22:35:00.000Z",
+          "severity": "medium",
+          "titleZh": "12月9日比利时举行示威抗议伊朗大规模处决",
           "content": null
         }
       ],
@@ -116,25 +108,6 @@
       "status": "recent"
     },
     {
-      "date": "2027-11-07",
-      "articles": [
-        {
-          "title": "7 novembre : à Paris et Marseille, nos journalistes en direct des manifestations",
-          "source": "Orange Actualités",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ0tpRldjNEZsSjVBRlFrRmNwRWI1NFJIbmRoN1d6VG9Cd3J2eWtuXzFreVk4b3Z2UXJ4MEhnSERnYU9OXzVpZkFQcnhHRmZVREY5RG9IanlYYjltRHFmdk50b280UnRrQzBudmRYQmtkT2phYjF0Mzh2clIyM3R3b28yUUJxdTZnT0VUVXVjVHhNZy0xbjgxTnR0eFVVcEREbkFIQzJxM2lGMG9kWmlOeHVpYlZ2VWVpV3FzWWFYbmp6TWZaLVA5c1RtaEd2b0lQOFJr?oc=5",
-          "publishedAt": "2026-11-25T13:02:10.000Z",
-          "severity": "medium",
-          "titleZh": "11 月 7 日：在巴黎和马赛，我们的记者现场报道示威活动",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
       "date": "2027-11-25",
       "articles": [
         {
@@ -154,8 +127,99 @@
       "status": "recent"
     },
     {
+      "date": "2027-11-26",
+      "articles": [
+        {
+          "title": "Manifestation étudiante et enseignants du 26 novembre à Paris : à quoi s'attendre ?",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORl9iVHhkNDVDNl9OZnN0NUZSV2E2WlBrZW1VRmVacVdmYVJXeVJOTlNISk5RbldqUXl4TDFCc25TM0FjOEVQcEJVU2s4bU1selVyYVZCdWY4azVwaUZiVWtxLU84dkIwUm14ell0ZmcwVWNwRjlEMDl1dHpCTWp0a0EyMDNMSnBueGhOWTI2UWgwZzVXMFVvc01wLS05amNOOXI1QXVqclptMGZyRmZsTWdMZnU5RllPdWVUa0lEaUF2Q01OQTUyUlk4dHo5ZENtRlh0NnZjYnc3VlU?oc=5",
+          "publishedAt": "2026-11-25T18:58:00.000Z",
+          "severity": "medium",
+          "titleZh": "11 月 26 日巴黎学生和教师示威：会发生什么？",
+          "content": null
+        },
+        {
+          "title": "Manifestation étudiante du 26 novembre à Paris : quel parcours pour le cortège ?",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVAxNFRuS3VKRnZTTFBITUIyZzJNNXZ1RWhTS3pVcHBtYldmNzNZUzNhdGJ3cXRPMnBvaHl1Z1hOb1FqS3dOamktYk1KazJIc1A2cl9jRGg1enMtNlRXNXM2X09ELWRqcDBDZWhnTUdGR3BBbENwU3VFRlpxeEszUUQ3djk0MzFXbEdnZGVQVXY1ZHVoWkNjSVpSREVKNWpfaUJ6MXJVZ1lGQnVuc2JPWGZ6VXljSGJfVnpDNjZ2MG90aUlvaldsbTNlTHpWNHBZWmJiUDFHRQ?oc=5",
+          "publishedAt": "2026-11-25T18:53:25.000Z",
+          "severity": "medium",
+          "titleZh": "11月26日巴黎学生示威：游行路线是哪条？",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 2,
+      "clashCount": 0,
+      "status": "recent"
+    },
+    {
       "date": "unknown",
       "articles": [
+        {
+          "title": "Aide universelle d’urgence violences conjugales : versée en prêt, est-ce à la victime ou à l’auteur des violences de la rembourser",
+          "source": "Hassan KOHEN",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV3dyTWRoQjM5bzZaZmFudTd3b3lyR1pvUU0tSHFfR2hqaW1nelg3b09LSjR4Y19KWGRTU3BDdDZVTVNpa0ZaWHNidjIyX1lyQlgtQmJLZW43dWlTdnJGekRRcWEwY2g2Q3BDNTdhVkxlTlpMTkRJYU1QY0hNQ3pFdk5HYjJHVGhOUUlIZHctODlpdjE4NWxJT3l3MW1iSEF4UjRrbnh2VlVHQTc4XzY0TG9wSS1uV3ZZRlQ5dGlPNA?oc=5",
+          "publishedAt": "2026-11-26T04:06:00.000Z",
+          "severity": "high",
+          "titleZh": "家庭暴力普遍紧急援助：以贷款形式支付，由暴力受害者或施暴者偿还",
+          "content": null
+        },
+        {
+          "title": "Greenpeace stages small protest during Trump's Poland visit",
+          "source": "Yeni Safak English",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUHlwb2tKVURLSkp6ak9TMXhFbEZHMmZmUkstdWtTOXBkeThRcjVDbWJHb3VVejByZUZ3bk1NdGhzOEFWa2NPd2p0WmJXS0lPM0ZzOUFqbW5kSHNhSnRrQ0NHYjV4SFVkQXlDZ19jXzFDUEFiYnBRUUhzV2NpY2JVMU55WWdwT1RaNWFmWnNPZThUVEowRnM4YnBSVHkzQQ?oc=5",
+          "publishedAt": "2026-11-26T02:21:49.000Z",
+          "severity": "medium",
+          "titleZh": "绿色和平组织在特朗普访问波兰期间举行小规模抗议",
+          "content": null
+        },
+        {
+          "title": "Report Allegations as Allegations, Whether the Accused Is Iran, Israel, or the US",
+          "source": "Jurist.org",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM1N4WVNFSXRiQ3NNNHJjWVlQUGRlaU9DajZpc1JJVGYwVThfNGtzVUtMOWpuYkdIa3FzZk50a3dNTFAzVTdjMksxc1Fkb1J3dVJONmlKUTIwUk5vTUVJOHhZNlh2RFE4TEZPbkVFUFVuTm9iZ1RxTWJKR3JRRDdEdmtHT25pYjJyVXB5Q28yNEk0aVI5LTJEMzZZamJCejBxQVp5WGZmaEFRU1NXZFk3aXd3MlVGVlh2aWlJeERn?oc=5",
+          "publishedAt": "2026-11-26T02:16:39.000Z",
+          "severity": "info",
+          "titleZh": "将指控报告为指控，无论被告是伊朗、以色列还是美国",
+          "content": null
+        },
+        {
+          "title": "“What is Happening in France?”: When Protests Tarnish the Country’s Image Among Foreign Companies",
+          "source": "Le Figaro",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcVZtalFIY0c2aVJoTW4wQk12WUVjTGtoQ3J2dHNPTzRxTW9uNTZTN09ROG51LUxhSldTYm50eVRBY2JCdHY5WmJGenNCd28xQm0yZlpCSFZOV04tYjlDMjlRdFFzSjI2Vm5OMkRITHVoWVRrZ0FxWVJKRWVhX1VvTU81Q0pkZ21QQ01kald6UDVpS1c3S013dVluWG1aZXUwWkJhZ2pNZlBaOHMxOHp4OUhSNUI5di1fVzdSR0h3dnF0WGxXaW91U2YwaEJJTTVsdVE?oc=5",
+          "publishedAt": "2026-11-26T02:00:00.000Z",
+          "severity": "medium",
+          "titleZh": "“法国正在发生什么？”：当抗议活动损害了法国在外国公司中的形象时",
+          "content": null
+        },
+        {
+          "title": "Manifestations en France | Gaz lacrymogènes : les femmes sont-elles plus touchées ?",
+          "source": "La Presse",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVRqSVBfUXdXaDc5OXdaV01KcmVtV3BzR1JncTFNQzFseWowWWNZX0FBOTJYSzYtUWphQmk3TTVwOFNKdXpDelM4R2tITk5ibzh3Y2tGZjlQYzlkMi1hd0JXMzR0dzFhZHJjZ2VldUpJenptVFd2YTFsWHF1Qi1BSUVfTFpHRlhwdGZXdkhYWDZseVlwWlpnUWRNdFVLR09MNGF3enBTN25SUUU1RUZTRVhMRXNvODQ4NnJiMVhWNGV0TW5LZnM0bzR3?oc=5",
+          "publishedAt": "2026-11-26T00:00:00.000Z",
+          "severity": "medium",
+          "titleZh": "法国示威|催泪瓦斯：女性受影响更大吗？",
+          "content": null
+        },
+        {
+          "title": "Grève Tour Eiffel : le BAPS au cœur de la polémique à Paris",
+          "source": "horticulture-abadie-pyrenees.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQemRTMXVuY1FLYWdkZG44dnJMV3Bvdzl0bkd0MC1MWllTeEF0YkxtLWNRX044Z2JKTG16RnhsRFY3MkZTUG5xb2ZDb3NQR2lUZzQ3bVZIakkySndqR2Zabl83TEVraVRiMlVNaDN1QWlMbXAyZ1JUVWpJNmZVcWNhLWRB?oc=5",
+          "publishedAt": "2026-11-25T23:34:10.000Z",
+          "severity": "medium",
+          "titleZh": "埃菲尔铁塔罢工：BAPS 是巴黎争议的核心",
+          "content": null
+        },
+        {
+          "title": "Le Pen party leaks: prefect dismissed, Paris deputy prosecutor placed under investigation",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQVVNb25TN0p3U285SFYzZy0zVGZJTzdHMi1QRnA3eVpHUmNoOUNiSEZ2dElxUm55WjU3d3Vud1RUNXVJdzVSWHUxa3A3el9YUWFHZmMyLVAyelMxVHJrYm4xTjBBenlLZ0NQWGduVW5SMUpPZXNIaGFxeDFDaEl1cEVDUjA1SUcyZTM4ZjZRWFMxbnR1UXc5MEEtcG0tWDNoaFFiZU5PbzdJSHc3b2dKbVBpdVYxQQ?oc=5",
+          "publishedAt": "2026-11-25T22:25:38.000Z",
+          "severity": "info",
+          "titleZh": "勒庞政党泄密：省长被解职，巴黎副检察官接受调查",
+          "content": null
+        },
         {
           "title": "Violences sexistes et sexuelles : 60 personnes mobilisées à Évreux pour briser le silence",
           "source": "Paris Normandie",
@@ -181,15 +245,6 @@
           "publishedAt": "2026-11-25T20:04:32.000Z",
           "severity": "info",
           "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
-          "content": null
-        },
-        {
-          "title": "À Paris, la libération sous bracelet d'un animateur accusé d'agressions sexuelles indigne",
-          "source": "Yahoo Actualités",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUnd4NFVnWV9vZDI2Q0xNTk1pQnI3ZEp3YkljMUp0VHdKTm1fU2hmUWxuVWJHcV9vUHY5dkFCZUFqZG9vRjEyVW9hNjFIUWEtdWZzUEJOYllQYlRuODFhMHphZ1A5Vl9xWC0yRnBRczNqNEdhcEQ2TUlTTU5Za2R4VXpB?oc=5",
-          "publishedAt": "2026-11-25T19:56:11.000Z",
-          "severity": "info",
-          "titleZh": "在巴黎，一名被指控性侵犯的主持人被释放的手镯令人震惊",
           "content": null
         },
         {
@@ -257,7 +312,7 @@
         },
         {
           "title": "Grève Eurostar : 25 %, 50 % ou billet entier, ce que chaque voyageur peut réclamer",
-          "source": "stephanelarue.com",
+          "source": "Stéphane Larue News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM25ZU21tUVlyaWNGVHhGQWVPQm45cDhwLUZsMHNXMW4yemdaOGNqcWZjMWNEOW9mSTJ2Ti11VWdJUThkZlJhVXNGak5zYll1Yy1DWkpYWHM5aDJCaTNuVEhsT0hDbWRPQWFVbFotZFJlRW5rTE83LTBzNGNyZjdXekdKOVU2aFV4Y1MyWEdjeVVqd1JEN3ZIbDVDMGlCWkx6WVhr?oc=5",
           "publishedAt": "2026-11-25T18:03:04.000Z",
           "severity": "medium",
@@ -274,21 +329,21 @@
           "content": null
         },
         {
-          "title": "Trafic Eurostar perturbé par une grève surprise : un train annulé, d’autres retardés au départ de Bruxelles-Midi",
-          "source": "RTBF",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbVdYeUd4UzZxTXlpd3FvT2l1UFBzRVAyTW5wdU55ai1aNjdyRERNeWU1T1c2cXNJM3hqV2xnZ2tHbVhIb0J5OU1oRGl0bV9EZ20yWGtvczBGbVltSlJGUFV1bWRVaE1oVUc1Nl91WnJ6MDdMSFVMTzE2RkFuMUxSOVU2U3U1NFUzZkJIaDBtdUlOM1p6V1cyNUgxRE5kdnhwMUZOemdLNTRQVzJGUTdzRHVwVGhDY2FMUVl2Ym5KdU1SNFVUOFhtNzFBMXhCQ28?oc=5",
-          "publishedAt": "2026-11-25T17:53:47.000Z",
-          "severity": "medium",
-          "titleZh": "欧洲之星交通因突然罢工而中断：一趟列车取消，其他列车延迟从布鲁塞尔南站出发",
-          "content": null
-        },
-        {
           "title": "CARTE. Des mobilisations à l’occasion de la Journée pour l’élimination des violences à l’égard des femmes",
           "source": "Ouest-France",
           "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNTkE4bTRWaENUSXVjWGJVM2RkTUNQMFB5MUxHa1AySldOYlo2UXlKVU1ydnNXNkt4WlE2ZTM2OWVtbEZEQk9ObEp4ajV1YXdxbC1tYWpJVXRYR0U5Yk5pcXhlOGVWTDM0Uk9kRm56OXE4dUV6LXA2UmJxTTI0cm1semd4LWdtYUc0eUgxbzlWNjJKdWMzWHMydjV4QnFWd0thMU1RUVo0QVZXYjd2QUFCMDM2WHZHMU5ZU3BVNXZuY3YxYURScGxRVVBHbDN6cm1XU21EYkdBdzdLTm0wVWl2N1FjRnRUeDZpV0JwYUlMZmFjbUZFMHVGMzhkQkhYNlBQNmxqWjN2a2VSRHQ5al96bEhEZjdQQ1pkQzZnbWR4RXpHMGNKZ1E?oc=5",
           "publishedAt": "2026-11-25T17:00:19.000Z",
           "severity": "high",
           "titleZh": "地图。消除对妇女暴力日之际的动员",
+          "content": null
+        },
+        {
+          "title": "Transports. La circulation des Eurostar entre Paris et Londres très perturbée en raison d'une grève surprise",
+          "source": "Le Progrès",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1RZS0RIcDk0Z1NZejhkUmNlTjM3aVlIaXF0OURnczNsU0RoNFRqUmJieUVRMmNMSHdrcG9Jb2RJbEZ3cXVaVDdFaFpvOFVYMC10cDZZa2xkS2JGTXl2YzdZOHVPUE5WX0NBeDVMcU94Mld4a3lTaGpWX0tMS2diUmhZZ0stcnFKWEY5U2g1eFc3RldVVUFtY0dCTXlFVVY5eWhNTl9qTXpwT2p3bzhKNkdZekZMN1JNcWU5YjU4enh4Rm1CLWpvVmVwZkJLdkZKZWZHSFdR?oc=5",
+          "publishedAt": "2026-11-25T16:47:22.000Z",
+          "severity": "medium",
+          "titleZh": "运输。由于突然罢工，巴黎和伦敦之间的欧洲之星交通严重中断",
           "content": null
         },
         {
@@ -328,18 +383,27 @@
           "content": null
         },
         {
+          "title": "Four in five French Jews have experienced antisemitism, new survey finds",
+          "source": "The Jewish Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzUHBlT1UyQS1fLUNOUVRPY216MkVUNXhvSHV0ZGxrSGxIbE54S01ydW9lWFgyUmVzVTVvdDEyQ19SczQ5RDZfV2w2bkRnOWI5Nm9XZ0ZtUmMwMmM4dTg3N2RCOGdRNnl2MF82eFhzOFVwLTlwQVh1RE5aLVF1QQ?oc=5",
+          "publishedAt": "2026-11-25T16:08:41.000Z",
+          "severity": "info",
+          "titleZh": "新调查发现，五分之四的法国犹太人经历过反犹太主义",
+          "content": null
+        },
+        {
           "title": "Annulation de trains Eurostar entre Paris et Londres en raison d’une grève surprise",
           "source": "سانا",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YZHR4OEVQWU5ybTFhamRNYWFMMG51eUM2NkoyUklNclpnTlVlc2Z4ekVndnZCUkJ2OEZrajA3Zy1hQjhmb3RMTGpEWVFoNVdnSmgw?oc=5",
           "publishedAt": "2026-11-25T15:54:01.000Z",
           "severity": "medium",
-          "titleZh": "由于突然罢工，巴黎和伦敦之间的欧洲之星列车取消",
+          "titleZh": "由于突然罢工，巴黎和���敦之间的欧洲之星列车取消",
           "content": null
         },
         {
           "title": "Grève surprise chez Eurostar, un pot de départ avec 400 invités dans un hôtel de luxe aurait mis le feu aux poudres",
-          "source": "Capital.fr",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVk1PNUNoaGU0NXpuQTVtQUVrMjlzWkhMMjF3enAxY3JHTDZiQmRpM1BkR2RzeXpHMTJ0MEJhS0JlOHM2dlRXMmJPMXVSc0R2WGl3VFpVVFZiZ1Jjd3huRFdrNjllZnkxc2VmTzdxNGtWVWQwOUFmZG5WdTBjVkJhM0ZvRXBKN3VKaFhqZVdVaGRpZlNaNlFkLU9tZ2pGSGpXTnZxdm93TzhJR01yOGhETWVpb3pveFBaYkFhbHROSFRHeURrbnpoaU9US2k1bS0yZUd3b0tMLTRfTl90ZU5wdkdnbDZsNmU3YjN4MGR1dnBtY1lZYlJn?oc=5",
+          "source": "Yahoo Finance France",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRk10N2REZjJfWmcwN1NzQk9sOTlBMWhvMVdVbFZ6cUlNVlR3NThCcW12c29XN2tHS1lqa0RJWm5hWmx2eDBvaGZNY1VTUkxZX0dPREdTYnVtSlBJNW00dTRDTEVPZ2lTT3hkTmMxTHVmMloxMk5QUXpyelFRRVBZMlpwcWt1RTIwZlFDNVFjT3JicjdScWhj?oc=5",
           "publishedAt": "2026-11-25T15:42:29.000Z",
           "severity": "medium",
           "titleZh": "欧洲之星突袭，豪华酒店400人告别派对燃爆粉",
@@ -347,7 +411,7 @@
         },
         {
           "title": "Une grève surprise chez Eurostar, de nombreux trains supprimés entre Londres, Paris et Bruxelles",
-          "source": "Franceinfo",
+          "source": "franceinfo",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWVUxTThYVk5xRVhYNmtqeVAza1QxMWhwMjJhWUdZNEhERkxaTlpnd01SQkNLNGU2UFdVMFBGRUxuVXJobHF4eWlIOUE2eTZLd0lxOVFMMGtfeGZuc0RSaGMwcVdvUWFXQ1ViMU8zWDlENGVrcE1VVGlYZTMxLWJfeUtjOUVIZ2NOMjRkdnUtM0NOS2xWTXdRSEpZb0JLVU5rLXRtTmRDNjN5ZWFxLVRiYmZHRF9oVmhDdTViLV9kbHUyazFEeGF2Rkp1X0tkc3hMeFFmeVdBWmxsR1phazA3WXZqcjVlQkVL?oc=5",
           "publishedAt": "2026-11-25T15:34:47.000Z",
           "severity": "medium",
@@ -371,60 +435,6 @@
           "severity": "medium",
           "titleZh": "欧洲之星罢工：巴黎和伦敦之间的火车取消，退款，该怎么办？",
           "content": null
-        },
-        {
-          "title": "What will the weather be like this weekend, November 21 and 22, in Paris and Île-de-France?",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOV9HS2tGYXBiSEFXOFNFU3hfQ21xOV9HdFE4Q18wQ1lTenZZOFpBbGJSc21lcG1HbGZSNVNUeDE2TzZTeVRwbmVPTW9HUzdWeGhjem9XbDFSeEVsVW5pNDJFc3RQZXZOcm1PSTZKdEJ2eTR5a3JzRnB1MnpmOE9lYUNYNnpqeXFzQlBWYndVREhuRG5zRnBCeGp6b0JYVU0tMEZ2bzdlejZSa1gyQzZ4VVF1ajBzMlpUVmF5dDFPSnBVZGNKQjVzMy16aU9BVkhMamV3R2FOUnlCZ09RckZUUTdn?oc=5",
-          "publishedAt": "2026-11-25T14:30:24.000Z",
-          "severity": "info",
-          "titleZh": "本周末（11 月 21 日至 22 日）巴黎和法兰西岛的天气怎么样？",
-          "content": null
-        },
-        {
-          "title": "Transports. La circulation des Eurostar entre Paris et Londres très perturbée en raison d'une grève surprise",
-          "source": "Le Dauphiné Libéré",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXV0SV9JVk5NWG9lM1JSalhGOEFRZUNkWTkzWXBqaHB3Ni1fdFdlRVFKN2JtMjI1WnJRTWE3SHo5Q2oxTmtyeHp2Q2lxNGFESHRaRlR4NGhoRmRuZVFoOXVpN3NPaU9palZXckNnLUVfdlNSbDdNb0xnUGhoMXpLM0tRMWdvcUo2QUk4cmxPM1E0amlEU0RjdFpXbmJlWDk0dWl5dzh6VDdXcHJWU3FsVVRBQ3VFbUtPOHRlTlBaVU1qV18xZHY2bmdqaUVQaDBTR2U5Z0J6VnE?oc=5",
-          "publishedAt": "2026-11-25T14:27:49.000Z",
-          "severity": "medium",
-          "titleZh": "运输。由于突然罢工，巴黎和伦敦之间的欧洲之星交通严重中断",
-          "content": null
-        },
-        {
-          "title": "La Paris Basketball Foundation lutte contre les violences faites aux femmes",
-          "source": "Paris Basketball",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjFfRkFmQkZSTlpqQkh6S2N5dmRqQ2tOYWp3b0NlVlRreUhOQjZDajNnVnQ3REFRd2szSFB1RnJlTVlPWUMyamloZHJxSENGNzNFQUJYQjBxYWlvRG1YYW9PRDVPNThwdzVnRTctOUJJTVc3NS1SZGpHUFo4RkttN2VjS3dwblY2YzB2VGRSRENzWUxUMkxrUU1mWTByd1VSZXZ4VVJQbHdOaVZOTlBhVXR3?oc=5",
-          "publishedAt": "2026-11-25T14:18:29.000Z",
-          "severity": "high",
-          "titleZh": "巴黎篮球基金会打击针对女性的暴力行为",
-          "content": null
-        },
-        {
-          "title": "Grève surprise chez Eurostar : un luxueux pot de départ au cœur des tensions ?",
-          "source": "Le Soir",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0VXTkZEQ1hpYldYcWVhYXBBdkxRb1J5ZnBpTElQUk5mTDVjcFh6enFRLXRXazVJa3VPMWszYlFKOEgzU00xOFRhWkJXLU01R0pCcWtESHB3NHByY1l4d0tOWW5YVTMwX25QVjZlMEJnM2NEUUoxYlpFd1J4UzhraHhGdVo4bHh4WXplVHZ6dzl0bTNrS0xFb2FSSWp1bkMxNWtYN183SmEtMzdmaDlsVmNuOUVBb3VkTWVmc3dPVzU?oc=5",
-          "publishedAt": "2026-11-25T13:25:07.000Z",
-          "severity": "medium",
-          "titleZh": "欧洲之星突然罢工：在紧张局势的中心举行豪华告别派对？",
-          "content": null
-        },
-        {
-          "title": "A generation living on borrowed futures: France’s youth take to the streets",
-          "source": "联合早报",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYy1xUkpIS1FmdFBQUExfN1hWV3dKdnU0QjFHWmlINWZ1cDFZR1A0eUgtRVh4T1lPdXc1dVNjNnYzMDRrOUZZei1weTZ6NVJ2b3NZY2F5MkxPNE1yWWcyYXJfY05oZ3NYbGNjRkJybXFSWEJwOXUtelhvSFFFY1ZKNUdOLWFIcXhSZEc1TUpsbDB6S3RJTmIzM1A0cUVkQ2pMTWc4?oc=5",
-          "publishedAt": "2026-11-25T13:07:03.000Z",
-          "severity": "info",
-          "titleZh": "靠借来的未来生活的一代人：法国年轻人走上街头",
-          "content": null
-        },
-        {
-          "title": "Eurostar : une grève surprise supprime sept trains, comment se faire rembourser",
-          "source": "Stéphane Larue News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYVpMYWtTd1lqVmlKX18tSEo4dUdTUW4taVhWb0lMR0hHNmNTM3Y0akgxRjU3X3hPQmZoU09RYnB6M3BTVUZKcG90d3pnQklFaUNJVEl5RnRZUWg5VXBMU204bmtiaHhueGhJV0RXbDRSaTJWRml2enVhd3FJTG1NVXVrTWRxRHlxUkRzcGpFOF9yYWNkdnREeS1pczhlUHEwVHMyWE9B?oc=5",
-          "publishedAt": "2026-11-25T13:07:00.000Z",
-          "severity": "medium",
-          "titleZh": "欧洲之星：突然罢工取消了七趟列车，如何获得报销",
-          "content": null
         }
       ],
       "places": [
@@ -435,12 +445,84 @@
         11,
         12
       ],
-      "articleCount": 30,
+      "articleCount": 31,
       "clashCount": 5,
       "status": "unknown"
     }
   ],
   "latest": [
+    {
+      "title": "Aide universelle d’urgence violences conjugales : versée en prêt, est-ce à la victime ou à l’auteur des violences de la rembourser",
+      "source": "Hassan KOHEN",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV3dyTWRoQjM5bzZaZmFudTd3b3lyR1pvUU0tSHFfR2hqaW1nelg3b09LSjR4Y19KWGRTU3BDdDZVTVNpa0ZaWHNidjIyX1lyQlgtQmJLZW43dWlTdnJGekRRcWEwY2g2Q3BDNTdhVkxlTlpMTkRJYU1QY0hNQ3pFdk5HYjJHVGhOUUlIZHctODlpdjE4NWxJT3l3MW1iSEF4UjRrbnh2VlVHQTc4XzY0TG9wSS1uV3ZZRlQ5dGlPNA?oc=5",
+      "publishedAt": "2026-11-26T04:06:00.000Z",
+      "severity": "high",
+      "titleZh": "家庭暴力普遍紧急援助：以贷款形式支付，由暴力受害者或施暴者偿还",
+      "content": null
+    },
+    {
+      "title": "Greenpeace stages small protest during Trump's Poland visit",
+      "source": "Yeni Safak English",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUHlwb2tKVURLSkp6ak9TMXhFbEZHMmZmUkstdWtTOXBkeThRcjVDbWJHb3VVejByZUZ3bk1NdGhzOEFWa2NPd2p0WmJXS0lPM0ZzOUFqbW5kSHNhSnRrQ0NHYjV4SFVkQXlDZ19jXzFDUEFiYnBRUUhzV2NpY2JVMU55WWdwT1RaNWFmWnNPZThUVEowRnM4YnBSVHkzQQ?oc=5",
+      "publishedAt": "2026-11-26T02:21:49.000Z",
+      "severity": "medium",
+      "titleZh": "绿色和平组织在特朗普访问波兰期间举行小规模抗议",
+      "content": null
+    },
+    {
+      "title": "Report Allegations as Allegations, Whether the Accused Is Iran, Israel, or the US",
+      "source": "Jurist.org",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM1N4WVNFSXRiQ3NNNHJjWVlQUGRlaU9DajZpc1JJVGYwVThfNGtzVUtMOWpuYkdIa3FzZk50a3dNTFAzVTdjMksxc1Fkb1J3dVJONmlKUTIwUk5vTUVJOHhZNlh2RFE4TEZPbkVFUFVuTm9iZ1RxTWJKR3JRRDdEdmtHT25pYjJyVXB5Q28yNEk0aVI5LTJEMzZZamJCejBxQVp5WGZmaEFRU1NXZFk3aXd3MlVGVlh2aWlJeERn?oc=5",
+      "publishedAt": "2026-11-26T02:16:39.000Z",
+      "severity": "info",
+      "titleZh": "将指控报告为指控，无论被告是伊朗、以色列还是美国",
+      "content": null
+    },
+    {
+      "title": "“What is Happening in France?”: When Protests Tarnish the Country’s Image Among Foreign Companies",
+      "source": "Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcVZtalFIY0c2aVJoTW4wQk12WUVjTGtoQ3J2dHNPTzRxTW9uNTZTN09ROG51LUxhSldTYm50eVRBY2JCdHY5WmJGenNCd28xQm0yZlpCSFZOV04tYjlDMjlRdFFzSjI2Vm5OMkRITHVoWVRrZ0FxWVJKRWVhX1VvTU81Q0pkZ21QQ01kald6UDVpS1c3S013dVluWG1aZXUwWkJhZ2pNZlBaOHMxOHp4OUhSNUI5di1fVzdSR0h3dnF0WGxXaW91U2YwaEJJTTVsdVE?oc=5",
+      "publishedAt": "2026-11-26T02:00:00.000Z",
+      "severity": "medium",
+      "titleZh": "“法国正在发生什么？”：当抗议活动损害了法国在外国公司中的形象时",
+      "content": null
+    },
+    {
+      "title": "Manifestations en France | Gaz lacrymogènes : les femmes sont-elles plus touchées ?",
+      "source": "La Presse",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVRqSVBfUXdXaDc5OXdaV01KcmVtV3BzR1JncTFNQzFseWowWWNZX0FBOTJYSzYtUWphQmk3TTVwOFNKdXpDelM4R2tITk5ibzh3Y2tGZjlQYzlkMi1hd0JXMzR0dzFhZHJjZ2VldUpJenptVFd2YTFsWHF1Qi1BSUVfTFpHRlhwdGZXdkhYWDZseVlwWlpnUWRNdFVLR09MNGF3enBTN25SUUU1RUZTRVhMRXNvODQ4NnJiMVhWNGV0TW5LZnM0bzR3?oc=5",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "severity": "medium",
+      "titleZh": "法国示威|催泪瓦斯：女性受影响更大吗？",
+      "content": null
+    },
+    {
+      "title": "Grève Tour Eiffel : le BAPS au cœur de la polémique à Paris",
+      "source": "horticulture-abadie-pyrenees.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQemRTMXVuY1FLYWdkZG44dnJMV3Bvdzl0bkd0MC1MWllTeEF0YkxtLWNRX044Z2JKTG16RnhsRFY3MkZTUG5xb2ZDb3NQR2lUZzQ3bVZIakkySndqR2Zabl83TEVraVRiMlVNaDN1QWlMbXAyZ1JUVWpJNmZVcWNhLWRB?oc=5",
+      "publishedAt": "2026-11-25T23:34:10.000Z",
+      "severity": "medium",
+      "titleZh": "埃菲尔铁塔罢工：BAPS 是巴黎争议的核心",
+      "content": null
+    },
+    {
+      "title": "Manifestation le 9 décembre en Belgique contre les exécutions massives en Iran",
+      "source": "CSDHI",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXVGbHJCanBTZnYxOUFZbS02N3FFVkVMUDMyUXlKbG1CSGVMOE5NYVlOVUdXMFlnUVNmYmhXb0pMXzY2b1AxWEV5VUtWSE5XRm0zUERZdVhSWlN0eUpKLTNmSk1kMjQ2NWtueV9kZEM3VlNrWHYzS1pqRkJSLUhrVmhXOTRndUlCWkRwNHhLamUxUkpLSXFWemNmX3ZCM2NLT1hLYUVfNDJVQ18xdGcyT0hoMA?oc=5",
+      "publishedAt": "2026-11-25T22:35:00.000Z",
+      "severity": "medium",
+      "titleZh": "12月9日比利时举行示威抗议伊朗大规模处决",
+      "content": null
+    },
+    {
+      "title": "Le Pen party leaks: prefect dismissed, Paris deputy prosecutor placed under investigation",
+      "source": "France 24",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQVVNb25TN0p3U285SFYzZy0zVGZJTzdHMi1QRnA3eVpHUmNoOUNiSEZ2dElxUm55WjU3d3Vud1RUNXVJdzVSWHUxa3A3el9YUWFHZmMyLVAyelMxVHJrYm4xTjBBenlLZ0NQWGduVW5SMUpPZXNIaGFxeDFDaEl1cEVDUjA1SUcyZTM4ZjZRWFMxbnR1UXc5MEEtcG0tWDNoaFFiZU5PbzdJSHc3b2dKbVBpdVYxQQ?oc=5",
+      "publishedAt": "2026-11-25T22:25:38.000Z",
+      "severity": "info",
+      "titleZh": "勒庞政党泄密：省长被解职，巴黎副检察官接受调查",
+      "content": null
+    },
     {
       "title": "Violences sexistes et sexuelles : 60 personnes mobilisées à Évreux pour briser le silence",
       "source": "Paris Normandie",
@@ -461,9 +543,9 @@
     },
     {
       "title": "Violences faites aux femmes: de premiers rassemblements avant une journée d'action samedi",
-      "source": "tv5monde",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVEVlMUdaeVRDM3RaSkxBLWw1MkFpd1JXMmdYd1pPaFFfQm1sSVRjczhCV0stLWNVN29rTTl3UGVJQzhlb2FqTkVLcWhqYXZCVWhFdEl1X2xGNDVicmZEdUFHcnNHS2Q3cXh4M3hMb2VUemp6cFBRTWdURTFjYkhrSDZJVnVlQlMtM3BZVUtNa20zVDRTRE1BMXYtODBYNUtsZTI4UUY4akkwY2lld2diSlYyam1MZ1dfb1RrYU1JQTJjcnVNM2xGemxIZWloRnVkNXA3YUZn?oc=5",
-      "publishedAt": "2026-11-25T20:07:09.000Z",
+      "source": "La Provence",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeFIzYWRsOWo4MUVhQTBaSWRJQk1JeTU0eVRuTlZvcTRiTm9yTWVrQ08ycHlEWjNnb3NmaDN2LXRkQmNuaXp3QU1RUU5sQklhR2JYZGdjUnhiRjh3TUJvWHZZU2VmRkhaMDJvQ1plVExMZGVfR1FxTnd4UVdCWF9saVdiMGpQalRIemZNMEZGelN5SlphaURUZ3V0MmsyaEJLRlNITXdqd1ZfY2hwcml4SVZ5ZEhuWHJJbktWR2h2M29WTDZXOS1QdEZhMTJicEVSM1dIQU5UYXl4bkFKTzlyemhrRzY?oc=5",
+      "publishedAt": "2026-11-25T20:07:32.000Z",
       "severity": "high",
       "titleZh": "针对妇女的暴力行为：周六行动日之前的首次集会",
       "content": null
@@ -475,15 +557,6 @@
       "publishedAt": "2026-11-25T20:04:32.000Z",
       "severity": "info",
       "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
-      "content": null
-    },
-    {
-      "title": "À Paris, la libération sous bracelet d'un animateur accusé d'agressions sexuelles indigne",
-      "source": "Yahoo Actualités",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUnd4NFVnWV9vZDI2Q0xNTk1pQnI3ZEp3YkljMUp0VHdKTm1fU2hmUWxuVWJHcV9vUHY5dkFCZUFqZG9vRjEyVW9hNjFIUWEtdWZzUEJOYllQYlRuODFhMHphZ1A5Vl9xWC0yRnBRczNqNEdhcEQ2TUlTTU5Za2R4VXpB?oc=5",
-      "publishedAt": "2026-11-25T19:56:11.000Z",
-      "severity": "info",
-      "titleZh": "在巴黎，一名被指控性侵犯的主持人被释放的手镯令人震惊",
       "content": null
     },
     {
@@ -502,6 +575,15 @@
       "publishedAt": "2026-11-25T19:01:19.000Z",
       "severity": "info",
       "titleZh": "2007 年 11 月 25 日：安全秩序和工人阶级社区的起义——重返维利耶勒贝尔战役",
+      "content": null
+    },
+    {
+      "title": "Manifestation étudiante et enseignants du 26 novembre à Paris : à quoi s'attendre ?",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORl9iVHhkNDVDNl9OZnN0NUZSV2E2WlBrZW1VRmVacVdmYVJXeVJOTlNISk5RbldqUXl4TDFCc25TM0FjOEVQcEJVU2s4bU1selVyYVZCdWY4azVwaUZiVWtxLU84dkIwUm14ell0ZmcwVWNwRjlEMDl1dHpCTWp0a0EyMDNMSnBueGhOWTI2UWgwZzVXMFVvc01wLS05amNOOXI1QXVqclptMGZyRmZsTWdMZnU5RllPdWVUa0lEaUF2Q01OQTUyUlk4dHo5ZENtRlh0NnZjYnc3VlU?oc=5",
+      "publishedAt": "2026-11-25T18:58:00.000Z",
+      "severity": "medium",
+      "titleZh": "11 月 26 日巴黎学生和教师示威：会发生什么？",
       "content": null
     },
     {
@@ -550,15 +632,6 @@
       "content": null
     },
     {
-      "title": "Manifestation étudiante et enseignants du 26 novembre à Paris : à quoi s'attendre ?",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORl9iVHhkNDVDNl9OZnN0NUZSV2E2WlBrZW1VRmVacVdmYVJXeVJOTlNISk5RbldqUXl4TDFCc25TM0FjOEVQcEJVU2s4bU1selVyYVZCdWY4azVwaUZiVWtxLU84dkIwUm14ell0ZmcwVWNwRjlEMDl1dHpCTWp0a0EyMDNMSnBueGhOWTI2UWgwZzVXMFVvc01wLS05amNOOXI1QXVqclptMGZyRmZsTWdMZnU5RllPdWVUa0lEaUF2Q01OQTUyUlk4dHo5ZENtRlh0NnZjYnc3VlU?oc=5",
-      "publishedAt": "2026-11-25T18:48:00.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 26 日巴黎学生和教师示威：会发生什么？",
-      "content": null
-    },
-    {
       "title": "Like 007, French police now have a ‘license to kill’",
       "source": "People's World",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYWhQVTdrT0MzNHpieDV3dU15UTRibUZmcEsyckwyQjF0aVJEUDVDT0RvUlFzQWlzLUU5RVliaUFaMm82VEV6bFI1d0hCN2tpeGR5MmlkblliQ3NaazhjV2tpdkNNNEViLS1OVThMXzRHMEhhd3cyTkY3RTZZQ0Z1TTk5dS1Uem5JSl9LZk1VZWs?oc=5",
@@ -578,7 +651,7 @@
     },
     {
       "title": "Grève Eurostar : 25 %, 50 % ou billet entier, ce que chaque voyageur peut réclamer",
-      "source": "stephanelarue.com",
+      "source": "Stéphane Larue News",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM25ZU21tUVlyaWNGVHhGQWVPQm45cDhwLUZsMHNXMW4yemdaOGNqcWZjMWNEOW9mSTJ2Ti11VWdJUThkZlJhVXNGak5zYll1Yy1DWkpYWHM5aDJCaTNuVEhsT0hDbWRPQWFVbFotZFJlRW5rTE83LTBzNGNyZjdXekdKOVU2aFV4Y1MyWEdjeVVqd1JEN3ZIbDVDMGlCWkx6WVhr?oc=5",
       "publishedAt": "2026-11-25T18:03:04.000Z",
       "severity": "medium",
@@ -595,21 +668,21 @@
       "content": null
     },
     {
-      "title": "Trafic Eurostar perturbé par une grève surprise : un train annulé, d’autres retardés au départ de Bruxelles-Midi",
-      "source": "RTBF",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbVdYeUd4UzZxTXlpd3FvT2l1UFBzRVAyTW5wdU55ai1aNjdyRERNeWU1T1c2cXNJM3hqV2xnZ2tHbVhIb0J5OU1oRGl0bV9EZ20yWGtvczBGbVltSlJGUFV1bWRVaE1oVUc1Nl91WnJ6MDdMSFVMTzE2RkFuMUxSOVU2U3U1NFUzZkJIaDBtdUlOM1p6V1cyNUgxRE5kdnhwMUZOemdLNTRQVzJGUTdzRHVwVGhDY2FMUVl2Ym5KdU1SNFVUOFhtNzFBMXhCQ28?oc=5",
-      "publishedAt": "2026-11-25T17:53:47.000Z",
-      "severity": "medium",
-      "titleZh": "欧洲之星交通因突然罢工而中断：一趟列车取消，其他列车延迟从布鲁塞尔南站出发",
-      "content": null
-    },
-    {
       "title": "CARTE. Des mobilisations à l’occasion de la Journée pour l’élimination des violences à l’égard des femmes",
       "source": "Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNTkE4bTRWaENUSXVjWGJVM2RkTUNQMFB5MUxHa1AySldOYlo2UXlKVU1ydnNXNkt4WlE2ZTM2OWVtbEZEQk9ObEp4ajV1YXdxbC1tYWpJVXRYR0U5Yk5pcXhlOGVWTDM0Uk9kRm56OXE4dUV6LXA2UmJxTTI0cm1semd4LWdtYUc0eUgxbzlWNjJKdWMzWHMydjV4QnFWd0thMU1RUVo0QVZXYjd2QUFCMDM2WHZHMU5ZU3BVNXZuY3YxYURScGxRVVBHbDN6cm1XU21EYkdBdzdLTm0wVWl2N1FjRnRUeDZpV0JwYUlMZmFjbUZFMHVGMzhkQkhYNlBQNmxqWjN2a2VSRHQ5al96bEhEZjdQQ1pkQzZnbWR4RXpHMGNKZ1E?oc=5",
       "publishedAt": "2026-11-25T17:00:19.000Z",
       "severity": "high",
       "titleZh": "地图。消除对妇女暴力日之际的动员",
+      "content": null
+    },
+    {
+      "title": "Transports. La circulation des Eurostar entre Paris et Londres très perturbée en raison d'une grève surprise",
+      "source": "Le Progrès",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1RZS0RIcDk0Z1NZejhkUmNlTjM3aVlIaXF0OURnczNsU0RoNFRqUmJieUVRMmNMSHdrcG9Jb2RJbEZ3cXVaVDdFaFpvOFVYMC10cDZZa2xkS2JGTXl2YzdZOHVPUE5WX0NBeDVMcU94Mld4a3lTaGpWX0tMS2diUmhZZ0stcnFKWEY5U2g1eFc3RldVVUFtY0dCTXlFVVY5eWhNTl9qTXpwT2p3bzhKNkdZekZMN1JNcWU5YjU4enh4Rm1CLWpvVmVwZkJLdkZKZWZHSFdR?oc=5",
+      "publishedAt": "2026-11-25T16:47:22.000Z",
+      "severity": "medium",
+      "titleZh": "运输。由于突然罢工，巴黎和伦敦之间的欧洲之星交通严重中断",
       "content": null
     },
     {
@@ -658,17 +731,26 @@
       "content": null
     },
     {
+      "title": "Four in five French Jews have experienced antisemitism, new survey finds",
+      "source": "The Jewish Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzUHBlT1UyQS1fLUNOUVRPY216MkVUNXhvSHV0ZGxrSGxIbE54S01ydW9lWFgyUmVzVTVvdDEyQ19SczQ5RDZfV2w2bkRnOWI5Nm9XZ0ZtUmMwMmM4dTg3N2RCOGdRNnl2MF82eFhzOFVwLTlwQVh1RE5aLVF1QQ?oc=5",
+      "publishedAt": "2026-11-25T16:08:41.000Z",
+      "severity": "info",
+      "titleZh": "新调查发现，五分之四的法国犹太人经历过反犹太主义",
+      "content": null
+    },
+    {
       "title": "Annulation de trains Eurostar entre Paris et Londres en raison d’une grève surprise",
       "source": "سانا",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YZHR4OEVQWU5ybTFhamRNYWFMMG51eUM2NkoyUklNclpnTlVlc2Z4ekVndnZCUkJ2OEZrajA3Zy1hQjhmb3RMTGpEWVFoNVdnSmgw?oc=5",
       "publishedAt": "2026-11-25T15:54:01.000Z",
       "severity": "medium",
-      "titleZh": "由于突然罢工，巴黎和伦敦之间的欧洲之星列车取消",
+      "titleZh": "由于突然罢工，巴黎和���敦之间的欧洲之星列车取消",
       "content": null
     },
     {
       "title": "Etudiants, enseignants du supérieur, policiers... A quoi faut-il s'attendre pour la mobilisation de jeudi",
-      "source": "Franceinfo",
+      "source": "franceinfo",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVDZIeGlOX1hVMFB1c0diZGFKNjhfUHdheGxpVjAwUVFsOHRKcDJlVldSbE5UVW92clhCTVgwV1FjM2g2ak5HUEZQMDdHQTNBWHU5Ym5GRWZLQ2ZBNV90VHo1SVZaS0M3UnFScDMtM050ZzM4eXFUbHVVQXBIQ2xDa2xwbnBvb1dQcFhTZXh0X1VwUHdMaFo3cGpIR1JselI1OV9IWnM3eDZRVXZfNkFraGNzMFd5YkdSYkVHaHY2QmpqUVpVNlgzYVR6Zk52TlFMbjV5blNnTlFSUjZBNHZVd0pEcm82VVA0T2JUaWxsbV9pS0J1RDljVkpMR0RWQXRZVHRiSzRFVQ?oc=5",
       "publishedAt": "2026-11-25T15:45:48.000Z",
       "severity": "info",
@@ -677,8 +759,8 @@
     },
     {
       "title": "Grève surprise chez Eurostar, un pot de départ avec 400 invités dans un hôtel de luxe aurait mis le feu aux poudres",
-      "source": "Capital.fr",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVk1PNUNoaGU0NXpuQTVtQUVrMjlzWkhMMjF3enAxY3JHTDZiQmRpM1BkR2RzeXpHMTJ0MEJhS0JlOHM2dlRXMmJPMXVSc0R2WGl3VFpVVFZiZ1Jjd3huRFdrNjllZnkxc2VmTzdxNGtWVWQwOUFmZG5WdTBjVkJhM0ZvRXBKN3VKaFhqZVdVaGRpZlNaNlFkLU9tZ2pGSGpXTnZxdm93TzhJR01yOGhETWVpb3pveFBaYkFhbHROSFRHeURrbnpoaU9US2k1bS0yZUd3b0tMLTRfTl90ZU5wdkdnbDZsNmU3YjN4MGR1dnBtY1lZYlJn?oc=5",
+      "source": "Yahoo Finance France",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRk10N2REZjJfWmcwN1NzQk9sOTlBMWhvMVdVbFZ6cUlNVlR3NThCcW12c29XN2tHS1lqa0RJWm5hWmx2eDBvaGZNY1VTUkxZX0dPREdTYnVtSlBJNW00dTRDTEVPZ2lTT3hkTmMxTHVmMloxMk5QUXpyelFRRVBZMlpwcWt1RTIwZlFDNVFjT3JicjdScWhj?oc=5",
       "publishedAt": "2026-11-25T15:42:29.000Z",
       "severity": "medium",
       "titleZh": "欧洲之星突袭，豪华酒店400人告别派对燃爆粉",
@@ -686,7 +768,7 @@
     },
     {
       "title": "Une grève surprise chez Eurostar, de nombreux trains supprimés entre Londres, Paris et Bruxelles",
-      "source": "Franceinfo",
+      "source": "franceinfo",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWVUxTThYVk5xRVhYNmtqeVAza1QxMWhwMjJhWUdZNEhERkxaTlpnd01SQkNLNGU2UFdVMFBGRUxuVXJobHF4eWlIOUE2eTZLd0lxOVFMMGtfeGZuc0RSaGMwcVdvUWFXQ1ViMU8zWDlENGVrcE1VVGlYZTMxLWJfeUtjOUVIZ2NOMjRkdnUtM0NOS2xWTXdRSEpZb0JLVU5rLXRtTmRDNjN5ZWFxLVRiYmZHRF9oVmhDdTViLV9kbHUyazFEeGF2Rkp1X0tkc3hMeFFmeVdBWmxsR1phazA3WXZqcjVlQkVL?oc=5",
       "publishedAt": "2026-11-25T15:34:47.000Z",
       "severity": "medium",
@@ -721,84 +803,12 @@
       "content": null
     },
     {
-      "title": "What will the weather be like this weekend, November 21 and 22, in Paris and Île-de-France?",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOV9HS2tGYXBiSEFXOFNFU3hfQ21xOV9HdFE4Q18wQ1lTenZZOFpBbGJSc21lcG1HbGZSNVNUeDE2TzZTeVRwbmVPTW9HUzdWeGhjem9XbDFSeEVsVW5pNDJFc3RQZXZOcm1PSTZKdEJ2eTR5a3JzRnB1MnpmOE9lYUNYNnpqeXFzQlBWYndVREhuRG5zRnBCeGp6b0JYVU0tMEZ2bzdlejZSa1gyQzZ4VVF1ajBzMlpUVmF5dDFPSnBVZGNKQjVzMy16aU9BVkhMamV3R2FOUnlCZ09RckZUUTdn?oc=5",
-      "publishedAt": "2026-11-25T14:30:24.000Z",
-      "severity": "info",
-      "titleZh": "本周末（11 月 21 日至 22 日）巴黎和法兰西岛的天气怎么样？",
-      "content": null
-    },
-    {
       "title": "Météo à Paris ce week-end des 28 et 29 novembre, gel puis redoux",
       "source": "Sortir à Paris",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNanZ4eUZuOUN2aHZTR2pKUmlSOU11cHYxNGhOLWV3TWk0ZHlvMkJ3V1UyTzR0aHU0bmVWVDFvS2lLZHdocVQ2U29uYTladFp6RVl5eGRBUWdPZXR6a0xKOEhiam5ncVFtcDhjVDQ5UkF3czhwbndja2hoc3hBR0FDZ1QyZU83M0pidFZ0cXdORmptV09vek1tdllCTFJUVEYtMGhuY29mUXhIY1VtWFpYVFl0d1Q3V1BqYkkzOHlVa1lfN250QkE?oc=5",
-      "publishedAt": "2026-11-25T14:30:00.000Z",
+      "publishedAt": "2026-11-25T14:32:31.000Z",
       "severity": "info",
       "titleZh": "11 月 28 日至 29 日本周末巴黎天气先霜后温和",
-      "content": null
-    },
-    {
-      "title": "Transports. La circulation des Eurostar entre Paris et Londres très perturbée en raison d'une grève surprise",
-      "source": "Le Dauphiné Libéré",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXV0SV9JVk5NWG9lM1JSalhGOEFRZUNkWTkzWXBqaHB3Ni1fdFdlRVFKN2JtMjI1WnJRTWE3SHo5Q2oxTmtyeHp2Q2lxNGFESHRaRlR4NGhoRmRuZVFoOXVpN3NPaU9palZXckNnLUVfdlNSbDdNb0xnUGhoMXpLM0tRMWdvcUo2QUk4cmxPM1E0amlEU0RjdFpXbmJlWDk0dWl5dzh6VDdXcHJWU3FsVVRBQ3VFbUtPOHRlTlBaVU1qV18xZHY2bmdqaUVQaDBTR2U5Z0J6VnE?oc=5",
-      "publishedAt": "2026-11-25T14:27:49.000Z",
-      "severity": "medium",
-      "titleZh": "运输。由于突然罢工，巴黎和伦敦之间的欧洲之星交通严重中断",
-      "content": null
-    },
-    {
-      "title": "La Paris Basketball Foundation lutte contre les violences faites aux femmes",
-      "source": "Paris Basketball",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjFfRkFmQkZSTlpqQkh6S2N5dmRqQ2tOYWp3b0NlVlRreUhOQjZDajNnVnQ3REFRd2szSFB1RnJlTVlPWUMyamloZHJxSENGNzNFQUJYQjBxYWlvRG1YYW9PRDVPNThwdzVnRTctOUJJTVc3NS1SZGpHUFo4RkttN2VjS3dwblY2YzB2VGRSRENzWUxUMkxrUU1mWTByd1VSZXZ4VVJQbHdOaVZOTlBhVXR3?oc=5",
-      "publishedAt": "2026-11-25T14:18:29.000Z",
-      "severity": "high",
-      "titleZh": "巴黎篮球基金会打击针对女性的暴力行为",
-      "content": null
-    },
-    {
-      "title": "Grève surprise chez Eurostar : un luxueux pot de départ au cœur des tensions ?",
-      "source": "Le Soir",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0VXTkZEQ1hpYldYcWVhYXBBdkxRb1J5ZnBpTElQUk5mTDVjcFh6enFRLXRXazVJa3VPMWszYlFKOEgzU00xOFRhWkJXLU01R0pCcWtESHB3NHByY1l4d0tOWW5YVTMwX25QVjZlMEJnM2NEUUoxYlpFd1J4UzhraHhGdVo4bHh4WXplVHZ6dzl0bTNrS0xFb2FSSWp1bkMxNWtYN183SmEtMzdmaDlsVmNuOUVBb3VkTWVmc3dPVzU?oc=5",
-      "publishedAt": "2026-11-25T13:25:07.000Z",
-      "severity": "medium",
-      "titleZh": "欧洲之星突然罢工：在紧张局势的中心举行豪华告别派对？",
-      "content": null
-    },
-    {
-      "title": "A generation living on borrowed futures: France’s youth take to the streets",
-      "source": "联合早报",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYy1xUkpIS1FmdFBQUExfN1hWV3dKdnU0QjFHWmlINWZ1cDFZR1A0eUgtRVh4T1lPdXc1dVNjNnYzMDRrOUZZei1weTZ6NVJ2b3NZY2F5MkxPNE1yWWcyYXJfY05oZ3NYbGNjRkJybXFSWEJwOXUtelhvSFFFY1ZKNUdOLWFIcXhSZEc1TUpsbDB6S3RJTmIzM1A0cUVkQ2pMTWc4?oc=5",
-      "publishedAt": "2026-11-25T13:07:03.000Z",
-      "severity": "info",
-      "titleZh": "靠借来的未来生活的一代人：法国年轻人走上街头",
-      "content": null
-    },
-    {
-      "title": "Eurostar : une grève surprise supprime sept trains, comment se faire rembourser",
-      "source": "Stéphane Larue News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYVpMYWtTd1lqVmlKX18tSEo4dUdTUW4taVhWb0lMR0hHNmNTM3Y0akgxRjU3X3hPQmZoU09RYnB6M3BTVUZKcG90d3pnQklFaUNJVEl5RnRZUWg5VXBMU204bmtiaHhueGhJV0RXbDRSaTJWRml2enVhd3FJTG1NVXVrTWRxRHlxUkRzcGpFOF9yYWNkdnREeS1pczhlUHEwVHMyWE9B?oc=5",
-      "publishedAt": "2026-11-25T13:07:00.000Z",
-      "severity": "medium",
-      "titleZh": "欧洲之星：突然罢工取消了七趟列车，如何获得报销",
-      "content": null
-    },
-    {
-      "title": "Manifestation 28 novembre 2026 à Paris : parcours, horaire",
-      "source": "Fondation des Femmes",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeDc4Qk1zTk9TV0E1M3ZabGxiMWpoV0tSdk1SbkZVM3lYTmU2YmlwX0lPbGNYdExVZ3VvMTRULXVMemlrWG1NcHFSdGNYS3d3N1kyeGg4dVpUdUhPU3k1ckNXdThqU2s3d0FCY0RlUEE1YlpGa2gteWdNZWVuM2pKU2FjeHE2QQ?oc=5",
-      "publishedAt": "2026-11-25T13:03:32.000Z",
-      "severity": "medium",
-      "titleZh": "2026 年 11 月 28 日在巴黎举行的示威活动：路线、时间表",
-      "content": null
-    },
-    {
-      "title": "7 novembre : à Paris et Marseille, nos journalistes en direct des manifestations",
-      "source": "Orange Actualités",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ0tpRldjNEZsSjVBRlFrRmNwRWI1NFJIbmRoN1d6VG9Cd3J2eWtuXzFreVk4b3Z2UXJ4MEhnSERnYU9OXzVpZkFQcnhHRmZVREY5RG9IanlYYjltRHFmdk50b280UnRrQzBudmRYQmtkT2phYjF0Mzh2clIyM3R3b28yUUJxdTZnT0VUVXVjVHhNZy0xbjgxTnR0eFVVcEREbkFIQzJxM2lGMG9kWmlOeHVpYlZ2VWVpV3FzWWFYbmp6TWZaLVA5c1RtaEd2b0lQOFJr?oc=5",
-      "publishedAt": "2026-11-25T13:02:10.000Z",
-      "severity": "medium",
-      "titleZh": "11 月 7 日：在巴黎和马赛，我们的记者现场报道示威活动",
       "content": null
     }
   ]
