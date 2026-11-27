@@ -1,97 +1,102 @@
 {
   "success": true,
   "today": "2026-11-27",
-  "updatedAt": "2026-11-27T15:32:52.046Z",
+  "updatedAt": "2026-11-27T23:42:43.013Z",
   "events": [
     {
       "date": "2026-11-28",
       "articles": [
         {
+          "title": "Manifestations du samedi 28 novembre 2026 : la carte des marches et des gilets jaunes, villes, lieux et horaires",
+          "source": "Les Voitures",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdHVNbXE1bFdYcWliNWJkSE0yR0RKYmJNRXQ1cDVWZmNvT1JLUlpDUVp5U2xIV3hiWlpHRjN1cXRScEdjMzZrV3dlVzFjX0ZUZnJNMjYtN0NRaVZK?oc=5",
+          "publishedAt": "2026-11-27T21:47:31.000Z",
+          "severity": "medium",
+          "titleZh": "2026 年 11 月 28 日星期六示威：游行和黄背心地图、城市、地点和时间",
+          "content": null
+        },
+        {
           "title": "Manifestation 28 novembre 2026 à Paris : parcours, horaire",
           "source": "Fondation des Femmes",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeDc4Qk1zTk9TV0E1M3ZabGxiMWpoV0tSdk1SbkZVM3lYTmU2YmlwX0lPbGNYdExVZ3VvMTRULXVMemlrWG1NcHFSdGNYS3d3N1kyeGg4dVpUdUhPU3k1ckNXdThqU2s3d0FCY0RlUEE1YlpGa2gteWdNZWVuM2pKU2FjeHE2QQ?oc=5",
-          "publishedAt": "2026-11-27T15:18:55.000Z",
+          "publishedAt": "2026-11-27T21:32:29.000Z",
           "severity": "medium",
           "titleZh": "2026 年 11 月 28 日在巴黎举行的示威活动：路线、时间表",
           "content": null
         },
         {
-          "title": "Manifestation du 28 novembre contre les violences faites aux femmes, voici le parcours parisien et les horaires",
+          "title": "RATP. Manifestation du samedi 28 novembre à Paris : deux stations de métro fermées par les autorités dès 12 heures",
+          "source": "Actu.fr",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTVRScThLRmZEM0RPTmZTck96XzZyc19rZzlUNml2UlQ3ZW9FNWNwYnpPeDhwQUhDc3dZLXNWX3JXNkZ6SU1wSDJXWnVsYlNtNTA0V0szUmhPQ0JhYVJIUkFLWklYV1p4VFBuWXJIN2lnYkRCY3dnWmpyZUxVX0hiSVBCZ0dydkVZYUZibElrNWhSckJEY01Uck9GQldPbVdGZmNDVFZPQ2F1MGpFM3dWN0h5eGt1c200U25mVWFhc01vZDFZc0FUcVdPUENycUY5YkJTZ0MxeXhlU3VQWVoxdlFCTHEzQUdCdzBNWWl2UnI?oc=5",
+          "publishedAt": "2026-11-27T18:06:02.000Z",
+          "severity": "medium",
+          "titleZh": "RATP。 11 月 28 日星期六，巴黎举行示威活动：当局从中午 12 点起关闭两个地铁站。",
+          "content": null
+        },
+        {
+          "title": "CARTE. Marches contre les violences sexistes et sexuelles : où sont prévus les rassemblements ce samedi en France ?",
+          "source": "Ouest-France",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOdWhTWU5TVHA2X1VlbHZpcHF2bnNsbTBYYWF0SV9pblJBOXVUdDBTMVBDM05pSU1WV2gwdlpud00wLUFJTzRPUlRzc1dtbTg0aTlVZUxGMUxJZTRDLVVIYzRmbXVTM1I3Qk5pdGlIc3hvWk5vVERyTGFNclFXaGRmYWxYMXJHUGpScjFoanBWaXpZcU93cVlabFFQZXkwclhzdGFhM1dyVWtkVzFRaDh3ZTQ0NC1VeXFyMzAxVDk2UUMtMlV2c0xma0tjV3lWRW5ZNmhkamFPUWZqa2pmLVN3bTRpVy1uYmRKT0tBeDlLcmJzaUV3NE92SjVESnZkcTFRNnEtMGtoV3pCYzNrMEZTbzNQRldCLTQ0eGhCLVJ3?oc=5",
+          "publishedAt": "2026-11-27T16:38:20.000Z",
+          "severity": "high",
+          "titleZh": "地图。反对性别歧视和性暴力的游行：本周六计划在法国哪里举行集会？",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 28 novembre à Paris contre les violences faites aux femmes : parcours, sécurité, stations de métro fermées... à quoi s’attendre ce samedi ?",
+          "source": "France 3 Régions",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZ2FYbmlCZDd6TmEwRUZSaUJJUExGaW1kLWpfMWMtOGVNMzg1QjZMcFExQ3QzWWlFd0NCbWFXOTFxZkRzaDNhRGFtLThMLXIzbmlMaExKVHBXVTR4dXpha0lDcHdxUnlVNmVmT1VVNzNhU1hBamdLbHdNdXRhTlhuZWhnOTJFa3lCUjhOSUhCM1BxTlVWNUdOZUtUbzNGMVh4SF8yTHBFbW5mb0YxZ0plLVJ6U3VqendsRWRHQTFJN0lucDFnZ1Z0bEJSbkZ6NEdfYTF5OEViZ3UzcUpQamk1QVc2SzdocE5iZFM5LXFoMG9DUnJCUXVIQmNCSkhvVVR6cFJyUzVYSW52YUJBakVCMlJIRXM0NmRHak14cHl1YXdLTjQz?oc=5",
+          "publishedAt": "2026-11-27T16:13:49.000Z",
+          "severity": "high",
+          "titleZh": "11 月 28 日在巴黎举行的反对暴力侵害妇女行为的示威活动：路线、安全、关闭的地铁站……本周六会发生什么？",
+          "content": null
+        },
+        {
+          "title": "« Ce choix est incompréhensible » : pourquoi deux cortèges défilent samedi à Paris contre les violences faites aux femmes",
+          "source": "Le Parisien",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNSEp3LVpmbXRpak96UGp6aF9BYXZzUEFIbWJmamhrWmJDSEtMQ2lvUDh2LVQyaC0yRkZST1B4WVdNVjE5eF95ZjVESFdmX2NFbUFfVTRScXRQS3pFVzlSbm1LcDJXNzlrWXVTc01mTXpyZGJaaUJhOXE1SHJ1OGZhTE9RQzZUWUxZazlHeDdCUGFHT1IzWUZQMkpzREl0bmU4OHc5d3NLTDMwMjI2dFlXX0ZBUWdvaWJsQWNvaGpJVHM3aExUNUVac3JGc3h1TWdVb3YzY0xQMVNnZnR6NU1va0swWW1jelVJd29Wcl9CZnhJVVlFZUZ5T2F2WmUtQzVIWkdQY3VUTFQwWnJzOFVyMUR4Q0FuSVlQRTUw?oc=5",
+          "publishedAt": "2026-11-27T15:40:14.000Z",
+          "severity": "high",
+          "titleZh": "“这个选择令人难以理解”：为什么周六巴黎有两场反对暴力侵害妇女行为的游行",
+          "content": null
+        },
+        {
+          "title": "Mobilisation sociale, manifestations contre la vie chère et les violences sexistes : à quoi faut-il s’attendre ce samedi 28 novembre",
+          "source": "Le Parisien",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOQTZRMkI5c2tKQWtvS1h0bmhQUkU3UEZEMlpCQ0ZGU2puNXhSaDVsWEd2eDdNQ2dJekJENjc1ZEFLbTBTTDJUM3hWX0FvRENteFhyZmRnLXcyd3ZlV3g5b094MUJkaWZ5eW5PQno4OEdwd3RORWNfd2E1eTRLUFF1eF94bUFDM2VfMFU0YWp1UnpoaVdCWkU1ZkxJTG94RGx6QnhaekV0RjFDVVhwRmRMNU5Ca0o2RWNLbG1uQTVXZkZEQ2JJTjNuNEpTTndDY28zMkU4cGdEdVlBOXU5czFsd2xlOEp5dHBsZ0U0X0dpeFBLNjJyMzgwQmM2amQwRnpIOXBCdGx4NDAyQVlEY3ltT0t2ci1FVXNHaHVueFBMT1Zybk1PVFZQSzJyQzFUZDkwcEkw?oc=5",
+          "publishedAt": "2026-11-27T15:00:00.000Z",
+          "severity": "high",
+          "titleZh": "社会动员、反对高生活成本和性别暴力的示威：11 月 28 日星期六将会发生什么",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 28 novembre contre les violences faites aux femmes, voici les deux parcours parisiens et les horaires",
           "source": "Le Bonbon",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS2xWOS00blJhOFlWcC1oel9oUFhrR2VvSndXVzVSQ0lCWUxMTGNQRzNKNUxnYUUyOUh5SmhXS0E2bVByYktDcUJzMjNMRjVmNzZhaTh3WWdXeWdDQ0ZPcmMyWDlrQzRHOWViWFNadWFRdlhIWEJvRTVjVWJNcTdXbDAyNE5hZWpNUm5YbmhaeG5kNFMzaUN0WnNmNkc3NGFaeUVKaElhZmhfeDlXSWp1Wmx5NjZZY1RuYTFwVWFMY0Jsdw?oc=5",
-          "publishedAt": "2026-11-27T12:00:00.000Z",
+          "publishedAt": "2026-11-27T14:49:59.000Z",
           "severity": "high",
-          "titleZh": "11月28日反对暴力侵害妇女示威，这是巴黎路线和时间",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 28 novembre : où passeront les marches contre les violences sexistes ?",
-          "source": "mesinfos",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQUI1YWNPX3ctTzFaRHUySFRQMmVIdUpWRTZ4N1Y0S083cjNhOTRtampmYV9sbzBndUVvcTl5enNLREJRd05raUloSnNkUDJVZWdJcFljZE9TYzNSSFhTUkotalJqZ0I4QlItYUY2R2loNXg4VE11Sy1Tb2EyampXSzdIOGpsX21oZms5bHF0V1JTcWNkTllkVUxUb0x5WWNDdnBLU3JYR1BfY0FCV3V0LWs5VnFJZmxEVDJwTkNNN2lUMk9Kcnc?oc=5",
-          "publishedAt": "2026-11-27T11:10:00.000Z",
-          "severity": "high",
-          "titleZh": "11月28日示威：反对性别歧视暴力的游行将在哪里举行？",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 28 novembre à Paris contre les violences sexistes : les parcours",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZkJsVGh0al9idWRFTTZGZFFRbDNWTS05b09oekJfVnA1Z2JQWUltb3AzdmpiZFJjLUt1T3JPekhmOGtCcnEzSmEyNWNQcHFtRFgzdzl2cnlXb2Q3SDQ4aWphQmxNcmY0MmhuaGlxTjZ4S2FXcVBNN19SajRUcnN6NUZzeVhDNWlSRV9iUHV2RTdZNE1NVUNBOWtVcUMyeFVTNF9YWkJSX2hDSUFLY2dyMkJkYzAycWlzSlJRZWVrVU9wVjlSb3F3MVlJaUlDTS16b1hRNERWczJRdWc?oc=5",
-          "publishedAt": "2026-11-27T07:22:00.000Z",
-          "severity": "high",
-          "titleZh": "11 月 28 日巴黎反对性别歧视暴力示威：路线",
+          "titleZh": "11月28日反对暴力侵害妇女示威，以下是巴黎两条路线及时刻表",
           "content": null
         }
       ],
       "places": [],
       "districts": [],
-      "articleCount": 4,
-      "clashCount": 3,
-      "status": "recent"
-    },
-    {
-      "date": "2026-11-29",
-      "articles": [
-        {
-          "title": "Météo à Paris ce week-end des 28 et 29 novembre : gel samedi, pluie dimanche",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMDJreW1JRVBleDZIenItM0JHZ04xUWIzNjE4RU1Ib1dZVHcwMkpyYUQ4RFE3Z0VSYnhmMWtrbFFyMzR2aTB1c3FmMER5dExBNnBsSjBBdE5taGZDZjVPVmRILV9sa3VXWHoxbUlRWFBsMUNWUmJCZERLU0hONHhXQUdubExOcXJyTmpDMXVhRFVUMnMwWEVDYzVSZTExVjEwQUx5enh1djdkdTJ1UFdiS0wtSkNJSVFuXzU4YS1EQmVCRGxqMXphWXd3Ni0xSkw4VTBZ?oc=5",
-          "publishedAt": "2026-11-27T07:17:02.000Z",
-          "severity": "info",
-          "titleZh": "11 月 28 日至 29 日本周末巴黎天气：周六霜，周日雨",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [],
-      "articleCount": 1,
-      "clashCount": 0,
-      "status": "recent"
-    },
-    {
-      "date": "2026-12-01",
-      "articles": [
-        {
-          "title": "Que faire ce mardi à Paris ? Sorties et bons plans du 1er décembre 2026",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeE1PTkZDVjJWU0pXazVZYV84b2U3SzYtOW1mYmFNQ3EtamJnem1GbnUwZmgtbHZQVkZzRGVfZlZSa3FyRGtsdVI0TjBOdTI1WXY1cGhkUE9BdjZ3eS15cVkyUTZ3UjFHMkY5S2JhZ0gtSHZLRGpqM1ZpYUJlVGNFRFpnclNldjFaRGVyYlhMcjU4VlpkLTZhRjVjaWlXUFduLWUzRE1HOXdLTFpzOTFRa3M5M25UT0pWdmI1c2NlNjd1MllJeTB6S3JxZw?oc=5",
-          "publishedAt": "2026-11-27T11:54:07.000Z",
-          "severity": "info",
-          "titleZh": "这个星期二在巴黎可以做什么？ 2026 年 12 月 1 日起的郊游和超值优惠",
-          "content": null
-        }
-      ],
-      "places": [],
-      "districts": [
-        1
-      ],
-      "articleCount": 1,
-      "clashCount": 0,
+      "articleCount": 8,
+      "clashCount": 5,
       "status": "recent"
     },
     {
       "date": "2026-12-04",
       "articles": [
+        {
+          "title": "Italie : grève générale le 4 décembre, trains à l’arrêt dès le 3 au soir",
+          "source": "MisterTravel",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmFwY2pzX1hfMDAwOXpZQWZjT2NOaUlPZUVEcnlQNEhWNW1RWHc2WkI2V29KcVZFRHZOY2wzNkoyVllyN3A5Y184aU44UVY5aWd0SnZZZW5sWGtLbGtGcmRBRzhTcWJ2SVNSamE1RVBXME54YTR5MDNEUGtjTGhwSjZiZWV0SVhPakhOZHdQaVdLNHRiX1kza2Uxb1Awa1FLaVBrTDNpR1dSdw?oc=5",
+          "publishedAt": "2026-11-27T14:00:00.000Z",
+          "severity": "medium",
+          "titleZh": "意大利：12月4日大罢工，3日晚起火车停运",
+          "content": null
+        },
         {
           "title": "Insultes, coups de poing et caméras de surveillance : le youtubeur Grégory Guillotin jugé ce vendredi pour violences conjugales",
           "source": "Paris Match",
@@ -100,57 +105,177 @@
           "severity": "high",
           "titleZh": "侮辱、拳打脚踢和监控摄像头：YouTuber 格雷戈里·吉洛坦 (Grégory Guillotin) 本周五因家庭暴力受审",
           "content": null
-        },
-        {
-          "title": "Greg Guillotin jugé ce vendredi à Evry pour violences conjugales",
-          "source": "20 Minutes",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSm5WQ0J3bTRiSGIxVVdZekRqdTdTTF83MzRYM1oxem1EeUhlQ3FvdlV2Mk95bUZjM3d5aEU1clhxbWZYYi1NemtVUTBoenZLNkdwM0R2YXpWTEgxeHE3LXFiVFZFUTcyNmdsTGJfMGFnSnB1alRzaE5scUt5Nkk0bTQwZHg1dWdQTDhjdkV3MDN6Y1h5N0RLWlR1QVJXSjN1NDBoNXhoaDZWQzBqVzRUUGRwcXZOcHlxN21MLXRuWktiNTVxM0lnc3JpSk05dw?oc=5",
-          "publishedAt": "2026-11-27T06:28:00.000Z",
-          "severity": "high",
-          "titleZh": "格雷格·吉洛廷 (Greg Guillotin) 本周五因家庭暴力在埃夫里 (Evry) 受审",
-          "content": null
         }
       ],
       "places": [],
       "districts": [],
       "articleCount": 2,
-      "clashCount": 2,
-      "status": "recent"
-    },
-    {
-      "date": "2026-12-06",
-      "articles": [
-        {
-          "title": "Le Salon international du livre rare et des arts graphiques de retour à Paris du 4 au 6 décembre",
-          "source": "Livres Hebdo",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhwd2xWZzR4YUpDUWs5ZzRZbVdmYW9Sa0ZvYUZCV2xlc2I2NzhNUlhRWHotZDhPWUEtaF9NaFcxQ21tUGJDTjZ1ZGFMRnNtakJ0ZlFhZmpQZ0pMYjF6UlZXUUUwNXVBNjJRYzFZd2xPdmlMN3ZvVEdpeEJGNHdzMlpZS1dEblY4bVdlazlGeS1nd2ZnWkRFUURxOWJ5ckVEUk9HNVNWcHRnS2tYY2ZXTGtUY3dzYnVSblBBUA?oc=5",
-          "publishedAt": "2026-11-27T14:52:00.000Z",
-          "severity": "info",
-          "titleZh": "国际善本及版画艺术博览会将于 12 月 4 日至 6 日重返巴黎",
-          "content": null
-        }
-      ],
-      "places": [
-        "民族广场 Nation"
-      ],
-      "districts": [
-        11,
-        12
-      ],
-      "articleCount": 1,
-      "clashCount": 0,
+      "clashCount": 1,
       "status": "recent"
     },
     {
       "date": "unknown",
       "articles": [
         {
-          "title": "« Paper Tiger » : la critique d'un petit Gray illustré",
-          "source": "Paris Match",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEYyQU10UVV3dGFWdzdwQmQ1VTloNml2TVJPS3dTYTEwMWw3WjFJNXVyNnNmLWlTSjZLOFM1dGxnSHl0VFFWOHNMZ3Fta2szRmJLZk1NX0dRYXpCZ3VDRUVvOFRKNkdaeWtfNUdIV1pHSExIaTFDOUZSN0wxY3J4aXFuU3Q1ckpMV0VDTXpla1k0OUxFRnM4NQ?oc=5",
-          "publishedAt": "2026-11-27T14:57:18.000Z",
+          "title": "French Activists Demand Tear Gas Ban Over Reproductive Health Fears",
+          "source": "cwibc.co.id",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFMmZqUWlIWktKdU5ydTl2WGVETTFJbTlkRW1WaG9WZWpxUGlZYnFyV0tjX1lzZXNvTGRFaFJreE05R0JEak5yOUd2UzJPZWNKRjI3YUJOb3FmZmVMcEE?oc=5",
+          "publishedAt": "2026-11-27T23:32:00.000Z",
           "severity": "info",
-          "titleZh": "《纸老虎》：小格雷的评论",
+          "titleZh": "法国活动人士因担心生殖健康而要求禁止使用催泪瓦斯",
+          "content": null
+        },
+        {
+          "title": "French Activists Demand Tear Gas Ban Over Reproductive Health Concerns",
+          "source": "Demokratis.co.id",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hYjQzdTBRdTR0TVZxbzgzNWphdHNvYjdKM0owMFJJbHQ2RjBGeFlTcXJoODJuUmZHMkhRYmNOczFvWEhBclR3UUJwbnZiUThTaXFIajhLLVJYUW1aMXFReWNTUmU?oc=5",
+          "publishedAt": "2026-11-27T23:28:00.000Z",
+          "severity": "info",
+          "titleZh": "法国活动人士因生殖健康问题要求禁止使用催泪瓦斯",
+          "content": null
+        },
+        {
+          "title": "French Protesters Report Menstrual and Pregnancy Complications After Tear Gas Exposure",
+          "source": "SSBCrack",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmRPeksxcWpmVzFXSjR0OEJnLThGXzRIV0VSTkl0NlNzd2lQMFNfSDVBVTM1cVhOektOTjlUMHlLSHRnZ0FkdUZXQzBweGhnaTJvSExtdy1GOUlFOHBsbVVaa1Z0OV91eWtWNk9LdVQ2MEIyMENlNDhKN2tmaEliU1puYktHaTlEUEZTSmU0UjlMNTlNSTFvbUs4ajh2NTM5ZzFhc293ZjVXWi1vbzdtLUd1SQ?oc=5",
+          "publishedAt": "2026-11-27T23:05:23.000Z",
+          "severity": "medium",
+          "titleZh": "法国抗议者报告在接触催泪瓦斯后出现月经和怀孕并发症",
+          "content": null
+        },
+        {
+          "title": "Hatred Of Israel In Disguise: Who Funds Europe’s Violent Protests?",
+          "source": "i24NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnBTMEc1NTNoYWxEVlpTS2RSNVRYY0czdzlLSW50TXgtRUp4cnA5ZjE1aEUzWXpYWmJCTWRxaVZnbXZTZElwUVRSeUlMaVVuYVFpc3N3VEpXeDhVYlZlMVJCWmQ3TmJ6V0txVmFvRjRjYU5NbTdCdGkwSjdEMkkzb21rOXMwZU9fWmd3emkzeklRWWcxR19pckJBVllZZnFYTU12dG1xTDVHTlFPQ19hN3pxeUpyTjdu?oc=5",
+          "publishedAt": "2026-11-27T22:06:43.000Z",
+          "severity": "medium",
+          "titleZh": "对以色列的仇恨：谁资助欧洲的暴力抗议？",
+          "content": null
+        },
+        {
+          "title": "Grève Tour Eiffel : le BAPS au cœur de la polémique à Paris",
+          "source": "horticulture-abadie-pyrenees.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQemRTMXVuY1FLYWdkZG44dnJMV3Bvdzl0bkd0MC1MWllTeEF0YkxtLWNRX044Z2JKTG16RnhsRFY3MkZTUG5xb2ZDb3NQR2lUZzQ3bVZIakkySndqR2Zabl83TEVraVRiMlVNaDN1QWlMbXAyZ1JUVWpJNmZVcWNhLWRB?oc=5",
+          "publishedAt": "2026-11-27T21:59:46.000Z",
+          "severity": "medium",
+          "titleZh": "埃菲尔铁塔罢工：BAPS 是巴黎争议的核心",
+          "content": null
+        },
+        {
+          "title": "Deux cortèges pour une même cause : les féministes manifestent en ordre dispersé à Paris",
+          "source": "Le HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeVMyOS1HWHE0SU02TFREVWlkdldBdlJUXzBCUXd3Y1FzQ3ZGbnhwVVlQaTdkVUZWb0tvUlpuSTJhT0VVU2hrNklLNDFaWDUtZWRWUTdGX0QwZjE0ZlJSbzVjOUJjMjU4eV9YYlgza0lxeUJ4V0NVbDgwQXptZktNdWRLU1RtWXR1RHpubUFJa0J2UHhPN0dEaHJlQnM2RGJmOWlHRGJac1FlSktaSDdfbDZFbmVuTjVQQ2poN3dSMUdMWUhRaXVFd1BBc1lvYkZLMDMzd19lT2dzWjlLVlZ3NkVEMENDeTdvMTdVdWxBOA?oc=5",
+          "publishedAt": "2026-11-27T20:15:01.000Z",
+          "severity": "info",
+          "titleZh": "同一目标的两场游行：女权主义者在巴黎零散地游行",
+          "content": null
+        },
+        {
+          "title": "Grenade en manifestation : comment prouver l’origine de la blessure si la plainte est classée sans suite",
+          "source": "Hassan KOHEN",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlkxNm5JdTJsa2ItSXVEb010MWV5WURqZElOdzllZHpRSDZNZHVVTnRqZ1VzbmhyeklMVzNpUjNlWFNXS29saXJtZ0VtSXF3MmRQNndSb1pqQXhmdENxQ21tR01vLVhiR2x6RVJ1Q2FFZ2Y4VjF1NEVYTDF3WU12cFE5RVVFaEg0LTBQbWhjSTdFQ3YzNXBOTndR?oc=5",
+          "publishedAt": "2026-11-27T19:19:00.000Z",
+          "severity": "medium",
+          "titleZh": "格林纳达示威：投诉被驳回如何证明伤害来源",
+          "content": null
+        },
+        {
+          "title": "Défi entre amis à la Jackass : la victime était d'accord, est-ce quand même des violences, et que risquent l'auteur et ceux qui filment ? (2026)",
+          "source": "Hassan KOHEN",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlFGd0VyWExnUXJOVlBicTExWkRiTEIwci00X1JvdkpxQTU4STFCTy1MeWJISzQyTDdySTFjajJfYW83cEhzSHVuWDhLNFFGanRicTZzczZLT0tpRUkyN1R2RndNWHNSemhsaXUwY0pVT0NzSFpqVm5UMnVsaG9MNEh5N2JzbnFDaDlKMUFTTUpjdGdsdlBLaXZCdTF4QWpBVjd0bWtJc1lkZ0Vobl9NRkpwRVBDMUV4b0g0cUQ2QXhOdzU0cldPTg?oc=5",
+          "publishedAt": "2026-11-27T18:56:00.000Z",
+          "severity": "high",
+          "titleZh": "朋友之间的傻瓜式挑战：受害者同意了，这还是暴力吗？施暴者和拍摄者到底是什么？ (2026)",
+          "content": null
+        },
+        {
+          "title": "Grève à l’Opéra de Paris : Turandot et La Clémence de Titus annulées",
+          "source": "Forum Opéra",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlpTQkR2TU1STzdkRGtNTUtaaksyTHZ5aGwzcWNxR1ctN0MyLTRVeWVmUWF5b0d4NlFnd20teUZRMUtHSXU3TEJ6b3I5UHE4NDJHUFR0VjJsSVVUZmVrZFl2MEZzemh2ZFVVaEdaVW14QUVPQTBCWmJ4S1dnMFd0MG53OEpvX3FlaEM4eGFFd1ZleHJGTUF5enNXMTZhSFNY?oc=5",
+          "publishedAt": "2026-11-27T18:45:43.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎歌剧院罢工：《图兰朵》和《提图斯的克莱门斯》被取消",
+          "content": null
+        },
+        {
+          "title": "Au procès d'Émilie König, les experts s'interrogent sur son rapport actuel à l'idéologie islamiste",
+          "source": "Europe 1",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUlJUZkRTb1ptMWMyblhwcnp2QnVUVjV0WlRQRTA5U1VtUHdOSE8wcWRoZTUwWGJoaVVJZlhvWnJJV05zWmd3ZEZtSlBRN0pkczFvdUtMVURjWHFScjEzZXlVU1hZYk9yNWt6UzZVdlo2OFdOYUJPc3RmdS1WeTJ6QWJreXNmUmhrT2FfWEdicW83RkFsWUFuUWJwUW82bUcwWFg5bDRSQjZPYWRrYVpuQWQ4bXpGdnJKU3JZRW0xTm5XOHN2QUJ4ZU1NaHluTGFPekFVYTE5QdIB3AFBVV95cUxQczIwWGprd1E1UXN3UmFGeGU0RjlDekNXenZ0RE5tdUE0MDZQR19jVnAxNmJuNU9SZjZab0RWZEVUU2c2NURVVXdqakFTa2g2RGNuaWdwZVBRWm8yTWstZzd0eGx2aS1BN1lfeVdvck1qLTZERnl1Z0thVk9IUmNaNTJwRHlXYTA5dGxoS3dDeVNsQjRFLWdEY1F5UzJuczRNblVmV3hmYjVOZTVOVDFCUW1Cd3JyTjkxZTEweE5Ca2xDVkdoc2M0ZS1TRG9HbzhwMDhiRjUxeEZiTWVk?oc=5",
+          "publishedAt": "2026-11-27T18:43:19.000Z",
+          "severity": "info",
+          "titleZh": "在埃米莉·柯尼希 (Émilie König) 的审判中，专家质疑她目前与伊斯兰意识形态的关系",
+          "content": null
+        },
+        {
+          "title": "Thousands of girls and women report bleeding and miscarriages after French police use of teargas",
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeDVtdFh3bl9lb1VXUWNVVDZHSFhiTjU3NDNmdG1kb0VuUjM3YVdNaGlKMmZSdlZRWUxjRXhhb2NDTnM3SzY3ZEVEZ1lpMi1FXzdPTzVaY2NWLWFOVEN4S3RsSVdJRlZKN29PX2NRc1pMT3p0eDFQbTFvc2RoM2ZkNU5iR21kc19iQTFFQ0JqMlpFZjJMXzFUTEl2SlpHTHpacXdkbVYwZDdEMy1KLWlkX0o0TTRhX3hqcFM2bElpczhrc3NPdkNvZHlac1B5M3FDODJualF2UDBGVDByeG5sdHB0ZFBOTmt0N1Bn?oc=5",
+          "publishedAt": "2026-11-27T18:11:00.000Z",
+          "severity": "info",
+          "titleZh": "法国警方使用催泪瓦斯后，数千名女孩和妇女报告流血和流产",
+          "content": null
+        },
+        {
+          "title": "Les violences sexistes et sexuelles ont doublé dans l’UE en dix ans ?",
+          "source": "20 Minutes",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM01zUTR4ajNJZ0g3SjVOclhSaW9xWkswMXJidjNzUFdONVpkSTVYY3JQdUNjQmpJOWNjakgwOWdmZm1mbTVIZVU0dno0WUh5bExNZmRIZm1wLUE1ME1sSzdBY3NlTi15MWhFVVBTV2l6OExNRVg4alVtVC1BQzFVOElaRFQtdW1pellCUzk2RnRyZ2x4VndaQTBoOGs3NjFtTk9ubEl2am84S3RTYjkwYVYxUjdsdw?oc=5",
+          "publishedAt": "2026-11-27T17:47:00.000Z",
+          "severity": "high",
+          "titleZh": "十年内欧盟的性别暴力和性暴力是否翻了一番？",
+          "content": null
+        },
+        {
+          "title": "Who is Fleur Breteau, the campaigner fighting European pesticide restriction-easing bill Omnibus X?",
+          "source": "Le Monde.fr",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMW5yemxMMXduSnItcHY4OE5ITHFORmFIakFhSlAwM2xYRmdZT0hKZ2h1NzZYcmhEb1dxM3pVY1RyM0M5Y2hjQzU4dVRpSTRQQWJrWHpaVjc0OEZxbjdydkYwOU1ZQmxZeERsemVIaG5xU2l4VXdBbHdzdF9xRGFRa0xmMGlRNk1tNkZ3VVdSakEzcXBJWFJhRF9ocXg4RHU2YkhrdDByTzNQeC0ySlVVRm13SjdkRDA2OFhid0otZnBnUFh4OXBOYlNsMlVqWHIzTUpQMUVFT2JOR1VsRTEzNF9SclQtMFZ1Qml2RVg0VFI4M2pTY2l4S0NuY3k?oc=5",
+          "publishedAt": "2026-11-27T17:20:22.000Z",
+          "severity": "info",
+          "titleZh": "反对欧洲农药限制放宽法案 Omnibus X 的活动家 Fleur Breteau 是谁？",
+          "content": null
+        },
+        {
+          "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
+          "source": "Sortir à Paris",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
+          "publishedAt": "2026-11-27T17:15:45.000Z",
+          "severity": "info",
+          "titleZh": "预计 2026 年在巴���和法兰西岛举行的开幕活动和重大活动：今年的议程",
+          "content": null
+        },
+        {
+          "title": "Manifestations à Nantes : quatre syndicats réunis portent plainte pour violences policières",
+          "source": "Libération",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbHp5TlZCdFJkZHpFTW9GdE9VOWJTd3I1YnNWMGU0eXVSUXczaE9KQ0tpQm1QZWJ4MzlWXzFlX3RnMEZDNEY4RGxKMmlZVXkyUUhjRTFKeWhyZk1QZGR2LXhSUlFKSFFoQVB2Z0hXRlo1aDVvcXB5TmlUZEZfNDRGOGd1OEpzRTZDcmFXNU53S2l0aW9kdVR0endheWM4X0hraXg4ZU81b05zb21MLTR1UmNrME1zcFcxbmIwYWNBV3dKZG5rd3RIWmVEdEpPbjFVOXd1WVlxaEtZOHA2Z09CRFItbnE0WjNORVpadHBFbGFUSEVwcVk4OVpyNi1kT2REQXcyZHJR?oc=5",
+          "publishedAt": "2026-11-27T17:05:00.000Z",
+          "severity": "high",
+          "titleZh": "南特示威：四个工会联合投诉警察暴力",
+          "content": null
+        },
+        {
+          "title": "Cisjordanie: un ex-général israélien, allié surprenant des Palestiniens face aux violences",
+          "source": "Lepetitjournal.com",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNlJXTm5tUHkyaWtuWUlGQU9UWmFYRDZ0WXBtV2xGU1A5cVVFbzRLNkx2VGlyM3ZJdlFiZ29JV1lKRnEyMlBRMkNTWkdDYWttbERaY29TUlYtTG1CSWJnMnR2RUozQjh1cmI2UlBMLVNUY2M3dGthRjdkR08xMnNaUXRLUXJkbjh6Z3BvanFYR1NUQjNpRlI2VkcxWWtYdk1aRWdRbko4T1o5QTRrOGt5eGk4NmVxRzJjSkwwTTNSdVlNUmtNbDhUTl93?oc=5",
+          "publishedAt": "2026-11-27T16:38:28.000Z",
+          "severity": "high",
+          "titleZh": "约旦河西岸：以色列前将军在暴力面前成为巴勒斯坦人的令人惊讶的盟友",
+          "content": null
+        },
+        {
+          "title": "Annulations à l’Opéra de Paris pour cause de grève",
+          "source": "ResMusica",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXRoeVVPQXZZazRYcG9tREhKRVhCeGs2bnI2cUE2X0N3dk5hQkI3V3RGUmtvRTRlYUxzZU9OTVNMM0sxbmM0QXV0YnpVb2hUS21QNV94R3Rqb2k2SUh6RUNKd1lfUGpnbUhCYnc5WkpISXRzUzdZdFpGSnRxQTB3V1BsbFo3dU16bjBJN3FNTzg?oc=5",
+          "publishedAt": "2026-11-27T16:26:30.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎歌剧院因罢工而取消",
+          "content": null
+        },
+        {
+          "title": "Mobilisation féministe à Paris : le préfet écarte Némésis de la marche de #NousToutes",
+          "source": "L'Humanité",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMDE4VERLOUJLMGhTT3JoUVRxZTZic2VtMHpyMkU2M0NlY2JOYkpvbVR0eHdfckRyMGtmUnA1T3F2ZjJ1ejQ3bTQ4SUhZazZoUlpqdk9FSHA0YVZENDVYN1lJcEdHRGd5Ykc0b3ZDc1EwYUdQcWw3SC1GWmtKMGQ5U2o3eE9xa2ZDWTdDb0c0YktpNWZ5Ul81M3ZERjZOd29oZlFlalRFUmVpY1NqX05IMzd3NGtLZi1zUHF2WFZla3c4OU9RU0hV?oc=5",
+          "publishedAt": "2026-11-27T15:33:49.000Z",
+          "severity": "info",
+          "titleZh": "巴黎女权主义动员：省长将 Némésis 从 #NousToutes 游行中除名",
           "content": null
         },
         {
@@ -166,9 +291,18 @@
           "title": "IKEA fait sonner ses magasins toutes les 16 min contre les violences conjugales",
           "source": "Dans Ta Pub",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOXzlna181VndlSC10TEdtQzVuU3h3WmhNeGtNLXNwNmdqWHRxNUdDZGhPYWV4M0hJeUhwUjA1WklxcjY0N0tkTEtZbzhFVmRBd2t2eV9SMFk3OEhvVTVRcUh0S0tTNUlNWWF6Ykl3?oc=5",
-          "publishedAt": "2026-11-27T14:19:05.000Z",
+          "publishedAt": "2026-11-27T14:22:44.000Z",
           "severity": "high",
           "titleZh": "宜家每 16 分钟就对门店进行一次打击家庭暴力",
+          "content": null
+        },
+        {
+          "title": "Grève aux Espaces verts du Havre : la Ville temporise sur la revendication salariale",
+          "source": "Paris Normandie",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdzNCMGxHMG01dnJDTkFzN3hmTC1PYlNzSmNxWUNENzVYQ2I2NG5JYzg2VWxlcUN2RVd5aDNhZEZGeTJHV0g3ZUtta2RqWUNzQkl5WXRpSzRRcFY0bkVJSUVjdkxyR3pLWnZoU21oYkhqOEROU2k2aTZIV0RiUUNVM294M19Kc3pSRUJabWkzdUNqVFVYaE5xZTNydHRPSFdtU2thWS1EQVBON2VPSmh3NUhGdmhUaDNKSGl5VEVrak90SUx1U0NoNWZ2NA?oc=5",
+          "publishedAt": "2026-11-27T13:34:00.000Z",
+          "severity": "medium",
+          "titleZh": "勒阿弗尔绿地罢工：该市推迟工资要求",
           "content": null
         },
         {
@@ -199,19 +333,37 @@
           "content": null
         },
         {
-          "title": "Violences lors d’OM-Sofia : Le parquet de Marseille ouvre deux enquêtes, dont une visant les Bulgares",
+          "title": "Lutte contre les violences faites aux femmes : la ville de Lille récompensée pour son Violentomètre Séniors",
+          "source": "ici.fr",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTDJURzdTQ3VleThBVzNSOW40cnpGMTgzb2diZnJUczNUaDJVZnpWWUI1NkpSeXg1MzF1Nk1aaWlha011YU5Da0N4X1VodEYtczExNjBTeklhdHdiWHZrTzhNQWRYY1N1TTBHVG5GVXdTNFpEaGpvLWJJbUxNRGtRU3pxZDZjZjZqS3NRaE94STh4QU5BTURyTGNzQlZ1RTRBbUwtTFhyVzMteFZrSG5kSmJpRXFONFNZS2tyc2YyeEZlWFZsQ0V1U2UzdTBXWGNTVkVZcGtqQnhzRVNQNkxNdzRxNVlMMThacW9vaDBjNnlYRlRR?oc=5",
+          "publishedAt": "2026-11-27T13:01:20.000Z",
+          "severity": "high",
+          "titleZh": "打击针对妇女的暴力行为：里尔市因其高级暴力计而获得奖励",
+          "content": null
+        },
+        {
+          "title": "France's government faces mounting pressure from both sides of the bar",
+          "source": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON285QU96RkVneVdpWVltT3c0Wks5Skl5MjlVaVFfVThXMnhHSVRZX2dybmJYdk01SkNRQktWbXFadWNCRUlfRm1DMDYzaE94NlNhWEFjWGNvMVI5eVN4TVVYOC1JZmdXcThqdTd2YmRuaW5XbUFvUDM4NHNzVUxmcWZ4Wnc3T2Y0ZU93TFVqdGlXeDQ5d1pYdEE5TUFHR1NITVVSdldtbjdFcmtPUFFITFFn?oc=5",
+          "publishedAt": "2026-11-27T12:51:33.000Z",
+          "severity": "info",
+          "titleZh": "法国政府面临来自两党越来越大的压力",
+          "content": null
+        },
+        {
+          "title": "Violences OM-Sofia, le parquet de Marseille ouvre deux enquêtes",
           "source": "20 Minutes",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNFhxdE91bTY4eml6Q0h1ZE5yZnJYa3RMaXZCUEtjN1k3QktOekM4blBOMUVsdnNacXhXV0lnU2YyeFVWTjF3VGVjUDhmZ19DdUhFWG9OYmZwM1h4T28wT1NrSFNXQTZIMjJpcmJVaGtsZkJDZnAxcEtPYVMwd0VfelEzU1djTUpqbU40cVN4UXRMOUljTC1YOWtnaktETFMyYTlVQk9ESnV3aVVheTVWNVpRNDVBWmtwRnF0RzRGOXdBbTlOandFQURZc3lQalFuUk5hS05B?oc=5",
           "publishedAt": "2026-11-27T12:46:00.000Z",
           "severity": "high",
-          "titleZh": "OM-索非亚期间的暴力事件：马赛检察官办公室展开两项调查，其中一项针对保加利亚人",
+          "titleZh": "OM-索非亚暴力事件，马赛检察官办公室展开两项调查",
           "content": null
         },
         {
           "title": "News : Un nouvel album solo pour Paul Smith",
           "source": "Sound Of Violence",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMW1fLU9acks2ZDhveHZUNWtBSXIyamJtd1RhbDhZdEItWVNMMFJEanZuQWJNWVJ3cHN3aFFiTjVrSFZpdWxRUWhCeUJQeHkxNDlrSS1TeDZsTEdFTDdhRFkwYVdUWEszYWRieWFFelJval80YTdUYzN2ZWxuQ3ZWRDJFaDduT2hya0RRU1NQa3lBREE?oc=5",
-          "publishedAt": "2026-11-27T12:28:30.000Z",
+          "publishedAt": "2026-11-27T12:31:17.000Z",
           "severity": "info",
           "titleZh": "新闻：保罗·史密斯的新个人专辑",
           "content": null
@@ -233,233 +385,253 @@
           "severity": "info",
           "titleZh": "所有破坏者，所有付款者！所有破坏者，全部付出代价！",
           "content": null
-        },
-        {
-          "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
-          "publishedAt": "2026-11-27T11:29:12.000Z",
-          "severity": "info",
-          "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
-          "content": null
-        },
-        {
-          "title": "Mobilisation féministe à Paris : divergences entre #NousToutes et Grève féministe, les organisations battront le pavé dans deux cortèges distincts",
-          "source": "L'Humanité",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSFVUYXdfRDVRTlVpZFUtdVl3Wk9Xc1BXd2ZaUEx3bXozVXhYcS1MR2JqaHhKajZ1Q1NyX05pWEdRbVdMYUZzT0hsOWNSMlVtUWNjTlZzQ3d0Y2ZEekhBQ0NSSU1NNWxJbjdoSE5nYTFiYWtldDVEX1BpQlZqd3F1ZTUyVC1oanlOWGtjeUdnYkVsN00zUTJ3aTB2cjNVR3ZCNnJpdTRFV3hXT1BrNF91dkd4RTdQWTNkeVo5UE8xMVdHQ1ZFMlM0ZnVIRXo0VVRaS0RDS2Y0REM2OE1KbEhqYlJJeE5QWHYwaWdYOU5RMlQ4cllXaWRQZGJnYmxUYk55TXBLRzh0c0hQNHJ2MDN0anJHNGUzZw?oc=5",
-          "publishedAt": "2026-11-27T11:00:00.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎女权主义动员：#NousToutes 和女权主义罢工之间的差异，这些组织将分两次不同的游行走上街头",
-          "content": null
-        },
-        {
-          "title": "Livre. L’infâme à homme",
-          "source": "Paris Normandie",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTnBpQXR4V2JORm1XX28yeTkxQkl0VjNWbkpVVWlEY2Z5NmxoWmp6eDZJNmJaeFQ4MktVcnRZYXBCQ21DZW1jVU5RNmdFNW41dXUySTVRYmczR0U2Ry1QRFVQRTgwVkdrVmNvQmk4RXBQRTF1SEdEZWRPMzcwTnNSTXZ2eDVKNW14TTNhUg?oc=5",
-          "publishedAt": "2026-11-27T10:37:44.000Z",
-          "severity": "info",
-          "titleZh": "书。臭名昭著的男人",
-          "content": null
-        },
-        {
-          "title": "Quasimodo l’Ame de Paris : Est ce inspiré d’une histoire vraie ?",
-          "source": "Ayther",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00ZV85RGtLRmZWUHdxMlhaTkVIQVZNOUp4X0RkZHdtTkpkSFo5WkxCRHkxOXpvaW9LakExQ2pKVFVYWDBpUU5qT3p5a0RDcmdOUE9nakZCcWF4WGV1cGpFUW50Q25iaV9p?oc=5",
-          "publishedAt": "2026-11-27T10:27:18.000Z",
-          "severity": "info",
-          "titleZh": "巴黎之魂卡西莫多：这是受真实故事启发吗？",
-          "content": null
-        },
-        {
-          "title": "Théâtre Ça ira (1) Fin de Louis à la Porte Saint-Martin",
-          "source": "Arts in the City",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcHZDa3NGTUR2bnF2UWVlSXlOVlZhZmZVZXdNdEFPVmNONGtITkFzS2RsUjkxNUgtNnkwcTVUaGpnZmx0MmlEQmV2ZHBFOGFZWUdkZHhwOE16NjdsT3JNZUpqbmFuamRTYXk4RVUtUXJDRkRUc2pMSm1XVzVHYWRmSFdXUEROaEpaTWwwNmVRY09kNmRLbmg0SkhFSzlRUQ?oc=5",
-          "publishedAt": "2026-11-27T09:39:00.000Z",
-          "severity": "info",
-          "titleZh": "Théâtre ça ira (1) 圣马丁门路易的尽头",
-          "content": null
-        },
-        {
-          "title": "Ce que l’on sait des affrontements entre supporters de l’OM et de Sofia",
-          "source": "20 Minutes",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcGZteTkyV3RXd1lDby1faU9SdGZTTGh1bFZlMW43Q0ItdjFOZGk4NDZPVUJBWGYyYkNra0E2eFI3MXBSSHpZRkd4ZlV3R1ZhVTYzSDZEcmlUOHEtLTFwZjh0TzZXRHBBTU9Zb0R1LVJyRkFLWmtnV0xTVUJLdXBfLTFydDROd19OZHFXVVk1QmNHZzFjRTJ0WGMxZUdBU2R0SWkwQnlFclVoQzRERXdPSUI0VDRmb0VrS0liVXJfVlFvUFlyVV9pSnNoaWFhd053Qmg1TXRaaw?oc=5",
-          "publishedAt": "2026-11-27T09:29:00.000Z",
-          "severity": "info",
-          "titleZh": "我们对 OM 和索非亚支持者之间冲突的了解",
-          "content": null
-        },
-        {
-          "title": "Les signalements de violences intrafamiliales dans les consulats français bondissent de 53 %",
-          "source": "Lepetitjournal.com",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTnFyNVhGYTcxdWFyOWlTWDNTT2U2UmtiTC1KbVFFM1FqcEhfaGwyWlhZLVlsQ2ZQbDVobUdHOVhaMGZESUdnbi1kd28wN2dLeHlwYi1KRjFZYjVQZk1qZWtKc0F4dHFBWXJ5SXdtckNCTUczVldNY3R3WDE5bXNGY25pdTk4cXBoRTlqV012S3ZlTG54OE5uZmtDMGtfVF83NGxKQ1hVYlRxbC1RaWhvNzJ4TElUOWNkb1ZmaEtJVzBPd1JGMzJTNFVSZVVQU3RGZnBVeGZIOTQ5bzBlOXJFeQ?oc=5",
-          "publishedAt": "2026-11-27T09:09:40.000Z",
-          "severity": "high",
-          "titleZh": "法国领事馆的家庭暴力报告猛增53%",
-          "content": null
-        },
-        {
-          "title": "Enquête à Paris après des violences devant le lycée Charlemagne : abords d'un établissement scolaire, diffusion d'images sans consentement et article 222-33-3 du code pénal",
-          "source": "Hassan KOHEN",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaE9ONGpwemtOcGlsajJWZW5pZW5nenc4eGV3YTZtRlhURC1xZ21oUkp1bzd2UlJ1ZkZpaGZ1VlFKclZEMmxrRWlrMktmdWRWOC14N3VHTGhQZ3FScG5KV3FzZXdwbmtvdUhrZ0tGcTZaNkVXNWJSWURRcnFCUFlVUk9jS1A2NjIyYVF2WnZrRTFyWGs3aUhkQWc3R3ZoOWdNNkxwamFmZWRZdzBBNDV0UmJVWXZHX1BkMUo2Q1pCY0hySl9CTm1YNmtldEEtUFpYN0w2WnFuS0M3UQ?oc=5",
-          "publishedAt": "2026-11-27T08:37:00.000Z",
-          "severity": "high",
-          "titleZh": "巴黎查理曼高中前暴力事件调查：学校周围环境、未经同意传播图像以及刑法第 222-33-3 条",
-          "content": null
-        },
-        {
-          "title": "Football: Macron condamne les violences contre des supporters bulgares à Marseille",
-          "source": "Boursorama",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQWRya1RtcEVueFNpMXNJNDcxWnFaYlZuX3NOaXdNVmtGNE9HajdfdWtiRkF6RFVUQmF2d2RLQkdYaWpPajM5SmJRQUZ1d3diaXZGN3ZDTG1SU1I5eXJkRHQtN09rNXFQTUk1N1ZmZVRsdk5mWUdieXdjTjRQbXptX1RIekhldkxoVnJBbnRfLXlZV3YyeDRFVFpTeGgzNktFLW91R0NpcmM4U3E4WlRuWTAtWTBOSWEyVDZBVU5WaGVKbjhmZjFRLXhIWXE1LW92ZWNoaDc0RVkwZk9kWmRlaGR2d3V1SXBhZGJlNzhjRUNhUmxvSzRVZEVOVUw1WDVrZ210c01BTTDSAYgCQVVfeXFMT0FkcmtUbXBFbnhTaTFzSTQ3MVpxWmJWbl9zTml3TVZrRjRPR2o3X3VrYkZBekRVVEJhdndkS0JHWGlqT2ozOUpiUUFGdXd3Yml2Rjd2Q0xtUlNSOXlyZER0LTdPazVxUE1JNTdWZmVUbHZOZllHYnl3Y040UG16bV9USHpIZXZMaFZyQW50Xy15WVd2Mng0RVRaU3hoMzZLRS1vdUdDaXJjOFNxOFpUblkwLVkwTklhMlQ2QVVOVmhlSm44ZmYxUS14SFlxNS1vdmVjaGg3NEVZMGZPZFpkZWhkdnd1dUlwYWRiZTc4Y0VDYVJsb0s0VWRFTlVMNVg1a2dtdHNNQU0w?oc=5",
-          "publishedAt": "2026-11-27T08:02:58.000Z",
-          "severity": "high",
-          "titleZh": "足球：马克龙谴责马赛针对保加利亚支持者的暴力行为",
-          "content": null
-        },
-        {
-          "title": "Le barreau de Paris mobilise le droit et le 7e art pour briser l’emprise",
-          "source": "mesinfos",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTHJGNWVrSFZXSTVzMjR2eC1iWVZsTFBuSFNRRzhOdDJXTVFSQ1JacmtYWHlOYlliZkV0V2g2YWZtTUNYYUNBcGVNTW1uVGQzM19YSVl6Y2gzbFNmN1R5LWM0VWZxTnBBa0hOWm1PcWhVd0c4U29oOTZ2RWxKQnU4OG5BUXB5WnZtYXV4QnloR3MyWVFOTDVkVXo5eG1ZamN0YWQ2V2dkWjc0X0FPdF9QUXBySVRuRVE?oc=5",
-          "publishedAt": "2026-11-27T08:00:00.000Z",
-          "severity": "info",
-          "titleZh": "巴黎律师协会运用法律和第七艺术来打破束缚",
-          "content": null
-        },
-        {
-          "title": "Paris : un parent d’élève agressé et filmé devant un lycée lors d’un blocus, une enquête ouverte",
-          "source": "CNews",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQTk0V2lQdjgxSXFXeFBTN3MtR2pFVFkyRzJyVHp3VGVJLS1ITVpha1VnTWREOUdnTmo2T3hBdTVkSjloemF2Y2Q3cXhSbkpLcUs0SldYaDRvUVUxRDBrYUFJZTVzX2hzNXFtcnJXUy1Uem50MzVnQnk2emNraC05R2NCSEhKeHVibTBHZWFiRWRFazlZNmtmampnN2h5dU5LcTBDQ1NfUEpPWUNXY2ZTOG40WTfSAboBQVVfeXFMTzhkT2c5YnNCN3ctd2t6ZlZoQTJiNnFMWXR4TDVXQWlXc3EyZjZZV096YkVQa0lMOVJraHJYbUp6UUhLVFM2RTdHVG1SdGFadnRsQmhHOHFpaFAyajRqNU9wdEhiYkg5RkRBb1hRTVdxaktzVDJIVGV6UHViTm1BMDdVS3U1cDE2emVkSzdqS2sxbUIzRU1FS1Bqa1EtdHlndHU1OF85djQ3VlJoY0N0VDF2Tkl1a05HUlZR?oc=5",
-          "publishedAt": "2026-11-27T07:49:23.000Z",
-          "severity": "info",
-          "titleZh": "巴黎：一名学生家长在封锁期间在一所高中门前遭到袭击并被拍摄，已展开调查",
-          "content": null
-        },
-        {
-          "title": "Macron condamne fermement les violences contre des supporters bulgares à Marseille",
-          "source": "Flashscore.fr",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZUxwc0JvLUFVZkx4ZmxoY2xscHNaSWlkVUZCa0s5M1VhVXEzZW54VjdrbDZKNWtaQjZrS1FUclhKbHNyZ3F5dEpiSlhjNjlybVdjNmxsZTcyRWtoMzMybVdaV0FVOXcxVnJJRFFoNTNtc3AwVEs1cnFhMHNibEM0M093RjFuNjE4bXhKYUhmSE42OU4xcGtRZXBKM2VtRTgyYVlqWjNyc0xMeHBWMGNRQzB2QnhqaFVRZzlhWDBKZld0Yk1XT29rck5pMkx0eGRDOVJ0TXhteU9xaS0tdGtVSnJmTFlNdw?oc=5",
-          "publishedAt": "2026-11-27T07:27:24.000Z",
-          "severity": "high",
-          "titleZh": "马克龙强烈谴责马赛针对保加利亚支持者的暴力行为",
-          "content": null
-        },
-        {
-          "title": "Vigilance grand froid activée à Paris et en Île-de-France : jusqu'à quand ?",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSnpSUnlLVGZIMkI1TmlYS2syVzdhbElpclNpQkt4d2lwNmVIS1JFeHZPWVlQd1VqbUZseXVjckNoMHJyLTlIZk94SGd6cElDdC10UnR1X20tN2w4V1ZrQXBkVllCajdaVzl3MzF4aHg5cy0zSHJHS0VXSUJJRnlTeDlfS1NENU9McTNETnE3NkJLcTAwNkRTMjEweDJiMjc4X0xWRi1qaHBxY3NvaTVoY0pobEZmYk5XWlh4dzA2TXBOdzI4dGZoUDhtamNJTk1f?oc=5",
-          "publishedAt": "2026-11-27T07:15:07.000Z",
-          "severity": "info",
-          "titleZh": "巴黎和法兰西岛启动严寒警惕：到什么时候？",
-          "content": null
-        },
-        {
-          "title": "Incident Barrot à l'IMA : violence au dîner iranien",
-          "source": "Daily Beirut",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXZHaTJPQUxwcmtjUEpEUm1VWlgxWnBNUlJJMzlndnlnWXBnb291TTctdnVYamNTLWxzMTcybGhObllZSzVtUkEtSC1WaWpQRktndjhBSlBiRjJuWEZsQjlCcmxFbDk3Q296SE04aTNQb0IwYWRoakNkckI1SnVaUTh2cWYxVGtaTkZKTTE3WURCN09udzJveFhCeXdNeF81RXQzQ1NOLVVHZHNIZlE4Wg?oc=5",
-          "publishedAt": "2026-11-27T07:04:09.000Z",
-          "severity": "high",
-          "titleZh": "IMA 的巴罗事件：伊朗晚宴上的暴力事件",
-          "content": null
-        },
-        {
-          "title": "\"Les images de Marseille sont effroyables\" : Sofia et Paris dénoncent les affrontements en marge d'un match de foot à Marseille",
-          "source": "L'Avenir",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPYWRXUWJjSHhHdEI3RzVSX3BycTRlVmhoSG9vaDBybkdyWlplYnhkR0tud2lhajRpOXk4Qmk0cEp1OXl3dEJ6RThDRU9jWHRLUjRHNTNNMGhubG5JOVU1ZXV2VHRSc1VvVzNhcGN6SExQelhFc1JCbVhibWIxSTNUQ1AwaWwyZU1tV2RUOHdBQ1lCS0pMZGdXbTItbHlrQktHbGt3Rlc4blpuLUJBQUxTMTRVMDh5YWdqRTdhXzJrLUhnTU1SNFVjbURhb3JDN3B0NjV5R1gyN3oySkh5SVhsUkl5N0hKMDB2M3YwZEx1ZjdmY0tnSm5QdkJ2VDkyUGVrWFVqRmlReFFmNmhjU2k1N3dQZE9lZ2V6Wi15T05YWEMyUQ?oc=5",
-          "publishedAt": "2026-11-27T06:40:00.000Z",
-          "severity": "info",
-          "titleZh": "“来自马赛的图像令人震惊”：索菲亚和巴黎谴责马赛足球比赛场边的冲突",
-          "content": null
-        },
-        {
-          "title": "Macron condamne les violences à Marseille après les blessures de 11 supporters du Levski Sofia | Goal.com Français",
-          "source": "Goal.com",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQVVfUVJJMlFIVmZyS09ncm91andKQjFuaHV1dHkyZmJzUDJrUTZFQUthUGMtS3RtMTByNUZCRXVrSUlHdVNISzhvcVhzTnpKeEc2OVQ3d1U2bThoRnY5MzN6S0JDV3FKVlBuYzBNV3NsYllhdkRCR3FiWWtkQUxVVks3ZTVJeHgtRUtDTU5SZ19RLWpDSUVtRmFvWEYxOTVBRndoekFWYklDWmFNUEQ0alhMWkVJZnBBZ0cyMTl3VFhTYXgtWndQUGZaU004bTk3UFhHcVItVm5PVGtJdWxleVVPbWZ5UjM3RDY4WktpTUpGbXllQXlnNEtTakMzVDZ1dTBKNmwwel9VbWZocjBwZ2dYZw?oc=5",
-          "publishedAt": "2026-11-27T06:31:09.000Z",
-          "severity": "high",
-          "titleZh": "马克龙谴责马赛11名列夫斯基索非亚支持者受伤后发生的暴力事件够力足球中文网",
-          "content": null
-        },
-        {
-          "title": "370 000 manifestants à Paris",
-          "source": "Orange Actualités",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWVVvWlh4RWFpRWpwM3ZjUGVXZXBjOHIwem0xUUpBUzFiOVhRM2xacGxEd1RkUUpMbE1WSFRVRWpfSC1CazlpZzVmTWVqRzlBTW9WZ1Zyb1ZwTzV6aGVVQVhIemdtSlJOUnNfdlk3THNhMDk2ejEtRDJzazYxTHNka2gyaWlwZmxXU3dvLVZoNWJCUQ?oc=5",
-          "publishedAt": "2026-11-27T06:30:58.000Z",
-          "severity": "info",
-          "titleZh": "巴黎37万示威者",
-          "content": null
-        },
-        {
-          "title": "Grève du 1er décembre 2026 : quelle retenue sur le bulletin de paie pour deux heures de grève",
-          "source": "Hassan KOHEN",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFVWTktKSGhGZGlEVmdxZXdEbTVqX3puU25aZkpUQnpyZ05QZXJURWVUN3A2VGI2N0RPa2g3UkZReGRkRG8zb0Z2MWNSclZOODduam5OMFJObm1sNHNmX1VnbGVRbV85bXFXTTRpR3NYMjJYMWlwV1ZTSkQ4WlZJOGp6MnNCOHFIWG5R?oc=5",
-          "publishedAt": "2026-11-27T05:16:00.000Z",
-          "severity": "medium",
-          "titleZh": "2026年12月1日罢工：罢工两小时从工资单中扣除多少",
-          "content": null
-        },
-        {
-          "title": "La Bulgarie exige de Paris de «faire toute la lumière» sur l’agression de supporters à Marseille lors d’un match de l’OM",
-          "source": "Le Temps",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaE9FZE1xdVhHUmNYc2NsM3dZVVdrVGk4eWtHaFA3clI2dzA3MkMwbHMwNEhFbjJtTXU5SUlub254TTZNY1ViMUVkOHMxU1RtQWdlRmhUSjlibWpFZVRmUjdJWGhHV2JsQ0dVSDRBU040UFdhTDRsR3NfNnB4dWxaSFp4NXh0U1YxZmFybkJkU28tVEtqb0dNYlJpYzJLWVRBSE9zc3hYZmxTV0ttcElvT2s3QU81cXVhd2phWlBfbGxKMVNHRnlwdHhkSkxKSjRKblBHOW9yZ284Y3hrRTJTbnVB?oc=5",
-          "publishedAt": "2026-11-27T05:05:53.000Z",
-          "severity": "info",
-          "titleZh": "保加利亚要求巴黎“揭露”OM比赛期间马赛支持者遇袭事件",
-          "content": null
-        },
-        {
-          "title": "TÉMOIGNAGE. VIDEO. Manifestations lycéennes : \"Tout partait en vrille\", raconte un CRS blessé à plusieurs reprises",
-          "source": "France 3 Régions",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNYUZEXzBXOEI2NmdSR3BjSEtob1pSXzl0MTV0eEdtN294ckpDQ2g0a0lEU2RsN0E0a1loQUNkLVJFWE02MEJrTklLQVNYUm9HVml1SXZvVy1rdHJmRnFJelBzYWU1aFhSYkpobXUtNG55NjI5cTlKcDRsQ0MwTmVHX2xvZU5iYUNvMkd6X3ZraGdZSDhnNEwxY0JlSDRuMzVJTUpxeDNVRzktSWNQR0lJSmwyWVFKREx5RWl1SmxYRE1mT3VPUWxWUlZqWmF0Wk5RR3NrY2Q1MkZHMkNMUnRpcUFmZDNaaERobG9sc3J5OWlOOTdFZEV4NzByTWJ5NC15bVZBRWIwN2psSFBnOUFpakZMRnMzMGhSanNz?oc=5",
-          "publishedAt": "2026-11-27T05:00:11.000Z",
-          "severity": "medium",
-          "titleZh": "见证。视频。高中示威：一名多次受伤的 CRS 表示，“一切都陷入混乱”",
-          "content": null
-        },
-        {
-          "title": "Grève 1er décembre 2026 : école fermée ou transports perturbés, pouvez-vous manquer le travail sans perdre votre salaire",
-          "source": "Hassan KOHEN",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTHdjb3VDM290OUpRU3B0bmFkRTdkaUdla1NWQklBZWF0U1lLMHlEMmdRQVNONWJiOHpfRDJFMzJJck1KTURPX1hTaXBLcGdKenltd3NrS0k0Y01paFVpOHQ0eEJsUkMzdHNCT3NKYmZPUmNnTVZHY2tRU3c2X01iMkhXc2xadWRRbWx0T0htOXVVN1c2OURwV3dKUzRQdw?oc=5",
-          "publishedAt": "2026-11-27T03:22:00.000Z",
-          "severity": "medium",
-          "titleZh": "2026年12月1日罢工：学校停课或交通中断，你能错过工作而不损失工资吗",
-          "content": null
         }
       ],
-      "places": [],
-      "districts": [
-        1,
-        7
+      "places": [
+        "歌剧院 Opéra"
       ],
-      "articleCount": 31,
-      "clashCount": 9,
+      "districts": [
+        2,
+        9
+      ],
+      "articleCount": 30,
+      "clashCount": 8,
       "status": "unknown"
     }
   ],
   "latest": [
     {
+      "title": "French Activists Demand Tear Gas Ban Over Reproductive Health Fears",
+      "source": "cwibc.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFMmZqUWlIWktKdU5ydTl2WGVETTFJbTlkRW1WaG9WZWpxUGlZYnFyV0tjX1lzZXNvTGRFaFJreE05R0JEak5yOUd2UzJPZWNKRjI3YUJOb3FmZmVMcEE?oc=5",
+      "publishedAt": "2026-11-27T23:32:00.000Z",
+      "severity": "info",
+      "titleZh": "法国活动人士因担心生殖健康而要求禁止使用催泪瓦斯",
+      "content": null
+    },
+    {
+      "title": "French Activists Demand Tear Gas Ban Over Reproductive Health Concerns",
+      "source": "Demokratis.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hYjQzdTBRdTR0TVZxbzgzNWphdHNvYjdKM0owMFJJbHQ2RjBGeFlTcXJoODJuUmZHMkhRYmNOczFvWEhBclR3UUJwbnZiUThTaXFIajhLLVJYUW1aMXFReWNTUmU?oc=5",
+      "publishedAt": "2026-11-27T23:28:00.000Z",
+      "severity": "info",
+      "titleZh": "法国活动人士因生殖健康问题要求禁止使用催泪瓦斯",
+      "content": null
+    },
+    {
+      "title": "French Protesters Report Menstrual and Pregnancy Complications After Tear Gas Exposure",
+      "source": "SSBCrack",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmRPeksxcWpmVzFXSjR0OEJnLThGXzRIV0VSTkl0NlNzd2lQMFNfSDVBVTM1cVhOektOTjlUMHlLSHRnZ0FkdUZXQzBweGhnaTJvSExtdy1GOUlFOHBsbVVaa1Z0OV91eWtWNk9LdVQ2MEIyMENlNDhKN2tmaEliU1puYktHaTlEUEZTSmU0UjlMNTlNSTFvbUs4ajh2NTM5ZzFhc293ZjVXWi1vbzdtLUd1SQ?oc=5",
+      "publishedAt": "2026-11-27T23:05:23.000Z",
+      "severity": "medium",
+      "titleZh": "法国抗议者报告在接触催泪瓦斯后出现月经和怀孕并发症",
+      "content": null
+    },
+    {
+      "title": "Hatred Of Israel In Disguise: Who Funds Europe’s Violent Protests?",
+      "source": "i24NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnBTMEc1NTNoYWxEVlpTS2RSNVRYY0czdzlLSW50TXgtRUp4cnA5ZjE1aEUzWXpYWmJCTWRxaVZnbXZTZElwUVRSeUlMaVVuYVFpc3N3VEpXeDhVYlZlMVJCWmQ3TmJ6V0txVmFvRjRjYU5NbTdCdGkwSjdEMkkzb21rOXMwZU9fWmd3emkzeklRWWcxR19pckJBVllZZnFYTU12dG1xTDVHTlFPQ19hN3pxeUpyTjdu?oc=5",
+      "publishedAt": "2026-11-27T22:06:43.000Z",
+      "severity": "medium",
+      "titleZh": "对以色列的仇恨：谁资助欧洲的暴力抗议？",
+      "content": null
+    },
+    {
+      "title": "Grève Tour Eiffel : le BAPS au cœur de la polémique à Paris",
+      "source": "horticulture-abadie-pyrenees.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQemRTMXVuY1FLYWdkZG44dnJMV3Bvdzl0bkd0MC1MWllTeEF0YkxtLWNRX044Z2JKTG16RnhsRFY3MkZTUG5xb2ZDb3NQR2lUZzQ3bVZIakkySndqR2Zabl83TEVraVRiMlVNaDN1QWlMbXAyZ1JUVWpJNmZVcWNhLWRB?oc=5",
+      "publishedAt": "2026-11-27T21:59:46.000Z",
+      "severity": "medium",
+      "titleZh": "埃菲尔铁塔罢工：BAPS 是巴黎争议的核心",
+      "content": null
+    },
+    {
+      "title": "Manifestations du samedi 28 novembre 2026 : la carte des marches et des gilets jaunes, villes, lieux et horaires",
+      "source": "Les Voitures",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdHVNbXE1bFdYcWliNWJkSE0yR0RKYmJNRXQ1cDVWZmNvT1JLUlpDUVp5U2xIV3hiWlpHRjN1cXRScEdjMzZrV3dlVzFjX0ZUZnJNMjYtN0NRaVZK?oc=5",
+      "publishedAt": "2026-11-27T21:47:31.000Z",
+      "severity": "medium",
+      "titleZh": "2026 年 11 月 28 日星期六示威：游行和黄背心地图、城市、地点和时间",
+      "content": null
+    },
+    {
       "title": "Manifestation 28 novembre 2026 à Paris : parcours, horaire",
       "source": "Fondation des Femmes",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeDc4Qk1zTk9TV0E1M3ZabGxiMWpoV0tSdk1SbkZVM3lYTmU2YmlwX0lPbGNYdExVZ3VvMTRULXVMemlrWG1NcHFSdGNYS3d3N1kyeGg4dVpUdUhPU3k1ckNXdThqU2s3d0FCY0RlUEE1YlpGa2gteWdNZWVuM2pKU2FjeHE2QQ?oc=5",
-      "publishedAt": "2026-11-27T15:18:55.000Z",
+      "publishedAt": "2026-11-27T21:32:29.000Z",
       "severity": "medium",
       "titleZh": "2026 年 11 月 28 日在巴黎举行的示威活动：路线、时间表",
       "content": null
     },
     {
-      "title": "« Paper Tiger » : la critique d'un petit Gray illustré",
-      "source": "Paris Match",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEYyQU10UVV3dGFWdzdwQmQ1VTloNml2TVJPS3dTYTEwMWw3WjFJNXVyNnNmLWlTSjZLOFM1dGxnSHl0VFFWOHNMZ3Fta2szRmJLZk1NX0dRYXpCZ3VDRUVvOFRKNkdaeWtfNUdIV1pHSExIaTFDOUZSN0wxY3J4aXFuU3Q1ckpMV0VDTXpla1k0OUxFRnM4NQ?oc=5",
-      "publishedAt": "2026-11-27T14:57:18.000Z",
+      "title": "Deux cortèges pour une même cause : les féministes manifestent en ordre dispersé à Paris",
+      "source": "Le HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeVMyOS1HWHE0SU02TFREVWlkdldBdlJUXzBCUXd3Y1FzQ3ZGbnhwVVlQaTdkVUZWb0tvUlpuSTJhT0VVU2hrNklLNDFaWDUtZWRWUTdGX0QwZjE0ZlJSbzVjOUJjMjU4eV9YYlgza0lxeUJ4V0NVbDgwQXptZktNdWRLU1RtWXR1RHpubUFJa0J2UHhPN0dEaHJlQnM2RGJmOWlHRGJac1FlSktaSDdfbDZFbmVuTjVQQ2poN3dSMUdMWUhRaXVFd1BBc1lvYkZLMDMzd19lT2dzWjlLVlZ3NkVEMENDeTdvMTdVdWxBOA?oc=5",
+      "publishedAt": "2026-11-27T20:15:01.000Z",
       "severity": "info",
-      "titleZh": "《纸老虎》：小格雷的评论",
+      "titleZh": "同一目标的两场游行：女权主义者在巴黎零散地游行",
       "content": null
     },
     {
-      "title": "Le Salon international du livre rare et des arts graphiques de retour à Paris du 4 au 6 décembre",
-      "source": "Livres Hebdo",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhwd2xWZzR4YUpDUWs5ZzRZbVdmYW9Sa0ZvYUZCV2xlc2I2NzhNUlhRWHotZDhPWUEtaF9NaFcxQ21tUGJDTjZ1ZGFMRnNtakJ0ZlFhZmpQZ0pMYjF6UlZXUUUwNXVBNjJRYzFZd2xPdmlMN3ZvVEdpeEJGNHdzMlpZS1dEblY4bVdlazlGeS1nd2ZnWkRFUURxOWJ5ckVEUk9HNVNWcHRnS2tYY2ZXTGtUY3dzYnVSblBBUA?oc=5",
-      "publishedAt": "2026-11-27T14:52:00.000Z",
+      "title": "Grenade en manifestation : comment prouver l’origine de la blessure si la plainte est classée sans suite",
+      "source": "Hassan KOHEN",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlkxNm5JdTJsa2ItSXVEb010MWV5WURqZElOdzllZHpRSDZNZHVVTnRqZ1VzbmhyeklMVzNpUjNlWFNXS29saXJtZ0VtSXF3MmRQNndSb1pqQXhmdENxQ21tR01vLVhiR2x6RVJ1Q2FFZ2Y4VjF1NEVYTDF3WU12cFE5RVVFaEg0LTBQbWhjSTdFQ3YzNXBOTndR?oc=5",
+      "publishedAt": "2026-11-27T19:19:00.000Z",
+      "severity": "medium",
+      "titleZh": "格林纳达示威：投诉被驳回如何证明伤害来源",
+      "content": null
+    },
+    {
+      "title": "Défi entre amis à la Jackass : la victime était d'accord, est-ce quand même des violences, et que risquent l'auteur et ceux qui filment ? (2026)",
+      "source": "Hassan KOHEN",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlFGd0VyWExnUXJOVlBicTExWkRiTEIwci00X1JvdkpxQTU4STFCTy1MeWJISzQyTDdySTFjajJfYW83cEhzSHVuWDhLNFFGanRicTZzczZLT0tpRUkyN1R2RndNWHNSemhsaXUwY0pVT0NzSFpqVm5UMnVsaG9MNEh5N2JzbnFDaDlKMUFTTUpjdGdsdlBLaXZCdTF4QWpBVjd0bWtJc1lkZ0Vobl9NRkpwRVBDMUV4b0g0cUQ2QXhOdzU0cldPTg?oc=5",
+      "publishedAt": "2026-11-27T18:56:00.000Z",
+      "severity": "high",
+      "titleZh": "朋友之间的傻瓜式挑战：受害者同意了，这还是暴力吗？施暴者和拍摄者到底是什么？ (2026)",
+      "content": null
+    },
+    {
+      "title": "Grève à l’Opéra de Paris : Turandot et La Clémence de Titus annulées",
+      "source": "Forum Opéra",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlpTQkR2TU1STzdkRGtNTUtaaksyTHZ5aGwzcWNxR1ctN0MyLTRVeWVmUWF5b0d4NlFnd20teUZRMUtHSXU3TEJ6b3I5UHE4NDJHUFR0VjJsSVVUZmVrZFl2MEZzemh2ZFVVaEdaVW14QUVPQTBCWmJ4S1dnMFd0MG53OEpvX3FlaEM4eGFFd1ZleHJGTUF5enNXMTZhSFNY?oc=5",
+      "publishedAt": "2026-11-27T18:45:43.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎歌剧院罢工：《图兰朵》和《提图斯的克莱门斯》被取消",
+      "content": null
+    },
+    {
+      "title": "Au procès d'Émilie König, les experts s'interrogent sur son rapport actuel à l'idéologie islamiste",
+      "source": "Europe 1",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUlJUZkRTb1ptMWMyblhwcnp2QnVUVjV0WlRQRTA5U1VtUHdOSE8wcWRoZTUwWGJoaVVJZlhvWnJJV05zWmd3ZEZtSlBRN0pkczFvdUtMVURjWHFScjEzZXlVU1hZYk9yNWt6UzZVdlo2OFdOYUJPc3RmdS1WeTJ6QWJreXNmUmhrT2FfWEdicW83RkFsWUFuUWJwUW82bUcwWFg5bDRSQjZPYWRrYVpuQWQ4bXpGdnJKU3JZRW0xTm5XOHN2QUJ4ZU1NaHluTGFPekFVYTE5QdIB3AFBVV95cUxQczIwWGprd1E1UXN3UmFGeGU0RjlDekNXenZ0RE5tdUE0MDZQR19jVnAxNmJuNU9SZjZab0RWZEVUU2c2NURVVXdqakFTa2g2RGNuaWdwZVBRWm8yTWstZzd0eGx2aS1BN1lfeVdvck1qLTZERnl1Z0thVk9IUmNaNTJwRHlXYTA5dGxoS3dDeVNsQjRFLWdEY1F5UzJuczRNblVmV3hmYjVOZTVOVDFCUW1Cd3JyTjkxZTEweE5Ca2xDVkdoc2M0ZS1TRG9HbzhwMDhiRjUxeEZiTWVk?oc=5",
+      "publishedAt": "2026-11-27T18:43:19.000Z",
       "severity": "info",
-      "titleZh": "国际善本及版画艺术博览会将于 12 月 4 日至 6 日重返巴黎",
+      "titleZh": "在埃米莉·柯尼希 (Émilie König) 的审判中，专家质疑她目前与伊斯兰意识形态的关系",
+      "content": null
+    },
+    {
+      "title": "Thousands of girls and women report bleeding and miscarriages after French police use of teargas",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeDVtdFh3bl9lb1VXUWNVVDZHSFhiTjU3NDNmdG1kb0VuUjM3YVdNaGlKMmZSdlZRWUxjRXhhb2NDTnM3SzY3ZEVEZ1lpMi1FXzdPTzVaY2NWLWFOVEN4S3RsSVdJRlZKN29PX2NRc1pMT3p0eDFQbTFvc2RoM2ZkNU5iR21kc19iQTFFQ0JqMlpFZjJMXzFUTEl2SlpHTHpacXdkbVYwZDdEMy1KLWlkX0o0TTRhX3hqcFM2bElpczhrc3NPdkNvZHlac1B5M3FDODJualF2UDBGVDByeG5sdHB0ZFBOTmt0N1Bn?oc=5",
+      "publishedAt": "2026-11-27T18:11:00.000Z",
+      "severity": "info",
+      "titleZh": "法国警方使用催泪瓦斯后，数千名女孩和妇女报告流血和流产",
+      "content": null
+    },
+    {
+      "title": "RATP. Manifestation du samedi 28 novembre à Paris : deux stations de métro fermées par les autorités dès 12 heures",
+      "source": "Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTVRScThLRmZEM0RPTmZTck96XzZyc19rZzlUNml2UlQ3ZW9FNWNwYnpPeDhwQUhDc3dZLXNWX3JXNkZ6SU1wSDJXWnVsYlNtNTA0V0szUmhPQ0JhYVJIUkFLWklYV1p4VFBuWXJIN2lnYkRCY3dnWmpyZUxVX0hiSVBCZ0dydkVZYUZibElrNWhSckJEY01Uck9GQldPbVdGZmNDVFZPQ2F1MGpFM3dWN0h5eGt1c200U25mVWFhc01vZDFZc0FUcVdPUENycUY5YkJTZ0MxeXhlU3VQWVoxdlFCTHEzQUdCdzBNWWl2UnI?oc=5",
+      "publishedAt": "2026-11-27T18:06:02.000Z",
+      "severity": "medium",
+      "titleZh": "RATP。 11 月 28 日星期六，巴黎举行示威活动：当局从中午 12 点起关闭两个地铁站。",
+      "content": null
+    },
+    {
+      "title": "Les violences sexistes et sexuelles ont doublé dans l’UE en dix ans ?",
+      "source": "20 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM01zUTR4ajNJZ0g3SjVOclhSaW9xWkswMXJidjNzUFdONVpkSTVYY3JQdUNjQmpJOWNjakgwOWdmZm1mbTVIZVU0dno0WUh5bExNZmRIZm1wLUE1ME1sSzdBY3NlTi15MWhFVVBTV2l6OExNRVg4alVtVC1BQzFVOElaRFQtdW1pellCUzk2RnRyZ2x4VndaQTBoOGs3NjFtTk9ubEl2am84S3RTYjkwYVYxUjdsdw?oc=5",
+      "publishedAt": "2026-11-27T17:47:00.000Z",
+      "severity": "high",
+      "titleZh": "十年内欧盟的性别暴力和性暴力是否翻了一番？",
+      "content": null
+    },
+    {
+      "title": "Who is Fleur Breteau, the campaigner fighting European pesticide restriction-easing bill Omnibus X?",
+      "source": "Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMW5yemxMMXduSnItcHY4OE5ITHFORmFIakFhSlAwM2xYRmdZT0hKZ2h1NzZYcmhEb1dxM3pVY1RyM0M5Y2hjQzU4dVRpSTRQQWJrWHpaVjc0OEZxbjdydkYwOU1ZQmxZeERsemVIaG5xU2l4VXdBbHdzdF9xRGFRa0xmMGlRNk1tNkZ3VVdSakEzcXBJWFJhRF9ocXg4RHU2YkhrdDByTzNQeC0ySlVVRm13SjdkRDA2OFhid0otZnBnUFh4OXBOYlNsMlVqWHIzTUpQMUVFT2JOR1VsRTEzNF9SclQtMFZ1Qml2RVg0VFI4M2pTY2l4S0NuY3k?oc=5",
+      "publishedAt": "2026-11-27T17:20:22.000Z",
+      "severity": "info",
+      "titleZh": "反对欧洲农药限制放宽法案 Omnibus X 的活动家 Fleur Breteau 是谁？",
+      "content": null
+    },
+    {
+      "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
+      "source": "Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
+      "publishedAt": "2026-11-27T17:15:45.000Z",
+      "severity": "info",
+      "titleZh": "预计 2026 年在巴���和法兰西岛举行的开幕活动和重大活动：今年的议程",
+      "content": null
+    },
+    {
+      "title": "Manifestations à Nantes : quatre syndicats réunis portent plainte pour violences policières",
+      "source": "Libération",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbHp5TlZCdFJkZHpFTW9GdE9VOWJTd3I1YnNWMGU0eXVSUXczaE9KQ0tpQm1QZWJ4MzlWXzFlX3RnMEZDNEY4RGxKMmlZVXkyUUhjRTFKeWhyZk1QZGR2LXhSUlFKSFFoQVB2Z0hXRlo1aDVvcXB5TmlUZEZfNDRGOGd1OEpzRTZDcmFXNU53S2l0aW9kdVR0endheWM4X0hraXg4ZU81b05zb21MLTR1UmNrME1zcFcxbmIwYWNBV3dKZG5rd3RIWmVEdEpPbjFVOXd1WVlxaEtZOHA2Z09CRFItbnE0WjNORVpadHBFbGFUSEVwcVk4OVpyNi1kT2REQXcyZHJR?oc=5",
+      "publishedAt": "2026-11-27T17:05:00.000Z",
+      "severity": "high",
+      "titleZh": "南特示威：四个工会联合投诉警察暴力",
+      "content": null
+    },
+    {
+      "title": "Cisjordanie: un ex-général israélien, allié surprenant des Palestiniens face aux violences",
+      "source": "Lepetitjournal.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNlJXTm5tUHkyaWtuWUlGQU9UWmFYRDZ0WXBtV2xGU1A5cVVFbzRLNkx2VGlyM3ZJdlFiZ29JV1lKRnEyMlBRMkNTWkdDYWttbERaY29TUlYtTG1CSWJnMnR2RUozQjh1cmI2UlBMLVNUY2M3dGthRjdkR08xMnNaUXRLUXJkbjh6Z3BvanFYR1NUQjNpRlI2VkcxWWtYdk1aRWdRbko4T1o5QTRrOGt5eGk4NmVxRzJjSkwwTTNSdVlNUmtNbDhUTl93?oc=5",
+      "publishedAt": "2026-11-27T16:38:28.000Z",
+      "severity": "high",
+      "titleZh": "约旦河西岸：以色列前将军在暴力面前成为巴勒斯坦人的令人惊讶的盟友",
+      "content": null
+    },
+    {
+      "title": "CARTE. Marches contre les violences sexistes et sexuelles : où sont prévus les rassemblements ce samedi en France ?",
+      "source": "Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOdWhTWU5TVHA2X1VlbHZpcHF2bnNsbTBYYWF0SV9pblJBOXVUdDBTMVBDM05pSU1WV2gwdlpud00wLUFJTzRPUlRzc1dtbTg0aTlVZUxGMUxJZTRDLVVIYzRmbXVTM1I3Qk5pdGlIc3hvWk5vVERyTGFNclFXaGRmYWxYMXJHUGpScjFoanBWaXpZcU93cVlabFFQZXkwclhzdGFhM1dyVWtkVzFRaDh3ZTQ0NC1VeXFyMzAxVDk2UUMtMlV2c0xma0tjV3lWRW5ZNmhkamFPUWZqa2pmLVN3bTRpVy1uYmRKT0tBeDlLcmJzaUV3NE92SjVESnZkcTFRNnEtMGtoV3pCYzNrMEZTbzNQRldCLTQ0eGhCLVJ3?oc=5",
+      "publishedAt": "2026-11-27T16:38:20.000Z",
+      "severity": "high",
+      "titleZh": "地图。反对性别歧视和性暴力的游行：本周六计划在法国哪里举行集会？",
+      "content": null
+    },
+    {
+      "title": "Annulations à l’Opéra de Paris pour cause de grève",
+      "source": "ResMusica",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXRoeVVPQXZZazRYcG9tREhKRVhCeGs2bnI2cUE2X0N3dk5hQkI3V3RGUmtvRTRlYUxzZU9OTVNMM0sxbmM0QXV0YnpVb2hUS21QNV94R3Rqb2k2SUh6RUNKd1lfUGpnbUhCYnc5WkpISXRzUzdZdFpGSnRxQTB3V1BsbFo3dU16bjBJN3FNTzg?oc=5",
+      "publishedAt": "2026-11-27T16:26:30.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎歌剧院因罢工而取消",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 28 novembre à Paris contre les violences faites aux femmes : parcours, sécurité, stations de métro fermées... à quoi s’attendre ce samedi ?",
+      "source": "France 3 Régions",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZ2FYbmlCZDd6TmEwRUZSaUJJUExGaW1kLWpfMWMtOGVNMzg1QjZMcFExQ3QzWWlFd0NCbWFXOTFxZkRzaDNhRGFtLThMLXIzbmlMaExKVHBXVTR4dXpha0lDcHdxUnlVNmVmT1VVNzNhU1hBamdLbHdNdXRhTlhuZWhnOTJFa3lCUjhOSUhCM1BxTlVWNUdOZUtUbzNGMVh4SF8yTHBFbW5mb0YxZ0plLVJ6U3VqendsRWRHQTFJN0lucDFnZ1Z0bEJSbkZ6NEdfYTF5OEViZ3UzcUpQamk1QVc2SzdocE5iZFM5LXFoMG9DUnJCUXVIQmNCSkhvVVR6cFJyUzVYSW52YUJBakVCMlJIRXM0NmRHak14cHl1YXdLTjQz?oc=5",
+      "publishedAt": "2026-11-27T16:13:49.000Z",
+      "severity": "high",
+      "titleZh": "11 月 28 日在巴黎举行的反对暴力侵害妇女行为的示威活动：路线、安全、关闭的地铁站……本周六会发生什么？",
+      "content": null
+    },
+    {
+      "title": "« Ce choix est incompréhensible » : pourquoi deux cortèges défilent samedi à Paris contre les violences faites aux femmes",
+      "source": "Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNSEp3LVpmbXRpak96UGp6aF9BYXZzUEFIbWJmamhrWmJDSEtMQ2lvUDh2LVQyaC0yRkZST1B4WVdNVjE5eF95ZjVESFdmX2NFbUFfVTRScXRQS3pFVzlSbm1LcDJXNzlrWXVTc01mTXpyZGJaaUJhOXE1SHJ1OGZhTE9RQzZUWUxZazlHeDdCUGFHT1IzWUZQMkpzREl0bmU4OHc5d3NLTDMwMjI2dFlXX0ZBUWdvaWJsQWNvaGpJVHM3aExUNUVac3JGc3h1TWdVb3YzY0xQMVNnZnR6NU1va0swWW1jelVJd29Wcl9CZnhJVVlFZUZ5T2F2WmUtQzVIWkdQY3VUTFQwWnJzOFVyMUR4Q0FuSVlQRTUw?oc=5",
+      "publishedAt": "2026-11-27T15:40:14.000Z",
+      "severity": "high",
+      "titleZh": "“这个选择令人难以理解”：为什么周六巴黎有两场反对暴力侵害妇女行为的游行",
+      "content": null
+    },
+    {
+      "title": "Mobilisation féministe à Paris : le préfet écarte Némésis de la marche de #NousToutes",
+      "source": "L'Humanité",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMDE4VERLOUJLMGhTT3JoUVRxZTZic2VtMHpyMkU2M0NlY2JOYkpvbVR0eHdfckRyMGtmUnA1T3F2ZjJ1ejQ3bTQ4SUhZazZoUlpqdk9FSHA0YVZENDVYN1lJcEdHRGd5Ykc0b3ZDc1EwYUdQcWw3SC1GWmtKMGQ5U2o3eE9xa2ZDWTdDb0c0YktpNWZ5Ul81M3ZERjZOd29oZlFlalRFUmVpY1NqX05IMzd3NGtLZi1zUHF2WFZla3c4OU9RU0hV?oc=5",
+      "publishedAt": "2026-11-27T15:33:49.000Z",
+      "severity": "info",
+      "titleZh": "巴黎女权主义动员：省长将 Némésis 从 #NousToutes 游行中除名",
+      "content": null
+    },
+    {
+      "title": "Mobilisation sociale, manifestations contre la vie chère et les violences sexistes : à quoi faut-il s’attendre ce samedi 28 novembre",
+      "source": "Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOQTZRMkI5c2tKQWtvS1h0bmhQUkU3UEZEMlpCQ0ZGU2puNXhSaDVsWEd2eDdNQ2dJekJENjc1ZEFLbTBTTDJUM3hWX0FvRENteFhyZmRnLXcyd3ZlV3g5b094MUJkaWZ5eW5PQno4OEdwd3RORWNfd2E1eTRLUFF1eF94bUFDM2VfMFU0YWp1UnpoaVdCWkU1ZkxJTG94RGx6QnhaekV0RjFDVVhwRmRMNU5Ca0o2RWNLbG1uQTVXZkZEQ2JJTjNuNEpTTndDY28zMkU4cGdEdVlBOXU5czFsd2xlOEp5dHBsZ0U0X0dpeFBLNjJyMzgwQmM2amQwRnpIOXBCdGx4NDAyQVlEY3ltT0t2ci1FVXNHaHVueFBMT1Zybk1PVFZQSzJyQzFUZDkwcEkw?oc=5",
+      "publishedAt": "2026-11-27T15:00:00.000Z",
+      "severity": "high",
+      "titleZh": "社会动员、反对高生活成本和性别暴力的示威：11 月 28 日星期六将会发生什么",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 28 novembre contre les violences faites aux femmes, voici les deux parcours parisiens et les horaires",
+      "source": "Le Bonbon",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS2xWOS00blJhOFlWcC1oel9oUFhrR2VvSndXVzVSQ0lCWUxMTGNQRzNKNUxnYUUyOUh5SmhXS0E2bVByYktDcUJzMjNMRjVmNzZhaTh3WWdXeWdDQ0ZPcmMyWDlrQzRHOWViWFNadWFRdlhIWEJvRTVjVWJNcTdXbDAyNE5hZWpNUm5YbmhaeG5kNFMzaUN0WnNmNkc3NGFaeUVKaElhZmhfeDlXSWp1Wmx5NjZZY1RuYTFwVWFMY0Jsdw?oc=5",
+      "publishedAt": "2026-11-27T14:49:59.000Z",
+      "severity": "high",
+      "titleZh": "11月28日反对暴力侵害妇女示威，以下是巴黎两条路线及时刻表",
       "content": null
     },
     {
@@ -475,9 +647,27 @@
       "title": "IKEA fait sonner ses magasins toutes les 16 min contre les violences conjugales",
       "source": "Dans Ta Pub",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOXzlna181VndlSC10TEdtQzVuU3h3WmhNeGtNLXNwNmdqWHRxNUdDZGhPYWV4M0hJeUhwUjA1WklxcjY0N0tkTEtZbzhFVmRBd2t2eV9SMFk3OEhvVTVRcUh0S0tTNUlNWWF6Ykl3?oc=5",
-      "publishedAt": "2026-11-27T14:19:05.000Z",
+      "publishedAt": "2026-11-27T14:22:44.000Z",
       "severity": "high",
       "titleZh": "宜家每 16 分钟就对门店进行一次打击家庭暴力",
+      "content": null
+    },
+    {
+      "title": "Italie : grève générale le 4 décembre, trains à l’arrêt dès le 3 au soir",
+      "source": "MisterTravel",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmFwY2pzX1hfMDAwOXpZQWZjT2NOaUlPZUVEcnlQNEhWNW1RWHc2WkI2V29KcVZFRHZOY2wzNkoyVllyN3A5Y184aU44UVY5aWd0SnZZZW5sWGtLbGtGcmRBRzhTcWJ2SVNSamE1RVBXME54YTR5MDNEUGtjTGhwSjZiZWV0SVhPakhOZHdQaVdLNHRiX1kza2Uxb1Awa1FLaVBrTDNpR1dSdw?oc=5",
+      "publishedAt": "2026-11-27T14:00:00.000Z",
+      "severity": "medium",
+      "titleZh": "意大利：12月4日大罢工，3日晚起火车停运",
+      "content": null
+    },
+    {
+      "title": "Grève aux Espaces verts du Havre : la Ville temporise sur la revendication salariale",
+      "source": "Paris Normandie",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdzNCMGxHMG01dnJDTkFzN3hmTC1PYlNzSmNxWUNENzVYQ2I2NG5JYzg2VWxlcUN2RVd5aDNhZEZGeTJHV0g3ZUtta2RqWUNzQkl5WXRpSzRRcFY0bkVJSUVjdkxyR3pLWnZoU21oYkhqOEROU2k2aTZIV0RiUUNVM294M19Kc3pSRUJabWkzdUNqVFVYaE5xZTNydHRPSFdtU2thWS1EQVBON2VPSmh3NUhGdmhUaDNKSGl5VEVrak90SUx1U0NoNWZ2NA?oc=5",
+      "publishedAt": "2026-11-27T13:34:00.000Z",
+      "severity": "medium",
+      "titleZh": "勒阿弗尔绿地罢工：该市推迟工资要求",
       "content": null
     },
     {
@@ -508,39 +698,39 @@
       "content": null
     },
     {
-      "title": "Violences lors d’OM-Sofia : Le parquet de Marseille ouvre deux enquêtes, dont une visant les Bulgares",
+      "title": "Lutte contre les violences faites aux femmes : la ville de Lille récompensée pour son Violentomètre Séniors",
+      "source": "ici.fr",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTDJURzdTQ3VleThBVzNSOW40cnpGMTgzb2diZnJUczNUaDJVZnpWWUI1NkpSeXg1MzF1Nk1aaWlha011YU5Da0N4X1VodEYtczExNjBTeklhdHdiWHZrTzhNQWRYY1N1TTBHVG5GVXdTNFpEaGpvLWJJbUxNRGtRU3pxZDZjZjZqS3NRaE94STh4QU5BTURyTGNzQlZ1RTRBbUwtTFhyVzMteFZrSG5kSmJpRXFONFNZS2tyc2YyeEZlWFZsQ0V1U2UzdTBXWGNTVkVZcGtqQnhzRVNQNkxNdzRxNVlMMThacW9vaDBjNnlYRlRR?oc=5",
+      "publishedAt": "2026-11-27T13:01:20.000Z",
+      "severity": "high",
+      "titleZh": "打击针对妇女的暴力行为：里尔市因其高级暴力计而获得奖励",
+      "content": null
+    },
+    {
+      "title": "France's government faces mounting pressure from both sides of the bar",
+      "source": "Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON285QU96RkVneVdpWVltT3c0Wks5Skl5MjlVaVFfVThXMnhHSVRZX2dybmJYdk01SkNRQktWbXFadWNCRUlfRm1DMDYzaE94NlNhWEFjWGNvMVI5eVN4TVVYOC1JZmdXcThqdTd2YmRuaW5XbUFvUDM4NHNzVUxmcWZ4Wnc3T2Y0ZU93TFVqdGlXeDQ5d1pYdEE5TUFHR1NITVVSdldtbjdFcmtPUFFITFFn?oc=5",
+      "publishedAt": "2026-11-27T12:51:33.000Z",
+      "severity": "info",
+      "titleZh": "法国政府面临来自两党越来越大的压力",
+      "content": null
+    },
+    {
+      "title": "Violences OM-Sofia, le parquet de Marseille ouvre deux enquêtes",
       "source": "20 Minutes",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNFhxdE91bTY4eml6Q0h1ZE5yZnJYa3RMaXZCUEtjN1k3QktOekM4blBOMUVsdnNacXhXV0lnU2YyeFVWTjF3VGVjUDhmZ19DdUhFWG9OYmZwM1h4T28wT1NrSFNXQTZIMjJpcmJVaGtsZkJDZnAxcEtPYVMwd0VfelEzU1djTUpqbU40cVN4UXRMOUljTC1YOWtnaktETFMyYTlVQk9ESnV3aVVheTVWNVpRNDVBWmtwRnF0RzRGOXdBbTlOandFQURZc3lQalFuUk5hS05B?oc=5",
       "publishedAt": "2026-11-27T12:46:00.000Z",
       "severity": "high",
-      "titleZh": "OM-索非亚期间的暴力事件：马赛检察官办公室展开两项调查，其中一项针对保加利亚人",
+      "titleZh": "OM-索非亚暴力事件，马赛检察官办公室展开两项调查",
       "content": null
     },
     {
       "title": "News : Un nouvel album solo pour Paul Smith",
       "source": "Sound Of Violence",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMW1fLU9acks2ZDhveHZUNWtBSXIyamJtd1RhbDhZdEItWVNMMFJEanZuQWJNWVJ3cHN3aFFiTjVrSFZpdWxRUWhCeUJQeHkxNDlrSS1TeDZsTEdFTDdhRFkwYVdUWEszYWRieWFFelJval80YTdUYzN2ZWxuQ3ZWRDJFaDduT2hya0RRU1NQa3lBREE?oc=5",
-      "publishedAt": "2026-11-27T12:28:30.000Z",
+      "publishedAt": "2026-11-27T12:31:17.000Z",
       "severity": "info",
       "titleZh": "新闻：保罗·史密斯的新个人专辑",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 28 novembre contre les violences faites aux femmes, voici le parcours parisien et les horaires",
-      "source": "Le Bonbon",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS2xWOS00blJhOFlWcC1oel9oUFhrR2VvSndXVzVSQ0lCWUxMTGNQRzNKNUxnYUUyOUh5SmhXS0E2bVByYktDcUJzMjNMRjVmNzZhaTh3WWdXeWdDQ0ZPcmMyWDlrQzRHOWViWFNadWFRdlhIWEJvRTVjVWJNcTdXbDAyNE5hZWpNUm5YbmhaeG5kNFMzaUN0WnNmNkc3NGFaeUVKaElhZmhfeDlXSWp1Wmx5NjZZY1RuYTFwVWFMY0Jsdw?oc=5",
-      "publishedAt": "2026-11-27T12:00:00.000Z",
-      "severity": "high",
-      "titleZh": "11月28日反对暴力侵害妇女示威，这是巴黎路线和时间",
-      "content": null
-    },
-    {
-      "title": "Que faire ce mardi à Paris ? Sorties et bons plans du 1er décembre 2026",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeE1PTkZDVjJWU0pXazVZYV84b2U3SzYtOW1mYmFNQ3EtamJnem1GbnUwZmgtbHZQVkZzRGVfZlZSa3FyRGtsdVI0TjBOdTI1WXY1cGhkUE9BdjZ3eS15cVkyUTZ3UjFHMkY5S2JhZ0gtSHZLRGpqM1ZpYUJlVGNFRFpnclNldjFaRGVyYlhMcjU4VlpkLTZhRjVjaWlXUFduLWUzRE1HOXdLTFpzOTFRa3M5M25UT0pWdmI1c2NlNjd1MllJeTB6S3JxZw?oc=5",
-      "publishedAt": "2026-11-27T11:54:07.000Z",
-      "severity": "info",
-      "titleZh": "这个星期二在巴黎可以做什么？ 2026 年 12 月 1 日起的郊游和超值优惠",
       "content": null
     },
     {
@@ -562,237 +752,12 @@
       "content": null
     },
     {
-      "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
-      "publishedAt": "2026-11-27T11:29:12.000Z",
-      "severity": "info",
-      "titleZh": "预计 2026 年在巴黎和法兰西岛举行的开幕活动和重大活动：今年的议程",
-      "content": null
-    },
-    {
       "title": "Insultes, coups de poing et caméras de surveillance : le youtubeur Grégory Guillotin jugé ce vendredi pour violences conjugales",
       "source": "Paris Match",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSmNOQTN2UEt2eEpjNmZtRWFZanJJc3N4MkJfdElUTFBPTHlaRFh3anU2V0NjNHMwbFpIZUI5eXdlMDEzQUI5b1AzMFJlX1hQc1c3c1JicG1jLWFNZWxWNGR3QkpnZnRvcm1yODF2WjR5WmRSSVlXX2hfQzBQVEpRTjlNWHMwRW1uRUM3X0tmdEgyUlhaYjk0U0dwcEY0aHBDZnhMYXJiRUNTYjlKbnRLLVhEaVlhTUNJdExDNHlpb1dleWVhOXk5LTM0VjZnZzFpWjZEdFR5aHB6eUZZXzVTQTJaQ2xOYVN3RWNLUVNOV20?oc=5",
       "publishedAt": "2026-11-27T11:16:19.000Z",
       "severity": "high",
       "titleZh": "侮辱、拳打脚踢和监控摄像头：YouTuber 格雷戈里·吉洛坦 (Grégory Guillotin) 本周五因家庭暴力受审",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 28 novembre : où passeront les marches contre les violences sexistes ?",
-      "source": "mesinfos",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQUI1YWNPX3ctTzFaRHUySFRQMmVIdUpWRTZ4N1Y0S083cjNhOTRtampmYV9sbzBndUVvcTl5enNLREJRd05raUloSnNkUDJVZWdJcFljZE9TYzNSSFhTUkotalJqZ0I4QlItYUY2R2loNXg4VE11Sy1Tb2EyampXSzdIOGpsX21oZms5bHF0V1JTcWNkTllkVUxUb0x5WWNDdnBLU3JYR1BfY0FCV3V0LWs5VnFJZmxEVDJwTkNNN2lUMk9Kcnc?oc=5",
-      "publishedAt": "2026-11-27T11:10:00.000Z",
-      "severity": "high",
-      "titleZh": "11月28日示威：反对性别歧视暴力的游行将在哪里举行？",
-      "content": null
-    },
-    {
-      "title": "Mobilisation féministe à Paris : divergences entre #NousToutes et Grève féministe, les organisations battront le pavé dans deux cortèges distincts",
-      "source": "L'Humanité",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSFVUYXdfRDVRTlVpZFUtdVl3Wk9Xc1BXd2ZaUEx3bXozVXhYcS1MR2JqaHhKajZ1Q1NyX05pWEdRbVdMYUZzT0hsOWNSMlVtUWNjTlZzQ3d0Y2ZEekhBQ0NSSU1NNWxJbjdoSE5nYTFiYWtldDVEX1BpQlZqd3F1ZTUyVC1oanlOWGtjeUdnYkVsN00zUTJ3aTB2cjNVR3ZCNnJpdTRFV3hXT1BrNF91dkd4RTdQWTNkeVo5UE8xMVdHQ1ZFMlM0ZnVIRXo0VVRaS0RDS2Y0REM2OE1KbEhqYlJJeE5QWHYwaWdYOU5RMlQ4cllXaWRQZGJnYmxUYk55TXBLRzh0c0hQNHJ2MDN0anJHNGUzZw?oc=5",
-      "publishedAt": "2026-11-27T11:00:00.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎女权主义动员：#NousToutes 和女权主义罢工之间的差异，这些组织将分两次不同的游行走上街头",
-      "content": null
-    },
-    {
-      "title": "Livre. L’infâme à homme",
-      "source": "Paris Normandie",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTnBpQXR4V2JORm1XX28yeTkxQkl0VjNWbkpVVWlEY2Z5NmxoWmp6eDZJNmJaeFQ4MktVcnRZYXBCQ21DZW1jVU5RNmdFNW41dXUySTVRYmczR0U2Ry1QRFVQRTgwVkdrVmNvQmk4RXBQRTF1SEdEZWRPMzcwTnNSTXZ2eDVKNW14TTNhUg?oc=5",
-      "publishedAt": "2026-11-27T10:37:44.000Z",
-      "severity": "info",
-      "titleZh": "书。臭名昭著的男人",
-      "content": null
-    },
-    {
-      "title": "Quasimodo l’Ame de Paris : Est ce inspiré d’une histoire vraie ?",
-      "source": "Ayther",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00ZV85RGtLRmZWUHdxMlhaTkVIQVZNOUp4X0RkZHdtTkpkSFo5WkxCRHkxOXpvaW9LakExQ2pKVFVYWDBpUU5qT3p5a0RDcmdOUE9nakZCcWF4WGV1cGpFUW50Q25iaV9p?oc=5",
-      "publishedAt": "2026-11-27T10:27:18.000Z",
-      "severity": "info",
-      "titleZh": "巴黎之魂卡西莫多：这是受真实故事启发吗？",
-      "content": null
-    },
-    {
-      "title": "Théâtre Ça ira (1) Fin de Louis à la Porte Saint-Martin",
-      "source": "Arts in the City",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcHZDa3NGTUR2bnF2UWVlSXlOVlZhZmZVZXdNdEFPVmNONGtITkFzS2RsUjkxNUgtNnkwcTVUaGpnZmx0MmlEQmV2ZHBFOGFZWUdkZHhwOE16NjdsT3JNZUpqbmFuamRTYXk4RVUtUXJDRkRUc2pMSm1XVzVHYWRmSFdXUEROaEpaTWwwNmVRY09kNmRLbmg0SkhFSzlRUQ?oc=5",
-      "publishedAt": "2026-11-27T09:39:00.000Z",
-      "severity": "info",
-      "titleZh": "Théâtre ça ira (1) 圣马丁门路易的尽头",
-      "content": null
-    },
-    {
-      "title": "Ce que l’on sait des affrontements entre supporters de l’OM et de Sofia",
-      "source": "20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcGZteTkyV3RXd1lDby1faU9SdGZTTGh1bFZlMW43Q0ItdjFOZGk4NDZPVUJBWGYyYkNra0E2eFI3MXBSSHpZRkd4ZlV3R1ZhVTYzSDZEcmlUOHEtLTFwZjh0TzZXRHBBTU9Zb0R1LVJyRkFLWmtnV0xTVUJLdXBfLTFydDROd19OZHFXVVk1QmNHZzFjRTJ0WGMxZUdBU2R0SWkwQnlFclVoQzRERXdPSUI0VDRmb0VrS0liVXJfVlFvUFlyVV9pSnNoaWFhd053Qmg1TXRaaw?oc=5",
-      "publishedAt": "2026-11-27T09:29:00.000Z",
-      "severity": "info",
-      "titleZh": "我们对 OM 和索非亚支持者之间冲突的了解",
-      "content": null
-    },
-    {
-      "title": "Les signalements de violences intrafamiliales dans les consulats français bondissent de 53 %",
-      "source": "Lepetitjournal.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTnFyNVhGYTcxdWFyOWlTWDNTT2U2UmtiTC1KbVFFM1FqcEhfaGwyWlhZLVlsQ2ZQbDVobUdHOVhaMGZESUdnbi1kd28wN2dLeHlwYi1KRjFZYjVQZk1qZWtKc0F4dHFBWXJ5SXdtckNCTUczVldNY3R3WDE5bXNGY25pdTk4cXBoRTlqV012S3ZlTG54OE5uZmtDMGtfVF83NGxKQ1hVYlRxbC1RaWhvNzJ4TElUOWNkb1ZmaEtJVzBPd1JGMzJTNFVSZVVQU3RGZnBVeGZIOTQ5bzBlOXJFeQ?oc=5",
-      "publishedAt": "2026-11-27T09:09:40.000Z",
-      "severity": "high",
-      "titleZh": "法国领事馆的家庭暴力报告猛增53%",
-      "content": null
-    },
-    {
-      "title": "Enquête à Paris après des violences devant le lycée Charlemagne : abords d'un établissement scolaire, diffusion d'images sans consentement et article 222-33-3 du code pénal",
-      "source": "Hassan KOHEN",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaE9ONGpwemtOcGlsajJWZW5pZW5nenc4eGV3YTZtRlhURC1xZ21oUkp1bzd2UlJ1ZkZpaGZ1VlFKclZEMmxrRWlrMktmdWRWOC14N3VHTGhQZ3FScG5KV3FzZXdwbmtvdUhrZ0tGcTZaNkVXNWJSWURRcnFCUFlVUk9jS1A2NjIyYVF2WnZrRTFyWGs3aUhkQWc3R3ZoOWdNNkxwamFmZWRZdzBBNDV0UmJVWXZHX1BkMUo2Q1pCY0hySl9CTm1YNmtldEEtUFpYN0w2WnFuS0M3UQ?oc=5",
-      "publishedAt": "2026-11-27T08:37:00.000Z",
-      "severity": "high",
-      "titleZh": "巴黎查理曼高中前暴力事件调查：学校周围环境、未经同意传播图像以及刑法第 222-33-3 条",
-      "content": null
-    },
-    {
-      "title": "Football: Macron condamne les violences contre des supporters bulgares à Marseille",
-      "source": "Boursorama",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQWRya1RtcEVueFNpMXNJNDcxWnFaYlZuX3NOaXdNVmtGNE9HajdfdWtiRkF6RFVUQmF2d2RLQkdYaWpPajM5SmJRQUZ1d3diaXZGN3ZDTG1SU1I5eXJkRHQtN09rNXFQTUk1N1ZmZVRsdk5mWUdieXdjTjRQbXptX1RIekhldkxoVnJBbnRfLXlZV3YyeDRFVFpTeGgzNktFLW91R0NpcmM4U3E4WlRuWTAtWTBOSWEyVDZBVU5WaGVKbjhmZjFRLXhIWXE1LW92ZWNoaDc0RVkwZk9kWmRlaGR2d3V1SXBhZGJlNzhjRUNhUmxvSzRVZEVOVUw1WDVrZ210c01BTTDSAYgCQVVfeXFMT0FkcmtUbXBFbnhTaTFzSTQ3MVpxWmJWbl9zTml3TVZrRjRPR2o3X3VrYkZBekRVVEJhdndkS0JHWGlqT2ozOUpiUUFGdXd3Yml2Rjd2Q0xtUlNSOXlyZER0LTdPazVxUE1JNTdWZmVUbHZOZllHYnl3Y040UG16bV9USHpIZXZMaFZyQW50Xy15WVd2Mng0RVRaU3hoMzZLRS1vdUdDaXJjOFNxOFpUblkwLVkwTklhMlQ2QVVOVmhlSm44ZmYxUS14SFlxNS1vdmVjaGg3NEVZMGZPZFpkZWhkdnd1dUlwYWRiZTc4Y0VDYVJsb0s0VWRFTlVMNVg1a2dtdHNNQU0w?oc=5",
-      "publishedAt": "2026-11-27T08:02:58.000Z",
-      "severity": "high",
-      "titleZh": "足球：马克龙谴责马赛针对保加利亚支持者的暴力行为",
-      "content": null
-    },
-    {
-      "title": "Le barreau de Paris mobilise le droit et le 7e art pour briser l’emprise",
-      "source": "mesinfos",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTHJGNWVrSFZXSTVzMjR2eC1iWVZsTFBuSFNRRzhOdDJXTVFSQ1JacmtYWHlOYlliZkV0V2g2YWZtTUNYYUNBcGVNTW1uVGQzM19YSVl6Y2gzbFNmN1R5LWM0VWZxTnBBa0hOWm1PcWhVd0c4U29oOTZ2RWxKQnU4OG5BUXB5WnZtYXV4QnloR3MyWVFOTDVkVXo5eG1ZamN0YWQ2V2dkWjc0X0FPdF9QUXBySVRuRVE?oc=5",
-      "publishedAt": "2026-11-27T08:00:00.000Z",
-      "severity": "info",
-      "titleZh": "巴黎律师协会运用法律和第七艺术来打破束缚",
-      "content": null
-    },
-    {
-      "title": "Paris : un parent d’élève agressé et filmé devant un lycée lors d’un blocus, une enquête ouverte",
-      "source": "CNews",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQTk0V2lQdjgxSXFXeFBTN3MtR2pFVFkyRzJyVHp3VGVJLS1ITVpha1VnTWREOUdnTmo2T3hBdTVkSjloemF2Y2Q3cXhSbkpLcUs0SldYaDRvUVUxRDBrYUFJZTVzX2hzNXFtcnJXUy1Uem50MzVnQnk2emNraC05R2NCSEhKeHVibTBHZWFiRWRFazlZNmtmampnN2h5dU5LcTBDQ1NfUEpPWUNXY2ZTOG40WTfSAboBQVVfeXFMTzhkT2c5YnNCN3ctd2t6ZlZoQTJiNnFMWXR4TDVXQWlXc3EyZjZZV096YkVQa0lMOVJraHJYbUp6UUhLVFM2RTdHVG1SdGFadnRsQmhHOHFpaFAyajRqNU9wdEhiYkg5RkRBb1hRTVdxaktzVDJIVGV6UHViTm1BMDdVS3U1cDE2emVkSzdqS2sxbUIzRU1FS1Bqa1EtdHlndHU1OF85djQ3VlJoY0N0VDF2Tkl1a05HUlZR?oc=5",
-      "publishedAt": "2026-11-27T07:49:23.000Z",
-      "severity": "info",
-      "titleZh": "巴黎：一名学生家长在封锁期间在一所高中门前遭到袭击并被拍摄，已展开调查",
-      "content": null
-    },
-    {
-      "title": "Macron condamne fermement les violences contre des supporters bulgares à Marseille",
-      "source": "Flashscore.fr",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZUxwc0JvLUFVZkx4ZmxoY2xscHNaSWlkVUZCa0s5M1VhVXEzZW54VjdrbDZKNWtaQjZrS1FUclhKbHNyZ3F5dEpiSlhjNjlybVdjNmxsZTcyRWtoMzMybVdaV0FVOXcxVnJJRFFoNTNtc3AwVEs1cnFhMHNibEM0M093RjFuNjE4bXhKYUhmSE42OU4xcGtRZXBKM2VtRTgyYVlqWjNyc0xMeHBWMGNRQzB2QnhqaFVRZzlhWDBKZld0Yk1XT29rck5pMkx0eGRDOVJ0TXhteU9xaS0tdGtVSnJmTFlNdw?oc=5",
-      "publishedAt": "2026-11-27T07:27:24.000Z",
-      "severity": "high",
-      "titleZh": "马克龙强烈谴责马赛针对保加利亚支持者的暴力行为",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 28 novembre à Paris contre les violences sexistes : les parcours",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZkJsVGh0al9idWRFTTZGZFFRbDNWTS05b09oekJfVnA1Z2JQWUltb3AzdmpiZFJjLUt1T3JPekhmOGtCcnEzSmEyNWNQcHFtRFgzdzl2cnlXb2Q3SDQ4aWphQmxNcmY0MmhuaGlxTjZ4S2FXcVBNN19SajRUcnN6NUZzeVhDNWlSRV9iUHV2RTdZNE1NVUNBOWtVcUMyeFVTNF9YWkJSX2hDSUFLY2dyMkJkYzAycWlzSlJRZWVrVU9wVjlSb3F3MVlJaUlDTS16b1hRNERWczJRdWc?oc=5",
-      "publishedAt": "2026-11-27T07:22:00.000Z",
-      "severity": "high",
-      "titleZh": "11 月 28 日巴黎反对性别歧视暴力示威：路线",
-      "content": null
-    },
-    {
-      "title": "Météo à Paris ce week-end des 28 et 29 novembre : gel samedi, pluie dimanche",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMDJreW1JRVBleDZIenItM0JHZ04xUWIzNjE4RU1Ib1dZVHcwMkpyYUQ4RFE3Z0VSYnhmMWtrbFFyMzR2aTB1c3FmMER5dExBNnBsSjBBdE5taGZDZjVPVmRILV9sa3VXWHoxbUlRWFBsMUNWUmJCZERLU0hONHhXQUdubExOcXJyTmpDMXVhRFVUMnMwWEVDYzVSZTExVjEwQUx5enh1djdkdTJ1UFdiS0wtSkNJSVFuXzU4YS1EQmVCRGxqMXphWXd3Ni0xSkw4VTBZ?oc=5",
-      "publishedAt": "2026-11-27T07:17:02.000Z",
-      "severity": "info",
-      "titleZh": "11 月 28 日至 29 日本周末巴黎天气：周六霜，周日雨",
-      "content": null
-    },
-    {
-      "title": "Vigilance grand froid activée à Paris et en Île-de-France : jusqu'à quand ?",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSnpSUnlLVGZIMkI1TmlYS2syVzdhbElpclNpQkt4d2lwNmVIS1JFeHZPWVlQd1VqbUZseXVjckNoMHJyLTlIZk94SGd6cElDdC10UnR1X20tN2w4V1ZrQXBkVllCajdaVzl3MzF4aHg5cy0zSHJHS0VXSUJJRnlTeDlfS1NENU9McTNETnE3NkJLcTAwNkRTMjEweDJiMjc4X0xWRi1qaHBxY3NvaTVoY0pobEZmYk5XWlh4dzA2TXBOdzI4dGZoUDhtamNJTk1f?oc=5",
-      "publishedAt": "2026-11-27T07:15:07.000Z",
-      "severity": "info",
-      "titleZh": "巴黎和法兰西岛启动严寒警惕：到什么时候？",
-      "content": null
-    },
-    {
-      "title": "Incident Barrot à l'IMA : violence au dîner iranien",
-      "source": "Daily Beirut",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXZHaTJPQUxwcmtjUEpEUm1VWlgxWnBNUlJJMzlndnlnWXBnb291TTctdnVYamNTLWxzMTcybGhObllZSzVtUkEtSC1WaWpQRktndjhBSlBiRjJuWEZsQjlCcmxFbDk3Q296SE04aTNQb0IwYWRoakNkckI1SnVaUTh2cWYxVGtaTkZKTTE3WURCN09udzJveFhCeXdNeF81RXQzQ1NOLVVHZHNIZlE4Wg?oc=5",
-      "publishedAt": "2026-11-27T07:04:09.000Z",
-      "severity": "high",
-      "titleZh": "IMA 的巴罗事件：伊朗晚宴上的暴力事件",
-      "content": null
-    },
-    {
-      "title": "\"Les images de Marseille sont effroyables\" : Sofia et Paris dénoncent les affrontements en marge d'un match de foot à Marseille",
-      "source": "L'Avenir",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPYWRXUWJjSHhHdEI3RzVSX3BycTRlVmhoSG9vaDBybkdyWlplYnhkR0tud2lhajRpOXk4Qmk0cEp1OXl3dEJ6RThDRU9jWHRLUjRHNTNNMGhubG5JOVU1ZXV2VHRSc1VvVzNhcGN6SExQelhFc1JCbVhibWIxSTNUQ1AwaWwyZU1tV2RUOHdBQ1lCS0pMZGdXbTItbHlrQktHbGt3Rlc4blpuLUJBQUxTMTRVMDh5YWdqRTdhXzJrLUhnTU1SNFVjbURhb3JDN3B0NjV5R1gyN3oySkh5SVhsUkl5N0hKMDB2M3YwZEx1ZjdmY0tnSm5QdkJ2VDkyUGVrWFVqRmlReFFmNmhjU2k1N3dQZE9lZ2V6Wi15T05YWEMyUQ?oc=5",
-      "publishedAt": "2026-11-27T06:40:00.000Z",
-      "severity": "info",
-      "titleZh": "“来自马赛的图像令人震惊”：索菲亚和巴黎谴责马赛足球比赛场边的冲突",
-      "content": null
-    },
-    {
-      "title": "Macron condamne les violences à Marseille après les blessures de 11 supporters du Levski Sofia | Goal.com Français",
-      "source": "Goal.com",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQVVfUVJJMlFIVmZyS09ncm91andKQjFuaHV1dHkyZmJzUDJrUTZFQUthUGMtS3RtMTByNUZCRXVrSUlHdVNISzhvcVhzTnpKeEc2OVQ3d1U2bThoRnY5MzN6S0JDV3FKVlBuYzBNV3NsYllhdkRCR3FiWWtkQUxVVks3ZTVJeHgtRUtDTU5SZ19RLWpDSUVtRmFvWEYxOTVBRndoekFWYklDWmFNUEQ0alhMWkVJZnBBZ0cyMTl3VFhTYXgtWndQUGZaU004bTk3UFhHcVItVm5PVGtJdWxleVVPbWZ5UjM3RDY4WktpTUpGbXllQXlnNEtTakMzVDZ1dTBKNmwwel9VbWZocjBwZ2dYZw?oc=5",
-      "publishedAt": "2026-11-27T06:31:09.000Z",
-      "severity": "high",
-      "titleZh": "马克龙谴责马赛11名列夫斯基索非亚支持者受伤后发生的暴力事件够力足球中文网",
-      "content": null
-    },
-    {
-      "title": "370 000 manifestants à Paris",
-      "source": "Orange Actualités",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWVVvWlh4RWFpRWpwM3ZjUGVXZXBjOHIwem0xUUpBUzFiOVhRM2xacGxEd1RkUUpMbE1WSFRVRWpfSC1CazlpZzVmTWVqRzlBTW9WZ1Zyb1ZwTzV6aGVVQVhIemdtSlJOUnNfdlk3THNhMDk2ejEtRDJzazYxTHNka2gyaWlwZmxXU3dvLVZoNWJCUQ?oc=5",
-      "publishedAt": "2026-11-27T06:30:58.000Z",
-      "severity": "info",
-      "titleZh": "巴黎37万示威者",
-      "content": null
-    },
-    {
-      "title": "Greg Guillotin jugé ce vendredi à Evry pour violences conjugales",
-      "source": "20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSm5WQ0J3bTRiSGIxVVdZekRqdTdTTF83MzRYM1oxem1EeUhlQ3FvdlV2Mk95bUZjM3d5aEU1clhxbWZYYi1NemtVUTBoenZLNkdwM0R2YXpWTEgxeHE3LXFiVFZFUTcyNmdsTGJfMGFnSnB1alRzaE5scUt5Nkk0bTQwZHg1dWdQTDhjdkV3MDN6Y1h5N0RLWlR1QVJXSjN1NDBoNXhoaDZWQzBqVzRUUGRwcXZOcHlxN21MLXRuWktiNTVxM0lnc3JpSk05dw?oc=5",
-      "publishedAt": "2026-11-27T06:28:00.000Z",
-      "severity": "high",
-      "titleZh": "格雷格·吉洛廷 (Greg Guillotin) 本周五因家庭暴力在埃夫里 (Evry) 受审",
-      "content": null
-    },
-    {
-      "title": "Grève du 1er décembre 2026 : quelle retenue sur le bulletin de paie pour deux heures de grève",
-      "source": "Hassan KOHEN",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFVWTktKSGhGZGlEVmdxZXdEbTVqX3puU25aZkpUQnpyZ05QZXJURWVUN3A2VGI2N0RPa2g3UkZReGRkRG8zb0Z2MWNSclZOODduam5OMFJObm1sNHNmX1VnbGVRbV85bXFXTTRpR3NYMjJYMWlwV1ZTSkQ4WlZJOGp6MnNCOHFIWG5R?oc=5",
-      "publishedAt": "2026-11-27T05:16:00.000Z",
-      "severity": "medium",
-      "titleZh": "2026年12月1日罢工：罢工两小时从工资单中扣除多少",
-      "content": null
-    },
-    {
-      "title": "La Bulgarie exige de Paris de «faire toute la lumière» sur l’agression de supporters à Marseille lors d’un match de l’OM",
-      "source": "Le Temps",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaE9FZE1xdVhHUmNYc2NsM3dZVVdrVGk4eWtHaFA3clI2dzA3MkMwbHMwNEhFbjJtTXU5SUlub254TTZNY1ViMUVkOHMxU1RtQWdlRmhUSjlibWpFZVRmUjdJWGhHV2JsQ0dVSDRBU040UFdhTDRsR3NfNnB4dWxaSFp4NXh0U1YxZmFybkJkU28tVEtqb0dNYlJpYzJLWVRBSE9zc3hYZmxTV0ttcElvT2s3QU81cXVhd2phWlBfbGxKMVNHRnlwdHhkSkxKSjRKblBHOW9yZ284Y3hrRTJTbnVB?oc=5",
-      "publishedAt": "2026-11-27T05:05:53.000Z",
-      "severity": "info",
-      "titleZh": "保加利亚要求巴黎“揭露”OM比赛期间马赛支持者遇袭事件",
-      "content": null
-    },
-    {
-      "title": "TÉMOIGNAGE. VIDEO. Manifestations lycéennes : \"Tout partait en vrille\", raconte un CRS blessé à plusieurs reprises",
-      "source": "France 3 Régions",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNYUZEXzBXOEI2NmdSR3BjSEtob1pSXzl0MTV0eEdtN294ckpDQ2g0a0lEU2RsN0E0a1loQUNkLVJFWE02MEJrTklLQVNYUm9HVml1SXZvVy1rdHJmRnFJelBzYWU1aFhSYkpobXUtNG55NjI5cTlKcDRsQ0MwTmVHX2xvZU5iYUNvMkd6X3ZraGdZSDhnNEwxY0JlSDRuMzVJTUpxeDNVRzktSWNQR0lJSmwyWVFKREx5RWl1SmxYRE1mT3VPUWxWUlZqWmF0Wk5RR3NrY2Q1MkZHMkNMUnRpcUFmZDNaaERobG9sc3J5OWlOOTdFZEV4NzByTWJ5NC15bVZBRWIwN2psSFBnOUFpakZMRnMzMGhSanNz?oc=5",
-      "publishedAt": "2026-11-27T05:00:11.000Z",
-      "severity": "medium",
-      "titleZh": "见证。视频。高中示威：一名多次受伤的 CRS 表示，“一切都陷入混乱”",
-      "content": null
-    },
-    {
-      "title": "Grève 1er décembre 2026 : école fermée ou transports perturbés, pouvez-vous manquer le travail sans perdre votre salaire",
-      "source": "Hassan KOHEN",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTHdjb3VDM290OUpRU3B0bmFkRTdkaUdla1NWQklBZWF0U1lLMHlEMmdRQVNONWJiOHpfRDJFMzJJck1KTURPX1hTaXBLcGdKenltd3NrS0k0Y01paFVpOHQ0eEJsUkMzdHNCT3NKYmZPUmNnTVZHY2tRU3c2X01iMkhXc2xadWRRbWx0T0htOXVVN1c2OURwV3dKUzRQdw?oc=5",
-      "publishedAt": "2026-11-27T03:22:00.000Z",
-      "severity": "medium",
-      "titleZh": "2026年12月1日罢工：学校停课或交通中断，你能错过工作而不损失工资吗",
       "content": null
     }
   ]
