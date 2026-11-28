@@ -1,779 +1,797 @@
 {
   "success": true,
   "today": "2026-11-28",
-  "updatedAt": "2026-11-28T07:36:34.251Z",
+  "updatedAt": "2026-11-28T16:24:41.726Z",
   "events": [
     {
-      "date": "2026-12-01",
+      "date": "2026-11-30",
       "articles": [
         {
-          "title": "Que faire ce mardi à Paris ? Sorties et bons plans du 1er décembre 2026",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeE1PTkZDVjJWU0pXazVZYV84b2U3SzYtOW1mYmFNQ3EtamJnem1GbnUwZmgtbHZQVkZzRGVfZlZSa3FyRGtsdVI0TjBOdTI1WXY1cGhkUE9BdjZ3eS15cVkyUTZ3UjFHMkY5S2JhZ0gtSHZLRGpqM1ZpYUJlVGNFRFpnclNldjFaRGVyYlhMcjU4VlpkLTZhRjVjaWlXUFduLWUzRE1HOXdLTFpzOTFRa3M5M25UT0pWdmI1c2NlNjd1MllJeTB6S3JxZw?oc=5",
-          "publishedAt": "2026-11-28T04:31:30.000Z",
-          "severity": "info",
-          "titleZh": "这个星期二在巴黎可以做什么？ 2026 年 12 月 1 日起的郊游和超值优惠",
+          "title": "Omar Sy jugé ce lundi pour violences sur des agents de la SNCF",
+          "source": "TF1 Info",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMEJ4OW92UVpoMHZqZHk0aUZ6Qkx6bElIS1hLbGlOdVFmV2xHdlVMZmdaUXZnbWFzZTk2SmF4VnE0Tm5LYVJmT0ktMmRXdm93U1RHbFpfRVRIWktpbzEwOTNwaklXdURYc0pTNXdhaWdZcTMyT0dPYWttbjhWZ0xRVlR2ZGJGd1hQdGVrbU9iWTNkbmV6ZU1DNlpUTkNrdTNYUl9iMko3RXk2MmhkV1ZjTlFFd1VoX3U0UVliTVNFang?oc=5",
+          "publishedAt": "2026-11-28T16:10:38.000Z",
+          "severity": "high",
+          "titleZh": "奥马尔·赛 (Omar Sy) 因针对 SNCF 特工的暴力行为于周一受审",
           "content": null
         }
       ],
       "places": [],
-      "districts": [
-        1
-      ],
+      "districts": [],
       "articleCount": 1,
-      "clashCount": 0,
+      "clashCount": 1,
       "status": "recent"
     },
     {
       "date": "2026-12-05",
       "articles": [
         {
-          "title": "Manifestations féministes ce samedi : comment expliquer que les violences faites aux femmes continuent d’augmenter en France ?",
-          "source": "Ouest-France",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNaWt3ZXN5cU1QV2dPVWpMYTR3NXQwbWZ5YUhZX3V4RGd2NTNieEFYQUIyRkppTWc0aGFoOW5CUEJNTUliaTdOVXBoV1VMZW9hR2I3QVh5aWZxN1pycE9HWXkwWU5oallBSk5fWVVRUW5TMXo3emZobnYweENnc1Zyc3NZak8tWFJiSjJ3OHZtSnlsM0N5M1lqR1RZRFhILUdiNFRuM3lDb3BxNmg1VG9RQ0tNSmhaQXNrblBIY3FOWXZrVkV5Z3VsZkNrOUY3a0x2ZVJyUWJZeW5SaGdEbXF6ei0zVE0tRUpReVRZY2UyWGFYdnpxTG50T3E5RzQwSTRyYy1SM2Z0ODN2Z1JMNEQ1UWFxY1lkSVpOd0FYT3hPSXlCaUVBRlNEU01MbnB6N0FqQWRKTFkycDVqVHNFTlE?oc=5",
-          "publishedAt": "2026-11-28T06:30:39.000Z",
+          "title": "Nouvelle journée de mobilisation samedi en France contre les violences faites aux femmes",
+          "source": "Le Devoir",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTXcydVpuWWsyTVZwSE5YOE43cHRJLTJOYng2Q0N1aHpybHA2QVpoM21oWmJCSldzVGl4cW5zRGRwQlcyOTA3bmx6MGdaNWRybG9GaGF2SU42TWlHRzZDZUNfSlF3Qkp5NHRfMFZNS3o0OG03NndaVWpWSFJfdklsOGxldUhCazZDbG03OWV2QzBrcWhyazhWTXNYRHk3ZXVUamo2cVFGYkxYZ2ZRVHdVb2lQYy01VXlHMC0ycA?oc=5",
+          "publishedAt": "2026-11-28T14:01:56.000Z",
           "severity": "high",
-          "titleZh": "本周六的女权主义示威：如何解释法国针对妇女的暴力行为持续增加？",
+          "titleZh": "周六法国新一天反对暴力侵害妇女行为动员",
           "content": null
         },
         {
-          "title": "CARTE. Marches contre les violences sexistes et sexuelles : où sont prévus les rassemblements ce samedi en France ?",
-          "source": "Ouest-France",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOdWhTWU5TVHA2X1VlbHZpcHF2bnNsbTBYYWF0SV9pblJBOXVUdDBTMVBDM05pSU1WV2gwdlpud00wLUFJTzRPUlRzc1dtbTg0aTlVZUxGMUxJZTRDLVVIYzRmbXVTM1I3Qk5pdGlIc3hvWk5vVERyTGFNclFXaGRmYWxYMXJHUGpScjFoanBWaXpZcU93cVlabFFQZXkwclhzdGFhM1dyVWtkVzFRaDh3ZTQ0NC1VeXFyMzAxVDk2UUMtMlV2c0xma0tjV3lWRW5ZNmhkamFPUWZqa2pmLVN3bTRpVy1uYmRKT0tBeDlLcmJzaUV3NE92SjVESnZkcTFRNnEtMGtoV3pCYzNrMEZTbzNQRldCLTQ0eGhCLVJ3?oc=5",
-          "publishedAt": "2026-11-27T16:38:20.000Z",
+          "title": "\"Il y a encore beaucoup de choses à faire\": nouvelle journée de mobilisation ce samedi au nom de la lutte contre les violences faites aux femmes",
+          "source": "BFM",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOX19keDFfd3IyMk9HbnlmQVliMUdaSHRkSThDd3ZBTDhCNTBpSEVRaDJ2dVlsZWZsdm9JdlQwQld3My05WjRtbTN5a0RsWHZzNHliN0JveUZqUGJfRFpaYnZfY3FmVmZUYVVBRktvZFVzU2t2U29zV3pNTHFhRDdsVmk0bUFicGRzX2V1YzZRd2xsWmNXaDBlRWtLTkRrbmk1TEVvaTM1RmZyVjAzXzFWVHpZMkZSWUswWktaSGRsLUFQUDZpZG5EdjBCNzhONUlvNHd5bV9iVlVzSW5jZ3FrOFluVnBINXlNb2VRbFV3aHV2cjlSdnljV0wzZGcxRUZveGFUYzBpZTgtLXRfZFlkUVhET1RrRDU4U2hneHpsU2dIclBEWlBNUTcyR2ZBYXMy?oc=5",
+          "publishedAt": "2026-11-28T13:14:47.000Z",
           "severity": "high",
-          "titleZh": "地图。反对性别歧视和性暴力的游行：本周六计划在法国哪里举行集会？",
+          "titleZh": "“还有很多事情要做”：本周六以打击暴力侵害妇女行为的名义进行新的动员",
+          "content": null
+        }
+      ],
+      "places": [],
+      "districts": [],
+      "articleCount": 2,
+      "clashCount": 2,
+      "status": "recent"
+    },
+    {
+      "date": "2026-12-20",
+      "articles": [
+        {
+          "title": "Vacances d’hiver : deux syndicats d’Aéroports de Paris appellent à la grève du 17 au 20 décembre",
+          "source": "Orange Actualités",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUUlfMFNfbUlXUUFBQUlqdkNtS1pKTGViR2V2dGdwUWpDWnNob2xLOWpfTWFWeEctX0p0bWJtRVh0M0lOQTRtUDdyYVllT2lOcXVZNXlFX2h5dEctMG9jbk1RYlRlb0JodEtuNFVOSVp3NVdOUmhkNVU3bDdaUWFKeFVvbmliM1dtWHRQYkhFaWpmcWNpVWxadmszcFp1ZGxEOHkxN0FkZlI2MUFsZEtkRkpXMkQ0NU40NE5OOGRZUVZielJMZ3hpdzZWVXZ4T0FmWV94aWxBNElsYzJQV2FSQl9kSE4tQWFoc1dvRTBMdktoRlNKMlZEd0N3?oc=5",
+          "publishedAt": "2026-11-28T16:18:58.000Z",
+          "severity": "medium",
+          "titleZh": "寒假：巴黎机场两个工会呼吁12月17日至20日举行罢工",
           "content": null
         },
         {
-          "title": "« Ce choix est incompréhensible » : pourquoi deux cortèges défilent samedi à Paris contre les violences faites aux femmes",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNSEp3LVpmbXRpak96UGp6aF9BYXZzUEFIbWJmamhrWmJDSEtMQ2lvUDh2LVQyaC0yRkZST1B4WVdNVjE5eF95ZjVESFdmX2NFbUFfVTRScXRQS3pFVzlSbm1LcDJXNzlrWXVTc01mTXpyZGJaaUJhOXE1SHJ1OGZhTE9RQzZUWUxZazlHeDdCUGFHT1IzWUZQMkpzREl0bmU4OHc5d3NLTDMwMjI2dFlXX0ZBUWdvaWJsQWNvaGpJVHM3aExUNUVac3JGc3h1TWdVb3YzY0xQMVNnZnR6NU1va0swWW1jelVJd29Wcl9CZnhJVVlFZUZ5T2F2WmUtQzVIWkdQY3VUTFQwWnJzOFVyMUR4Q0FuSVlQRTUw?oc=5",
-          "publishedAt": "2026-11-27T15:40:14.000Z",
-          "severity": "high",
-          "titleZh": "“这个选择令人难以理解”：为什么周六巴黎有两场反对暴力侵害妇女行为的游行",
+          "title": "Vacances de Noël : un préavis de grève déposé par deux syndicats d’Aéroports de Paris pourrait perturber les vols du 17 au 20 décembre",
+          "source": "Ouest-France",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNYjd6a2doNGIySFJLR0NuRmV6M2lNZ0ZiZGR5cExXZy02THF4YTNYZTZjNmRkVWYwcGFGV3B6MGZTWm9XcXI2LWJ4RlBEZl9GakJDQW5oTnRLVU4wd1RkSlhSQWI5WDhoc1UyU01zWGlYOXVieFpoRi0tNkMtOTBNTG1qalA0ZS1RR1ZEblI2dVZnakFNSXg1ZThqd2RIb2hxNDV2XzNIVnhiMG9rUjJHbEVUNUxnWkNEOUU3UXNDZXpYSHhKQ0E3T0MxamFpQXVFVWNQeWRfazZTc3VIMU9uRV8yRG1tOXFqRTBMMWg2ZVVzUEhlcGZVeGh2SUxEb0dGUkhzZlhJakdRUUlEdHpDZHhFOEpnMmJMS0hLMHhzQi1tSkRQRHFVbzFtZGZVeFYyYUhRWUx3?oc=5",
+          "publishedAt": "2026-11-28T13:07:46.000Z",
+          "severity": "medium",
+          "titleZh": "圣诞节假期：巴黎机场两个工会提交的罢工通知可能会中断 12 月 17 日至 20 日的航班",
+          "content": null
+        },
+        {
+          "title": "France : la CGT dépose un préavis de grève de quatre jours à Aéroports de Paris du 17 au 20 décembre",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeDNSX0EtTXJ6MWVxQl82RHdqaVAwU0pKd1dkTHl6OGdJNV9mNGpRSHBwek91azJ2aUlYVUx6MXNzRUhKNmZSemUxOWFRRFN6RWQtZS02VzUzUWprRktENllwWjRQMnAxX05hMGVsSEw1azR4QnA4VTlpcjJKRGxRRkVUaGdaOHVINGxyNmVlZWR3Y1Y3X2tYTHZTYVRpeUwtcTdsbE1lMjc1ZmRCdGpWSTdTbTNUd1llVzJ6UDFnVXhxcVFzRFYzajJnVzk0clFzTUFubnBKdjVFdng5YVZURTVDWGEtbVZiSG93ZXFJWl9zS3U1T3NxbS05VTVoYUZqcWpReExn?oc=5",
+          "publishedAt": "2026-11-28T10:40:31.000Z",
+          "severity": "medium",
+          "titleZh": "法国：CGT于12月17日至20日向巴黎机场发出为期四天的罢工通知",
           "content": null
         }
       ],
       "places": [],
       "districts": [],
       "articleCount": 3,
-      "clashCount": 3,
+      "clashCount": 0,
       "status": "recent"
     },
     {
       "date": "2027-11-28",
       "articles": [
         {
-          "title": "Manifestation du 28 novembre : 3 stations de métro fermées ce samedi",
+          "title": "Que faire ce samedi 28 novembre 2026 à Paris ? Nos idées de sorties",
           "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdTV6ZlpMbGtLdVRIQmw0SUZxVkIyWjByMTJpV1MzQU5KN3RlTlFRd29GRE1XSFhjQ1lvZl9KS3JaekpFWFFyV2NQMVdsM25xbG5pVU5yTUpCVnpveENsUVdwOWtocEFhcG5zVWF5R3ozMXVEdjE0UkVnZmxCb182M1hlaTYzUjVrUVdNaXcwdjlmWHJwOWF6VVNGTnF1YU1QRjhSaXowV2hUS3FoS3phS08tM1JpMkV6VWFrYjQ1Rk5LbGw3THVObzBR?oc=5",
-          "publishedAt": "2026-11-28T07:15:57.000Z",
-          "severity": "medium",
-          "titleZh": "11月28日示威：本周六3个地铁站关闭",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTk1wMko3SWUxbUQ5SXNHQXMxbTZMS3Zib2QxeGc1OEpaN05hWWNiMmN3NlJ0U0pFTk9lbWtQR0dZa3hZc1ExYzFxM0RKOHY1Z0lsU3U1WHBlYTBKZm11MEZ0elhlQ3Q1TE84bktpaTB4WDNuaTdSbVFxOVowYldNVFdORjFocDFCaHZzTkFyV1pIdTVMTEh2bnNMc1F6SHRNR09XNTd1eFNkY1g5T3ZNRGYtUEhaejkxT2dQRzNmM2otWTlTNlE?oc=5",
+          "publishedAt": "2026-11-28T16:02:09.000Z",
+          "severity": "info",
+          "titleZh": "2026 年 11 月 28 日星期六在巴黎可以做什么？我们的郊游想法",
           "content": null
         },
         {
           "title": "Manifestation 28 novembre 2026 à Paris : parcours, horaire",
           "source": "Fondation des Femmes",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeDc4Qk1zTk9TV0E1M3ZabGxiMWpoV0tSdk1SbkZVM3lYTmU2YmlwX0lPbGNYdExVZ3VvMTRULXVMemlrWG1NcHFSdGNYS3d3N1kyeGg4dVpUdUhPU3k1ckNXdThqU2s3d0FCY0RlUEE1YlpGa2gteWdNZWVuM2pKU2FjeHE2QQ?oc=5",
-          "publishedAt": "2026-11-28T06:22:17.000Z",
+          "publishedAt": "2026-11-28T15:43:48.000Z",
           "severity": "medium",
           "titleZh": "2026 年 11 月 28 日在巴黎举行的示威活动：路线、时间表",
           "content": null
         },
         {
-          "title": "Que faire ce samedi 28 novembre 2026 à Paris ? Nos idées de sorties",
-          "source": "Sortir à Paris",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTk1wMko3SWUxbUQ5SXNHQXMxbTZMS3Zib2QxeGc1OEpaN05hWWNiMmN3NlJ0U0pFTk9lbWtQR0dZa3hZc1ExYzFxM0RKOHY1Z0lsU3U1WHBlYTBKZm11MEZ0elhlQ3Q1TE84bktpaTB4WDNuaTdSbVFxOVowYldNVFdORjFocDFCaHZzTkFyV1pIdTVMTEh2bnNMc1F6SHRNR09XNTd1eFNkY1g5T3ZNRGYtUEhaejkxT2dQRzNmM2otWTlTNlE?oc=5",
-          "publishedAt": "2026-11-28T04:00:00.000Z",
-          "severity": "info",
-          "titleZh": "2026 年 11 月 28 日星期六在巴黎可以做什么？我们的郊游想法",
+          "title": "Manifestation du 28 novembre : le cortège arrive place de la Nation à Paris, premières tensions à Marseille",
+          "source": "CNews",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQlFsVzB3NmVQbWdvdm52SW9TTTlBWkh0ZGxJbGxHVkczVnlyZUhLMnlhYXUxem9YeWRxV0ZrQTlrRjNZbTJQcHFNaFB1RE03UnVtMzZXbkRiZ2FYSFRfYVR2SXgybjZRX1lYWEVScG90ckVvSzQ3Z2daM1hJT2dfZ3FtZlZHQzRMR0xsVUpHdFhIdkdMZ29ORUFzOFdENmFTY29VZzVsU1lleGJaOGNuZmI4QWpCU3VJckhZddIBwgFBVV95cUxQcDZacGx0ai1wNmlYdEJ4dVpuLWtSeUpiM0dxTDNnUWNPR1NjRWlXNWJmZ0h2Vk1uRS1NR2cyR2xPQVRPTTVKZE9WRWJCY1hJazc0OXUtekluUmpINWFhTDB2UVBhTzNPeUlCN05Ob3VqU1k2U3NFVjJrMUlUR05VdFp3QUtYTzhFYUpac0pEeXhxRFMyT2M3bTdxSGhKa1BvUWQwQjQzcEExc2dlbHZscmppWkwxSUQtSjNqd21FSTJPUQ?oc=5",
+          "publishedAt": "2026-11-28T14:39:41.000Z",
+          "severity": "medium",
+          "titleZh": "11月28日示威：游行队伍抵达巴黎民族广场，马赛首次出现紧张局势",
+          "content": null
+        },
+        {
+          "title": "Manifestation du 28 novembre : le cortège s'élance de la place de la République à Paris",
+          "source": "CNews",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTR4emNDQVV3S1ZGQW9sVHFqVXNHTFJ2ei1JZXRwdTVCNHBuMzU3bGVlem5fWlZ3VF9ESUw4eExYSHh5RVFTOVhNN2xiU3ZYaFZSdldNNHFkdVVrcGM1ZmM5eHFBOENacVp0YTJidlVGajRpSzByTm1vZzFQQTJOcF9zclU2NzI5dVNGV0czSnZ2NC03b3hZc0M5WnNaTXl3Q0hqS3NZMFpkU0hpbGt2SXJxeXl6Z9IBuwFBVV95cUxNWmhPcmtnSEdYRWNpNlRPTkp4UVlMZnczM1Z1QkJlOUg0Q2RTeUxNclY3TDhsM2ZXVkVnTEtQSjBYWEIwc0Z0VDRiOXJ5aGc2Ym0waDJoOTUxbVEzY1BiNHp5SzBPamtNd2F5dWdEYVVnZGxIYzZyc1FXNDN0RWNpUTV2THVYTHdNMno2VlJ2NzBya3FjZjNsNDVKbnRZUENkTTI3ZDkwMzhuSnJ4MEJKM3hna2t1M2dHSktZ?oc=5",
+          "publishedAt": "2026-11-28T14:28:03.000Z",
+          "severity": "medium",
+          "titleZh": "11月28日示威：游行队伍从巴黎共和广场出发",
           "content": null
         },
         {
           "title": "Manifestations du samedi 28 novembre 2026 : la carte des marches et des gilets jaunes, villes, lieux et horaires",
           "source": "Les Voitures",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdHVNbXE1bFdYcWliNWJkSE0yR0RKYmJNRXQ1cDVWZmNvT1JLUlpDUVp5U2xIV3hiWlpHRjN1cXRScEdjMzZrV3dlVzFjX0ZUZnJNMjYtN0NRaVZK?oc=5",
-          "publishedAt": "2026-11-28T03:37:39.000Z",
+          "publishedAt": "2026-11-28T13:19:36.000Z",
           "severity": "medium",
           "titleZh": "2026 年 11 月 28 日星期六示威：游行和黄背心地图、城市、地点和时间",
           "content": null
-        },
-        {
-          "title": "RATP. Manifestation du samedi 28 novembre à Paris : deux stations de métro fermées par les autorités dès 12 heures",
-          "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTVRScThLRmZEM0RPTmZTck96XzZyc19rZzlUNml2UlQ3ZW9FNWNwYnpPeDhwQUhDc3dZLXNWX3JXNkZ6SU1wSDJXWnVsYlNtNTA0V0szUmhPQ0JhYVJIUkFLWklYV1p4VFBuWXJIN2lnYkRCY3dnWmpyZUxVX0hiSVBCZ0dydkVZYUZibElrNWhSckJEY01Uck9GQldPbVdGZmNDVFZPQ2F1MGpFM3dWN0h5eGt1c200U25mVWFhc01vZDFZc0FUcVdPUENycUY5YkJTZ0MxeXhlU3VQWVoxdlFCTHEzQUdCdzBNWWl2UnI?oc=5",
-          "publishedAt": "2026-11-27T18:06:02.000Z",
-          "severity": "medium",
-          "titleZh": "RATP。 11 月 28 日星期六，巴黎举行示威活动：当局从中午 12 点起关闭两个地铁站。",
-          "content": null
-        },
-        {
-          "title": "Manifestation du 28 novembre à Paris contre les violences faites aux femmes : parcours, sécurité, stations de métro fermées... à quoi s’attendre ce samedi ?",
-          "source": "France 3 Régions",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZ2FYbmlCZDd6TmEwRUZSaUJJUExGaW1kLWpfMWMtOGVNMzg1QjZMcFExQ3QzWWlFd0NCbWFXOTFxZkRzaDNhRGFtLThMLXIzbmlMaExKVHBXVTR4dXpha0lDcHdxUnlVNmVmT1VVNzNhU1hBamdLbHdNdXRhTlhuZWhnOTJFa3lCUjhOSUhCM1BxTlVWNUdOZUtUbzNGMVh4SF8yTHBFbW5mb0YxZ0plLVJ6U3VqendsRWRHQTFJN0lucDFnZ1Z0bEJSbkZ6NEdfYTF5OEViZ3UzcUpQamk1QVc2SzdocE5iZFM5LXFoMG9DUnJCUXVIQmNCSkhvVVR6cFJyUzVYSW52YUJBakVCMlJIRXM0NmRHak14cHl1YXdLTjQz?oc=5",
-          "publishedAt": "2026-11-27T16:13:49.000Z",
-          "severity": "high",
-          "titleZh": "11 月 28 日在巴黎举行的反对暴力侵害妇女行为的示威活动：路线、安全、关闭的地铁站……本周六会发生什么？",
-          "content": null
-        },
-        {
-          "title": "Mobilisation sociale, manifestations contre la vie chère et les violences sexistes : à quoi faut-il s’attendre ce samedi 28 novembre",
-          "source": "Le Parisien",
-          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOQTZRMkI5c2tKQWtvS1h0bmhQUkU3UEZEMlpCQ0ZGU2puNXhSaDVsWEd2eDdNQ2dJekJENjc1ZEFLbTBTTDJUM3hWX0FvRENteFhyZmRnLXcyd3ZlV3g5b094MUJkaWZ5eW5PQno4OEdwd3RORWNfd2E1eTRLUFF1eF94bUFDM2VfMFU0YWp1UnpoaVdCWkU1ZkxJTG94RGx6QnhaekV0RjFDVVhwRmRMNU5Ca0o2RWNLbG1uQTVXZkZEQ2JJTjNuNEpTTndDY28zMkU4cGdEdVlBOXU5czFsd2xlOEp5dHBsZ0U0X0dpeFBLNjJyMzgwQmM2amQwRnpIOXBCdGx4NDAyQVlEY3ltT0t2ci1FVXNHaHVueFBMT1Zybk1PVFZQSzJyQzFUZDkwcEkw?oc=5",
-          "publishedAt": "2026-11-27T15:00:00.000Z",
-          "severity": "high",
-          "titleZh": "社会动员、反对高生活成本和性别暴力的示威：11 月 28 日星期六将会发生什么",
-          "content": null
         }
       ],
-      "places": [],
-      "districts": [],
-      "articleCount": 7,
-      "clashCount": 2,
+      "places": [
+        "民族广场 Nation",
+        "共和国广场 République"
+      ],
+      "districts": [
+        3,
+        10,
+        11,
+        12
+      ],
+      "articleCount": 5,
+      "clashCount": 0,
       "status": "recent"
     },
     {
       "date": "unknown",
       "articles": [
         {
-          "title": "Les syndicats d’Aéroports de Paris déposent un préavis de grève le premier week-end des vacances de Noël",
-          "source": "Actu.fr",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeEdkMU05TXl4VXpCN185VHhMT3VwY1hFRnlZVTVhNi1BaHFCM29ReUtVZkNNc3hubmFTTkw2WkxsQnpHUlR3RjY1RWlxTzBOTm1oLWR0dGpfbm5Rd2hLVlUxR3JrUUJjaGprY25SSlR2U3VxckhJTWR1d2xGUENOakxBejg1ZFFyYTFYaGU1ZUZCRi1kWVZJRjFCZVBmN0xZc2xRUGV5ckN1STdYQ2E2RXI4ZHRXNTBzaHFrR3NUZEFHOWhIYkpzamRMM0p0c3E5MDJpQ1BQUm1vWjVWdVRHa2ozMTNaSF83VUFMT2ZQSnhmek04Z2cwNS00Z0hCMGR6NWVV?oc=5",
-          "publishedAt": "2026-11-28T06:30:01.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎机场工会提交圣诞假期第一个周末罢工通知",
-          "content": null
-        },
-        {
-          "title": "Norse Atlantic Airways cloue ses Boeing 787 au sol",
-          "source": "MisterTravel",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFFienFuY0c1QklJa0JFcFpZeFV0UXNzYmdZeElaX1JuQmx1czV2WFhYZnkzc1R1ODFaTldPdDVwQWY0cU12d2pIczJfWHdSM253MUlMR19hSTNVQ0ZadjJ1NzFIaThXc2gwOXM3dFZ0ejVMQW1NdV8wYUE3a1FfZUZ3STd0VXhLSUJndll2WUtVUQ?oc=5",
-          "publishedAt": "2026-11-28T06:30:00.000Z",
-          "severity": "info",
-          "titleZh": "Norse Atlantic Airways 波音 787 客机",
-          "content": null
-        },
-        {
-          "title": "Protests Turn Violent Near Milan's Duomo and in Paris",
-          "source": "Business Upturn",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3J5ZXVnbDZzZElublJjX2NZRldHRFZGcDIwOUZUQmdQdVpEZUUya1ZUOW9rbURvTTNQaTRycnQwVG1jcWVGWGZ6SUQzYjdKTzBtTFlnYVFubVY3YXV6OHZDcjZfcDZtOWEycVR3SWFvTTNNR3BZdE92SHVFemhSemtVRG51V0wtNFVvdk5WZmp0bS1o?oc=5",
-          "publishedAt": "2026-11-28T06:24:56.000Z",
-          "severity": "medium",
-          "titleZh": "米兰大教堂附近和巴黎的抗议活动演变为暴力",
-          "content": null
-        },
-        {
-          "title": "Les violences intrafamiliales : un défi collectif, Conférences Paris - Maison Heinrich Heine : date, horaires, tarifs",
-          "source": "jds.fr",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR2NsQXJHMWItZ3B6c1V6Zm40bHRuVGdJbTdhMWZXV0lGbXl2Z3dXcUwyUUpfODBZNV9YMG1OWFp2enFFaFJSdThMcTlLSms2bUpSdTh3NWRVbWI1djAtMndpWWlJZXcxYnVmTG9ITm4weWVJQlVocnJhblMtVHlIa0lkMm1JTmg1UWNwYjF0cUU5dFRBU0xDYzBNRkhKdUVDb1BaYmhwQVVDRlFEQWc?oc=5",
-          "publishedAt": "2026-11-28T05:09:16.000Z",
+          "title": "Les seins nus ou le poing levé, elles ont défilé dans les rues de Paris contre les violences faites aux femmes",
+          "source": "Paris Match",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUDllWjBjM25tSUhqR3BkT2RxYVlTSUd1eVJleGNHaXVrT0V0a2l0U3VxRkRLQnlGTEI0Ym1SSFNueTEzRm5oQ3AtMjI1SlpyUjU5N1VBdFVtSXdWa0lzbTNrN0NjSmRadHFQQUhhMXpfTFhnZnNPbmtJUWdmVVF0bDEtR09LQXU1WXpNbzZQaVo0VUFuNTFIZDg2dGQ2VnpMb19LUVRkRHFTSm1HTzNpMWViZWxaNGsyWWRkYURadzUtSC1WMUFTdEJMcjlWRHM0bGNYREVB?oc=5",
+          "publishedAt": "2026-11-28T15:57:59.000Z",
           "severity": "high",
-          "titleZh": "家庭暴力：集体挑战，巴黎会议 - Maison Heinrich Heine：日期、时间、价格",
+          "titleZh": "她们赤裸上身或举起拳头在巴黎街头游行，反对暴力侵害妇女行为",
           "content": null
         },
         {
-          "title": "Zoé Carle, discourse analysis specialist: 'Political slogans are absolutely entitled to be outrageous'",
-          "source": "Le Monde.fr",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZlRyWnhESk9nNk5wMVZfWG9iQ0VELXpUYy1SRm1oX3NPUVJIVWg0eVM5OHItSy1lS0xDQzNFeGtfTVNuSFJOR0RaN3h2X2g2dnZwbHRIMkN1eWJBNXFDNldtZGZTMlpQT3BMNjUxOGZxR1F4T3RYRkhzUE40S3BVYmtKblFzMEhjUHZzU1ZjeTFLR3R1Q2NrYkNQTjZZV1VncFVRa3JhTzlBTS1EdkJyeURsM0xOLWlmNG9nMXhPOTVKdGdQbUZuLWZ0dHN3OVFCVzIzTXpWWjZodlphR2hmVmNJWkVkYXJwRXpJVWRhZl9aUTFtZngzOXR5Zw?oc=5",
-          "publishedAt": "2026-11-28T04:00:05.000Z",
-          "severity": "info",
-          "titleZh": "话语分析专家佐伊·卡尔：“政治口号绝对有资格变得令人愤慨”",
-          "content": null
-        },
-        {
-          "title": "Evènements de mai 1968 : rushes",
-          "source": "ina.fr",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTFEeVVBYnlzanFsbEpLcWhyLWVRV2VuNG53elRWUnNrX0FXWXFGWDVnVDZKdzlWdEtOYzdURzdwMTBwTmZpdTA3a181c3g2YXBXaEVBVER1LURVbXdpZnZEQnF4WjEtdlNzNEFzTFd6VXgyMWNTRE4tWUdfcW9iNWJXS0RjOTh1?oc=5",
-          "publishedAt": "2026-11-28T02:29:45.000Z",
-          "severity": "info",
-          "titleZh": "1968 年 5 月事件：匆忙",
-          "content": null
-        },
-        {
-          "title": "Parution d'Iqra n°130 : 'Affection et miséricorde'",
-          "source": "Grande Mosquée de Paris",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFBzTXEyXzVtamJBSzRRbk5Mc1E3akFZUy1MVnVEQ0YxQkxMSm5BczhQWUZIYU9OOUl3M2l5WHNzMlMzQnB1V092MWNOTkhvdjEzRndrX0ZJTmpLbGhOUEdKb0lZdUdLYncwRGhSYjR6RFFXc3lBU2dPdGdxVXRXOFdFYy0yek1RZjdTYTFfcDd4RDNOQ19UcTI5MG1zX3c?oc=5",
-          "publishedAt": "2026-11-28T02:23:30.000Z",
-          "severity": "info",
-          "titleZh": "《Iqra n°130》的出版：《慈爱与怜悯》",
-          "content": null
-        },
-        {
-          "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
-          "source": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZXlsXzZPdTZZYm41YkQ1VVBRMmcxQzlfakhDVmU2cFUwbzRhVjRfajhvcHJjcndFdk1UTTBQbDMtMktQaEZuX0ZhZnZGZTY2NmNsZE9CSlV4eE51YVJGYy1QZzlTVmV0Z2E3amZ1elYwcVYwaEt2Mm1xMmJMd1J1R3pOaXM3VGtCelNmQUZKSHUxUjVfdTE4eGt5TXFONkc4UUtSdHNlYWLSAa4BQVVfeXFMTkYzczhrdFBUSFk2dlhBdXpsQTEzZU9md201cEtKbkxUOTRPaFR2U0lhYkY4T3ZUb1FTS1Q5THMzMTlVYkF3UFltMXVjU1V0dC01X0taYkJkVExBZ3h3MEJWNDY1LXpCQkdxOXh4Um9xVmxFdEhrNjlkVm41M2hNNkdKek5hV2dJdlRPcUViWGk2X25lenprNG1Ja0IxcU5tM1BHdFVWbVk2RDhneDBn?oc=5",
-          "publishedAt": "2026-11-28T01:08:51.000Z",
+          "title": "« Quatre jours de grève avant Noël – La CGT et FO réclament des hausses de salaires » -",
+          "source": "Corsica Infurmazione",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVQydXgwT2xXMk91VHJrakZLdGlZM3BQU3I4eHJUekNDbHU4RzZIa0lBMFJmaVM5LWZrb3VXYURhTnAzUjYya1NTOERYNkgtLVlNYWFBdGFjLXhqWHBnTTNTcDR5SzFmOVNBRWhoVGFmNTlQZl9LY3lHMFdvVjZZX05yeDdhd1hRMlgwSjhwQTg2bURiaFRLYmItWGxxdHNtYmdvQkxXZ0JWeUpRN2VCT0xIU01xaVpWWDByTmM1ekRydG82M2tSeA?oc=5",
+          "publishedAt": "2026-11-28T15:35:35.000Z",
           "severity": "medium",
-          "titleZh": "数千波多黎各人参加“全国愤怒日”抗议活动",
+          "titleZh": "“圣诞节前四天的罢工——CGT和FO要求增加工资”-",
           "content": null
         },
         {
-          "title": "The Sudden Appearance of 'Black-Clad Groups' During Protests? The Real Reason Behind Violent Demonstrations in France / SBS / AFTER 8 SPECIAL / By Kwon Yeongin in Paris",
-          "source": "SBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wNEFnMGNSZFRDeWJuLU01VEdRSjBzRU55UW45SnhkSzVFNXpxZVRTaDNSaVI3bGdXU01QQmRyVmFtTUxnR0toN1pJS2RIQkwycHV2RVVaNV8wc2FxM2pZT2UxX2xWblpYb21URnB30gFmQVVfeXFMT1dFcmNDTnBvXzVMbTdFZS1UYllwRWxPQ0pqYjhOVjcwWi1BVmhGXzlfQXNfNExPckplZEtST2h1ZW1vZWluYzA5NGdTX3FRWDl5bEMwMHdjc3JrTHhMOElycFpPbGlB?oc=5",
-          "publishedAt": "2026-11-28T00:01:59.000Z",
+          "title": "Mobilisation contre les violences faites aux femmes : deux cortèges à Paris, des manifestations partout en France",
+          "source": "Europe 1",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSExtWVhtQWk0Z3J2SHh4NXZxa2FiTVV1N2g5bzZqSVdOMkZ3NTdVRWVCUkJsekVabVg2cVlYZVlPWV9QSVBrSWVEQlIzNEwxekt4TGFFNkZpcHpOdExNdy16Ym9UWWhOOUZONk9PUk9JU1k5bUhNSm9ZRmZ3MDFyWnhEcWdpZnNpYldpaEMwMkNoZkJrVFRqREpBbU94ZUlSRFdIQllWTldkalM3SDZwaThhc2NkMGhWYjVtcWp3X00wNUpQVkFJN2pEeWdvdUsweE9DV1d6OWFuZ2RJeW1zeGVlUdIB6AFBVV95cUxPS21HR0s5RGhZWnRDTXpzZmRaZDRRNE1NX0taUWxFWG9vblpuUzRiblpWU3BDQlVqUWFEcWNWRjRtekZsQmIyc3UzTDBQTE9aMDUxMkdPZzl2MU9HNWRIQnZrbkxFM1JVbU8xTE9JdWpoRjZyY3ZIa09BdFBza2RuemQwalhUZm43eG51SkpVckVOTDRERkt0ZjdQbVVIVUlPVG9kXzkwNS13SjNfR0FBSldYY0VjWjhEQkFkY1dzdmJNbVhSSm91UGdPQ1gyMGZZb0pyY0dhZ2syNmRfbEp6S1RkaUpQU2FG?oc=5",
+          "publishedAt": "2026-11-28T15:35:00.000Z",
+          "severity": "high",
+          "titleZh": "动员反对暴力侵害妇女行为：巴黎两次游行，法国各地示威",
+          "content": null
+        },
+        {
+          "title": "Protesters against gender-based violence denounce 149 femicides in France",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGhiajdCZXZZTEl5bDFHRzcxWWxLdTdfSno2eFdjSEh2dkUyRkZiWG9DdHVHMnQ5THl3aUZEalBaUFdiZkM0dDRUN0tVV2w2dlNpRlNvZU1zYUlpbnZFOG5PWmRpQkg5YXNEX0FKd3BES0lDZngzRENDM2lzbTJOSXZiTUNuVVVySmhfU1JwRUZ4VGlXZUJUVXEzNnVQdFR2Zk40MGMzQzdRalN2Z2JUeUlkZ0g?oc=5",
+          "publishedAt": "2026-11-28T15:22:38.000Z",
+          "severity": "high",
+          "titleZh": "反对性别暴力的抗议者谴责法国 149 名女性被杀事件",
+          "content": null
+        },
+        {
+          "title": "Les syndicats des aéroports de Paris appellent à une grève pour le premier week-end des vacances de Noël",
+          "source": "CNews",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDVVMEt0VlJUOXg0Nl82NEdHUEZCcERVbXRHb2tQYi01WmdSZlVBdF9NZTc4bHJmWHYxNlplV1V3bk5zdm5wVUFNVTh1RXRpWjFxTzV5M2c5ZWV4bExxM2h6ZTNIZEVqSlR2SERlTVljMXlOVFd6SC02a1NsVnFEX1lELWpJUVNQR0l2T3V1aGtRNER6QTc0dGdVXzNNYlU1dUdCcEdaSXJyOGlMSDNtYVEyU3pvdHFsT2lkN9IBwgFBVV95cUxOeFNSck1tWEFSTUZ4Vjd0azBuZ0piUVR6SDQ0amZveXpVMmJyWU83NTFNRWRXTU1QX3FLcmtlN245LXo0Tlk0QTBRQzhJUVVDbUhzT0VFM0dfSmtxN3NtWDRvQ2Vyd1RQV0F3Nk9SQWkwSlktaGM3MmR0eGNjVWIyeUpRNUFBUC1XY0xCTTVsS2xmandwNm5DRlp5ZnZiY0d2T05PM2luUW9QNlNjb1pGS29xZ1N4M1FzbTBPcy1OcDVRUQ?oc=5",
+          "publishedAt": "2026-11-28T14:48:41.000Z",
           "severity": "medium",
-          "titleZh": "抗议期间突然出现“黑衣团体”？法国暴力示威背后的真正原因 / SBS / AFTER 8 SPECIAL / 权英仁 巴黎",
+          "titleZh": "巴黎机场工会呼吁圣诞节假期第一个周末罢工",
           "content": null
         },
         {
-          "title": "French Activists Demand Tear Gas Ban Over Reproductive Health Fears",
-          "source": "cwibc.co.id",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFMmZqUWlIWktKdU5ydTl2WGVETTFJbTlkRW1WaG9WZWpxUGlZYnFyV0tjX1lzZXNvTGRFaFJreE05R0JEak5yOUd2UzJPZWNKRjI3YUJOb3FmZmVMcEE?oc=5",
-          "publishedAt": "2026-11-27T23:32:00.000Z",
-          "severity": "info",
-          "titleZh": "法国活动人士因担心生殖健康而要求禁止使用催泪瓦斯",
+          "title": "Des cortèges à Paris et ailleurs en France contre les violences faites aux femmes",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdEFScjZyOVFWdDNuMTNXdzk1OUNIc01hM29NRW00Z29jejFHM1Q1bHlaUEo1YUt1dnBCc2cyVzhXUzRnYXJQTEx1OThJQlZkWHVhNVBoaHJ1QUVsR1BLUjdCS1hBVnkyMS1BUEVIekl5U3ZzVGNVc0FWTnphVldOYS1zOVV3c1djM2owaDN1ZWNyVVJsSFF1WWNibVdtNVpfcmpDemdneFlrVXp0Vm5RcEt0Y1hubDZtMVd3RDdMR0xGcXZzSkphTlNfb3Zvb2RoSnpLcnQyMUxCZGl4?oc=5",
+          "publishedAt": "2026-11-28T14:41:26.000Z",
+          "severity": "high",
+          "titleZh": "巴黎和法国其他地方举行反对暴力侵害妇女行为的游行",
           "content": null
         },
         {
-          "title": "French Activists Demand Tear Gas Ban Over Reproductive Health Concerns",
-          "source": "Demokratis.co.id",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hYjQzdTBRdTR0TVZxbzgzNWphdHNvYjdKM0owMFJJbHQ2RjBGeFlTcXJoODJuUmZHMkhRYmNOczFvWEhBclR3UUJwbnZiUThTaXFIajhLLVJYUW1aMXFReWNTUmU?oc=5",
-          "publishedAt": "2026-11-27T23:28:00.000Z",
+          "title": "Manifestations pour les femmes et contre la vie chère à Paris",
+          "source": "Boursorama",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNjRWNkdrVzhXTGNtQVAycEt5V2VMQURCTHk2QzRHU3FDXzExUlZlZ0daRGtDM1FTRVNFYm1BZ0pyempyWHBSNFJ3TEl1TUVzNEQ4UG5iZXhqRm9tZ1B4VVRwaXpzN0k0RjJQc1BTQWZrbjctbG5mbTVRNlNKVVluckxKYVB6cHEzUXVGUHhTOTRiV1I4NGNvUXI0ZHNVVDl4R0lGaHIwSlRmb3g5ZEhQVmgwNTFneERQeFZUaE1LdER5djlsZUpkT2ZxZ1V1OGJFLU5TU2pfamRHNE5TR3JQejBFQ1V6WldS0gHuAUFVX3lxTE0zTWk0bEtmdVFtNlpLQXFaYVR0cjBjRXl6Vk1jeTMwVTBOV1FlZUhkQ0xlMnJLc0tYTUswUU5EeTNKVWpIaVFwblRJTlpacldZWE1NZEp3RjA3bUhlRGVYODNuZS1BVVpnUjE3NDRGbnJ0bGJkZkNhUUhWbzR4QzlHeExYQi0tc3ZHUTBCVXo5R005ODZIVDhla1RJR0NBaEpCYXdUaF9JM0hIenRFMnlmaE9jaVhwdlBFU09oc1lVZnRiT2ZtRUJqbFAtODYwbnY3VDIzZHpXa2ZndGxqNTJUU1RuMUNrWmRQMDM2LXc?oc=5",
+          "publishedAt": "2026-11-28T14:27:04.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎举行妇女示威活动并反对高生活成本",
+          "content": null
+        },
+        {
+          "title": "Vacances de Noël : \"23 jours pour revenir à la raison\", deux syndicats des aéroports de Paris déposent un préavis de grève le premier week-end des congés",
+          "source": "Centre Presse Aveyron",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQV1EycGR3Q3ZzSFctbXlJWVduN2hpMFRkR0pxLWU5clNwbExVS3loR2V4RHRPVi1VRmJaWGlFRVBEVl9aRVF4NlljOWdSLUlzbFk2UjFiOHo5U2o4QUR3SVA0Nmg1Y1NkV004QnhFeHhYb3dqZVpuZDlNYlY5bU5kMmp5enFBSTFVdnFQVkF5Z0ZSTkZ2U0IwUEgzNmJYVGJpR2VQZUFKc2ZtUkZYOE8yeEFiLXpQa3VlOVplTE9Pd1FYaHRfM2FqMEZyUFFsUWk1WGZGT2hwV3ZTanFJVGQ4aHhtR3JJUGRtLWJrc2Fya09mUXc0VF85UmdrTlJva210QU9naVExbkV6X3VlOW1Ra0R1d0lEei1IUmxOOTQwU3BGZmNnb2NFQlhlRFByOFR6?oc=5",
+          "publishedAt": "2026-11-28T14:18:00.000Z",
+          "severity": "medium",
+          "titleZh": "圣诞节假期：“23天我们清醒过来”，两个巴黎机场工会在第一个假期周末发出罢工通知",
+          "content": null
+        },
+        {
+          "title": "France-Manifestations pour les femmes et contre la vie chère à Paris",
+          "source": "Zonebourse Suisse",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemdHRVhKYUQ4UUYteHlxYnRoLUVDRERSMmFCQ2dYWTM3SzA4S0JFT1R1RU1tWFZWUHhYRzRucVVua05JRlU5S0ZhQ0FJd1g4cGM4bVBhUG9aaGxfaUdtdHpnSTZobXlTcTBlSFhZYW1DRnN1dHR3TFNaNTgxbW1HcnI5alpxX0xtcEhrbW1NNk1ESV9FcFRaSW0wVzRLeEhJNEM5N1pZMmdpRmI5TzhUbWJranN5VnZ0WElhc3lfOVdXQTFuTG04?oc=5",
+          "publishedAt": "2026-11-28T14:08:13.000Z",
+          "severity": "medium",
+          "titleZh": "法国——为妇女抗议巴黎高生活成本的示威活动",
+          "content": null
+        },
+        {
+          "title": "Aéroports de Paris : deux syndicats menacent d'une grève pour les vacances de Noël",
+          "source": "Les Echos",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY2JXeWNfVUg1RUZ1NkM3cUNsZEdUaVdlbTBZdXFUOFpXeUozNC1HcWY4VE5IVl9MbGMxVUgtMzJnRnQwd0NHQldfS1gxcXVxU2hWUjJTMTNqSUhMYVNOY1Bmc0p0MnhLNDJJWFc3Q1haUWdITzAzUFpEclViWkpxTjJib2JHQU9yZnFXaUxJczVyYktaS1RlbTVNdXZfaXc0YmlfMmNmZWZaaVRNUFZfcUVtcjdVX1hQSVRzOTRySnp6eW4tSE8xM1d2UmxaTVdFTG13VWdPY255V2hkQTBhVk5EMA?oc=5",
+          "publishedAt": "2026-11-28T13:43:56.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎机场：两个工会威胁圣诞假期罢工",
+          "content": null
+        },
+        {
+          "title": "Aéroports de Paris : la CGT et Force ouvrière déposent un préavis de grève pour le début des vacances de Noël",
+          "source": "Sud Ouest",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNS3RMRE1xUHhyXzJtT09zcDYxZEJOSm82c3NxMl9LRHhRRm9uNjJ6TVJIS0llQVNiUzFKU0QzUENLVzR6V3ZybzFFWDFGU3l6Nms0REE2UWZ2dlFSZDlTSGtYYU5LcTgxOE5DUHZ6R01KdnNOaVg5US1yOUVvRWV6LWlldklhQ09ZY1hScEwzOXVMMk55a0Fzd2E2UFFCM3VIZTlWQm5rb0RsSzVjVTMycFRmRFVINFA1Q2NueXV0YktXWnI2RnVvbzQ4YUZXcENXeVU4NnpuNjNlUkNZMExZVzBlUHpuVDNq?oc=5",
+          "publishedAt": "2026-11-28T13:42:45.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎机场：CGT 和 Force Ouvrière 为圣诞节假期开始提交罢工通知",
+          "content": null
+        },
+        {
+          "title": "Canon français à Biarritz, manifestation et rempart humain : que risquent les manifestants qui bloquent l’accès à un banquet",
+          "source": "Hassan KOHEN",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0p6M2QtNXVSUFBCQ21SMWtmaWVPWGlObU9nSmRaSFNnMERFbmFGYWc2SVVCSkJiNHdJclhJdzdRMTlBc3g0STlOQUoxRnNfTjFESzJmSE05ZGV3RGxYRElTVk1fS0ZDSzRpZHNNSWVQYkVPQTJSbVNYd0hvVTJCUTNweUZGVFNZazR4VXR4OGdJZlFoUlJWMFdyN1dfVlJRdlhZZ0Fabnc5dFFRb2UzbkZ3R3piTlpwbHc?oc=5",
+          "publishedAt": "2026-11-28T13:35:00.000Z",
+          "severity": "medium",
+          "titleZh": "比亚里茨的法国大炮、示威和人墙：阻止宴会进入的示威者会面临什么风险",
+          "content": null
+        },
+        {
+          "title": "Educators’ Fightback hears from a student activist in Paris",
+          "source": "Workers' Liberty",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTmp2eHlWdmpDOG96ZWpQRzUxX3JKYklHTkJjaWx0LU84MlpJVmNxSW1xNUhVWGEySS1kU2lpTThCZFU4N3BTX3NVWElCUy0xNF9HOFRBZU9qajlRMjg2bjB3TWJTM3BJSkxCRl9WRW9JVFRsZnpxbWdIa3JQZWt1T0UxWFJDa2ZDNms2OTRDR2xDeklmU08wU2dfLVRJeTVzM1FXYzdGemoxUlc4MnlmSlJPaXhINUk?oc=5",
+          "publishedAt": "2026-11-28T13:20:09.000Z",
           "severity": "info",
-          "titleZh": "法国活动人士因生殖健康问题要求禁止使用催泪瓦斯",
+          "titleZh": "教育工作者的反击听取了巴黎一名学生活动家的说法",
+          "content": null
+        },
+        {
+          "title": "Des milliers de personnes présentes place de la République à Paris pour une manifestation contre les violences faites aux femmes à l'appel du collectif Nous Toutes",
+          "source": "Orange Actualités",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNUHVNRjRzWVduam03d00yT0hwZ1phNUtoUkNNdnlVLVFFMllZeXBEczZMMWtiUWxlOWJiNFJCNGxuQjNKX2hQQkFKdHJfXy00TE1ucUNxNVFRbDRyZGdGUU9TOXFtQnc2dml6eGh1S3ZJQzVBTFN3cXMzdGNRNHNWVzh1S2NLR0hzVDR2LVd3YWpMMS12YjJPVnZscF9OXy1qaE9IeEh0ZU1MLS10dTN5NzRRSjJQOGoyalJ4aVFRTW16cmMtVGpXd3ZNdUJSRF9iRTRSa0pFa252amZSQlFXUkRXRThEaDBKUmpvenR0TjhURVNqajc5aVZkZFltcFJycXhJaTlhTnQxNThLdWt6MjlYX0hkaHBxZkhkOW5Kb3p1M1JoNE90aGtQYkk3WnplUVlJQ3hpN29yVGJpYVpLS1ZsVQ?oc=5",
+          "publishedAt": "2026-11-28T13:12:43.000Z",
+          "severity": "high",
+          "titleZh": "在“Nous Tous”集体的号召下，数千人在巴黎共和国广场举行反对暴力侵害妇女行为的示威活动",
+          "content": null
+        },
+        {
+          "title": "Menace de grève aux aéroports de Paris au début des vacances de Noël",
+          "source": "lanouvellerepublique.fr",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWNyQWk3ZXFGNkk5RVNyenc5a3lnUUcwUE1OTzJJZng5bjJMUGI3bnB3YUtLNk1mRVdzWktRSnRqY1BSa2pjRWFrbzdVcnpkdVZrOGhCTXE3M2FyMWk1MUppQzF3TUJISzR6Zi1NRHdzUWJHM2MwNzJrcm9LSHE4Tk1haTg3ZEgtWlJMbHpJdFI5T3BqTEt0R0RFZnM3WlFBMkNabVR4MFBUSGpiSlJjU3g3ZFA2ZGZIRFNzeEFHMVlpZw?oc=5",
+          "publishedAt": "2026-11-28T12:59:00.000Z",
+          "severity": "medium",
+          "titleZh": "圣诞节假期开始时巴黎机场威胁罢工",
           "content": null
         },
         {
           "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
           "source": "Sortir à Paris",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
-          "publishedAt": "2026-11-27T23:15:45.000Z",
+          "publishedAt": "2026-11-28T12:52:48.000Z",
           "severity": "info",
           "titleZh": "预计 2026 年在巴���和法兰西岛举行的开幕活动和重大活动：今年的议程",
           "content": null
         },
         {
-          "title": "French Protesters Report Menstrual and Pregnancy Complications After Tear Gas Exposure",
-          "source": "SSBCrack",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmRPeksxcWpmVzFXSjR0OEJnLThGXzRIV0VSTkl0NlNzd2lQMFNfSDVBVTM1cVhOektOTjlUMHlLSHRnZ0FkdUZXQzBweGhnaTJvSExtdy1GOUlFOHBsbVVaa1Z0OV91eWtWNk9LdVQ2MEIyMENlNDhKN2tmaEliU1puYktHaTlEUEZTSmU0UjlMNTlNSTFvbUs4ajh2NTM5ZzFhc293ZjVXWi1vbzdtLUd1SQ?oc=5",
-          "publishedAt": "2026-11-27T23:05:23.000Z",
+          "title": "France : une grève annoncée dans les aéroports parisiens à l’approche des fêtes de fin d’année",
+          "source": "Medi1 News",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiMHBZLUFHTEN2VUViSldOU2R6WFZrTDRXV05WWTYtbWZ2MkFOUTZydmZzQS1oR3kyX0p6dm1IREhObnVfcjNnZUFGSjVNOVgybDVodWRDNA?oc=5",
+          "publishedAt": "2026-11-28T12:46:00.000Z",
           "severity": "medium",
-          "titleZh": "法国抗议者报告在接触催泪瓦斯后出现月经和怀孕并发症",
+          "titleZh": "法国：年底假期临近，巴黎机场宣布罢工",
           "content": null
         },
         {
-          "title": "La Bulgarie dénonce une violence \"inadmissible\" après les affrontements à Marseille",
-          "source": "Flashscore.fr",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHVYWktaMWRScWcxQ1VReUdGUXJiSzdWcE9qNmpORDRDMU9JQm81a3RxYjVxbWhmVkFRZjZnV0doSWJmSllnMEFSMElsRnctWDJueHA1Wmxjb184WXo3bFhEVkNXVDVnZTFPUEM5OHJ1N3JuRUVXNnpycHZPQmQtTDByZG1CeDVBek9nRVJwUlNqdzhXQktvQjhvQzU2Q2J0cXpvV0tkZkViSy1ndHd6UUZmS0FzZV9VclJZODF5YW9OVEUwWDhZ?oc=5",
-          "publishedAt": "2026-11-27T22:25:36.000Z",
+          "title": "Aéroports de Paris : un préavis de grève déposé au début des vacances de Noël",
+          "source": "Libération",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM0ktc3JjUWtUbDhIanBPX1dSZnRzQmhMNzJSR1NIZHZSWFR5djU4aHBTdHJlUmpqZ19BdDhfZ3FuekFYbUtOMTEzbDFEdzlyd2U2Y2J0dmhFcGZiRktnMkhUUnJIeTRiT25rZFNuNG1VeDFHOHE1a2RfX1V0SE15cGRSUWlJXzl0SUwzUTBSRVhyWF9jc1oySUpPU2Rfd1N4dW04cV9jM25vdHY4TGVseFdKZEktOEo1X2hEQXpTOHFnVGF1MDVWM05QTFMxMkdwb2h0QjVMSGxrTjFjUWNMcFotX3R0cC03SFE?oc=5",
+          "publishedAt": "2026-11-28T12:45:00.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎机场：圣诞节假期开始时提交罢工通知",
+          "content": null
+        },
+        {
+          "title": "Aéroports de Paris : la CGT et FO appellent à la grève lors du premier week-end des vacances de Noël",
+          "source": "Zinfos974",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ0JYZVVFYktuTDZoTVFQZ0Y3RWhGYS12MkVSLTJvZ0YwbnlteUoteHROd0MtalA3UnBpaXM4SzJPdHcycW5zdTdLN1VtM2MzNVFIZ09uOHNWM1lUMUk1ODVQVUFYRDc5TGZWQnpyWFc2VWZmc01MNzNvbkoyNjY3eWRXbl8weEtLelkzR0NaUjJ2dUU4S2ZtcEM3cGlWMTVSZGE0TW02Z0VEa1dxaks3cDdNWFVLTEgxdlpLUE1YMTdSMjQ?oc=5",
+          "publishedAt": "2026-11-28T12:33:29.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎机场：CGT 和 FO 呼吁在圣诞假期第一个周末举行罢工",
+          "content": null
+        },
+        {
+          "title": "Les syndicats des aéroports de Paris menacent de faire grève en décembre",
+          "source": "La Libre.be",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcldKSFB4bEtLTmhheXNPdTdMOGdCYVNCYjVWeGMtRGxENXFFbWM5dGJ1eHliTXhpTE91amEyd3E2NVU2djFBSEhDdmU1dU1CR1UzeFNJbGE3LTEzSVFDMm1yTUtmWjdia3d2cjdZUDk3LTdFOXBBSUNMTkpxcC1oV3BENUJ4LURrc1hMS0F6X0s1WE9DXzZzeHNQemhqOFBLTzNwdHFlenNidG9qbzFmQVJybW5YYUtoa0NPT0pmY0x0RTJGMGRQUUpmSkNDNDFPa3A1THdvcGY0ZTNSMXcwU1h3RQ?oc=5",
+          "publishedAt": "2026-11-28T12:31:00.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎机场工会威胁十二月罢工",
+          "content": null
+        },
+        {
+          "title": "\"23 jours pour revenir à la raison\" : des syndicats d'Aéroports de Paris menacent d'une grève pour le premier weekend des vacances de Noël",
+          "source": "RTL",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVW85bl9hNTMzZkh0cVZPSnoyRFNuNDNBaHVIQnJ6cG5lZ2laYjIzZ3Bvd2lieUthMkVOcUc1RU5MQjZPR2ZGSVMzSjBXS3hQNmJybGdGY0kwNmdwOUtJV3p3cXQwMk4yS1NxZDZmZU1xR25UMjRkenVTVFRJbW1nR2dQMnR0Rl9OQURqLXdfeHVwYWlQUFJSWHk1UmMzT0lWQm5GWlZpbU81cjJ6QUpJVVhhUGJwbmlMZnVQV0wtSFdRdHJJZU1xcWlicVNMb0QwSVRXdlhVUHRiU19SYm53NHR3QXB2OUF2ZGstTXJzTU03SWJfT2Z3ei11VVhwS2NHYlhOWmZKMDhDQnhNckVPdVJn?oc=5",
+          "publishedAt": "2026-11-28T12:06:33.000Z",
+          "severity": "medium",
+          "titleZh": "“23天我们清醒过来”：巴黎机场工会威胁在圣诞节假期的第一个周末举行罢工",
+          "content": null
+        },
+        {
+          "title": "Aéroports de Paris : deux syndicats appellent à la grève pour le premier week-end des vacances de Noël",
+          "source": "Outre-mer La 1ère",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdTJZdGtUYUVQMnUtbmJHRVdLVV92MTFGSlpCeXQ3UEV0UjZlc0VaWld0QmRxQjJxNGFSMXIxT1NsZFlIVnBzb0MwRFpTTlhJMWtKcXZxUVMxQ1NiOFY5TE82dVM3YTNwd3l6SFExZkhPS2l1LWw5enFEekUwWmdLU3hsVXlza3c5VUdlUlM1dml3X3BJblNRVDlzV19NWGM4ckdnVEluUFAzQ1QzazJQTExMRWlXbzdfRnNxekhkcHhLaF9Kdmo5WkRPVVd3SllFZlhqVC1DRUtiQQ?oc=5",
+          "publishedAt": "2026-11-28T12:03:38.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎机场：两个工会呼吁圣诞假期第一个周末举行罢工",
+          "content": null
+        },
+        {
+          "title": "Violences faites aux femmes, note de la France, Morbihannais à Paris : le point à la mi-journée",
+          "source": "Le Télégramme",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMFhTV3dfSEd0Y3lpaFBWSUJ2alk4Z1ktbVB5SVB6OWxDeHRPWGRCV2dncVJYMnlYMVhGYXh6UDhFTkItc0d2YmUwb2VtTjhDNV9LaGdtRnU3TEtzcnlFYVpJSy15U0h4dm5Vek93bVZQeXVGcW9IZkVfVzhsUTh2SDB2amcwVHFqYlo4U2VaMWdNcEkwa1RaLVBiMGdBR0x3bllmS2VQVjFseG0ySkY2ekNHSU0zYlllTk5vQlB0MmFNY29ZUlc0QW1sWUNkQ0g1aHNjVg?oc=5",
+          "publishedAt": "2026-11-28T12:00:32.000Z",
           "severity": "high",
-          "titleZh": "保加利亚谴责马赛冲突后“不可接受”的暴力行为",
+          "titleZh": "针对妇女的暴力行为，来自法国、巴黎莫尔比汉内的说明：中午更新",
           "content": null
         },
         {
-          "title": "Hatred Of Israel In Disguise: Who Funds Europe’s Violent Protests?",
-          "source": "i24NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnBTMEc1NTNoYWxEVlpTS2RSNVRYY0czdzlLSW50TXgtRUp4cnA5ZjE1aEUzWXpYWmJCTWRxaVZnbXZTZElwUVRSeUlMaVVuYVFpc3N3VEpXeDhVYlZlMVJCWmQ3TmJ6V0txVmFvRjRjYU5NbTdCdGkwSjdEMkkzb21rOXMwZU9fWmd3emkzeklRWWcxR19pckJBVllZZnFYTU12dG1xTDVHTlFPQ19hN3pxeUpyTjdu?oc=5",
-          "publishedAt": "2026-11-27T22:06:43.000Z",
+          "title": "Préavis de grève dans les aéroports de Paris juste avant Noël",
+          "source": "20 Minutes",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOWtxVmFrNVR1U1d4ejg2ZmtwN19xMlhDUm1uWng3eVVsVWlrQWEtQzFWQ2dnRVRESUNvbWRESnZVc1BMZHNQcWhBZXBRV3NSSDZQUGpnam9GdkJVU2M0OE85TF9kVTVUQWxnVnhJQlNEYkhLeFNYWVJKMnFtdU83TUVGaXQ5Q1FlY3NrWWx6b1lZMDlNcFZjZ0V5VFdvMkhGWU11UVFNbTg?oc=5",
+          "publishedAt": "2026-11-28T11:29:00.000Z",
           "severity": "medium",
-          "titleZh": "对以色列的仇恨：谁资助欧洲的暴力抗议？",
-          "content": null
-        },
-        {
-          "title": "Grève Tour Eiffel : le BAPS au cœur de la polémique à Paris",
-          "source": "horticulture-abadie-pyrenees.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQemRTMXVuY1FLYWdkZG44dnJMV3Bvdzl0bkd0MC1MWllTeEF0YkxtLWNRX044Z2JKTG16RnhsRFY3MkZTUG5xb2ZDb3NQR2lUZzQ3bVZIakkySndqR2Zabl83TEVraVRiMlVNaDN1QWlMbXAyZ1JUVWpJNmZVcWNhLWRB?oc=5",
-          "publishedAt": "2026-11-27T21:59:46.000Z",
-          "severity": "medium",
-          "titleZh": "埃菲尔铁塔罢工：BAPS 是巴黎争议的核心",
-          "content": null
-        },
-        {
-          "title": "Grève des contrôleurs aériens : jet privé interdit par NOTAM, qui rembourse le vol et peut-on contester",
-          "source": "Hassan KOHEN",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd3ZnTTJJTjg0THhIN3VrRms3Vm55T3VOYW5BbnRVWHRTeFpwTm5SSEhmUkJZZkVZb3VhLXFGN0RYTjhUcWNjY2dPMU5iZi1fR2ZQQnpUdWxheHBrRlRDMUNGZ0xoRFB6VGRHOGk0dmE0aXRuQWI0Nkl0Nmx6YlBHWXBQeWZ1ZHVBdERzRE54QjNNRDNUak9SYVJUWVU?oc=5",
-          "publishedAt": "2026-11-27T20:21:00.000Z",
-          "severity": "medium",
-          "titleZh": "空中交通管制员罢工：私人飞机被NOTAM禁止，谁报销飞行费用，我们可以提出异议吗",
-          "content": null
-        },
-        {
-          "title": "Deux cortèges pour une même cause : les féministes manifestent en ordre dispersé à Paris",
-          "source": "Le HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeVMyOS1HWHE0SU02TFREVWlkdldBdlJUXzBCUXd3Y1FzQ3ZGbnhwVVlQaTdkVUZWb0tvUlpuSTJhT0VVU2hrNklLNDFaWDUtZWRWUTdGX0QwZjE0ZlJSbzVjOUJjMjU4eV9YYlgza0lxeUJ4V0NVbDgwQXptZktNdWRLU1RtWXR1RHpubUFJa0J2UHhPN0dEaHJlQnM2RGJmOWlHRGJac1FlSktaSDdfbDZFbmVuTjVQQ2poN3dSMUdMWUhRaXVFd1BBc1lvYkZLMDMzd19lT2dzWjlLVlZ3NkVEMENDeTdvMTdVdWxBOA?oc=5",
-          "publishedAt": "2026-11-27T20:15:01.000Z",
-          "severity": "info",
-          "titleZh": "同一目标的两场游行：女权主义者在巴黎零散地游行",
-          "content": null
-        },
-        {
-          "title": "Grenade en manifestation : comment prouver l’origine de la blessure si la plainte est classée sans suite",
-          "source": "Hassan KOHEN",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlkxNm5JdTJsa2ItSXVEb010MWV5WURqZElOdzllZHpRSDZNZHVVTnRqZ1VzbmhyeklMVzNpUjNlWFNXS29saXJtZ0VtSXF3MmRQNndSb1pqQXhmdENxQ21tR01vLVhiR2x6RVJ1Q2FFZ2Y4VjF1NEVYTDF3WU12cFE5RVVFaEg0LTBQbWhjSTdFQ3YzNXBOTndR?oc=5",
-          "publishedAt": "2026-11-27T19:19:00.000Z",
-          "severity": "medium",
-          "titleZh": "格林纳达示威：投诉被驳回如何证明伤害来源",
-          "content": null
-        },
-        {
-          "title": "Défi entre amis à la Jackass : la victime était d'accord, est-ce quand même des violences, et que risquent l'auteur et ceux qui filment ? (2026)",
-          "source": "Hassan KOHEN",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlFGd0VyWExnUXJOVlBicTExWkRiTEIwci00X1JvdkpxQTU4STFCTy1MeWJISzQyTDdySTFjajJfYW83cEhzSHVuWDhLNFFGanRicTZzczZLT0tpRUkyN1R2RndNWHNSemhsaXUwY0pVT0NzSFpqVm5UMnVsaG9MNEh5N2JzbnFDaDlKMUFTTUpjdGdsdlBLaXZCdTF4QWpBVjd0bWtJc1lkZ0Vobl9NRkpwRVBDMUV4b0g0cUQ2QXhOdzU0cldPTg?oc=5",
-          "publishedAt": "2026-11-27T18:56:00.000Z",
-          "severity": "high",
-          "titleZh": "朋友之间的傻瓜式挑战：受害者同意了，这还是暴力吗？施暴者和拍摄者到底是什么？ (2026)",
+          "titleZh": "巴黎机场圣诞节前罢工通知",
           "content": null
         },
         {
           "title": "Grève à l’Opéra de Paris : Turandot et La Clémence de Titus annulées",
           "source": "Forum Opéra",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlpTQkR2TU1STzdkRGtNTUtaaksyTHZ5aGwzcWNxR1ctN0MyLTRVeWVmUWF5b0d4NlFnd20teUZRMUtHSXU3TEJ6b3I5UHE4NDJHUFR0VjJsSVVUZmVrZFl2MEZzemh2ZFVVaEdaVW14QUVPQTBCWmJ4S1dnMFd0MG53OEpvX3FlaEM4eGFFd1ZleHJGTUF5enNXMTZhSFNY?oc=5",
-          "publishedAt": "2026-11-27T18:45:43.000Z",
+          "publishedAt": "2026-11-28T11:28:37.000Z",
           "severity": "medium",
-          "titleZh": "巴黎歌剧院罢工：《图兰朵》和《提图斯的克莱门斯》被取消",
+          "titleZh": "巴黎歌剧院���工：《图兰朵》和《提图斯的克莱门斯》被取消",
           "content": null
         },
         {
-          "title": "Au procès d'Émilie König, les experts s'interrogent sur son rapport actuel à l'idéologie islamiste",
+          "title": "Grève à Roissy et Orly : des préavis déposés pour le premier week-end des vacances de Noël",
+          "source": "Linternaute.com",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb0hROHhRejZWb3lzaTBUcHFteVpuUkxfNnRDTzhpQWk2UENjckgxQkJwYlFIOHMyektkaE1oRUxCOFAzUUl5alA1d3I1bXRJV1VvVGg1cUZYOEdTWlVSMDd2RDZBbHJ1TXdjNHB0SWFiMkpyTVJLZlFvZnZBTk1NSi1oRFRob0ZtNi1QNThRcHpNOEZwX05NdlkyUXNZZC14VEFGamdXNkFTdEswZnRjdldRQXlwUWVkUmpwV25CSGpPYUlfVmxpeWhCM1ZIWGphd01zQjhhcE9Xb29X?oc=5",
+          "publishedAt": "2026-11-28T11:17:11.000Z",
+          "severity": "medium",
+          "titleZh": "鲁瓦西和奥利罢工：圣诞节假期第一个周末的通知",
+          "content": null
+        },
+        {
+          "title": "Préavis de grève dans les aéroports de Paris : «Le droit de grève n’est pas absolu», rappelle un auditeur",
           "source": "Europe 1",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUlJUZkRTb1ptMWMyblhwcnp2QnVUVjV0WlRQRTA5U1VtUHdOSE8wcWRoZTUwWGJoaVVJZlhvWnJJV05zWmd3ZEZtSlBRN0pkczFvdUtMVURjWHFScjEzZXlVU1hZYk9yNWt6UzZVdlo2OFdOYUJPc3RmdS1WeTJ6QWJreXNmUmhrT2FfWEdicW83RkFsWUFuUWJwUW82bUcwWFg5bDRSQjZPYWRrYVpuQWQ4bXpGdnJKU3JZRW0xTm5XOHN2QUJ4ZU1NaHluTGFPekFVYTE5QdIB3AFBVV95cUxQczIwWGprd1E1UXN3UmFGeGU0RjlDekNXenZ0RE5tdUE0MDZQR19jVnAxNmJuNU9SZjZab0RWZEVUU2c2NURVVXdqakFTa2g2RGNuaWdwZVBRWm8yTWstZzd0eGx2aS1BN1lfeVdvck1qLTZERnl1Z0thVk9IUmNaNTJwRHlXYTA5dGxoS3dDeVNsQjRFLWdEY1F5UzJuczRNblVmV3hmYjVOZTVOVDFCUW1Cd3JyTjkxZTEweE5Ca2xDVkdoc2M0ZS1TRG9HbzhwMDhiRjUxeEZiTWVk?oc=5",
-          "publishedAt": "2026-11-27T18:43:19.000Z",
-          "severity": "info",
-          "titleZh": "在埃米莉·柯尼希 (Émilie König) 的审判中，专家质疑她目前与伊斯兰意识形态的关系",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX0FuTHlVQXdiQjNkS3RSNFNLbzM4QnkzdzI1ZV95ejZHLWdfaW5KRFpoclJjQnBSSWFZV3N3UEc4cXhSQ1lJX3lRUlF5UHlnLXFuR0VMZkp2RVVRbzk5NE56cHpXUkt5enNTbGtXTnZidER0UjBEZWNUVDllZEVRc0paeWN4V1VFb0VLdzRGZFhhOXhiLUpFZVdYS2tfX0FRdjlrZF9abkh0UEVfY0NxN19XNGFOeC05c3NSVE91Q01DWWdwX1BJWDV1Ul9KdEVjX2JFddIB2gFBVV95cUxQVDRaeFVMUHg0bkRGODZNVW9ybjdDbFNCX0xvcWFlLU9FbGVHcFlvbmFvNzVsWFB5ajVTNEFLclMwYjAxOVpDSjE0Q1NhSS00ME5jNlBrNXBtTVVfN1JaSDBPQS1HQW1CWmswYWljdXc0RzVkNW5RdEM3cVVCUlFZMUF2elRQYjNJTWpUOUZ2WjFjNWFOYjlKVC14cDBxRXhyenRzcUNhTm9oZUNkX0I5SWV5U0RxbENFNmp6YVFWSGs5THE5SWQxcFpjNjZzblBnMVVkM0xqRVlWdw?oc=5",
+          "publishedAt": "2026-11-28T11:02:55.000Z",
+          "severity": "medium",
+          "titleZh": "巴黎机场罢工通知：“罢工权不是绝对的”，一位审计员回忆道",
           "content": null
         },
         {
-          "title": "Thousands of girls and women report bleeding and miscarriages after French police use of teargas",
-          "source": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeDVtdFh3bl9lb1VXUWNVVDZHSFhiTjU3NDNmdG1kb0VuUjM3YVdNaGlKMmZSdlZRWUxjRXhhb2NDTnM3SzY3ZEVEZ1lpMi1FXzdPTzVaY2NWLWFOVEN4S3RsSVdJRlZKN29PX2NRc1pMT3p0eDFQbTFvc2RoM2ZkNU5iR21kc19iQTFFQ0JqMlpFZjJMXzFUTEl2SlpHTHpacXdkbVYwZDdEMy1KLWlkX0o0TTRhX3hqcFM2bElpczhrc3NPdkNvZHlac1B5M3FDODJualF2UDBGVDByeG5sdHB0ZFBOTmt0N1Bn?oc=5",
-          "publishedAt": "2026-11-27T18:11:00.000Z",
-          "severity": "info",
-          "titleZh": "法国警方使用催泪瓦斯后，数千名女孩和妇女报告流血和流产",
-          "content": null
-        },
-        {
-          "title": "Who is Fleur Breteau, the campaigner fighting European pesticide restriction-easing bill Omnibus X?",
-          "source": "Le Monde.fr",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMW5yemxMMXduSnItcHY4OE5ITHFORmFIakFhSlAwM2xYRmdZT0hKZ2h1NzZYcmhEb1dxM3pVY1RyM0M5Y2hjQzU4dVRpSTRQQWJrWHpaVjc0OEZxbjdydkYwOU1ZQmxZeERsemVIaG5xU2l4VXdBbHdzdF9xRGFRa0xmMGlRNk1tNkZ3VVdSakEzcXBJWFJhRF9ocXg4RHU2YkhrdDByTzNQeC0ySlVVRm13SjdkRDA2OFhid0otZnBnUFh4OXBOYlNsMlVqWHIzTUpQMUVFT2JOR1VsRTEzNF9SclQtMFZ1Qml2RVg0VFI4M2pTY2l4S0NuY3k?oc=5",
-          "publishedAt": "2026-11-27T17:20:22.000Z",
-          "severity": "info",
-          "titleZh": "反对欧洲农药限制放宽法案 Omnibus X 的活动家 Fleur Breteau 是谁？",
-          "content": null
-        },
-        {
-          "title": "Cisjordanie: un ex-général israélien, allié surprenant des Palestiniens face aux violences",
-          "source": "Lepetitjournal.com",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNlJXTm5tUHkyaWtuWUlGQU9UWmFYRDZ0WXBtV2xGU1A5cVVFbzRLNkx2VGlyM3ZJdlFiZ29JV1lKRnEyMlBRMkNTWkdDYWttbERaY29TUlYtTG1CSWJnMnR2RUozQjh1cmI2UlBMLVNUY2M3dGthRjdkR08xMnNaUXRLUXJkbjh6Z3BvanFYR1NUQjNpRlI2VkcxWWtYdk1aRWdRbko4T1o5QTRrOGt5eGk4NmVxRzJjSkwwTTNSdVlNUmtNbDhUTl93?oc=5",
-          "publishedAt": "2026-11-27T16:38:28.000Z",
+          "title": "France holds nationwide protests against violence towards women",
+          "source": "France 24",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZlQ2d3dWNzBIcW1ycUl2YTl3SWxmMVc4U2tNVUJYZUdZS1A2ZERSRTR0aW9VR2pjejUtSURqbWlpWHVZTUd2dExnMXhJbVdUVXRrbkZzY0tTbU9ROHpZbnZqM1VVNkZtTF9PdEEzVWlyLWduTVZ4dklqXzlRcDEtSWdrMGVpVlJodHA3UkdyMFFsNVBHM1ljMi1GLV9jRWthNkFfQVBWUXN1ams?oc=5",
+          "publishedAt": "2026-11-28T10:59:52.000Z",
           "severity": "high",
-          "titleZh": "约旦河西岸：以色列前将军在暴力面前成为巴勒斯坦人的令人惊讶的盟友",
+          "titleZh": "法国举行全国抗议活动反对暴力侵害妇女行为",
           "content": null
         },
         {
-          "title": "À Lillebonne, près de 130 salariés de Ponticelli en grève pour défendre leur prime",
-          "source": "Paris Normandie",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRkpvWnM5OVB6cE5tdkFKcmF6dVlmNmlVMGRYNVR6ZlhZRmdQdEs0dTlaa0hTN3h1N0NUeVA0MWJJNmhjemNka0NhRVFqRl9EbGdVWGNzTEZUeFhYejhXQkNZSkpZYUtIZktqMlIwbUtDblRUYkNMN2Nla0ZxZHZwY0VTTU9XUW5iYTVvdG5XcXZIWXRWc0VtN2pKY0pKWGlPaWxhOEh3aWt6RUNsWFBtOXJNYmhweWFhUFFLbHVCM05LS2NhenJkTlhnS2J1Ym11UDhDMg?oc=5",
-          "publishedAt": "2026-11-27T16:38:00.000Z",
-          "severity": "medium",
-          "titleZh": "在 Lillebonne，近 130 名 Ponticelli 员工罢工以捍卫奖金",
-          "content": null
-        },
-        {
-          "title": "1er décembre : retrouvez les mobilisations près de chez vous !",
-          "source": "CGT État",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUtjY2pVdU1DazRuamwyend4dzhRel9RbVhPdTJkWmFMUDVabThCT21jZ0U2N0NnbmdObzRtUkNwTXZIZG5jQ280SGFUSzBfd3o1T09xV1ZZOC1CM0RrUnlBMkZ0d014QkJOdVVXLTBiNFgwU25yLUFVMW8zSVBEY3lXd0ZLMjdmTnVXOGo0MFB0S2JuakQwSVdkYUxfSnJLU241WW1McUc5ZXVnSDd6RjByUGZ0Zw?oc=5",
-          "publishedAt": "2026-11-27T16:34:20.000Z",
-          "severity": "info",
-          "titleZh": "12 月 1 日：查找您附近的动员活动！",
-          "content": null
-        },
-        {
-          "title": "Annulations à l’Opéra de Paris pour cause de grève",
-          "source": "ResMusica",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXRoeVVPQXZZazRYcG9tREhKRVhCeGs2bnI2cUE2X0N3dk5hQkI3V3RGUmtvRTRlYUxzZU9OTVNMM0sxbmM0QXV0YnpVb2hUS21QNV94R3Rqb2k2SUh6RUNKd1lfUGpnbUhCYnc5WkpISXRzUzdZdFpGSnRxQTB3V1BsbFo3dU16bjBJN3FNTzg?oc=5",
-          "publishedAt": "2026-11-27T16:26:30.000Z",
-          "severity": "medium",
-          "titleZh": "巴黎歌剧院因罢工而取消",
-          "content": null
-        },
-        {
-          "title": "Mobilisation féministe à Paris : le préfet écarte Némésis de la marche de #NousToutes",
-          "source": "L'Humanité",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMDE4VERLOUJLMGhTT3JoUVRxZTZic2VtMHpyMkU2M0NlY2JOYkpvbVR0eHdfckRyMGtmUnA1T3F2ZjJ1ejQ3bTQ4SUhZazZoUlpqdk9FSHA0YVZENDVYN1lJcEdHRGd5Ykc0b3ZDc1EwYUdQcWw3SC1GWmtKMGQ5U2o3eE9xa2ZDWTdDb0c0YktpNWZ5Ul81M3ZERjZOd29oZlFlalRFUmVpY1NqX05IMzd3NGtLZi1zUHF2WFZla3c4OU9RU0hV?oc=5",
-          "publishedAt": "2026-11-27T15:33:49.000Z",
-          "severity": "info",
-          "titleZh": "巴黎女权主义动员：省长将 Némésis 从 #NousToutes 游行中除名",
+          "title": "À Paris, les manifestations contre les violences faites aux femmes devraient rassembler environ 40 000 participants",
+          "source": "Mezha.net",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2FLMEhaT1JNMVZGM2ZaU00zUUxzV1ZJWW4taEtrUTl4c1pZNnp1RWZscGxaVV9tWV9tLVBJRjNlVFhYZHloQTktN2RVaU1HZjZmZmZ2YjUxVy1yZi1oNG9VVkNMRjZfVWlKOElNd1BjUk5FMTBRbDF0ZV9FT3JFa3VXZFlmcnREZWZjekh1T0xjWlB3bTEzbFU1Zw?oc=5",
+          "publishedAt": "2026-11-28T10:41:09.000Z",
+          "severity": "high",
+          "titleZh": "在巴黎，预计将有约 40,000 名参与者参加反对暴力侵害妇女行为的示威活动",
           "content": null
         }
       ],
       "places": [
-        "民族广场 Nation",
-        "歌剧院 Opéra"
+        "共和国广场 République",
+        "歌剧院 Opéra",
+        "民族广场 Nation"
       ],
       "districts": [
-        1,
         2,
+        3,
         9,
+        10,
         11,
         12
       ],
       "articleCount": 29,
-      "clashCount": 4,
+      "clashCount": 8,
       "status": "unknown"
     }
   ],
   "latest": [
     {
-      "title": "Manifestation du 28 novembre : 3 stations de métro fermées ce samedi",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdTV6ZlpMbGtLdVRIQmw0SUZxVkIyWjByMTJpV1MzQU5KN3RlTlFRd29GRE1XSFhjQ1lvZl9KS3JaekpFWFFyV2NQMVdsM25xbG5pVU5yTUpCVnpveENsUVdwOWtocEFhcG5zVWF5R3ozMXVEdjE0UkVnZmxCb182M1hlaTYzUjVrUVdNaXcwdjlmWHJwOWF6VVNGTnF1YU1QRjhSaXowV2hUS3FoS3phS08tM1JpMkV6VWFrYjQ1Rk5LbGw3THVObzBR?oc=5",
-      "publishedAt": "2026-11-28T07:15:57.000Z",
+      "title": "Vacances d’hiver : deux syndicats d’Aéroports de Paris appellent à la grève du 17 au 20 décembre",
+      "source": "Orange Actualités",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUUlfMFNfbUlXUUFBQUlqdkNtS1pKTGViR2V2dGdwUWpDWnNob2xLOWpfTWFWeEctX0p0bWJtRVh0M0lOQTRtUDdyYVllT2lOcXVZNXlFX2h5dEctMG9jbk1RYlRlb0JodEtuNFVOSVp3NVdOUmhkNVU3bDdaUWFKeFVvbmliM1dtWHRQYkhFaWpmcWNpVWxadmszcFp1ZGxEOHkxN0FkZlI2MUFsZEtkRkpXMkQ0NU40NE5OOGRZUVZielJMZ3hpdzZWVXZ4T0FmWV94aWxBNElsYzJQV2FSQl9kSE4tQWFoc1dvRTBMdktoRlNKMlZEd0N3?oc=5",
+      "publishedAt": "2026-11-28T16:18:58.000Z",
       "severity": "medium",
-      "titleZh": "11月28日示威：本周六3个地铁站关闭",
+      "titleZh": "寒假：巴黎机场两个工会呼吁12月17日至20日举行罢工",
       "content": null
     },
     {
-      "title": "Manifestations féministes ce samedi : comment expliquer que les violences faites aux femmes continuent d’augmenter en France ?",
-      "source": "Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNaWt3ZXN5cU1QV2dPVWpMYTR3NXQwbWZ5YUhZX3V4RGd2NTNieEFYQUIyRkppTWc0aGFoOW5CUEJNTUliaTdOVXBoV1VMZW9hR2I3QVh5aWZxN1pycE9HWXkwWU5oallBSk5fWVVRUW5TMXo3emZobnYweENnc1Zyc3NZak8tWFJiSjJ3OHZtSnlsM0N5M1lqR1RZRFhILUdiNFRuM3lDb3BxNmg1VG9RQ0tNSmhaQXNrblBIY3FOWXZrVkV5Z3VsZkNrOUY3a0x2ZVJyUWJZeW5SaGdEbXF6ei0zVE0tRUpReVRZY2UyWGFYdnpxTG50T3E5RzQwSTRyYy1SM2Z0ODN2Z1JMNEQ1UWFxY1lkSVpOd0FYT3hPSXlCaUVBRlNEU01MbnB6N0FqQWRKTFkycDVqVHNFTlE?oc=5",
-      "publishedAt": "2026-11-28T06:30:39.000Z",
+      "title": "Omar Sy jugé ce lundi pour violences sur des agents de la SNCF",
+      "source": "TF1 Info",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMEJ4OW92UVpoMHZqZHk0aUZ6Qkx6bElIS1hLbGlOdVFmV2xHdlVMZmdaUXZnbWFzZTk2SmF4VnE0Tm5LYVJmT0ktMmRXdm93U1RHbFpfRVRIWktpbzEwOTNwaklXdURYc0pTNXdhaWdZcTMyT0dPYWttbjhWZ0xRVlR2ZGJGd1hQdGVrbU9iWTNkbmV6ZU1DNlpUTkNrdTNYUl9iMko3RXk2MmhkV1ZjTlFFd1VoX3U0UVliTVNFang?oc=5",
+      "publishedAt": "2026-11-28T16:10:38.000Z",
       "severity": "high",
-      "titleZh": "本周六的女权主义示威：如何解释法国针对妇女的暴力行为持续增加？",
-      "content": null
-    },
-    {
-      "title": "Les syndicats d’Aéroports de Paris déposent un préavis de grève le premier week-end des vacances de Noël",
-      "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeEdkMU05TXl4VXpCN185VHhMT3VwY1hFRnlZVTVhNi1BaHFCM29ReUtVZkNNc3hubmFTTkw2WkxsQnpHUlR3RjY1RWlxTzBOTm1oLWR0dGpfbm5Rd2hLVlUxR3JrUUJjaGprY25SSlR2U3VxckhJTWR1d2xGUENOakxBejg1ZFFyYTFYaGU1ZUZCRi1kWVZJRjFCZVBmN0xZc2xRUGV5ckN1STdYQ2E2RXI4ZHRXNTBzaHFrR3NUZEFHOWhIYkpzamRMM0p0c3E5MDJpQ1BQUm1vWjVWdVRHa2ozMTNaSF83VUFMT2ZQSnhmek04Z2cwNS00Z0hCMGR6NWVV?oc=5",
-      "publishedAt": "2026-11-28T06:30:01.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎机场工会提交圣诞假期第一个周末罢工通知",
-      "content": null
-    },
-    {
-      "title": "Norse Atlantic Airways cloue ses Boeing 787 au sol",
-      "source": "MisterTravel",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFFienFuY0c1QklJa0JFcFpZeFV0UXNzYmdZeElaX1JuQmx1czV2WFhYZnkzc1R1ODFaTldPdDVwQWY0cU12d2pIczJfWHdSM253MUlMR19hSTNVQ0ZadjJ1NzFIaThXc2gwOXM3dFZ0ejVMQW1NdV8wYUE3a1FfZUZ3STd0VXhLSUJndll2WUtVUQ?oc=5",
-      "publishedAt": "2026-11-28T06:30:00.000Z",
-      "severity": "info",
-      "titleZh": "Norse Atlantic Airways 波音 787 客机",
-      "content": null
-    },
-    {
-      "title": "Protests Turn Violent Near Milan's Duomo and in Paris",
-      "source": "Business Upturn",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3J5ZXVnbDZzZElublJjX2NZRldHRFZGcDIwOUZUQmdQdVpEZUUya1ZUOW9rbURvTTNQaTRycnQwVG1jcWVGWGZ6SUQzYjdKTzBtTFlnYVFubVY3YXV6OHZDcjZfcDZtOWEycVR3SWFvTTNNR3BZdE92SHVFemhSemtVRG51V0wtNFVvdk5WZmp0bS1o?oc=5",
-      "publishedAt": "2026-11-28T06:24:56.000Z",
-      "severity": "medium",
-      "titleZh": "米兰大教堂附近和巴黎的抗议活动演变为暴力",
-      "content": null
-    },
-    {
-      "title": "Manifestation 28 novembre 2026 à Paris : parcours, horaire",
-      "source": "Fondation des Femmes",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeDc4Qk1zTk9TV0E1M3ZabGxiMWpoV0tSdk1SbkZVM3lYTmU2YmlwX0lPbGNYdExVZ3VvMTRULXVMemlrWG1NcHFSdGNYS3d3N1kyeGg4dVpUdUhPU3k1ckNXdThqU2s3d0FCY0RlUEE1YlpGa2gteWdNZWVuM2pKU2FjeHE2QQ?oc=5",
-      "publishedAt": "2026-11-28T06:22:17.000Z",
-      "severity": "medium",
-      "titleZh": "2026 年 11 月 28 日在巴黎举行的示威活动：路线、时间表",
-      "content": null
-    },
-    {
-      "title": "Les violences intrafamiliales : un défi collectif, Conférences Paris - Maison Heinrich Heine : date, horaires, tarifs",
-      "source": "jds.fr",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR2NsQXJHMWItZ3B6c1V6Zm40bHRuVGdJbTdhMWZXV0lGbXl2Z3dXcUwyUUpfODBZNV9YMG1OWFp2enFFaFJSdThMcTlLSms2bUpSdTh3NWRVbWI1djAtMndpWWlJZXcxYnVmTG9ITm4weWVJQlVocnJhblMtVHlIa0lkMm1JTmg1UWNwYjF0cUU5dFRBU0xDYzBNRkhKdUVDb1BaYmhwQVVDRlFEQWc?oc=5",
-      "publishedAt": "2026-11-28T05:09:16.000Z",
-      "severity": "high",
-      "titleZh": "家庭暴力：集体挑战，巴黎会议 - Maison Heinrich Heine：日期、时间、价格",
-      "content": null
-    },
-    {
-      "title": "Que faire ce mardi à Paris ? Sorties et bons plans du 1er décembre 2026",
-      "source": "Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeE1PTkZDVjJWU0pXazVZYV84b2U3SzYtOW1mYmFNQ3EtamJnem1GbnUwZmgtbHZQVkZzRGVfZlZSa3FyRGtsdVI0TjBOdTI1WXY1cGhkUE9BdjZ3eS15cVkyUTZ3UjFHMkY5S2JhZ0gtSHZLRGpqM1ZpYUJlVGNFRFpnclNldjFaRGVyYlhMcjU4VlpkLTZhRjVjaWlXUFduLWUzRE1HOXdLTFpzOTFRa3M5M25UT0pWdmI1c2NlNjd1MllJeTB6S3JxZw?oc=5",
-      "publishedAt": "2026-11-28T04:31:30.000Z",
-      "severity": "info",
-      "titleZh": "这个星期二在巴黎可以做什么？ 2026 年 12 月 1 日起的郊游和超值优惠",
-      "content": null
-    },
-    {
-      "title": "Zoé Carle, discourse analysis specialist: 'Political slogans are absolutely entitled to be outrageous'",
-      "source": "Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZlRyWnhESk9nNk5wMVZfWG9iQ0VELXpUYy1SRm1oX3NPUVJIVWg0eVM5OHItSy1lS0xDQzNFeGtfTVNuSFJOR0RaN3h2X2g2dnZwbHRIMkN1eWJBNXFDNldtZGZTMlpQT3BMNjUxOGZxR1F4T3RYRkhzUE40S3BVYmtKblFzMEhjUHZzU1ZjeTFLR3R1Q2NrYkNQTjZZV1VncFVRa3JhTzlBTS1EdkJyeURsM0xOLWlmNG9nMXhPOTVKdGdQbUZuLWZ0dHN3OVFCVzIzTXpWWjZodlphR2hmVmNJWkVkYXJwRXpJVWRhZl9aUTFtZngzOXR5Zw?oc=5",
-      "publishedAt": "2026-11-28T04:00:05.000Z",
-      "severity": "info",
-      "titleZh": "话语分析专家佐伊·卡尔：“政治口号绝对有资格变得令人愤慨”",
+      "titleZh": "奥马尔·赛 (Omar Sy) 因针对 SNCF 特工的暴力行为于周一受审",
       "content": null
     },
     {
       "title": "Que faire ce samedi 28 novembre 2026 à Paris ? Nos idées de sorties",
       "source": "Sortir à Paris",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTk1wMko3SWUxbUQ5SXNHQXMxbTZMS3Zib2QxeGc1OEpaN05hWWNiMmN3NlJ0U0pFTk9lbWtQR0dZa3hZc1ExYzFxM0RKOHY1Z0lsU3U1WHBlYTBKZm11MEZ0elhlQ3Q1TE84bktpaTB4WDNuaTdSbVFxOVowYldNVFdORjFocDFCaHZzTkFyV1pIdTVMTEh2bnNMc1F6SHRNR09XNTd1eFNkY1g5T3ZNRGYtUEhaejkxT2dQRzNmM2otWTlTNlE?oc=5",
-      "publishedAt": "2026-11-28T04:00:00.000Z",
+      "publishedAt": "2026-11-28T16:02:09.000Z",
       "severity": "info",
       "titleZh": "2026 年 11 月 28 日星期六在巴黎可以做什么？我们的郊游想法",
+      "content": null
+    },
+    {
+      "title": "Les seins nus ou le poing levé, elles ont défilé dans les rues de Paris contre les violences faites aux femmes",
+      "source": "Paris Match",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUDllWjBjM25tSUhqR3BkT2RxYVlTSUd1eVJleGNHaXVrT0V0a2l0U3VxRkRLQnlGTEI0Ym1SSFNueTEzRm5oQ3AtMjI1SlpyUjU5N1VBdFVtSXdWa0lzbTNrN0NjSmRadHFQQUhhMXpfTFhnZnNPbmtJUWdmVVF0bDEtR09LQXU1WXpNbzZQaVo0VUFuNTFIZDg2dGQ2VnpMb19LUVRkRHFTSm1HTzNpMWViZWxaNGsyWWRkYURadzUtSC1WMUFTdEJMcjlWRHM0bGNYREVB?oc=5",
+      "publishedAt": "2026-11-28T15:57:59.000Z",
+      "severity": "high",
+      "titleZh": "她们赤裸上身或举起拳头在巴黎街头游行，反对暴力侵害妇女行为",
+      "content": null
+    },
+    {
+      "title": "Manifestation 28 novembre 2026 à Paris : parcours, horaire",
+      "source": "Fondation des Femmes",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeDc4Qk1zTk9TV0E1M3ZabGxiMWpoV0tSdk1SbkZVM3lYTmU2YmlwX0lPbGNYdExVZ3VvMTRULXVMemlrWG1NcHFSdGNYS3d3N1kyeGg4dVpUdUhPU3k1ckNXdThqU2s3d0FCY0RlUEE1YlpGa2gteWdNZWVuM2pKU2FjeHE2QQ?oc=5",
+      "publishedAt": "2026-11-28T15:43:48.000Z",
+      "severity": "medium",
+      "titleZh": "2026 年 11 月 28 日在巴黎举行的示威活动：路线、时间表",
+      "content": null
+    },
+    {
+      "title": "« Quatre jours de grève avant Noël – La CGT et FO réclament des hausses de salaires » -",
+      "source": "Corsica Infurmazione",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVQydXgwT2xXMk91VHJrakZLdGlZM3BQU3I4eHJUekNDbHU4RzZIa0lBMFJmaVM5LWZrb3VXYURhTnAzUjYya1NTOERYNkgtLVlNYWFBdGFjLXhqWHBnTTNTcDR5SzFmOVNBRWhoVGFmNTlQZl9LY3lHMFdvVjZZX05yeDdhd1hRMlgwSjhwQTg2bURiaFRLYmItWGxxdHNtYmdvQkxXZ0JWeUpRN2VCT0xIU01xaVpWWDByTmM1ekRydG82M2tSeA?oc=5",
+      "publishedAt": "2026-11-28T15:35:35.000Z",
+      "severity": "medium",
+      "titleZh": "“圣诞节前四天的罢工——CGT和FO要求增加工资”-",
+      "content": null
+    },
+    {
+      "title": "Mobilisation contre les violences faites aux femmes : deux cortèges à Paris, des manifestations partout en France",
+      "source": "Europe 1",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSExtWVhtQWk0Z3J2SHh4NXZxa2FiTVV1N2g5bzZqSVdOMkZ3NTdVRWVCUkJsekVabVg2cVlYZVlPWV9QSVBrSWVEQlIzNEwxekt4TGFFNkZpcHpOdExNdy16Ym9UWWhOOUZONk9PUk9JU1k5bUhNSm9ZRmZ3MDFyWnhEcWdpZnNpYldpaEMwMkNoZkJrVFRqREpBbU94ZUlSRFdIQllWTldkalM3SDZwaThhc2NkMGhWYjVtcWp3X00wNUpQVkFJN2pEeWdvdUsweE9DV1d6OWFuZ2RJeW1zeGVlUdIB6AFBVV95cUxPS21HR0s5RGhZWnRDTXpzZmRaZDRRNE1NX0taUWxFWG9vblpuUzRiblpWU3BDQlVqUWFEcWNWRjRtekZsQmIyc3UzTDBQTE9aMDUxMkdPZzl2MU9HNWRIQnZrbkxFM1JVbU8xTE9JdWpoRjZyY3ZIa09BdFBza2RuemQwalhUZm43eG51SkpVckVOTDRERkt0ZjdQbVVIVUlPVG9kXzkwNS13SjNfR0FBSldYY0VjWjhEQkFkY1dzdmJNbVhSSm91UGdPQ1gyMGZZb0pyY0dhZ2syNmRfbEp6S1RkaUpQU2FG?oc=5",
+      "publishedAt": "2026-11-28T15:35:00.000Z",
+      "severity": "high",
+      "titleZh": "动员反对暴力侵害妇女行为：巴黎两次游行，法国各地示威",
+      "content": null
+    },
+    {
+      "title": "Protesters against gender-based violence denounce 149 femicides in France",
+      "source": "France 24",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGhiajdCZXZZTEl5bDFHRzcxWWxLdTdfSno2eFdjSEh2dkUyRkZiWG9DdHVHMnQ5THl3aUZEalBaUFdiZkM0dDRUN0tVV2w2dlNpRlNvZU1zYUlpbnZFOG5PWmRpQkg5YXNEX0FKd3BES0lDZngzRENDM2lzbTJOSXZiTUNuVVVySmhfU1JwRUZ4VGlXZUJUVXEzNnVQdFR2Zk40MGMzQzdRalN2Z2JUeUlkZ0g?oc=5",
+      "publishedAt": "2026-11-28T15:22:38.000Z",
+      "severity": "high",
+      "titleZh": "反对性别暴力的抗议者谴责法国 149 名女性被杀事件",
+      "content": null
+    },
+    {
+      "title": "Les syndicats des aéroports de Paris appellent à une grève pour le premier week-end des vacances de Noël",
+      "source": "CNews",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDVVMEt0VlJUOXg0Nl82NEdHUEZCcERVbXRHb2tQYi01WmdSZlVBdF9NZTc4bHJmWHYxNlplV1V3bk5zdm5wVUFNVTh1RXRpWjFxTzV5M2c5ZWV4bExxM2h6ZTNIZEVqSlR2SERlTVljMXlOVFd6SC02a1NsVnFEX1lELWpJUVNQR0l2T3V1aGtRNER6QTc0dGdVXzNNYlU1dUdCcEdaSXJyOGlMSDNtYVEyU3pvdHFsT2lkN9IBwgFBVV95cUxOeFNSck1tWEFSTUZ4Vjd0azBuZ0piUVR6SDQ0amZveXpVMmJyWU83NTFNRWRXTU1QX3FLcmtlN245LXo0Tlk0QTBRQzhJUVVDbUhzT0VFM0dfSmtxN3NtWDRvQ2Vyd1RQV0F3Nk9SQWkwSlktaGM3MmR0eGNjVWIyeUpRNUFBUC1XY0xCTTVsS2xmandwNm5DRlp5ZnZiY0d2T05PM2luUW9QNlNjb1pGS29xZ1N4M1FzbTBPcy1OcDVRUQ?oc=5",
+      "publishedAt": "2026-11-28T14:48:41.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎机场工会呼吁圣诞节假期第一个周末罢工",
+      "content": null
+    },
+    {
+      "title": "Des cortèges à Paris et ailleurs en France contre les violences faites aux femmes",
+      "source": "France 24",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdEFScjZyOVFWdDNuMTNXdzk1OUNIc01hM29NRW00Z29jejFHM1Q1bHlaUEo1YUt1dnBCc2cyVzhXUzRnYXJQTEx1OThJQlZkWHVhNVBoaHJ1QUVsR1BLUjdCS1hBVnkyMS1BUEVIekl5U3ZzVGNVc0FWTnphVldOYS1zOVV3c1djM2owaDN1ZWNyVVJsSFF1WWNibVdtNVpfcmpDemdneFlrVXp0Vm5RcEt0Y1hubDZtMVd3RDdMR0xGcXZzSkphTlNfb3Zvb2RoSnpLcnQyMUxCZGl4?oc=5",
+      "publishedAt": "2026-11-28T14:41:26.000Z",
+      "severity": "high",
+      "titleZh": "巴黎和法国其他地方举行反对暴力侵害妇女行为的游行",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 28 novembre : le cortège arrive place de la Nation à Paris, premières tensions à Marseille",
+      "source": "CNews",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQlFsVzB3NmVQbWdvdm52SW9TTTlBWkh0ZGxJbGxHVkczVnlyZUhLMnlhYXUxem9YeWRxV0ZrQTlrRjNZbTJQcHFNaFB1RE03UnVtMzZXbkRiZ2FYSFRfYVR2SXgybjZRX1lYWEVScG90ckVvSzQ3Z2daM1hJT2dfZ3FtZlZHQzRMR0xsVUpHdFhIdkdMZ29ORUFzOFdENmFTY29VZzVsU1lleGJaOGNuZmI4QWpCU3VJckhZddIBwgFBVV95cUxQcDZacGx0ai1wNmlYdEJ4dVpuLWtSeUpiM0dxTDNnUWNPR1NjRWlXNWJmZ0h2Vk1uRS1NR2cyR2xPQVRPTTVKZE9WRWJCY1hJazc0OXUtekluUmpINWFhTDB2UVBhTzNPeUlCN05Ob3VqU1k2U3NFVjJrMUlUR05VdFp3QUtYTzhFYUpac0pEeXhxRFMyT2M3bTdxSGhKa1BvUWQwQjQzcEExc2dlbHZscmppWkwxSUQtSjNqd21FSTJPUQ?oc=5",
+      "publishedAt": "2026-11-28T14:39:41.000Z",
+      "severity": "medium",
+      "titleZh": "11月28日示威：游行队伍抵达巴黎民族广场，马赛首次出现紧张局势",
+      "content": null
+    },
+    {
+      "title": "Manifestation du 28 novembre : le cortège s'élance de la place de la République à Paris",
+      "source": "CNews",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTR4emNDQVV3S1ZGQW9sVHFqVXNHTFJ2ei1JZXRwdTVCNHBuMzU3bGVlem5fWlZ3VF9ESUw4eExYSHh5RVFTOVhNN2xiU3ZYaFZSdldNNHFkdVVrcGM1ZmM5eHFBOENacVp0YTJidlVGajRpSzByTm1vZzFQQTJOcF9zclU2NzI5dVNGV0czSnZ2NC03b3hZc0M5WnNaTXl3Q0hqS3NZMFpkU0hpbGt2SXJxeXl6Z9IBuwFBVV95cUxNWmhPcmtnSEdYRWNpNlRPTkp4UVlMZnczM1Z1QkJlOUg0Q2RTeUxNclY3TDhsM2ZXVkVnTEtQSjBYWEIwc0Z0VDRiOXJ5aGc2Ym0waDJoOTUxbVEzY1BiNHp5SzBPamtNd2F5dWdEYVVnZGxIYzZyc1FXNDN0RWNpUTV2THVYTHdNMno2VlJ2NzBya3FjZjNsNDVKbnRZUENkTTI3ZDkwMzhuSnJ4MEJKM3hna2t1M2dHSktZ?oc=5",
+      "publishedAt": "2026-11-28T14:28:03.000Z",
+      "severity": "medium",
+      "titleZh": "11月28日示威：游行队伍从巴黎共和广场出发",
+      "content": null
+    },
+    {
+      "title": "Manifestations pour les femmes et contre la vie chère à Paris",
+      "source": "Boursorama",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNjRWNkdrVzhXTGNtQVAycEt5V2VMQURCTHk2QzRHU3FDXzExUlZlZ0daRGtDM1FTRVNFYm1BZ0pyempyWHBSNFJ3TEl1TUVzNEQ4UG5iZXhqRm9tZ1B4VVRwaXpzN0k0RjJQc1BTQWZrbjctbG5mbTVRNlNKVVluckxKYVB6cHEzUXVGUHhTOTRiV1I4NGNvUXI0ZHNVVDl4R0lGaHIwSlRmb3g5ZEhQVmgwNTFneERQeFZUaE1LdER5djlsZUpkT2ZxZ1V1OGJFLU5TU2pfamRHNE5TR3JQejBFQ1V6WldS0gHuAUFVX3lxTE0zTWk0bEtmdVFtNlpLQXFaYVR0cjBjRXl6Vk1jeTMwVTBOV1FlZUhkQ0xlMnJLc0tYTUswUU5EeTNKVWpIaVFwblRJTlpacldZWE1NZEp3RjA3bUhlRGVYODNuZS1BVVpnUjE3NDRGbnJ0bGJkZkNhUUhWbzR4QzlHeExYQi0tc3ZHUTBCVXo5R005ODZIVDhla1RJR0NBaEpCYXdUaF9JM0hIenRFMnlmaE9jaVhwdlBFU09oc1lVZnRiT2ZtRUJqbFAtODYwbnY3VDIzZHpXa2ZndGxqNTJUU1RuMUNrWmRQMDM2LXc?oc=5",
+      "publishedAt": "2026-11-28T14:27:04.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎举行妇女示威活动并反对高生活成本",
+      "content": null
+    },
+    {
+      "title": "Vacances de Noël : \"23 jours pour revenir à la raison\", deux syndicats des aéroports de Paris déposent un préavis de grève le premier week-end des congés",
+      "source": "Centre Presse Aveyron",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQV1EycGR3Q3ZzSFctbXlJWVduN2hpMFRkR0pxLWU5clNwbExVS3loR2V4RHRPVi1VRmJaWGlFRVBEVl9aRVF4NlljOWdSLUlzbFk2UjFiOHo5U2o4QUR3SVA0Nmg1Y1NkV004QnhFeHhYb3dqZVpuZDlNYlY5bU5kMmp5enFBSTFVdnFQVkF5Z0ZSTkZ2U0IwUEgzNmJYVGJpR2VQZUFKc2ZtUkZYOE8yeEFiLXpQa3VlOVplTE9Pd1FYaHRfM2FqMEZyUFFsUWk1WGZGT2hwV3ZTanFJVGQ4aHhtR3JJUGRtLWJrc2Fya09mUXc0VF85UmdrTlJva210QU9naVExbkV6X3VlOW1Ra0R1d0lEei1IUmxOOTQwU3BGZmNnb2NFQlhlRFByOFR6?oc=5",
+      "publishedAt": "2026-11-28T14:18:00.000Z",
+      "severity": "medium",
+      "titleZh": "圣诞节假期：“23天我们清醒过来”，两个巴黎机场工会在第一个假期周末发出罢工通知",
+      "content": null
+    },
+    {
+      "title": "France-Manifestations pour les femmes et contre la vie chère à Paris",
+      "source": "Zonebourse Suisse",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemdHRVhKYUQ4UUYteHlxYnRoLUVDRERSMmFCQ2dYWTM3SzA4S0JFT1R1RU1tWFZWUHhYRzRucVVua05JRlU5S0ZhQ0FJd1g4cGM4bVBhUG9aaGxfaUdtdHpnSTZobXlTcTBlSFhZYW1DRnN1dHR3TFNaNTgxbW1HcnI5alpxX0xtcEhrbW1NNk1ESV9FcFRaSW0wVzRLeEhJNEM5N1pZMmdpRmI5TzhUbWJranN5VnZ0WElhc3lfOVdXQTFuTG04?oc=5",
+      "publishedAt": "2026-11-28T14:08:13.000Z",
+      "severity": "medium",
+      "titleZh": "法国——为妇女抗议巴黎高生活成本的示威活动",
+      "content": null
+    },
+    {
+      "title": "Nouvelle journée de mobilisation samedi en France contre les violences faites aux femmes",
+      "source": "Le Devoir",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTXcydVpuWWsyTVZwSE5YOE43cHRJLTJOYng2Q0N1aHpybHA2QVpoM21oWmJCSldzVGl4cW5zRGRwQlcyOTA3bmx6MGdaNWRybG9GaGF2SU42TWlHRzZDZUNfSlF3Qkp5NHRfMFZNS3o0OG03NndaVWpWSFJfdklsOGxldUhCazZDbG03OWV2QzBrcWhyazhWTXNYRHk3ZXVUamo2cVFGYkxYZ2ZRVHdVb2lQYy01VXlHMC0ycA?oc=5",
+      "publishedAt": "2026-11-28T14:01:56.000Z",
+      "severity": "high",
+      "titleZh": "周六法国新一天反对暴力侵害妇女行为动员",
+      "content": null
+    },
+    {
+      "title": "Aéroports de Paris : deux syndicats menacent d'une grève pour les vacances de Noël",
+      "source": "Les Echos",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY2JXeWNfVUg1RUZ1NkM3cUNsZEdUaVdlbTBZdXFUOFpXeUozNC1HcWY4VE5IVl9MbGMxVUgtMzJnRnQwd0NHQldfS1gxcXVxU2hWUjJTMTNqSUhMYVNOY1Bmc0p0MnhLNDJJWFc3Q1haUWdITzAzUFpEclViWkpxTjJib2JHQU9yZnFXaUxJczVyYktaS1RlbTVNdXZfaXc0YmlfMmNmZWZaaVRNUFZfcUVtcjdVX1hQSVRzOTRySnp6eW4tSE8xM1d2UmxaTVdFTG13VWdPY255V2hkQTBhVk5EMA?oc=5",
+      "publishedAt": "2026-11-28T13:43:56.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎机场：两个工会威胁圣诞假期罢工",
+      "content": null
+    },
+    {
+      "title": "Aéroports de Paris : la CGT et Force ouvrière déposent un préavis de grève pour le début des vacances de Noël",
+      "source": "Sud Ouest",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNS3RMRE1xUHhyXzJtT09zcDYxZEJOSm82c3NxMl9LRHhRRm9uNjJ6TVJIS0llQVNiUzFKU0QzUENLVzR6V3ZybzFFWDFGU3l6Nms0REE2UWZ2dlFSZDlTSGtYYU5LcTgxOE5DUHZ6R01KdnNOaVg5US1yOUVvRWV6LWlldklhQ09ZY1hScEwzOXVMMk55a0Fzd2E2UFFCM3VIZTlWQm5rb0RsSzVjVTMycFRmRFVINFA1Q2NueXV0YktXWnI2RnVvbzQ4YUZXcENXeVU4NnpuNjNlUkNZMExZVzBlUHpuVDNq?oc=5",
+      "publishedAt": "2026-11-28T13:42:45.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎机场：CGT 和 Force Ouvrière 为圣诞节假期开始提交罢工通知",
+      "content": null
+    },
+    {
+      "title": "Canon français à Biarritz, manifestation et rempart humain : que risquent les manifestants qui bloquent l’accès à un banquet",
+      "source": "Hassan KOHEN",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0p6M2QtNXVSUFBCQ21SMWtmaWVPWGlObU9nSmRaSFNnMERFbmFGYWc2SVVCSkJiNHdJclhJdzdRMTlBc3g0STlOQUoxRnNfTjFESzJmSE05ZGV3RGxYRElTVk1fS0ZDSzRpZHNNSWVQYkVPQTJSbVNYd0hvVTJCUTNweUZGVFNZazR4VXR4OGdJZlFoUlJWMFdyN1dfVlJRdlhZZ0Fabnc5dFFRb2UzbkZ3R3piTlpwbHc?oc=5",
+      "publishedAt": "2026-11-28T13:35:00.000Z",
+      "severity": "medium",
+      "titleZh": "比亚里茨的法国大炮、示威和人墙：阻止宴会进入的示威者会面临什么风险",
+      "content": null
+    },
+    {
+      "title": "Educators’ Fightback hears from a student activist in Paris",
+      "source": "Workers' Liberty",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTmp2eHlWdmpDOG96ZWpQRzUxX3JKYklHTkJjaWx0LU84MlpJVmNxSW1xNUhVWGEySS1kU2lpTThCZFU4N3BTX3NVWElCUy0xNF9HOFRBZU9qajlRMjg2bjB3TWJTM3BJSkxCRl9WRW9JVFRsZnpxbWdIa3JQZWt1T0UxWFJDa2ZDNms2OTRDR2xDeklmU08wU2dfLVRJeTVzM1FXYzdGemoxUlc4MnlmSlJPaXhINUk?oc=5",
+      "publishedAt": "2026-11-28T13:20:09.000Z",
+      "severity": "info",
+      "titleZh": "教育工作者的反击听取了巴黎一名学生活动家的说法",
       "content": null
     },
     {
       "title": "Manifestations du samedi 28 novembre 2026 : la carte des marches et des gilets jaunes, villes, lieux et horaires",
       "source": "Les Voitures",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdHVNbXE1bFdYcWliNWJkSE0yR0RKYmJNRXQ1cDVWZmNvT1JLUlpDUVp5U2xIV3hiWlpHRjN1cXRScEdjMzZrV3dlVzFjX0ZUZnJNMjYtN0NRaVZK?oc=5",
-      "publishedAt": "2026-11-28T03:37:39.000Z",
+      "publishedAt": "2026-11-28T13:19:36.000Z",
       "severity": "medium",
       "titleZh": "2026 年 11 月 28 日星期六示威：游行和黄背心地图、城市、地点和时间",
       "content": null
     },
     {
-      "title": "Evènements de mai 1968 : rushes",
-      "source": "ina.fr",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTFEeVVBYnlzanFsbEpLcWhyLWVRV2VuNG53elRWUnNrX0FXWXFGWDVnVDZKdzlWdEtOYzdURzdwMTBwTmZpdTA3a181c3g2YXBXaEVBVER1LURVbXdpZnZEQnF4WjEtdlNzNEFzTFd6VXgyMWNTRE4tWUdfcW9iNWJXS0RjOTh1?oc=5",
-      "publishedAt": "2026-11-28T02:29:45.000Z",
-      "severity": "info",
-      "titleZh": "1968 年 5 月事件：匆忙",
+      "title": "\"Il y a encore beaucoup de choses à faire\": nouvelle journée de mobilisation ce samedi au nom de la lutte contre les violences faites aux femmes",
+      "source": "BFM",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOX19keDFfd3IyMk9HbnlmQVliMUdaSHRkSThDd3ZBTDhCNTBpSEVRaDJ2dVlsZWZsdm9JdlQwQld3My05WjRtbTN5a0RsWHZzNHliN0JveUZqUGJfRFpaYnZfY3FmVmZUYVVBRktvZFVzU2t2U29zV3pNTHFhRDdsVmk0bUFicGRzX2V1YzZRd2xsWmNXaDBlRWtLTkRrbmk1TEVvaTM1RmZyVjAzXzFWVHpZMkZSWUswWktaSGRsLUFQUDZpZG5EdjBCNzhONUlvNHd5bV9iVlVzSW5jZ3FrOFluVnBINXlNb2VRbFV3aHV2cjlSdnljV0wzZGcxRUZveGFUYzBpZTgtLXRfZFlkUVhET1RrRDU4U2hneHpsU2dIclBEWlBNUTcyR2ZBYXMy?oc=5",
+      "publishedAt": "2026-11-28T13:14:47.000Z",
+      "severity": "high",
+      "titleZh": "“还有很多事情要做”：本周六以打击暴力侵害妇女行为的名义进行新的动员",
       "content": null
     },
     {
-      "title": "Parution d'Iqra n°130 : 'Affection et miséricorde'",
-      "source": "Grande Mosquée de Paris",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFBzTXEyXzVtamJBSzRRbk5Mc1E3akFZUy1MVnVEQ0YxQkxMSm5BczhQWUZIYU9OOUl3M2l5WHNzMlMzQnB1V092MWNOTkhvdjEzRndrX0ZJTmpLbGhOUEdKb0lZdUdLYncwRGhSYjR6RFFXc3lBU2dPdGdxVXRXOFdFYy0yek1RZjdTYTFfcDd4RDNOQ19UcTI5MG1zX3c?oc=5",
-      "publishedAt": "2026-11-28T02:23:30.000Z",
-      "severity": "info",
-      "titleZh": "《Iqra n°130》的出版：《慈爱与怜悯》",
+      "title": "Des milliers de personnes présentes place de la République à Paris pour une manifestation contre les violences faites aux femmes à l'appel du collectif Nous Toutes",
+      "source": "Orange Actualités",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNUHVNRjRzWVduam03d00yT0hwZ1phNUtoUkNNdnlVLVFFMllZeXBEczZMMWtiUWxlOWJiNFJCNGxuQjNKX2hQQkFKdHJfXy00TE1ucUNxNVFRbDRyZGdGUU9TOXFtQnc2dml6eGh1S3ZJQzVBTFN3cXMzdGNRNHNWVzh1S2NLR0hzVDR2LVd3YWpMMS12YjJPVnZscF9OXy1qaE9IeEh0ZU1MLS10dTN5NzRRSjJQOGoyalJ4aVFRTW16cmMtVGpXd3ZNdUJSRF9iRTRSa0pFa252amZSQlFXUkRXRThEaDBKUmpvenR0TjhURVNqajc5aVZkZFltcFJycXhJaTlhTnQxNThLdWt6MjlYX0hkaHBxZkhkOW5Kb3p1M1JoNE90aGtQYkk3WnplUVlJQ3hpN29yVGJpYVpLS1ZsVQ?oc=5",
+      "publishedAt": "2026-11-28T13:12:43.000Z",
+      "severity": "high",
+      "titleZh": "在“Nous Tous”集体的号召下，数千人在巴黎共和国广场举行反对暴力侵害妇女行为的示威活动",
       "content": null
     },
     {
-      "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
-      "source": "Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZXlsXzZPdTZZYm41YkQ1VVBRMmcxQzlfakhDVmU2cFUwbzRhVjRfajhvcHJjcndFdk1UTTBQbDMtMktQaEZuX0ZhZnZGZTY2NmNsZE9CSlV4eE51YVJGYy1QZzlTVmV0Z2E3amZ1elYwcVYwaEt2Mm1xMmJMd1J1R3pOaXM3VGtCelNmQUZKSHUxUjVfdTE4eGt5TXFONkc4UUtSdHNlYWLSAa4BQVVfeXFMTkYzczhrdFBUSFk2dlhBdXpsQTEzZU9md201cEtKbkxUOTRPaFR2U0lhYkY4T3ZUb1FTS1Q5THMzMTlVYkF3UFltMXVjU1V0dC01X0taYkJkVExBZ3h3MEJWNDY1LXpCQkdxOXh4Um9xVmxFdEhrNjlkVm41M2hNNkdKek5hV2dJdlRPcUViWGk2X25lenprNG1Ja0IxcU5tM1BHdFVWbVk2RDhneDBn?oc=5",
-      "publishedAt": "2026-11-28T01:08:51.000Z",
+      "title": "Vacances de Noël : un préavis de grève déposé par deux syndicats d’Aéroports de Paris pourrait perturber les vols du 17 au 20 décembre",
+      "source": "Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNYjd6a2doNGIySFJLR0NuRmV6M2lNZ0ZiZGR5cExXZy02THF4YTNYZTZjNmRkVWYwcGFGV3B6MGZTWm9XcXI2LWJ4RlBEZl9GakJDQW5oTnRLVU4wd1RkSlhSQWI5WDhoc1UyU01zWGlYOXVieFpoRi0tNkMtOTBNTG1qalA0ZS1RR1ZEblI2dVZnakFNSXg1ZThqd2RIb2hxNDV2XzNIVnhiMG9rUjJHbEVUNUxnWkNEOUU3UXNDZXpYSHhKQ0E3T0MxamFpQXVFVWNQeWRfazZTc3VIMU9uRV8yRG1tOXFqRTBMMWg2ZVVzUEhlcGZVeGh2SUxEb0dGUkhzZlhJakdRUUlEdHpDZHhFOEpnMmJMS0hLMHhzQi1tSkRQRHFVbzFtZGZVeFYyYUhRWUx3?oc=5",
+      "publishedAt": "2026-11-28T13:07:46.000Z",
       "severity": "medium",
-      "titleZh": "数千波多黎各人参加“全国愤怒日”抗议活动",
+      "titleZh": "圣诞节假期：巴黎机场两个工会提交的罢工通知可能会中断 12 月 17 日至 20 日的航班",
       "content": null
     },
     {
-      "title": "The Sudden Appearance of 'Black-Clad Groups' During Protests? The Real Reason Behind Violent Demonstrations in France / SBS / AFTER 8 SPECIAL / By Kwon Yeongin in Paris",
-      "source": "SBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wNEFnMGNSZFRDeWJuLU01VEdRSjBzRU55UW45SnhkSzVFNXpxZVRTaDNSaVI3bGdXU01QQmRyVmFtTUxnR0toN1pJS2RIQkwycHV2RVVaNV8wc2FxM2pZT2UxX2xWblpYb21URnB30gFmQVVfeXFMT1dFcmNDTnBvXzVMbTdFZS1UYllwRWxPQ0pqYjhOVjcwWi1BVmhGXzlfQXNfNExPckplZEtST2h1ZW1vZWluYzA5NGdTX3FRWDl5bEMwMHdjc3JrTHhMOElycFpPbGlB?oc=5",
-      "publishedAt": "2026-11-28T00:01:59.000Z",
+      "title": "Menace de grève aux aéroports de Paris au début des vacances de Noël",
+      "source": "lanouvellerepublique.fr",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWNyQWk3ZXFGNkk5RVNyenc5a3lnUUcwUE1OTzJJZng5bjJMUGI3bnB3YUtLNk1mRVdzWktRSnRqY1BSa2pjRWFrbzdVcnpkdVZrOGhCTXE3M2FyMWk1MUppQzF3TUJISzR6Zi1NRHdzUWJHM2MwNzJrcm9LSHE4Tk1haTg3ZEgtWlJMbHpJdFI5T3BqTEt0R0RFZnM3WlFBMkNabVR4MFBUSGpiSlJjU3g3ZFA2ZGZIRFNzeEFHMVlpZw?oc=5",
+      "publishedAt": "2026-11-28T12:59:00.000Z",
       "severity": "medium",
-      "titleZh": "抗议期间突然出现“黑衣团体”？法国暴力示威背后的真正原因 / SBS / AFTER 8 SPECIAL / 权英仁 巴黎",
-      "content": null
-    },
-    {
-      "title": "French Activists Demand Tear Gas Ban Over Reproductive Health Fears",
-      "source": "cwibc.co.id",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFMmZqUWlIWktKdU5ydTl2WGVETTFJbTlkRW1WaG9WZWpxUGlZYnFyV0tjX1lzZXNvTGRFaFJreE05R0JEak5yOUd2UzJPZWNKRjI3YUJOb3FmZmVMcEE?oc=5",
-      "publishedAt": "2026-11-27T23:32:00.000Z",
-      "severity": "info",
-      "titleZh": "法国活动人士因担心生殖健康而要求禁止使用催泪瓦斯",
-      "content": null
-    },
-    {
-      "title": "French Activists Demand Tear Gas Ban Over Reproductive Health Concerns",
-      "source": "Demokratis.co.id",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hYjQzdTBRdTR0TVZxbzgzNWphdHNvYjdKM0owMFJJbHQ2RjBGeFlTcXJoODJuUmZHMkhRYmNOczFvWEhBclR3UUJwbnZiUThTaXFIajhLLVJYUW1aMXFReWNTUmU?oc=5",
-      "publishedAt": "2026-11-27T23:28:00.000Z",
-      "severity": "info",
-      "titleZh": "法国活动人士因生殖健康问题要求禁止使用催泪瓦斯",
+      "titleZh": "圣诞节假期开始时巴黎机场威胁罢工",
       "content": null
     },
     {
       "title": "Ouvertures et grands événements attendus en 2026 à Paris et en Ile-de-France : l'agenda de l'année",
       "source": "Sortir à Paris",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmRfblllM0Q0VkZXUGExbEVqQWNudjNqa2hnd1BVc3RhZTViRFhPUHIxUDFhbV9udlBTLWtNYnYteEpMa05yWWtGUFNETE5CcjBLT19RTmNJWGUzM1RIaTV3OWhiV1FtOV9ieTRReWtiNnlYMGdCa1hBNGdfYXY5cGNVaTNsT3hkTU9mRGJ6XzhqT1QzSFdpeVB4QjdkQVRuaEd3cmF6VThEaVZTNWg4NXF5ZmwyZVlkNzdEU0lXZVdfUGR2Vm5mQkZScWREQQ?oc=5",
-      "publishedAt": "2026-11-27T23:15:45.000Z",
+      "publishedAt": "2026-11-28T12:52:48.000Z",
       "severity": "info",
       "titleZh": "预计 2026 年在巴���和法兰西岛举行的开幕活动和重大活动：今年的议程",
       "content": null
     },
     {
-      "title": "French Protesters Report Menstrual and Pregnancy Complications After Tear Gas Exposure",
-      "source": "SSBCrack",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmRPeksxcWpmVzFXSjR0OEJnLThGXzRIV0VSTkl0NlNzd2lQMFNfSDVBVTM1cVhOektOTjlUMHlLSHRnZ0FkdUZXQzBweGhnaTJvSExtdy1GOUlFOHBsbVVaa1Z0OV91eWtWNk9LdVQ2MEIyMENlNDhKN2tmaEliU1puYktHaTlEUEZTSmU0UjlMNTlNSTFvbUs4ajh2NTM5ZzFhc293ZjVXWi1vbzdtLUd1SQ?oc=5",
-      "publishedAt": "2026-11-27T23:05:23.000Z",
+      "title": "France : une grève annoncée dans les aéroports parisiens à l’approche des fêtes de fin d’année",
+      "source": "Medi1 News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiMHBZLUFHTEN2VUViSldOU2R6WFZrTDRXV05WWTYtbWZ2MkFOUTZydmZzQS1oR3kyX0p6dm1IREhObnVfcjNnZUFGSjVNOVgybDVodWRDNA?oc=5",
+      "publishedAt": "2026-11-28T12:46:00.000Z",
       "severity": "medium",
-      "titleZh": "法国抗议者报告在接触催泪瓦斯后出现月经和怀孕并发症",
+      "titleZh": "法国：年底假期临近，巴黎机场宣布罢工",
       "content": null
     },
     {
-      "title": "La Bulgarie dénonce une violence \"inadmissible\" après les affrontements à Marseille",
-      "source": "Flashscore.fr",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHVYWktaMWRScWcxQ1VReUdGUXJiSzdWcE9qNmpORDRDMU9JQm81a3RxYjVxbWhmVkFRZjZnV0doSWJmSllnMEFSMElsRnctWDJueHA1Wmxjb184WXo3bFhEVkNXVDVnZTFPUEM5OHJ1N3JuRUVXNnpycHZPQmQtTDByZG1CeDVBek9nRVJwUlNqdzhXQktvQjhvQzU2Q2J0cXpvV0tkZkViSy1ndHd6UUZmS0FzZV9VclJZODF5YW9OVEUwWDhZ?oc=5",
-      "publishedAt": "2026-11-27T22:25:36.000Z",
+      "title": "Aéroports de Paris : un préavis de grève déposé au début des vacances de Noël",
+      "source": "Libération",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM0ktc3JjUWtUbDhIanBPX1dSZnRzQmhMNzJSR1NIZHZSWFR5djU4aHBTdHJlUmpqZ19BdDhfZ3FuekFYbUtOMTEzbDFEdzlyd2U2Y2J0dmhFcGZiRktnMkhUUnJIeTRiT25rZFNuNG1VeDFHOHE1a2RfX1V0SE15cGRSUWlJXzl0SUwzUTBSRVhyWF9jc1oySUpPU2Rfd1N4dW04cV9jM25vdHY4TGVseFdKZEktOEo1X2hEQXpTOHFnVGF1MDVWM05QTFMxMkdwb2h0QjVMSGxrTjFjUWNMcFotX3R0cC03SFE?oc=5",
+      "publishedAt": "2026-11-28T12:45:00.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎机场：圣诞节假期开始时提交罢工通知",
+      "content": null
+    },
+    {
+      "title": "Aéroports de Paris : la CGT et FO appellent à la grève lors du premier week-end des vacances de Noël",
+      "source": "Zinfos974",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ0JYZVVFYktuTDZoTVFQZ0Y3RWhGYS12MkVSLTJvZ0YwbnlteUoteHROd0MtalA3UnBpaXM4SzJPdHcycW5zdTdLN1VtM2MzNVFIZ09uOHNWM1lUMUk1ODVQVUFYRDc5TGZWQnpyWFc2VWZmc01MNzNvbkoyNjY3eWRXbl8weEtLelkzR0NaUjJ2dUU4S2ZtcEM3cGlWMTVSZGE0TW02Z0VEa1dxaks3cDdNWFVLTEgxdlpLUE1YMTdSMjQ?oc=5",
+      "publishedAt": "2026-11-28T12:33:29.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎机场：CGT 和 FO 呼吁在圣诞假期第一个周末举行罢工",
+      "content": null
+    },
+    {
+      "title": "Les syndicats des aéroports de Paris menacent de faire grève en décembre",
+      "source": "La Libre.be",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcldKSFB4bEtLTmhheXNPdTdMOGdCYVNCYjVWeGMtRGxENXFFbWM5dGJ1eHliTXhpTE91amEyd3E2NVU2djFBSEhDdmU1dU1CR1UzeFNJbGE3LTEzSVFDMm1yTUtmWjdia3d2cjdZUDk3LTdFOXBBSUNMTkpxcC1oV3BENUJ4LURrc1hMS0F6X0s1WE9DXzZzeHNQemhqOFBLTzNwdHFlenNidG9qbzFmQVJybW5YYUtoa0NPT0pmY0x0RTJGMGRQUUpmSkNDNDFPa3A1THdvcGY0ZTNSMXcwU1h3RQ?oc=5",
+      "publishedAt": "2026-11-28T12:31:00.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎机场工会威胁十二月罢工",
+      "content": null
+    },
+    {
+      "title": "\"23 jours pour revenir à la raison\" : des syndicats d'Aéroports de Paris menacent d'une grève pour le premier weekend des vacances de Noël",
+      "source": "RTL",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVW85bl9hNTMzZkh0cVZPSnoyRFNuNDNBaHVIQnJ6cG5lZ2laYjIzZ3Bvd2lieUthMkVOcUc1RU5MQjZPR2ZGSVMzSjBXS3hQNmJybGdGY0kwNmdwOUtJV3p3cXQwMk4yS1NxZDZmZU1xR25UMjRkenVTVFRJbW1nR2dQMnR0Rl9OQURqLXdfeHVwYWlQUFJSWHk1UmMzT0lWQm5GWlZpbU81cjJ6QUpJVVhhUGJwbmlMZnVQV0wtSFdRdHJJZU1xcWlicVNMb0QwSVRXdlhVUHRiU19SYm53NHR3QXB2OUF2ZGstTXJzTU03SWJfT2Z3ei11VVhwS2NHYlhOWmZKMDhDQnhNckVPdVJn?oc=5",
+      "publishedAt": "2026-11-28T12:06:33.000Z",
+      "severity": "medium",
+      "titleZh": "“23天我们清醒过来”：巴黎机场工会威胁在圣诞节假期的第一个周末举行罢工",
+      "content": null
+    },
+    {
+      "title": "Aéroports de Paris : deux syndicats appellent à la grève pour le premier week-end des vacances de Noël",
+      "source": "Outre-mer La 1ère",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdTJZdGtUYUVQMnUtbmJHRVdLVV92MTFGSlpCeXQ3UEV0UjZlc0VaWld0QmRxQjJxNGFSMXIxT1NsZFlIVnBzb0MwRFpTTlhJMWtKcXZxUVMxQ1NiOFY5TE82dVM3YTNwd3l6SFExZkhPS2l1LWw5enFEekUwWmdLU3hsVXlza3c5VUdlUlM1dml3X3BJblNRVDlzV19NWGM4ckdnVEluUFAzQ1QzazJQTExMRWlXbzdfRnNxekhkcHhLaF9Kdmo5WkRPVVd3SllFZlhqVC1DRUtiQQ?oc=5",
+      "publishedAt": "2026-11-28T12:03:38.000Z",
+      "severity": "medium",
+      "titleZh": "巴黎机场：两个工会呼吁圣诞假期第一个周末举行罢工",
+      "content": null
+    },
+    {
+      "title": "Violences faites aux femmes, note de la France, Morbihannais à Paris : le point à la mi-journée",
+      "source": "Le Télégramme",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMFhTV3dfSEd0Y3lpaFBWSUJ2alk4Z1ktbVB5SVB6OWxDeHRPWGRCV2dncVJYMnlYMVhGYXh6UDhFTkItc0d2YmUwb2VtTjhDNV9LaGdtRnU3TEtzcnlFYVpJSy15U0h4dm5Vek93bVZQeXVGcW9IZkVfVzhsUTh2SDB2amcwVHFqYlo4U2VaMWdNcEkwa1RaLVBiMGdBR0x3bllmS2VQVjFseG0ySkY2ekNHSU0zYlllTk5vQlB0MmFNY29ZUlc0QW1sWUNkQ0g1aHNjVg?oc=5",
+      "publishedAt": "2026-11-28T12:00:32.000Z",
       "severity": "high",
-      "titleZh": "保加利亚谴责马赛冲突后“不可接受”的暴力行为",
+      "titleZh": "针对妇女的暴力行为，来自法国、巴黎莫尔比汉内的说明：中午更新",
       "content": null
     },
     {
-      "title": "Hatred Of Israel In Disguise: Who Funds Europe’s Violent Protests?",
-      "source": "i24NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnBTMEc1NTNoYWxEVlpTS2RSNVRYY0czdzlLSW50TXgtRUp4cnA5ZjE1aEUzWXpYWmJCTWRxaVZnbXZTZElwUVRSeUlMaVVuYVFpc3N3VEpXeDhVYlZlMVJCWmQ3TmJ6V0txVmFvRjRjYU5NbTdCdGkwSjdEMkkzb21rOXMwZU9fWmd3emkzeklRWWcxR19pckJBVllZZnFYTU12dG1xTDVHTlFPQ19hN3pxeUpyTjdu?oc=5",
-      "publishedAt": "2026-11-27T22:06:43.000Z",
+      "title": "Préavis de grève dans les aéroports de Paris juste avant Noël",
+      "source": "20 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOWtxVmFrNVR1U1d4ejg2ZmtwN19xMlhDUm1uWng3eVVsVWlrQWEtQzFWQ2dnRVRESUNvbWRESnZVc1BMZHNQcWhBZXBRV3NSSDZQUGpnam9GdkJVU2M0OE85TF9kVTVUQWxnVnhJQlNEYkhLeFNYWVJKMnFtdU83TUVGaXQ5Q1FlY3NrWWx6b1lZMDlNcFZjZ0V5VFdvMkhGWU11UVFNbTg?oc=5",
+      "publishedAt": "2026-11-28T11:29:00.000Z",
       "severity": "medium",
-      "titleZh": "对以色列的仇恨：谁资助欧洲的暴力抗议？",
-      "content": null
-    },
-    {
-      "title": "Grève Tour Eiffel : le BAPS au cœur de la polémique à Paris",
-      "source": "horticulture-abadie-pyrenees.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQemRTMXVuY1FLYWdkZG44dnJMV3Bvdzl0bkd0MC1MWllTeEF0YkxtLWNRX044Z2JKTG16RnhsRFY3MkZTUG5xb2ZDb3NQR2lUZzQ3bVZIakkySndqR2Zabl83TEVraVRiMlVNaDN1QWlMbXAyZ1JUVWpJNmZVcWNhLWRB?oc=5",
-      "publishedAt": "2026-11-27T21:59:46.000Z",
-      "severity": "medium",
-      "titleZh": "埃菲尔铁塔罢工：BAPS 是巴黎争议的核心",
-      "content": null
-    },
-    {
-      "title": "Grève des contrôleurs aériens : jet privé interdit par NOTAM, qui rembourse le vol et peut-on contester",
-      "source": "Hassan KOHEN",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd3ZnTTJJTjg0THhIN3VrRms3Vm55T3VOYW5BbnRVWHRTeFpwTm5SSEhmUkJZZkVZb3VhLXFGN0RYTjhUcWNjY2dPMU5iZi1fR2ZQQnpUdWxheHBrRlRDMUNGZ0xoRFB6VGRHOGk0dmE0aXRuQWI0Nkl0Nmx6YlBHWXBQeWZ1ZHVBdERzRE54QjNNRDNUak9SYVJUWVU?oc=5",
-      "publishedAt": "2026-11-27T20:21:00.000Z",
-      "severity": "medium",
-      "titleZh": "空中交通管制员罢工：私人飞机被NOTAM禁止，谁报销飞行费用，我们可以提出异议吗",
-      "content": null
-    },
-    {
-      "title": "Deux cortèges pour une même cause : les féministes manifestent en ordre dispersé à Paris",
-      "source": "Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeVMyOS1HWHE0SU02TFREVWlkdldBdlJUXzBCUXd3Y1FzQ3ZGbnhwVVlQaTdkVUZWb0tvUlpuSTJhT0VVU2hrNklLNDFaWDUtZWRWUTdGX0QwZjE0ZlJSbzVjOUJjMjU4eV9YYlgza0lxeUJ4V0NVbDgwQXptZktNdWRLU1RtWXR1RHpubUFJa0J2UHhPN0dEaHJlQnM2RGJmOWlHRGJac1FlSktaSDdfbDZFbmVuTjVQQ2poN3dSMUdMWUhRaXVFd1BBc1lvYkZLMDMzd19lT2dzWjlLVlZ3NkVEMENDeTdvMTdVdWxBOA?oc=5",
-      "publishedAt": "2026-11-27T20:15:01.000Z",
-      "severity": "info",
-      "titleZh": "同一目标的两场游行：女权主义者在巴黎零散地游行",
-      "content": null
-    },
-    {
-      "title": "Grenade en manifestation : comment prouver l’origine de la blessure si la plainte est classée sans suite",
-      "source": "Hassan KOHEN",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlkxNm5JdTJsa2ItSXVEb010MWV5WURqZElOdzllZHpRSDZNZHVVTnRqZ1VzbmhyeklMVzNpUjNlWFNXS29saXJtZ0VtSXF3MmRQNndSb1pqQXhmdENxQ21tR01vLVhiR2x6RVJ1Q2FFZ2Y4VjF1NEVYTDF3WU12cFE5RVVFaEg0LTBQbWhjSTdFQ3YzNXBOTndR?oc=5",
-      "publishedAt": "2026-11-27T19:19:00.000Z",
-      "severity": "medium",
-      "titleZh": "格林纳达示威：投诉被驳回如何证明伤害来源",
-      "content": null
-    },
-    {
-      "title": "Défi entre amis à la Jackass : la victime était d'accord, est-ce quand même des violences, et que risquent l'auteur et ceux qui filment ? (2026)",
-      "source": "Hassan KOHEN",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlFGd0VyWExnUXJOVlBicTExWkRiTEIwci00X1JvdkpxQTU4STFCTy1MeWJISzQyTDdySTFjajJfYW83cEhzSHVuWDhLNFFGanRicTZzczZLT0tpRUkyN1R2RndNWHNSemhsaXUwY0pVT0NzSFpqVm5UMnVsaG9MNEh5N2JzbnFDaDlKMUFTTUpjdGdsdlBLaXZCdTF4QWpBVjd0bWtJc1lkZ0Vobl9NRkpwRVBDMUV4b0g0cUQ2QXhOdzU0cldPTg?oc=5",
-      "publishedAt": "2026-11-27T18:56:00.000Z",
-      "severity": "high",
-      "titleZh": "朋友之间的傻瓜式挑战：受害者同意了，这还是暴力吗？施暴者和拍摄者到底是什么？ (2026)",
+      "titleZh": "巴黎机场圣诞节前罢工通知",
       "content": null
     },
     {
       "title": "Grève à l’Opéra de Paris : Turandot et La Clémence de Titus annulées",
       "source": "Forum Opéra",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlpTQkR2TU1STzdkRGtNTUtaaksyTHZ5aGwzcWNxR1ctN0MyLTRVeWVmUWF5b0d4NlFnd20teUZRMUtHSXU3TEJ6b3I5UHE4NDJHUFR0VjJsSVVUZmVrZFl2MEZzemh2ZFVVaEdaVW14QUVPQTBCWmJ4S1dnMFd0MG53OEpvX3FlaEM4eGFFd1ZleHJGTUF5enNXMTZhSFNY?oc=5",
-      "publishedAt": "2026-11-27T18:45:43.000Z",
+      "publishedAt": "2026-11-28T11:28:37.000Z",
       "severity": "medium",
-      "titleZh": "巴黎歌剧院罢工：《图兰朵》和《提图斯的克莱门斯》被取消",
+      "titleZh": "巴黎歌剧院���工：《图兰朵》和《提图斯的克莱门斯》被取消",
       "content": null
     },
     {
-      "title": "Au procès d'Émilie König, les experts s'interrogent sur son rapport actuel à l'idéologie islamiste",
+      "title": "Grève à Roissy et Orly : des préavis déposés pour le premier week-end des vacances de Noël",
+      "source": "Linternaute.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb0hROHhRejZWb3lzaTBUcHFteVpuUkxfNnRDTzhpQWk2UENjckgxQkJwYlFIOHMyektkaE1oRUxCOFAzUUl5alA1d3I1bXRJV1VvVGg1cUZYOEdTWlVSMDd2RDZBbHJ1TXdjNHB0SWFiMkpyTVJLZlFvZnZBTk1NSi1oRFRob0ZtNi1QNThRcHpNOEZwX05NdlkyUXNZZC14VEFGamdXNkFTdEswZnRjdldRQXlwUWVkUmpwV25CSGpPYUlfVmxpeWhCM1ZIWGphd01zQjhhcE9Xb29X?oc=5",
+      "publishedAt": "2026-11-28T11:17:11.000Z",
+      "severity": "medium",
+      "titleZh": "鲁瓦西和奥利罢工：圣诞节假期第一个周末的通知",
+      "content": null
+    },
+    {
+      "title": "Préavis de grève dans les aéroports de Paris : «Le droit de grève n’est pas absolu», rappelle un auditeur",
       "source": "Europe 1",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUlJUZkRTb1ptMWMyblhwcnp2QnVUVjV0WlRQRTA5U1VtUHdOSE8wcWRoZTUwWGJoaVVJZlhvWnJJV05zWmd3ZEZtSlBRN0pkczFvdUtMVURjWHFScjEzZXlVU1hZYk9yNWt6UzZVdlo2OFdOYUJPc3RmdS1WeTJ6QWJreXNmUmhrT2FfWEdicW83RkFsWUFuUWJwUW82bUcwWFg5bDRSQjZPYWRrYVpuQWQ4bXpGdnJKU3JZRW0xTm5XOHN2QUJ4ZU1NaHluTGFPekFVYTE5QdIB3AFBVV95cUxQczIwWGprd1E1UXN3UmFGeGU0RjlDekNXenZ0RE5tdUE0MDZQR19jVnAxNmJuNU9SZjZab0RWZEVUU2c2NURVVXdqakFTa2g2RGNuaWdwZVBRWm8yTWstZzd0eGx2aS1BN1lfeVdvck1qLTZERnl1Z0thVk9IUmNaNTJwRHlXYTA5dGxoS3dDeVNsQjRFLWdEY1F5UzJuczRNblVmV3hmYjVOZTVOVDFCUW1Cd3JyTjkxZTEweE5Ca2xDVkdoc2M0ZS1TRG9HbzhwMDhiRjUxeEZiTWVk?oc=5",
-      "publishedAt": "2026-11-27T18:43:19.000Z",
-      "severity": "info",
-      "titleZh": "在埃米莉·柯尼希 (Émilie König) 的审判中，专家质疑她目前与伊斯兰意识形态的关系",
-      "content": null
-    },
-    {
-      "title": "Thousands of girls and women report bleeding and miscarriages after French police use of teargas",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeDVtdFh3bl9lb1VXUWNVVDZHSFhiTjU3NDNmdG1kb0VuUjM3YVdNaGlKMmZSdlZRWUxjRXhhb2NDTnM3SzY3ZEVEZ1lpMi1FXzdPTzVaY2NWLWFOVEN4S3RsSVdJRlZKN29PX2NRc1pMT3p0eDFQbTFvc2RoM2ZkNU5iR21kc19iQTFFQ0JqMlpFZjJMXzFUTEl2SlpHTHpacXdkbVYwZDdEMy1KLWlkX0o0TTRhX3hqcFM2bElpczhrc3NPdkNvZHlac1B5M3FDODJualF2UDBGVDByeG5sdHB0ZFBOTmt0N1Bn?oc=5",
-      "publishedAt": "2026-11-27T18:11:00.000Z",
-      "severity": "info",
-      "titleZh": "法国警方使用催泪瓦斯后，数千名女孩和妇女报告流血和流产",
-      "content": null
-    },
-    {
-      "title": "RATP. Manifestation du samedi 28 novembre à Paris : deux stations de métro fermées par les autorités dès 12 heures",
-      "source": "Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTVRScThLRmZEM0RPTmZTck96XzZyc19rZzlUNml2UlQ3ZW9FNWNwYnpPeDhwQUhDc3dZLXNWX3JXNkZ6SU1wSDJXWnVsYlNtNTA0V0szUmhPQ0JhYVJIUkFLWklYV1p4VFBuWXJIN2lnYkRCY3dnWmpyZUxVX0hiSVBCZ0dydkVZYUZibElrNWhSckJEY01Uck9GQldPbVdGZmNDVFZPQ2F1MGpFM3dWN0h5eGt1c200U25mVWFhc01vZDFZc0FUcVdPUENycUY5YkJTZ0MxeXhlU3VQWVoxdlFCTHEzQUdCdzBNWWl2UnI?oc=5",
-      "publishedAt": "2026-11-27T18:06:02.000Z",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX0FuTHlVQXdiQjNkS3RSNFNLbzM4QnkzdzI1ZV95ejZHLWdfaW5KRFpoclJjQnBSSWFZV3N3UEc4cXhSQ1lJX3lRUlF5UHlnLXFuR0VMZkp2RVVRbzk5NE56cHpXUkt5enNTbGtXTnZidER0UjBEZWNUVDllZEVRc0paeWN4V1VFb0VLdzRGZFhhOXhiLUpFZVdYS2tfX0FRdjlrZF9abkh0UEVfY0NxN19XNGFOeC05c3NSVE91Q01DWWdwX1BJWDV1Ul9KdEVjX2JFddIB2gFBVV95cUxQVDRaeFVMUHg0bkRGODZNVW9ybjdDbFNCX0xvcWFlLU9FbGVHcFlvbmFvNzVsWFB5ajVTNEFLclMwYjAxOVpDSjE0Q1NhSS00ME5jNlBrNXBtTVVfN1JaSDBPQS1HQW1CWmswYWljdXc0RzVkNW5RdEM3cVVCUlFZMUF2elRQYjNJTWpUOUZ2WjFjNWFOYjlKVC14cDBxRXhyenRzcUNhTm9oZUNkX0I5SWV5U0RxbENFNmp6YVFWSGs5THE5SWQxcFpjNjZzblBnMVVkM0xqRVlWdw?oc=5",
+      "publishedAt": "2026-11-28T11:02:55.000Z",
       "severity": "medium",
-      "titleZh": "RATP。 11 月 28 日星期六，巴黎举行示威活动：当局从中午 12 点起关闭两个地铁站。",
+      "titleZh": "巴黎机场罢工通知：“罢工权不是绝对的”，一位审计员回忆道",
       "content": null
     },
     {
-      "title": "Who is Fleur Breteau, the campaigner fighting European pesticide restriction-easing bill Omnibus X?",
-      "source": "Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMW5yemxMMXduSnItcHY4OE5ITHFORmFIakFhSlAwM2xYRmdZT0hKZ2h1NzZYcmhEb1dxM3pVY1RyM0M5Y2hjQzU4dVRpSTRQQWJrWHpaVjc0OEZxbjdydkYwOU1ZQmxZeERsemVIaG5xU2l4VXdBbHdzdF9xRGFRa0xmMGlRNk1tNkZ3VVdSakEzcXBJWFJhRF9ocXg4RHU2YkhrdDByTzNQeC0ySlVVRm13SjdkRDA2OFhid0otZnBnUFh4OXBOYlNsMlVqWHIzTUpQMUVFT2JOR1VsRTEzNF9SclQtMFZ1Qml2RVg0VFI4M2pTY2l4S0NuY3k?oc=5",
-      "publishedAt": "2026-11-27T17:20:22.000Z",
-      "severity": "info",
-      "titleZh": "反对欧洲农药限制放宽法案 Omnibus X 的活动家 Fleur Breteau 是谁？",
-      "content": null
-    },
-    {
-      "title": "Cisjordanie: un ex-général israélien, allié surprenant des Palestiniens face aux violences",
-      "source": "Lepetitjournal.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNlJXTm5tUHkyaWtuWUlGQU9UWmFYRDZ0WXBtV2xGU1A5cVVFbzRLNkx2VGlyM3ZJdlFiZ29JV1lKRnEyMlBRMkNTWkdDYWttbERaY29TUlYtTG1CSWJnMnR2RUozQjh1cmI2UlBMLVNUY2M3dGthRjdkR08xMnNaUXRLUXJkbjh6Z3BvanFYR1NUQjNpRlI2VkcxWWtYdk1aRWdRbko4T1o5QTRrOGt5eGk4NmVxRzJjSkwwTTNSdVlNUmtNbDhUTl93?oc=5",
-      "publishedAt": "2026-11-27T16:38:28.000Z",
+      "title": "France holds nationwide protests against violence towards women",
+      "source": "France 24",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZlQ2d3dWNzBIcW1ycUl2YTl3SWxmMVc4U2tNVUJYZUdZS1A2ZERSRTR0aW9VR2pjejUtSURqbWlpWHVZTUd2dExnMXhJbVdUVXRrbkZzY0tTbU9ROHpZbnZqM1VVNkZtTF9PdEEzVWlyLWduTVZ4dklqXzlRcDEtSWdrMGVpVlJodHA3UkdyMFFsNVBHM1ljMi1GLV9jRWthNkFfQVBWUXN1ams?oc=5",
+      "publishedAt": "2026-11-28T10:59:52.000Z",
       "severity": "high",
-      "titleZh": "约旦河西岸：以色列前将军在暴力面前成为巴勒斯坦人的令人惊讶的盟友",
+      "titleZh": "法国举行全国抗议活动反对暴力侵害妇女行为",
       "content": null
     },
     {
-      "title": "CARTE. Marches contre les violences sexistes et sexuelles : où sont prévus les rassemblements ce samedi en France ?",
-      "source": "Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOdWhTWU5TVHA2X1VlbHZpcHF2bnNsbTBYYWF0SV9pblJBOXVUdDBTMVBDM05pSU1WV2gwdlpud00wLUFJTzRPUlRzc1dtbTg0aTlVZUxGMUxJZTRDLVVIYzRmbXVTM1I3Qk5pdGlIc3hvWk5vVERyTGFNclFXaGRmYWxYMXJHUGpScjFoanBWaXpZcU93cVlabFFQZXkwclhzdGFhM1dyVWtkVzFRaDh3ZTQ0NC1VeXFyMzAxVDk2UUMtMlV2c0xma0tjV3lWRW5ZNmhkamFPUWZqa2pmLVN3bTRpVy1uYmRKT0tBeDlLcmJzaUV3NE92SjVESnZkcTFRNnEtMGtoV3pCYzNrMEZTbzNQRldCLTQ0eGhCLVJ3?oc=5",
-      "publishedAt": "2026-11-27T16:38:20.000Z",
+      "title": "À Paris, les manifestations contre les violences faites aux femmes devraient rassembler environ 40 000 participants",
+      "source": "Mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2FLMEhaT1JNMVZGM2ZaU00zUUxzV1ZJWW4taEtrUTl4c1pZNnp1RWZscGxaVV9tWV9tLVBJRjNlVFhYZHloQTktN2RVaU1HZjZmZmZ2YjUxVy1yZi1oNG9VVkNMRjZfVWlKOElNd1BjUk5FMTBRbDF0ZV9FT3JFa3VXZFlmcnREZWZjekh1T0xjWlB3bTEzbFU1Zw?oc=5",
+      "publishedAt": "2026-11-28T10:41:09.000Z",
       "severity": "high",
-      "titleZh": "地图。反对性别歧视和性暴力的游行：本周六计划在法国哪里举行集会？",
+      "titleZh": "在巴黎，预计将有约 40,000 名参与者参加反对暴力侵害妇女行为的示威活动",
       "content": null
     },
     {
-      "title": "À Lillebonne, près de 130 salariés de Ponticelli en grève pour défendre leur prime",
-      "source": "Paris Normandie",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRkpvWnM5OVB6cE5tdkFKcmF6dVlmNmlVMGRYNVR6ZlhZRmdQdEs0dTlaa0hTN3h1N0NUeVA0MWJJNmhjemNka0NhRVFqRl9EbGdVWGNzTEZUeFhYejhXQkNZSkpZYUtIZktqMlIwbUtDblRUYkNMN2Nla0ZxZHZwY0VTTU9XUW5iYTVvdG5XcXZIWXRWc0VtN2pKY0pKWGlPaWxhOEh3aWt6RUNsWFBtOXJNYmhweWFhUFFLbHVCM05LS2NhenJkTlhnS2J1Ym11UDhDMg?oc=5",
-      "publishedAt": "2026-11-27T16:38:00.000Z",
+      "title": "France : la CGT dépose un préavis de grève de quatre jours à Aéroports de Paris du 17 au 20 décembre",
+      "source": "Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeDNSX0EtTXJ6MWVxQl82RHdqaVAwU0pKd1dkTHl6OGdJNV9mNGpRSHBwek91azJ2aUlYVUx6MXNzRUhKNmZSemUxOWFRRFN6RWQtZS02VzUzUWprRktENllwWjRQMnAxX05hMGVsSEw1azR4QnA4VTlpcjJKRGxRRkVUaGdaOHVINGxyNmVlZWR3Y1Y3X2tYTHZTYVRpeUwtcTdsbE1lMjc1ZmRCdGpWSTdTbTNUd1llVzJ6UDFnVXhxcVFzRFYzajJnVzk0clFzTUFubnBKdjVFdng5YVZURTVDWGEtbVZiSG93ZXFJWl9zS3U1T3NxbS05VTVoYUZqcWpReExn?oc=5",
+      "publishedAt": "2026-11-28T10:40:31.000Z",
       "severity": "medium",
-      "titleZh": "在 Lillebonne，近 130 名 Ponticelli 员工罢工以捍卫奖金",
-      "content": null
-    },
-    {
-      "title": "1er décembre : retrouvez les mobilisations près de chez vous !",
-      "source": "CGT État",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUtjY2pVdU1DazRuamwyend4dzhRel9RbVhPdTJkWmFMUDVabThCT21jZ0U2N0NnbmdObzRtUkNwTXZIZG5jQ280SGFUSzBfd3o1T09xV1ZZOC1CM0RrUnlBMkZ0d014QkJOdVVXLTBiNFgwU25yLUFVMW8zSVBEY3lXd0ZLMjdmTnVXOGo0MFB0S2JuakQwSVdkYUxfSnJLU241WW1McUc5ZXVnSDd6RjByUGZ0Zw?oc=5",
-      "publishedAt": "2026-11-27T16:34:20.000Z",
-      "severity": "info",
-      "titleZh": "12 月 1 日：查找您附近的动员活动！",
-      "content": null
-    },
-    {
-      "title": "Annulations à l’Opéra de Paris pour cause de grève",
-      "source": "ResMusica",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXRoeVVPQXZZazRYcG9tREhKRVhCeGs2bnI2cUE2X0N3dk5hQkI3V3RGUmtvRTRlYUxzZU9OTVNMM0sxbmM0QXV0YnpVb2hUS21QNV94R3Rqb2k2SUh6RUNKd1lfUGpnbUhCYnc5WkpISXRzUzdZdFpGSnRxQTB3V1BsbFo3dU16bjBJN3FNTzg?oc=5",
-      "publishedAt": "2026-11-27T16:26:30.000Z",
-      "severity": "medium",
-      "titleZh": "巴黎歌剧院因罢工而取消",
-      "content": null
-    },
-    {
-      "title": "Manifestation du 28 novembre à Paris contre les violences faites aux femmes : parcours, sécurité, stations de métro fermées... à quoi s’attendre ce samedi ?",
-      "source": "France 3 Régions",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZ2FYbmlCZDd6TmEwRUZSaUJJUExGaW1kLWpfMWMtOGVNMzg1QjZMcFExQ3QzWWlFd0NCbWFXOTFxZkRzaDNhRGFtLThMLXIzbmlMaExKVHBXVTR4dXpha0lDcHdxUnlVNmVmT1VVNzNhU1hBamdLbHdNdXRhTlhuZWhnOTJFa3lCUjhOSUhCM1BxTlVWNUdOZUtUbzNGMVh4SF8yTHBFbW5mb0YxZ0plLVJ6U3VqendsRWRHQTFJN0lucDFnZ1Z0bEJSbkZ6NEdfYTF5OEViZ3UzcUpQamk1QVc2SzdocE5iZFM5LXFoMG9DUnJCUXVIQmNCSkhvVVR6cFJyUzVYSW52YUJBakVCMlJIRXM0NmRHak14cHl1YXdLTjQz?oc=5",
-      "publishedAt": "2026-11-27T16:13:49.000Z",
-      "severity": "high",
-      "titleZh": "11 月 28 日在巴黎举行的反对暴力侵害妇女行为的示威活动：路线、安全、关闭的地铁站……本周六会发生什么？",
-      "content": null
-    },
-    {
-      "title": "« Ce choix est incompréhensible » : pourquoi deux cortèges défilent samedi à Paris contre les violences faites aux femmes",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNSEp3LVpmbXRpak96UGp6aF9BYXZzUEFIbWJmamhrWmJDSEtMQ2lvUDh2LVQyaC0yRkZST1B4WVdNVjE5eF95ZjVESFdmX2NFbUFfVTRScXRQS3pFVzlSbm1LcDJXNzlrWXVTc01mTXpyZGJaaUJhOXE1SHJ1OGZhTE9RQzZUWUxZazlHeDdCUGFHT1IzWUZQMkpzREl0bmU4OHc5d3NLTDMwMjI2dFlXX0ZBUWdvaWJsQWNvaGpJVHM3aExUNUVac3JGc3h1TWdVb3YzY0xQMVNnZnR6NU1va0swWW1jelVJd29Wcl9CZnhJVVlFZUZ5T2F2WmUtQzVIWkdQY3VUTFQwWnJzOFVyMUR4Q0FuSVlQRTUw?oc=5",
-      "publishedAt": "2026-11-27T15:40:14.000Z",
-      "severity": "high",
-      "titleZh": "“这个选择令人难以理解”：为什么周六巴黎有两场反对暴力侵害妇女行为的游行",
-      "content": null
-    },
-    {
-      "title": "Mobilisation féministe à Paris : le préfet écarte Némésis de la marche de #NousToutes",
-      "source": "L'Humanité",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMDE4VERLOUJLMGhTT3JoUVRxZTZic2VtMHpyMkU2M0NlY2JOYkpvbVR0eHdfckRyMGtmUnA1T3F2ZjJ1ejQ3bTQ4SUhZazZoUlpqdk9FSHA0YVZENDVYN1lJcEdHRGd5Ykc0b3ZDc1EwYUdQcWw3SC1GWmtKMGQ5U2o3eE9xa2ZDWTdDb0c0YktpNWZ5Ul81M3ZERjZOd29oZlFlalRFUmVpY1NqX05IMzd3NGtLZi1zUHF2WFZla3c4OU9RU0hV?oc=5",
-      "publishedAt": "2026-11-27T15:33:49.000Z",
-      "severity": "info",
-      "titleZh": "巴黎女权主义动员：省长将 Némésis 从 #NousToutes 游行中除名",
-      "content": null
-    },
-    {
-      "title": "Mobilisation sociale, manifestations contre la vie chère et les violences sexistes : à quoi faut-il s’attendre ce samedi 28 novembre",
-      "source": "Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOQTZRMkI5c2tKQWtvS1h0bmhQUkU3UEZEMlpCQ0ZGU2puNXhSaDVsWEd2eDdNQ2dJekJENjc1ZEFLbTBTTDJUM3hWX0FvRENteFhyZmRnLXcyd3ZlV3g5b094MUJkaWZ5eW5PQno4OEdwd3RORWNfd2E1eTRLUFF1eF94bUFDM2VfMFU0YWp1UnpoaVdCWkU1ZkxJTG94RGx6QnhaekV0RjFDVVhwRmRMNU5Ca0o2RWNLbG1uQTVXZkZEQ2JJTjNuNEpTTndDY28zMkU4cGdEdVlBOXU5czFsd2xlOEp5dHBsZ0U0X0dpeFBLNjJyMzgwQmM2amQwRnpIOXBCdGx4NDAyQVlEY3ltT0t2ci1FVXNHaHVueFBMT1Zybk1PVFZQSzJyQzFUZDkwcEkw?oc=5",
-      "publishedAt": "2026-11-27T15:00:00.000Z",
-      "severity": "high",
-      "titleZh": "社会动员、反对高生活成本和性别暴力的示威：11 月 28 日星期六将会发生什么",
+      "titleZh": "法国：CGT于12月17日至20日向巴黎机场发出为期四天的罢工通知",
       "content": null
     }
   ]
